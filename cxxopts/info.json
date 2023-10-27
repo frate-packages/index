@@ -1,1 +1,6 @@
-{"Name":"cxxopts","Homepage":"https://github.com/jarro2783/cxxopts"}
+{
+  "Name":"cxxopts",
+  "Homepage":"https://github.com/jarro2783/cxxopts",
+  "link":  "cxxopts",
+  "tag": "origin/master"
+}
