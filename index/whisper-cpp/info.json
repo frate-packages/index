@@ -1,1 +1,1 @@
-{"name":"whisper-cpp","git":"/center/recipes/whisper-cpp?version=1.4.2"}
+{"name":"whisper-cpp","git":"https://github.com/ggerganov/whisper.cpp"}

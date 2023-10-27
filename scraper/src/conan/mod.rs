@@ -1,5 +1,6 @@
 #![allow(unused)]
 use std::{
+    collections::HashMap,
     io::Result,
     sync::{Arc, Mutex},
     thread::{self, JoinHandle},
@@ -56,7 +57,7 @@ impl Conan {
             let t_array_clone = t_array.clone();
 
             // sleep for 50ms before spanning a new thread
-            thread::sleep(Duration::from_millis(50));
+            thread::sleep(Duration::from_millis(100));
 
             threads.push(thread::spawn(move || {
                 // selector link of package
@@ -93,7 +94,10 @@ impl Conan {
                     name,
                     href: link.unwrap().to_owned(),
                 };
-                scrape(&mut item);
+
+                let mut retry_couter: HashMap<String, usize> = HashMap::new();
+
+                scrape(&mut item, &mut retry_couter);
                 {
                     let mut lock = t_array_clone.lock().unwrap();
                     let item = Item {
@@ -124,7 +128,7 @@ impl Conan {
         Ok(data)
     }
 }
-fn scrape(item: &mut Item) {
+fn scrape(item: &mut Item, retry_couter: &mut HashMap<String, usize>) {
     //let mut Item = Item.clone();
 
     // get html from package page;
@@ -146,9 +150,17 @@ fn scrape(item: &mut Item) {
             }
         }
     } else {
-        // timeout for 50ms;
-        std::thread::sleep(Duration::from_millis(50));
-        // if the responce failes retry;
-        scrape(item);
+        println!("[!] Could not load page: {}, retry in 500ms", item.name);
+        if let Some(count) = retry_couter.get_mut(&item.name) {
+            if *count < 5 {
+                *count += 1;
+            } else {
+                return;
+            }
+        } else {
+            retry_couter.insert(item.name.to_string(), 1);
+        }
+        std::thread::sleep(Duration::from_millis(500));
+        scrape(item, retry_couter);
     }
 }

@@ -14,6 +14,10 @@ use serde::{Deserialize, Serialize};
 #[derive(Parser, Debug)]
 #[command(author = "Brainfart", version, about, long_about = None)]
 struct Args {
+    /// Output directory
+    #[arg(short, action)]
+    output_directory: String,
+
     /// Scrape Vcpkg
     #[arg(short, action)]
     vcpkg: bool,
@@ -54,9 +58,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("[#] Creating directories");
 
     for data in set.iter() {
-        if let Ok(_) = std::fs::create_dir_all(format!("../index/{}", data.name)) {
+        if let Ok(_) = std::fs::create_dir_all(format!("{}/{}", args.output_directory, data.name)) {
             println!("[#] Creating: {}", data.name);
-            let mut file = std::fs::File::create(format!("../index/{}/info.json", data.name))?;
+            let mut file = std::fs::File::create(format!(
+                "{}/{}/info.json",
+                args.output_directory, data.name
+            ))?;
             let string = serde_json::to_string(data)?;
             file.write_all(string.as_bytes());
         }
