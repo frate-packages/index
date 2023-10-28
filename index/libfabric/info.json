@@ -1,1 +1,1 @@
-{"name":"libfabric","git":"/center/recipes/libfabric?version=1.12.1"}
+{"name":"libfabric","git":"https://github.com/ofiwg/libfabric"}

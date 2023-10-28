@@ -1,14 +1,28 @@
 use crate::prelude::Package;
 use clap::{Args, Parser};
+use core::fmt;
 use reqwest::blocking::get;
-use serde::{Deserialize, Serialize};
+use serde::{
+    de::{Error, Visitor},
+    Deserialize, Deserializer, Serialize,
+};
 use std::io::Write;
+
+#[allow(non_snake_case)]
+#[derive(Serialize, Deserialize, Debug)]
+#[serde(untagged)]
+pub enum Descriptions {
+    Arr(Vec<String>),
+    Str(String),
+}
 
 #[derive(Serialize, Deserialize, Debug)]
 #[allow(non_snake_case)]
 pub struct Item {
     pub Name: String,
     pub Homepage: Option<String>,
+    //#[serde(skip)]
+    //pub Description: Descriptions,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -33,13 +47,6 @@ impl Vcpkg {
         //filename: Option<String>,
     ) -> Result<Vec<Package>, Box<dyn std::error::Error>> {
         //
-        // default sample.json filename
-        //let mut output_file_name = String::from("../index.json");
-
-        //// use defined ouput filename
-        //if let Some(out_name) = filename {
-        //    output_file_name = out_name
-        //}
 
         // Request json file
         println!("[#] Downloading output.json");
@@ -63,6 +70,10 @@ impl Vcpkg {
                     let package = Package {
                         name: item.Name,
                         git: item.Homepage,
+                        //description: match item.Description {
+                        //    Descriptions::Arr(v) => v,
+                        //    Descriptions::Str(v) => vec![v],
+                        //},
                     };
                     // push package to filtered stack
                     filtered.push(package);
@@ -70,31 +81,41 @@ impl Vcpkg {
             }
         }
 
-        //jump back a directory and create a folder with filtered Name and save a json with Name,
-        //and git link in the directory
-        //  for item in filtered.iter() {
-        //      let mut path = String::from("../");
-        //      path.push_str(&item.Name);
-        //      std::fs::create_dir_all(path.clone())?;
-        //      path.push_str("/info.json");
-        //      let mut file = std::fs::File::create(path)?;
-        //      let string = serde_json::to_string(item)?;
-        //      file.write_all(string.as_bytes())?;
-        //  }
-
-        //  // stringify json and write to file
-        //  println!("[#] Writing to file: {}", output_file_name);
-        //  if let Ok(string) = serde_json::to_string(&filtered) {
-        //      match std::fs::write(output_file_name, string) {
-        //          Ok(_) => {
-        //              println!("[#] File Succesfully written");
-        //          }
-        //          Err(e) => {
-        //              println!("[!] Could not write file for some reason.\n {}", e);
-        //          }
-        //      }
-        //  }
-
         Ok(filtered)
     }
 }
+
+//pub fn deserialize<'de, D>(deserializer: D) -> Result<Descriptions, D::Error>
+//where
+//    D: Deserializer<'de>,
+//{
+//    struct KeyVisitor;
+//
+//    impl<'de> Visitor<'de> for KeyVisitor {
+//        type Value = Descriptions;
+//
+//        fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
+//            formatter.write_str("a single string or an array of strings")
+//        }
+//
+//        fn visit_str<E>(self, value: &str) -> Result<Self::Value, E>
+//        where
+//            E: Error,
+//        {
+//            Ok(Descriptions::Str(value.to_owned()))
+//        }
+//
+//        fn visit_seq<A>(self, mut seq: A) -> Result<Self::Value, A::Error>
+//        where
+//            A: serde::de::SeqAccess<'de>,
+//        {
+//            let mut values = Vec::new();
+//            while let Some(value) = seq.next_element()? {
+//                values.push(value);
+//            }
+//            Ok(Descriptions::Arr(values))
+//        }
+//    }
+//
+//    deserializer.deserialize_any(KeyVisitor)
+//}

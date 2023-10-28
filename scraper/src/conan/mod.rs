@@ -21,6 +21,7 @@ const URL: &'static str = "https://conan.io/center/recipes";
 struct Item {
     name: String,
     href: String,
+    git: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -89,39 +90,39 @@ impl Conan {
                     .unwrap()
                     .to_owned();
 
-                // pack data into Package struct;
+                // create a item, store name, and redirect href, set git link to None
                 let mut item = Item {
                     name,
                     href: link.unwrap().to_owned(),
+                    git: None,
                 };
 
+                // create hasmap to store reties of different packages
                 let mut retry_couter: HashMap<String, usize> = HashMap::new();
 
+                // scrate the current item;
                 scrape(&mut item, &mut retry_couter);
                 {
                     let mut lock = t_array_clone.lock().unwrap();
-                    let item = Item {
-                        name: item.name,
-                        href: item.href,
-                    };
+                    // store the scraped item in a array;
                     lock.push(item);
                 }
             }));
         }
+
         // join all threads;
         for t in threads {
             t.join();
         }
 
         // transfere data from thread safe array to normal data structure
-        let lock = t_array.lock().unwrap().clone();
-
         // repack mutext into package;
+        let lock = t_array.lock().unwrap().clone();
         data = lock
             .into_iter()
             .map(|it| Package {
                 name: it.name,
-                git: Some(it.href),
+                git: it.git,
             })
             .collect::<Vec<Package>>();
 
@@ -129,37 +130,56 @@ impl Conan {
     }
 }
 fn scrape(item: &mut Item, retry_couter: &mut HashMap<String, usize>) {
-    //let mut Item = Item.clone();
-
     // get html from package page;
     if let Ok(html) = get(format!("https://conan.io{}", item.href)) {
         let html = html.text().unwrap();
-        let github_link_selector = Selector::parse("a").unwrap();
+
+        // get the package page;
         let doc = Html::parse_document(html.as_str());
 
-        // get the href of the github page;
-        // filter out only github and non conan links
-        for link in doc.select(&github_link_selector) {
-            if let Some(l) = link.value().attr("href") {
-                if l.contains("github") && !l.contains("conan") {
-                    item.href = l.to_owned();
+        // extract the inner container
+        // if the container does not exist we skip the item;
+        if let Some(container) = doc
+            .select(&Selector::parse("div.conancontainer.container > div.row ").unwrap())
+            .nth(0)
+        {
+            //  extract the sidebar;
+            let side_bar = container
+                .select(&Selector::parse("div").unwrap())
+                .nth(0)
+                .unwrap();
+
+            // extract the link div;
+            let link_div = side_bar
+                .select(&Selector::parse("div.row").unwrap())
+                .nth(3)
+                .unwrap();
+
+            // extract the actual link tag
+            // some packages do not have a github link. if not found it skips the item/package;
+            if let Some(link) = link_div.select(&Selector::parse("div > a").unwrap()).nth(1) {
+                // extract the actual href
+                if let Some(l) = link.value().attr("href") {
+                    // store found href into item.git;
+                    item.git = Some(l.to_owned());
                     println!("[#] Checking: {}", item.name);
-                } else {
                 }
-            } else {
-            }
-        }
+            };
+        };
     } else {
         println!("[!] Could not load page: {}, retry in 500ms", item.name);
+        // if not the first retry
         if let Some(count) = retry_couter.get_mut(&item.name) {
-            if *count < 5 {
+            if *count < 3 {
                 *count += 1;
             } else {
                 return;
             }
         } else {
+            // if its the first retry create element in retry hashmap
             retry_couter.insert(item.name.to_string(), 1);
         }
+        // sleep for 500ms before retry;
         std::thread::sleep(Duration::from_millis(500));
         scrape(item, retry_couter);
     }

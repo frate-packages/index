@@ -1,1 +1,1 @@
-{"name":"gfortran","git":"/center/recipes/gfortran?version=10.2"}
+{"name":"gfortran","git":"https://gcc.gnu.org/fortran"}

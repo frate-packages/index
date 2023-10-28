@@ -6,6 +6,7 @@ mod vcpkg;
 use std::{collections::HashSet, io::Write};
 
 use conan::Conan;
+use prelude::Package;
 use vcpkg::Vcpkg;
 
 use clap::Parser;
@@ -27,6 +28,10 @@ struct Args {
     conan: bool,
 }
 
+fn generate_json(data: &HashSet<Package>) {
+    let mut file = std::fs::write("../something.json", serde_json::to_string(&data).unwrap());
+}
+
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args = Args::parse();
 
@@ -39,6 +44,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut conan_data = Vec::new();
 
     if args.vcpkg {
+        println!("[#] Starting scrapper on vcpkg");
         vcpkg_data = vcpkg.scrape()?;
         for data in vcpkg_data {
             set.insert(data);
@@ -46,9 +52,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     }
 
     if args.conan {
+        println!("[#] Starting scrapper on conan");
         conan_data = conan.scrape()?;
         for data in conan_data {
-            set.insert(data);
+            if data.git.is_some() {
+                set.insert(data);
+            }
         }
     }
 
@@ -56,6 +65,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     // create it and add info.json with package data
 
     println!("[#] Creating directories");
+    generate_json(&set);
 
     for data in set.iter() {
         if let Ok(_) = std::fs::create_dir_all(format!("{}/{}", args.output_directory, data.name)) {
