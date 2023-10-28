@@ -131,18 +131,10 @@ func main(){
 
               packageIndex = append(packageIndex, packageInfo)
 
-              json, err := json.Marshal(packageInfo)
-
-              os.WriteFile(path, json, 0644);
-
-              if(err != nil){
-                fmt.Println(err)
-                return nil;
-              }
-
-              defer file.Close()
             }
           }
+        }else{
+          packageIndex = append(packageIndex, packageInfo)
         }
       }
     }
