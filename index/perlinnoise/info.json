@@ -1,1 +1,1 @@
-{"name":"perlinnoise","git":"https://github.com/Reputeless/PerlinNoise/","description":"Header-only Perlin noise library for modern C++ "}
+{"name":"perlinnoise","versions":["master","v3.0.0"],"git":"https://github.com/Reputeless/PerlinNoise/","description":"Header-only Perlin noise library for modern C++ "}

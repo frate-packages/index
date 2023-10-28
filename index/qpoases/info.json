@@ -1,1 +1,1 @@
-{"name":"qpoases","git":"https://github.com/coin-or/qpOASES","description":"Open-source C++ implementation of the recently proposed online active set strategy."}
+{"name":"qpoases","versions":["master"],"git":"https://github.com/coin-or/qpOASES","description":"Open-source C++ implementation of the recently proposed online active set strategy."}

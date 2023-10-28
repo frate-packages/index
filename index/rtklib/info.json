@@ -1,1 +1,1 @@
-{"name":"rtklib","git":"https://github.com/tomojitakasu/RTKLIB","description":"Library for standard and precise positioning with GNSS"}
+{"name":"rtklib","versions":["master"],"git":"https://github.com/tomojitakasu/RTKLIB","description":"Library for standard and precise positioning with GNSS"}

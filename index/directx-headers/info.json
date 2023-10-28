@@ -1,1 +1,1 @@
-{"name":"directx-headers","git":"https://github.com/microsoft/DirectX-Headers","description":"Headers for using D3D12"}
+{"name":"directx-headers","versions":["main","v1.0.1","v1.0.2","v1.4.10","v1.4.9","v1.600.10","v1.602.0","v1.606.3","v1.606.4","v1.608.0","v1.608.2","v1.610.0","v1.610.2"],"git":"https://github.com/microsoft/DirectX-Headers","description":"Headers for using D3D12"}

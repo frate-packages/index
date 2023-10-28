@@ -1,1 +1,1 @@
-{"name":"opusfile","git":"https://github.com/xiph/opusfile","description":"stand-alone decoder library for .opus streams"}
+{"name":"opusfile","versions":["master"],"git":"https://github.com/xiph/opusfile","description":"stand-alone decoder library for .opus streams"}

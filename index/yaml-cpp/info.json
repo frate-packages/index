@@ -1,1 +1,1 @@
-{"name":"yaml-cpp","git":"https://github.com/jbeder/yaml-cpp","description":"A YAML parser and emitter in C++"}
+{"name":"yaml-cpp","versions":["master","0.8.0"],"git":"https://github.com/jbeder/yaml-cpp","description":"A YAML parser and emitter in C++"}

@@ -1,1 +1,1 @@
-{"name":"7bitconf","git":"https://github.com/7bitCoder/7bitConf","description":"7bitConf is a simple C++17 centralized configuration provider library."}
+{"name":"7bitconf","versions":["main","v1.0.0","v1.1.0"],"git":"https://github.com/7bitCoder/7bitConf","description":"7bitConf is a simple C++17 centralized configuration provider library."}

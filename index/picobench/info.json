@@ -1,1 +1,1 @@
-{"name":"picobench","git":"https://github.com/iboB/picobench","description":"A micro microbenchmarking library for C++11 in a single header file"}
+{"name":"picobench","versions":["master"],"git":"https://github.com/iboB/picobench","description":"A micro microbenchmarking library for C++11 in a single header file"}

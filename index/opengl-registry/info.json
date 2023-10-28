@@ -1,1 +1,1 @@
-{"name":"opengl-registry","git":"https://github.com/KhronosGroup/OpenGL-Registry","description":"OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry."}
+{"name":"opengl-registry","versions":["main"],"git":"https://github.com/KhronosGroup/OpenGL-Registry","description":"OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry."}

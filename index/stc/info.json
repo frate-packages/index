@@ -1,1 +1,1 @@
-{"name":"stc","git":"https://github.com/tylov/STC","description":"A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers."}
+{"name":"stc","versions":["master","v3.5.1","v4.1.1"],"git":"https://github.com/tylov/STC","description":"A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers."}

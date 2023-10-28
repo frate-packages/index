@@ -1,1 +1,1 @@
-{"name":"libschrift","git":"https://github.com/tomolt/libschrift","description":"A lightweight TrueType font rendering library "}
+{"name":"libschrift","versions":["master","v0.10.1","v0.10.2"],"git":"https://github.com/tomolt/libschrift","description":"A lightweight TrueType font rendering library "}

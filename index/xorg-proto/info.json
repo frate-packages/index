@@ -1,1 +1,1 @@
-{"name":"xorg-proto","git":"https://gitlab.freedesktop.org/xorg/proto/xorgproto","description":"This package provides the headers and specification documents defining the core protocol and (many) extensions for the X Window System."}
+{"name":"xorg-proto","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/proto/xorgproto","description":"This package provides the headers and specification documents defining the core protocol and (many) extensions for the X Window System."}

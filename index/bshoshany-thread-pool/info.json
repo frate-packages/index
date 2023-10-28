@@ -1,1 +1,1 @@
-{"name":"bshoshany-thread-pool","git":"https://github.com/bshoshany/thread-pool","description":"BS::thread_pool: a fast, lightweight, and easy-to-use C++17 thread pool library"}
+{"name":"bshoshany-thread-pool","versions":["master","v2.0.0","v3.0.0","v3.1.0","v3.2.0","v3.3.0","v3.4.0","v3.5.0"],"git":"https://github.com/bshoshany/thread-pool","description":"BS::thread_pool: a fast, lightweight, and easy-to-use C++17 thread pool library"}

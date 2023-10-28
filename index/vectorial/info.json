@@ -1,1 +1,1 @@
-{"name":"vectorial","git":"https://github.com/scoopr/vectorial","description":"Vector math library with NEON/SSE support"}
+{"name":"vectorial","versions":["master"],"git":"https://github.com/scoopr/vectorial","description":"Vector math library with NEON/SSE support"}

@@ -1,1 +1,1 @@
-{"name":"flex","git":"https://github.com/westes/flex","description":"Flex, the fast lexical analyzer generator"}
+{"name":"flex","versions":["master","v2.6.0","v2.6.1","v2.6.2","v2.6.3","v2.6.4"],"git":"https://github.com/westes/flex","description":"Flex, the fast lexical analyzer generator"}

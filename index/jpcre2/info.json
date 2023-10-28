@@ -1,1 +1,1 @@
-{"name":"jpcre2","git":"https://github.com/jpcre2/jpcre2","description":"Header-only C++ wrapper for PCRE2 library."}
+{"name":"jpcre2","versions":["10.28.06","10.28.07","10.28.08","10.28.09","10.28.10","10.28.11","10.28.12","10.29.01","10.29.02","10.29.03","10.30.01","10.30.02","10.31.01","10.31.02","10.31.03","10.31.04","10.32.01","master","10.28.06","10.28.07","10.28.08","10.29.02","10.30.01","10.30.02","10.31.01","10.31.02","10.31.03","10.31.04","10.32.01"],"git":"https://github.com/jpcre2/jpcre2","description":"Header-only C++ wrapper for PCRE2 library."}

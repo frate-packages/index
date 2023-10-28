@@ -1,1 +1,1 @@
-{"name":"cubicinterpolation","git":"https://github.com/MaxSac/cubic_interpolation","description":"Leightweight interpolation library based on boost and eigen."}
+{"name":"cubicinterpolation","versions":["main","v0.1.1","v0.1.2","v0.1.3","v0.1.4","v0.1.5"],"git":"https://github.com/MaxSac/cubic_interpolation","description":"Leightweight interpolation library based on boost and eigen."}

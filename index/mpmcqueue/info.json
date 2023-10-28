@@ -1,1 +1,1 @@
-{"name":"mpmcqueue","git":"https://github.com/rigtorp/MPMCQueue","description":"A bounded multi-producer multi-consumer concurrent queue written in C++11."}
+{"name":"mpmcqueue","versions":["master"],"git":"https://github.com/rigtorp/MPMCQueue","description":"A bounded multi-producer multi-consumer concurrent queue written in C++11."}

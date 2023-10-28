@@ -1,1 +1,1 @@
-{"name":"spirv-tools","git":"https://github.com/KhronosGroup/SPIRV-Tools/","description":"Create and optimize SPIRV shaders"}
+{"name":"spirv-tools","versions":["main","stable"],"git":"https://github.com/KhronosGroup/SPIRV-Tools/","description":"Create and optimize SPIRV shaders"}

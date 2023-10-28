@@ -1,1 +1,1 @@
-{"name":"dragonbox","git":"https://github.com/jk-jeon/dragonbox","description":"Reference implementation of Dragonbox in C++"}
+{"name":"dragonbox","versions":["master","1.0.0","1.0.1","1.1.0","1.1.1","1.1.2","1.1.3"],"git":"https://github.com/jk-jeon/dragonbox","description":"Reference implementation of Dragonbox in C++"}

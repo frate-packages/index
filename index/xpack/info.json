@@ -1,1 +1,1 @@
-{"name":"xpack","git":"https://github.com/xyz347/xpack","description":"C++ reflection, ability to convert between C++ structures and json/xml."}
+{"name":"xpack","versions":["master","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5"],"git":"https://github.com/xyz347/xpack","description":"C++ reflection, ability to convert between C++ structures and json/xml."}

@@ -1,1 +1,1 @@
-{"name":"cuda-samples","git":"https://github.com/NVIDIA/cuda-samples","description":"Common headers from NVIDIA CUDA Samples - samples for CUDA developers which demonstrate features in CUDA Toolkit"}
+{"name":"cuda-samples","versions":["master","10.1.1","10.1.2","v10.0.1","v11.4.1"],"git":"https://github.com/NVIDIA/cuda-samples","description":"Common headers from NVIDIA CUDA Samples - samples for CUDA developers which demonstrate features in CUDA Toolkit"}

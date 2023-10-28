@@ -1,1 +1,1 @@
-{"name":"spirv-cross","git":"https://github.com/KhronosGroup/SPIRV-Cross","description":"SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages."}
+{"name":"spirv-cross","versions":["main"],"git":"https://github.com/KhronosGroup/SPIRV-Cross","description":"SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages."}

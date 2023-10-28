@@ -1,1 +1,1 @@
-{"name":"protopuf","git":"https://github.com/PragmaTwice/protopuf","description":"Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20"}
+{"name":"protopuf","versions":["master","v1.0.0","v1.0.1","v2.0.0","v2.0.1","v2.1.0","v2.2.0","v2.2.1"],"git":"https://github.com/PragmaTwice/protopuf","description":"Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20"}

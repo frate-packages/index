@@ -1,1 +1,1 @@
-{"name":"im95able-rea","git":"https://github.com/im95able/Rea/","description":"Lightweight library of data structures implemented in C++11, designed for constant time insertion, erasure, lookup, and fastest possible iteration."}
+{"name":"im95able-rea","versions":["master"],"git":"https://github.com/im95able/Rea/","description":"Lightweight library of data structures implemented in C++11, designed for constant time insertion, erasure, lookup, and fastest possible iteration."}

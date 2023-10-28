@@ -1,1 +1,1 @@
-{"name":"lz4","git":"https://github.com/lz4/lz4","description":"Extremely Fast Compression algorithm"}
+{"name":"lz4","versions":["v1.7.3","v1.7.4","v1.7.5","v1.8.0","v1.8.1","v1.8.2","v1.8.3","v1.9.0","v1.9.1","v1.9.2","v1.9.3","v1.9.4"],"git":"https://github.com/lz4/lz4","description":"Extremely Fast Compression algorithm"}

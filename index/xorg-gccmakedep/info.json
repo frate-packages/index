@@ -1,1 +1,1 @@
-{"name":"xorg-gccmakedep","git":"https://gitlab.freedesktop.org/xorg/util/gccmakedep","description":"script to create dependencies in makefiles using 'gcc -M'"}
+{"name":"xorg-gccmakedep","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/util/gccmakedep","description":"script to create dependencies in makefiles using 'gcc -M'"}

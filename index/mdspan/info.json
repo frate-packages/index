@@ -1,1 +1,1 @@
-{"name":"mdspan","git":"https://github.com/kokkos/mdspan","description":"Production-quality reference implementation of mdspan"}
+{"name":"mdspan","versions":["stable"],"git":"https://github.com/kokkos/mdspan","description":"Production-quality reference implementation of mdspan"}

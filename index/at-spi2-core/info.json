@@ -1,1 +1,1 @@
-{"name":"at-spi2-core","git":"https://gitlab.gnome.org/GNOME/at-spi2-core/","description":"It provides a Service Provider Interface for the Assistive Technologies available on the GNOME platform and a library against which applications can be linked"}
+{"name":"at-spi2-core","versions":["main"],"git":"https://gitlab.gnome.org/GNOME/at-spi2-core/","description":"It provides a Service Provider Interface for the Assistive Technologies available on the GNOME platform and a library against which applications can be linked"}

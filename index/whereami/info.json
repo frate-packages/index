@@ -1,1 +1,1 @@
-{"name":"whereami","git":"https://github.com/gpakosz/whereami","description":"Locate the current executable and the current module/library on the file system"}
+{"name":"whereami","versions":["master"],"git":"https://github.com/gpakosz/whereami","description":"Locate the current executable and the current module/library on the file system"}

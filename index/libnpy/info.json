@@ -1,1 +1,1 @@
-{"name":"libnpy","git":"https://github.com/llohse/libnpy","description":"C++ library for reading and writing of numpy's .npy files"}
+{"name":"libnpy","versions":["master","v0.1.0","v1.0.1"],"git":"https://github.com/llohse/libnpy","description":"C++ library for reading and writing of numpy's .npy files"}

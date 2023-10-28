@@ -1,1 +1,1 @@
-{"name":"date","git":"https://github.com/HowardHinnant/date","description":"A date and time library based on the C++11/14/17 &lt;chrono&gt; header"}
+{"name":"date","versions":["master","2.1.0","v1.0.0","v2.0.0","v2.4.1","v3.0.0","v3.0.1"],"git":"https://github.com/HowardHinnant/date","description":"A date and time library based on the C++11/14/17 \u0026lt;chrono\u0026gt; header"}

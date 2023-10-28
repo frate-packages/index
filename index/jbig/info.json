@@ -1,1 +1,1 @@
-{"name":"jbig","git":"https://github.com/ImageMagick/jbig","description":"jbig for the Windows build of ImageMagick"}
+{"name":"jbig","versions":["main"],"git":"https://github.com/ImageMagick/jbig","description":"jbig for the Windows build of ImageMagick"}

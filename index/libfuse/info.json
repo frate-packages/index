@@ -1,1 +1,1 @@
-{"name":"libfuse","git":"https://github.com/libfuse/libfuse","description":"The reference implementation of the Linux FUSE interface"}
+{"name":"libfuse","versions":["master"],"git":"https://github.com/libfuse/libfuse","description":"The reference implementation of the Linux FUSE interface"}

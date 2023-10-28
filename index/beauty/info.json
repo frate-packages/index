@@ -1,1 +1,1 @@
-{"name":"beauty","git":"https://github.com/dfleury2/beauty","description":"HTTP Server above Boost.Beast"}
+{"name":"beauty","versions":["master","1.0.0","1.0.1","1.0.2"],"git":"https://github.com/dfleury2/beauty","description":"HTTP Server above Boost.Beast"}

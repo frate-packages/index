@@ -1,1 +1,1 @@
-{"name":"mdns","git":"https://github.com/mjansson/mdns","description":"Public domain mDNS/DNS-SD library in C"}
+{"name":"mdns","versions":["main","1.4.1","1.4.2","1.4.3"],"git":"https://github.com/mjansson/mdns","description":"Public domain mDNS/DNS-SD library in C"}

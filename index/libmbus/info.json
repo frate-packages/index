@@ -1,1 +1,1 @@
-{"name":"libmbus","git":"https://github.com/rscada/libmbus","description":"Meter-bus library and utility programs"}
+{"name":"libmbus","versions":["master","0.8.0","0.9.0"],"git":"https://github.com/rscada/libmbus","description":"Meter-bus library and utility programs"}

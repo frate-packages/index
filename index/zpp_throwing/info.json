@@ -1,1 +1,1 @@
-{"name":"zpp_throwing","git":"https://github.com/eyalz800/zpp_throwing","description":"Using coroutines to implement C++ exceptions for freestanding environments"}
+{"name":"zpp_throwing","versions":["main","v1.0.1"],"git":"https://github.com/eyalz800/zpp_throwing","description":"Using coroutines to implement C++ exceptions for freestanding environments"}

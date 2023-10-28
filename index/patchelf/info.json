@@ -1,1 +1,1 @@
-{"name":"patchelf","git":"https://github.com/NixOS/patchelf","description":"A small utility to modify the dynamic linker and RPATH of ELF executables"}
+{"name":"patchelf","versions":["master","0.13.1","0.14.1","0.14.2","0.14.3","0.14.4","0.14.5","0.15.0","0.16.0","0.16.1","0.17.0","0.17.1","0.17.2","0.18.0"],"git":"https://github.com/NixOS/patchelf","description":"A small utility to modify the dynamic linker and RPATH of ELF executables"}

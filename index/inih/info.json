@@ -1,1 +1,1 @@
-{"name":"inih","git":"https://github.com/benhoyt/inih","description":"Simple .INI file parser in C, good for embedded systems "}
+{"name":"inih","versions":["master"],"git":"https://github.com/benhoyt/inih","description":"Simple .INI file parser in C, good for embedded systems "}

@@ -1,1 +1,1 @@
-{"name":"libcorrect","git":"https://github.com/quiet/libcorrect","description":"C library for Convolutional codes and Reed-Solomon"}
+{"name":"libcorrect","versions":["master"],"git":"https://github.com/quiet/libcorrect","description":"C library for Convolutional codes and Reed-Solomon"}

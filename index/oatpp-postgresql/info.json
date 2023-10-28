@@ -1,1 +1,1 @@
-{"name":"oatpp-postgresql","git":"https://github.com/oatpp/oatpp-postgresql","description":"oat++ PostgreSQL library"}
+{"name":"oatpp-postgresql","versions":["master","1.2.0","1.2.5","1.3.0"],"git":"https://github.com/oatpp/oatpp-postgresql","description":"oat++ PostgreSQL library"}

@@ -1,1 +1,1 @@
-{"name":"mbits-semver","git":"https://github.com/mbits-libs/semver","description":"Semantic Version type for C++17"}
+{"name":"mbits-semver","versions":["master","v0.1.0","v0.1.1"],"git":"https://github.com/mbits-libs/semver","description":"Semantic Version type for C++17"}

@@ -1,1 +1,1 @@
-{"name":"pdfgen","git":"https://github.com/AndreRenaud/PDFGen","description":"Simple C PDF Writer/Generation library"}
+{"name":"pdfgen","versions":["master","0.1.0"],"git":"https://github.com/AndreRenaud/PDFGen","description":"Simple C PDF Writer/Generation library"}

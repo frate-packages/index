@@ -1,1 +1,1 @@
-{"name":"sqlpp11","git":"https://github.com/rbock/sqlpp11","description":"A type safe SQL template library for C++"}
+{"name":"sqlpp11","versions":["main"],"git":"https://github.com/rbock/sqlpp11","description":"A type safe SQL template library for C++"}

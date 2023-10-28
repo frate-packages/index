@@ -1,1 +1,1 @@
-{"name":"canary","git":"https://github.com/djarek/canary","description":"A lightweight implementation of Linux SocketCAN bindings for ASIO/Boost.ASIO"}
+{"name":"canary","versions":["master","v1.1.0"],"git":"https://github.com/djarek/canary","description":"A lightweight implementation of Linux SocketCAN bindings for ASIO/Boost.ASIO"}

@@ -1,1 +1,1 @@
-{"name":"fast_double_parser","git":"https://github.com/lemire/fast_double_parser","description":"Fast function to parse strings into double (binary64) floating-point values, enforces the RFC 7159 (JSON standard) grammar: 4x faster than strtod"}
+{"name":"fast_double_parser","versions":["master","v0.1.0","v0.2.0","v0.3.0","v0.4.0","v0.5.0","v0.6.0","v0.7.0"],"git":"https://github.com/lemire/fast_double_parser","description":"Fast function to parse strings into double (binary64) floating-point values, enforces the RFC 7159 (JSON standard) grammar: 4x faster than strtod"}

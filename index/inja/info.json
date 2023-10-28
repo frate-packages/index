@@ -1,1 +1,1 @@
-{"name":"inja","git":"https://github.com/pantor/inja","description":"Inja is a template engine for modern C++, loosely inspired by jinja for python"}
+{"name":"inja","versions":["master","v0.1.0","v0.1.1","v1.0.0","v2.0.0","v2.0.1","v2.1.0","v2.2.0","v3.0.0","v3.1.0","v3.2.0","v3.3.0","v3.4.0"],"git":"https://github.com/pantor/inja","description":"Inja is a template engine for modern C++, loosely inspired by jinja for python"}

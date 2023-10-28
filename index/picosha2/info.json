@@ -1,1 +1,1 @@
-{"name":"picosha2","git":"https://github.com/okdshin/PicoSHA2","description":"a header-file-only, SHA256 hash generator in C++ "}
+{"name":"picosha2","versions":["master","v1.0.0"],"git":"https://github.com/okdshin/PicoSHA2","description":"a header-file-only, SHA256 hash generator in C++ "}

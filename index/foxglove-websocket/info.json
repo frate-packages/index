@@ -1,1 +1,1 @@
-{"name":"foxglove-websocket","git":"https://github.com/foxglove/ws-protocol","description":"A C++ server implementation of the Foxglove WebSocket Protocol"}
+{"name":"foxglove-websocket","versions":["main","v0.0.1","v0.0.2"],"git":"https://github.com/foxglove/ws-protocol","description":"A C++ server implementation of the Foxglove WebSocket Protocol"}

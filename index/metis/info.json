@@ -1,1 +1,1 @@
-{"name":"metis","git":"https://github.com/KarypisLab/METIS","description":"Set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices"}
+{"name":"metis","versions":["master","v5.2.1"],"git":"https://github.com/KarypisLab/METIS","description":"Set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices"}

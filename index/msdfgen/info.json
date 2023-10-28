@@ -1,1 +1,1 @@
-{"name":"msdfgen","git":"https://github.com/Chlumsky/msdfgen","description":"Multi-channel signed distance field generator"}
+{"name":"msdfgen","versions":["master","v1.7.1","v1.9.1","v1.9.2"],"git":"https://github.com/Chlumsky/msdfgen","description":"Multi-channel signed distance field generator"}

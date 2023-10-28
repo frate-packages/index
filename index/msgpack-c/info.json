@@ -1,1 +1,1 @@
-{"name":"msgpack-c","git":"https://github.com/msgpack/msgpack-c","description":"MessagePack implementation for C"}
+{"name":"msgpack-c","versions":["master","0.3.0","0.3.1","0.3.2","0.3.3","2.1.4"],"git":"https://github.com/msgpack/msgpack-c","description":"MessagePack implementation for C"}

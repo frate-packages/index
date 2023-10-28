@@ -1,1 +1,1 @@
-{"name":"microtar","git":"https://github.com/rxi/microtar","description":"A lightweight tar library written in ANSI C"}
+{"name":"microtar","versions":["master","v0.1.0"],"git":"https://github.com/rxi/microtar","description":"A lightweight tar library written in ANSI C"}

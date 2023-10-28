@@ -1,1 +1,1 @@
-{"name":"univalue","git":"https://github.com/jgarzik/univalue","description":"High performance RAII C++ JSON library and universal value object class"}
+{"name":"univalue","versions":["master","v0.0.1","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5","v1.1.1"],"git":"https://github.com/jgarzik/univalue","description":"High performance RAII C++ JSON library and universal value object class"}

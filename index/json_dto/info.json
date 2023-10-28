@@ -1,1 +1,1 @@
-{"name":"json_dto","git":"https://github.com/Stiffstream/json_dto","description":"A small header-only helper for converting data between json representation and c++ structs"}
+{"name":"json_dto","versions":["master"],"git":"https://github.com/Stiffstream/json_dto","description":"A small header-only helper for converting data between json representation and c++ structs"}

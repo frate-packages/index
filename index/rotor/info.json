@@ -1,1 +1,1 @@
-{"name":"rotor","git":"https://github.com/basiliscos/cpp-rotor","description":"Event loop friendly C++ actor micro-framework, supervisable"}
+{"name":"rotor","versions":["master"],"git":"https://github.com/basiliscos/cpp-rotor","description":"Event loop friendly C++ actor micro-framework, supervisable"}

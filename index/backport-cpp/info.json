@@ -1,1 +1,1 @@
-{"name":"backport-cpp","git":"https://github.com/bitwizeshift/BackportCpp","description":"An ongoing effort to bring modern C++ utilities to be compatible with C++11"}
+{"name":"backport-cpp","versions":["master","v0.0.1","v0.1.0","v0.1.1","v0.2.0","v1.0.0","v1.0.1","v1.1.0","v1.2.0"],"git":"https://github.com/bitwizeshift/BackportCpp","description":"An ongoing effort to bring modern C++ utilities to be compatible with C++11"}

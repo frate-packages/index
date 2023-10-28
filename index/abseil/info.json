@@ -1,1 +1,1 @@
-{"name":"abseil","git":"https://github.com/abseil/abseil-cpp","description":"Abseil Common Libraries (C++) from Google"}
+{"name":"abseil","versions":["master"],"git":"https://github.com/abseil/abseil-cpp","description":"Abseil Common Libraries (C++) from Google"}

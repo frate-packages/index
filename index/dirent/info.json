@@ -1,1 +1,1 @@
-{"name":"dirent","git":"https://github.com/tronkko/dirent","description":"Dirent is a C/C++ programming interface that allows programmers to retrieve information about files and directories under Linux/UNIX"}
+{"name":"dirent","versions":["master","1.23.1","1.23.2"],"git":"https://github.com/tronkko/dirent","description":"Dirent is a C/C++ programming interface that allows programmers to retrieve information about files and directories under Linux/UNIX"}

@@ -1,1 +1,1 @@
-{"name":"libenvpp","git":"https://github.com/ph3at/libenvpp","description":"A modern C++ library for type-safe environment variable parsing"}
+{"name":"libenvpp","versions":["main","v1.0.0","v1.1.0","v1.2.0","v1.3.0"],"git":"https://github.com/ph3at/libenvpp","description":"A modern C++ library for type-safe environment variable parsing"}

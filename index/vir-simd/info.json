@@ -1,1 +1,1 @@
-{"name":"vir-simd","git":"https://github.com/mattkretz/vir-simd","description":"A fallback std::experimental::simd (Parallelism TS 2) implementation with additional features"}
+{"name":"vir-simd","versions":["master","v0.1.0","v0.2.0"],"git":"https://github.com/mattkretz/vir-simd","description":"A fallback std::experimental::simd (Parallelism TS 2) implementation with additional features"}

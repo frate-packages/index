@@ -1,1 +1,1 @@
-{"name":"libqrencode","git":"https://github.com/fukuchi/libqrencode","description":"A fast and compact QR Code encoding library"}
+{"name":"libqrencode","versions":["master","v3.2.0","v3.2.1","v3.3.0","v3.3.1","v3.4.0","v3.4.1","v3.4.2","v3.4.3","v3.4.4","v4.0.0","v4.0.1","v4.0.2","v4.1.0","v4.1.1"],"git":"https://github.com/fukuchi/libqrencode","description":"A fast and compact QR Code encoding library"}

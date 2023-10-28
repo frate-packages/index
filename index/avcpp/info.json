@@ -1,1 +1,1 @@
-{"name":"avcpp","git":"https://github.com/h4tr3d/avcpp/","description":"C++ wrapper for FFmpeg"}
+{"name":"avcpp","versions":["master","v2.1.0","v2.2.0","v2.2.1"],"git":"https://github.com/h4tr3d/avcpp/","description":"C++ wrapper for FFmpeg"}

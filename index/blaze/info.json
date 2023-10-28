@@ -1,1 +1,1 @@
-{"name":"blaze","git":"https://bitbucket.org/blaze-lib/blaze","description":"open-source, high-performance C++ math library for dense and sparse arithmetic"}
+{"name":"blaze","versions":["master","v3.8.1","v3.8.2"],"git":"https://bitbucket.org/blaze-lib/blaze","description":"open-source, high-performance C++ math library for dense and sparse arithmetic"}

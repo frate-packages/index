@@ -1,1 +1,1 @@
-{"name":"libassert","git":"https://github.com/jeremy-rifkin/libassert","description":"The most over-engineered and overpowered C++ assertion library."}
+{"name":"libassert","versions":["main","v1.2.1"],"git":"https://github.com/jeremy-rifkin/libassert","description":"The most over-engineered and overpowered C++ assertion library."}

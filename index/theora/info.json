@@ -1,1 +1,1 @@
-{"name":"theora","git":"https://github.com/xiph/theora","description":"Theora is a free and open video compression format from the Xiph.org Foundation"}
+{"name":"theora","versions":["master","v1.1.0","v1.1.1"],"git":"https://github.com/xiph/theora","description":"Theora is a free and open video compression format from the Xiph.org Foundation"}

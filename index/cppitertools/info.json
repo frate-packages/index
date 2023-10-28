@@ -1,1 +1,1 @@
-{"name":"cppitertools","git":"https://github.com/ryanhaining/cppitertools","description":"Implementation of python itertools and builtin iteration functions for C++17"}
+{"name":"cppitertools","versions":["master","v0.2.1"],"git":"https://github.com/ryanhaining/cppitertools","description":"Implementation of python itertools and builtin iteration functions for C++17"}

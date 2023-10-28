@@ -1,1 +1,1 @@
-{"name":"libdeflate","git":"https://github.com/ebiggers/libdeflate","description":"Heavily optimized library for DEFLATE/zlib/gzip compression and decompression."}
+{"name":"libdeflate","versions":["master"],"git":"https://github.com/ebiggers/libdeflate","description":"Heavily optimized library for DEFLATE/zlib/gzip compression and decompression."}

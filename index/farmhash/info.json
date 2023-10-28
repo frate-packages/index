@@ -1,1 +1,1 @@
-{"name":"farmhash","git":"https://github.com/google/farmhash","description":"A family of hash functions"}
+{"name":"farmhash","versions":["master"],"git":"https://github.com/google/farmhash","description":"A family of hash functions"}

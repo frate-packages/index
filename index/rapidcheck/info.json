@@ -1,1 +1,1 @@
-{"name":"rapidcheck","git":"https://github.com/emil-e/rapidcheck","description":"QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible"}
+{"name":"rapidcheck","versions":["master"],"git":"https://github.com/emil-e/rapidcheck","description":"QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible"}

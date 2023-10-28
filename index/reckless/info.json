@@ -1,1 +1,1 @@
-{"name":"reckless","git":"https://github.com/mattiasflodin/reckless","description":"Reckless is an extremely low-latency, high-throughput logging library."}
+{"name":"reckless","versions":["master","v1.0.0","v2.0.0","v2.1.0","v2.2.0","v2.2.1","v3.0.0","v3.0.1","v3.0.2","v3.0.3"],"git":"https://github.com/mattiasflodin/reckless","description":"Reckless is an extremely low-latency, high-throughput logging library."}

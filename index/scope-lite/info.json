@@ -1,1 +1,1 @@
-{"name":"scope-lite","git":"https://github.com/martinmoene/scope-lite","description":"scope lite - A migration path to C++ library extensions scope_exit, scope_fail,                     scope_success, unique_resource in a single-file header-only library"}
+{"name":"scope-lite","versions":["master","v0.1.0","v0.2.0"],"git":"https://github.com/martinmoene/scope-lite","description":"scope lite - A migration path to C++ library extensions scope_exit, scope_fail,                     scope_success, unique_resource in a single-file header-only library"}

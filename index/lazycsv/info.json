@@ -1,1 +1,1 @@
-{"name":"lazycsv","git":"https://github.com/ashtum/lazycsv","description":"A fast, lightweight and single-header C++ csv parser library"}
+{"name":"lazycsv","versions":["master"],"git":"https://github.com/ashtum/lazycsv","description":"A fast, lightweight and single-header C++ csv parser library"}

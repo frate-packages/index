@@ -1,1 +1,1 @@
-{"name":"visit_struct","git":"https://github.com/cbeck88/visit_struct","description":"A miniature library for struct-field reflection in C++"}
+{"name":"visit_struct","versions":["master","v1.1.0"],"git":"https://github.com/cbeck88/visit_struct","description":"A miniature library for struct-field reflection in C++"}

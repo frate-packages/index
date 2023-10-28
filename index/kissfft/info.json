@@ -1,1 +1,1 @@
-{"name":"kissfft","git":"https://github.com/mborgerding/kissfft","description":"a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid"}
+{"name":"kissfft","versions":["master","131.1.0"],"git":"https://github.com/mborgerding/kissfft","description":"a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid"}

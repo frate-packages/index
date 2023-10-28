@@ -1,1 +1,1 @@
-{"name":"boostdep","git":"https://github.com/boostorg/boostdep","description":"A tool to create Boost module dependency reports"}
+{"name":"boostdep","versions":["master"],"git":"https://github.com/boostorg/boostdep","description":"A tool to create Boost module dependency reports"}

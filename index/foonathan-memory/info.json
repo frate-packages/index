@@ -1,1 +1,1 @@
-{"name":"foonathan-memory","git":"https://github.com/foonathan/memory","description":"STL compatible C++ memory allocator library"}
+{"name":"foonathan-memory","versions":["main"],"git":"https://github.com/foonathan/memory","description":"STL compatible C++ memory allocator library"}

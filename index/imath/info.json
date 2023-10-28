@@ -1,1 +1,1 @@
-{"name":"imath","git":"https://github.com/AcademySoftwareFoundation/Imath","description":"Imath is a C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics."}
+{"name":"imath","versions":["main","v3.0.1","v3.0.2","v3.0.3","v3.0.4","v3.0.5","v3.1.0","v3.1.1","v3.1.2","v3.1.3","v3.1.4","v3.1.5","v3.1.6","v3.1.7","v3.1.8","v3.1.9"],"git":"https://github.com/AcademySoftwareFoundation/Imath","description":"Imath is a C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics."}

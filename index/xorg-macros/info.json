@@ -1,1 +1,1 @@
-{"name":"xorg-macros","git":"https://gitlab.freedesktop.org/xorg/util/macros","description":"GNU autoconf macros shared across X.Org projects"}
+{"name":"xorg-macros","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/util/macros","description":"GNU autoconf macros shared across X.Org projects"}

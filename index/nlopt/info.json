@@ -1,1 +1,1 @@
-{"name":"nlopt","git":"https://github.com/stevengj/nlopt","description":"Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization."}
+{"name":"nlopt","versions":["master","v2.5.0","v2.6.0","v2.6.1","v2.6.2","v2.7.0","v2.7.1"],"git":"https://github.com/stevengj/nlopt","description":"Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization."}

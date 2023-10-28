@@ -1,1 +1,1 @@
-{"name":"ktx","git":"https://github.com/KhronosGroup/KTX-Software","description":"Khronos Texture library and tool."}
+{"name":"ktx","versions":["main","v2.0.2","v3.0.1","v4.0.0","v4.1.0","v4.2.0","v4.2.1"],"git":"https://github.com/KhronosGroup/KTX-Software","description":"Khronos Texture library and tool."}

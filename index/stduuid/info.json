@@ -1,1 +1,1 @@
-{"name":"stduuid","git":"https://github.com/mariusbancila/stduuid","description":"A C++17 cross-platform implementation for UUIDs"}
+{"name":"stduuid","versions":["master","v1.2.1","v1.2.2","v1.2.3"],"git":"https://github.com/mariusbancila/stduuid","description":"A C++17 cross-platform implementation for UUIDs"}

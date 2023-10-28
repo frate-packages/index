@@ -1,1 +1,1 @@
-{"name":"libsamplerate","git":"https://github.com/libsndfile/libsamplerate","description":"libsamplerate (also known as Secret Rabbit Code) is a library for performing sample rate conversion of audio data."}
+{"name":"libsamplerate","versions":["master","0.1.9","0.2.0","0.2.1","0.2.2"],"git":"https://github.com/libsndfile/libsamplerate","description":"libsamplerate (also known as Secret Rabbit Code) is a library for performing sample rate conversion of audio data."}

@@ -1,1 +1,1 @@
-{"name":"libdxfrw","git":"https://github.com/LibreCAD/libdxfrw","description":"C++ library to read/write DXF and read DWG files"}
+{"name":"libdxfrw","versions":["master","1.0.0","1.0.1","v0.5.10","v0.5.12"],"git":"https://github.com/LibreCAD/libdxfrw","description":"C++ library to read/write DXF and read DWG files"}

@@ -1,1 +1,1 @@
-{"name":"openvino","git":"https://github.com/openvinotoolkit/openvino","description":"Open Visual Inference And Optimization toolkit for AI inference"}
+{"name":"openvino","versions":["master","2020.3.0","2020.3.1","2020.3.2","2021.4.1","2021.4.2","2022.1.0","2022.1.1","2022.2.0","2022.3.0","2022.3.1","2023.0.0","2023.0.1","2023.0.2","2023.1.0"],"git":"https://github.com/openvinotoolkit/openvino","description":"Open Visual Inference And Optimization toolkit for AI inference"}

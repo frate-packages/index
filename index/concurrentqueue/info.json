@@ -1,1 +1,1 @@
-{"name":"concurrentqueue","git":"https://github.com/cameron314/concurrentqueue","description":"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11"}
+{"name":"concurrentqueue","versions":["master","1.0.2","v1.0.1","v1.0.2","v1.0.3","v1.0.4"],"git":"https://github.com/cameron314/concurrentqueue","description":"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11"}

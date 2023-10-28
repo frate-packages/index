@@ -1,1 +1,1 @@
-{"name":"hidapi","git":"https://github.com/libusb/hidapi","description":"HIDAPI is a multi-platform library which allows an application to interface with USB and Bluetooth HID-Class devices on Windows, Linux, FreeBSD, and macOS."}
+{"name":"hidapi","versions":["master"],"git":"https://github.com/libusb/hidapi","description":"HIDAPI is a multi-platform library which allows an application to interface with USB and Bluetooth HID-Class devices on Windows, Linux, FreeBSD, and macOS."}

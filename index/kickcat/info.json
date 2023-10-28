@@ -1,1 +1,1 @@
-{"name":"kickcat","git":"https://github.com/Siviuze/KickCAT","description":"Thin EtherCAT stack designed to be embedded in a more complex software and with efficiency in mind"}
+{"name":"kickcat","versions":["master","v1.0.0"],"git":"https://github.com/Siviuze/KickCAT","description":"Thin EtherCAT stack designed to be embedded in a more complex software and with efficiency in mind"}

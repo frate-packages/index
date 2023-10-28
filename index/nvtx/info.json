@@ -1,1 +1,1 @@
-{"name":"nvtx","git":"https://github.com/NVIDIA/NVTX","description":"The NVIDIA Tools Extension SDK (NVTX) is a C-based API for annotating events, code ranges, and resources in your applications."}
+{"name":"nvtx","versions":["v3.0.1","v3.1.0"],"git":"https://github.com/NVIDIA/NVTX","description":"The NVIDIA Tools Extension SDK (NVTX) is a C-based API for annotating events, code ranges, and resources in your applications."}

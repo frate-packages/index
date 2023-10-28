@@ -1,1 +1,1 @@
-{"name":"imake","git":"https://gitlab.freedesktop.org/xorg/util/imake","description":"Obsolete C preprocessor interface to the make utility"}
+{"name":"imake","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/util/imake","description":"Obsolete C preprocessor interface to the make utility"}

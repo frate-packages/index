@@ -1,1 +1,1 @@
-{"name":"whisper-cpp","git":"https://github.com/ggerganov/whisper.cpp","description":"High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model"}
+{"name":"whisper-cpp","versions":["master","1.0.3","1.0.4","1.1.0","v1.0.4","v1.1.0","v1.1.1","v1.2.0","v1.2.1","v1.3.0","v1.4.0","v1.4.1","v1.4.2"],"git":"https://github.com/ggerganov/whisper.cpp","description":"High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model"}

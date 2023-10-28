@@ -1,1 +1,1 @@
-{"name":"quazip","git":"https://github.com/stachenov/quazip","description":"A simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package that can be used to access ZIP archives."}
+{"name":"quazip","versions":["master","0.7.4","0.7.5","0.7.6","v0.8.1","v0.9.1"],"git":"https://github.com/stachenov/quazip","description":"A simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package that can be used to access ZIP archives."}

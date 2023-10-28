@@ -1,1 +1,1 @@
-{"name":"cpp-ipc","git":"https://github.com/mutouyun/cpp-ipc","description":"C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows."}
+{"name":"cpp-ipc","versions":["master","v1.0.0","v1.1.0","v1.1.1","v1.2.0"],"git":"https://github.com/mutouyun/cpp-ipc","description":"C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows."}

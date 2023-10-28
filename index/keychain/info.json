@@ -1,1 +1,1 @@
-{"name":"keychain","git":"https://github.com/hrantzsch/keychain","description":"A cross-platform wrapper for the operating system's credential storage"}
+{"name":"keychain","versions":["master","v1.2.0","v1.2.1"],"git":"https://github.com/hrantzsch/keychain","description":"A cross-platform wrapper for the operating system's credential storage"}

@@ -1,1 +1,1 @@
-{"name":"ezc3d","git":"https://github.com/pyomeca/ezc3d","description":"EZC3D is an easy to use reader, modifier and writer for C3D format files."}
+{"name":"ezc3d","versions":["0.4.0"],"git":"https://github.com/pyomeca/ezc3d","description":"EZC3D is an easy to use reader, modifier and writer for C3D format files."}

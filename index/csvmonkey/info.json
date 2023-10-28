@@ -1,1 +1,1 @@
-{"name":"csvmonkey","git":"https://github.com/dw/csvmonkey/","description":"Header-only vectorized, lazy-decoding, zero-copy CSV file parser"}
+{"name":"csvmonkey","versions":["master"],"git":"https://github.com/dw/csvmonkey/","description":"Header-only vectorized, lazy-decoding, zero-copy CSV file parser"}

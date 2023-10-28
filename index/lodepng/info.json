@@ -1,1 +1,1 @@
-{"name":"lodepng","git":"https://github.com/lvandeve/lodepng","description":"PNG encoder and decoder in C and C++, without dependencies."}
+{"name":"lodepng","versions":["master"],"git":"https://github.com/lvandeve/lodepng","description":"PNG encoder and decoder in C and C++, without dependencies."}

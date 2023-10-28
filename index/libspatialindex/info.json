@@ -1,1 +1,1 @@
-{"name":"libspatialindex","git":"https://github.com/libspatialindex/libspatialindex","description":"C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API."}
+{"name":"libspatialindex","versions":["master","1.8.2","1.8.3","1.8.5","1.9.0","1.9.1","1.9.2","1.9.3"],"git":"https://github.com/libspatialindex/libspatialindex","description":"C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API."}

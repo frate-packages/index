@@ -1,1 +1,1 @@
-{"name":"gamma","git":"https://github.com/LancePutnam/Gamma","description":"Gamma is a cross-platform, C++ library for doing generic synthesis and filtering of signals."}
+{"name":"gamma","versions":["master","0.9.6","0.9.7","0.9.8"],"git":"https://github.com/LancePutnam/Gamma","description":"Gamma is a cross-platform, C++ library for doing generic synthesis and filtering of signals."}

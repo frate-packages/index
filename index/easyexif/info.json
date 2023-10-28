@@ -1,1 +1,1 @@
-{"name":"easyexif","git":"https://github.com/mayanklahiri/easyexif","description":"Tiny ISO-compliant C++ EXIF parsing library, third-party dependency free."}
+{"name":"easyexif","versions":["master"],"git":"https://github.com/mayanklahiri/easyexif","description":"Tiny ISO-compliant C++ EXIF parsing library, third-party dependency free."}

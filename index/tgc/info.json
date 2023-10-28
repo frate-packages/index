@@ -1,1 +1,1 @@
-{"name":"tgc","git":"https://github.com/orangeduck/tgc","description":"A Tiny Garbage Collector for C."}
+{"name":"tgc","versions":["master"],"git":"https://github.com/orangeduck/tgc","description":"A Tiny Garbage Collector for C."}

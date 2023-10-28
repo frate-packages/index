@@ -1,1 +1,1 @@
-{"name":"earcut","git":"https://github.com/mapbox/earcut.hpp","description":"A C++ port of earcut.js, a fast, header-only polygon triangulation library."}
+{"name":"earcut","versions":["master","v0.10.1","v0.10.2","v0.10.3","v0.12.1","v0.12.2","v0.12.3","v0.12.4","v2.2.3","v2.2.4"],"git":"https://github.com/mapbox/earcut.hpp","description":"A C++ port of earcut.js, a fast, header-only polygon triangulation library."}

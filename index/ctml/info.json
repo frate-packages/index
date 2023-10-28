@@ -1,1 +1,1 @@
-{"name":"ctml","git":"https://github.com/tinfoilboy/CTML","description":"A C++ HTML document constructor only depending on the standard library."}
+{"name":"ctml","versions":["master","1.0.0","1.0.1","1.1.0","1.1.1","2.0.0"],"git":"https://github.com/tinfoilboy/CTML","description":"A C++ HTML document constructor only depending on the standard library."}

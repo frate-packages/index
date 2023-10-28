@@ -1,1 +1,1 @@
-{"name":"glog","git":"https://github.com/google/glog/","description":"Google logging library"}
+{"name":"glog","versions":["master","v0.1.1","v0.1.2","v0.2.1","v0.3.0","v0.3.1","v0.3.2","v0.3.3","v0.3.4","v0.3.5","v0.4.0","v0.5.0","v0.6.0"],"git":"https://github.com/google/glog/","description":"Google logging library"}

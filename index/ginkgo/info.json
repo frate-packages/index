@@ -1,1 +1,1 @@
-{"name":"ginkgo","git":"https://github.com/ginkgo-project/ginkgo","description":"High-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems."}
+{"name":"ginkgo","versions":["master","v1.0.0","v1.1.0","v1.1.1","v1.2.0","v1.3.0","v1.4.0","v1.5.0","v1.6.0"],"git":"https://github.com/ginkgo-project/ginkgo","description":"High-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems."}

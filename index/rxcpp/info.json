@@ -1,1 +1,1 @@
-{"name":"rxcpp","git":"https://github.com/ReactiveX/RxCpp","description":"C++11 library for composing operations on streams of asynchronous events."}
+{"name":"rxcpp","versions":["main","4.1.0","v1.0.2","v2.1.0","v2.2.0","v2.3.0","v3.0.0","v4.0.0","v4.1.0","v4.1.1"],"git":"https://github.com/ReactiveX/RxCpp","description":"C++11 library for composing operations on streams of asynchronous events."}

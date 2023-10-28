@@ -1,1 +1,1 @@
-{"name":"cn-cbor","git":"https://github.com/jimsch/cn-cbor/","description":"A constrained node implementation of CBOR in C"}
+{"name":"cn-cbor","versions":["master","1.0.0"],"git":"https://github.com/jimsch/cn-cbor/","description":"A constrained node implementation of CBOR in C"}

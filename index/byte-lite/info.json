@@ -1,1 +1,1 @@
-{"name":"byte-lite","git":"https://github.com/martinmoene/byte-lite","description":"byte lite - A single-file header-only C++17-like byte type for                     C++98, C++11 and later"}
+{"name":"byte-lite","versions":["master","0.0.0","v0.1.0","v0.2.0","v0.3.0"],"git":"https://github.com/martinmoene/byte-lite","description":"byte lite - A single-file header-only C++17-like byte type for                     C++98, C++11 and later"}

@@ -1,1 +1,1 @@
-{"name":"nudb","git":"https://github.com/CPPAlliance/NuDB","description":"A fast key/value insert-only database for SSD drives in C++11"}
+{"name":"nudb","versions":["master","1.0.0","2.0.0","2.0.1","2.0.2","2.0.3","2.0.4","2.0.5","2.0.8"],"git":"https://github.com/CPPAlliance/NuDB","description":"A fast key/value insert-only database for SSD drives in C++11"}

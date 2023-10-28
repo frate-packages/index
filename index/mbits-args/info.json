@@ -1,1 +1,1 @@
-{"name":"mbits-args","git":"https://github.com/mbits-libs/args","description":"Small open-source library for program argument parser, inspired by Python's `argparse`, depending only on the standard library, with C++17 as minimum requirement."}
+{"name":"mbits-args","versions":["master","v0.10.0","v0.11.0","v0.12.0","v0.12.1","v0.12.2","v0.12.3"],"git":"https://github.com/mbits-libs/args","description":"Small open-source library for program argument parser, inspired by Python's `argparse`, depending only on the standard library, with C++17 as minimum requirement."}

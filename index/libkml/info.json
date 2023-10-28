@@ -1,1 +1,1 @@
-{"name":"libkml","git":"https://github.com/libkml/libkml","description":"Reference implementation of OGC KML 2.2"}
+{"name":"libkml","versions":["master","1.3.0"],"git":"https://github.com/libkml/libkml","description":"Reference implementation of OGC KML 2.2"}

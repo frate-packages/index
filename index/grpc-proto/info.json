@@ -1,1 +1,1 @@
-{"name":"grpc-proto","git":"https://github.com/grpc/grpc-proto","description":"gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc"}
+{"name":"grpc-proto","versions":["master"],"git":"https://github.com/grpc/grpc-proto","description":"gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc"}

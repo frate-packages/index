@@ -1,1 +1,1 @@
-{"name":"scippp","git":"https://github.com/scipopt/SCIPpp","description":"SCIP++ is a C++ wrapper for SCIP's C interface"}
+{"name":"scippp","versions":["main","1.0.0","1.0.1","1.0.2","1.1.0"],"git":"https://github.com/scipopt/SCIPpp","description":"SCIP++ is a C++ wrapper for SCIP's C interface"}

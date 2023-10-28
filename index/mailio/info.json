@@ -1,1 +1,1 @@
-{"name":"mailio","git":"https://github.com/karastojko/mailio","description":"mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols."}
+{"name":"mailio","versions":["master","0.16.0","0.16.1","0.17.0","0.18.0","0.19.0","0.20.0","0.21.0","0.22.0","0.23.0"],"git":"https://github.com/karastojko/mailio","description":"mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols."}

@@ -1,1 +1,1 @@
-{"name":"bit-lite","git":"https://github.com/martinmoene/bit-lite","description":"bit is a C++20 bit operations for C++98 and later                     in a single-file header-only library."}
+{"name":"bit-lite","versions":["master","0.1.0"],"git":"https://github.com/martinmoene/bit-lite","description":"bit is a C++20 bit operations for C++98 and later                     in a single-file header-only library."}

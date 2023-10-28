@@ -1,1 +1,1 @@
-{"name":"bitserializer","git":"https://bitbucket.org/Pavel_Kisliak/bitserializer","description":"C++ 17 library for serialization to multiple output formats (JSON, XML, YAML, CSV)"}
+{"name":"bitserializer","versions":["master"],"git":"https://bitbucket.org/Pavel_Kisliak/bitserializer","description":"C++ 17 library for serialization to multiple output formats (JSON, XML, YAML, CSV)"}

@@ -1,1 +1,1 @@
-{"name":"variant-lite","git":"https://github.com/martinmoene/variant-lite","description":"variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library"}
+{"name":"variant-lite","versions":["master","v0.0.0","v1.0.0","v1.1.0","v1.2.0","v1.2.1","v1.2.2","v2.0.0"],"git":"https://github.com/martinmoene/variant-lite","description":"variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library"}

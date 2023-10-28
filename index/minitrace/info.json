@@ -1,1 +1,1 @@
-{"name":"minitrace","git":"https://github.com/hrydgard/minitrace","description":"Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing)."}
+{"name":"minitrace","versions":["master"],"git":"https://github.com/hrydgard/minitrace","description":"Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing)."}

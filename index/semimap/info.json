@@ -1,1 +1,1 @@
-{"name":"semimap","git":"https://github.com/hogliux/semimap","description":"A semi compile-/run-time associative map container with compile-time lookup and run-time storage"}
+{"name":"semimap","versions":["master"],"git":"https://github.com/hogliux/semimap","description":"A semi compile-/run-time associative map container with compile-time lookup and run-time storage"}

@@ -1,1 +1,1 @@
-{"name":"read-excel","git":"https://github.com/igormironchik/read-excel","description":"This is very simple implementation of the Excel 97-2003 format (BIFF8) written in C++. Supported reading only."}
+{"name":"read-excel","versions":["master","1.0.0","1.0.1","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4","1.1.5","1.1.6","1.2.0","1.2.1","1.2.2","1.2.3","1.2.4","1.2.5","1.2.6","1.2.7","1.2.8"],"git":"https://github.com/igormironchik/read-excel","description":"This is very simple implementation of the Excel 97-2003 format (BIFF8) written in C++. Supported reading only."}

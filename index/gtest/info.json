@@ -1,1 +1,1 @@
-{"name":"gtest","git":"https://github.com/google/googletest","description":"Google's C++ test framework"}
+{"name":"gtest","versions":["main","v1.12.0","v1.13.0","v1.14.0"],"git":"https://github.com/google/googletest","description":"Google's C++ test framework"}

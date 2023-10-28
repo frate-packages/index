@@ -1,1 +1,1 @@
-{"name":"metall","git":"https://github.com/LLNL/metall","description":"Meta allocator for persistent memory"}
+{"name":"metall","versions":["master","v0.23.1"],"git":"https://github.com/LLNL/metall","description":"Meta allocator for persistent memory"}

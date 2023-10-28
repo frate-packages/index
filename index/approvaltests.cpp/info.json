@@ -1,1 +1,1 @@
-{"name":"approvaltests.cpp","git":"https://github.com/approvals/ApprovalTests.cpp","description":"Approval Tests allow you to verify a chunk of output (such as a file) in one operation as opposed to writing test assertions for each element."}
+{"name":"approvaltests.cpp","versions":["master"],"git":"https://github.com/approvals/ApprovalTests.cpp","description":"Approval Tests allow you to verify a chunk of output (such as a file) in one operation as opposed to writing test assertions for each element."}

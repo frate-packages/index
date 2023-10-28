@@ -1,1 +1,1 @@
-{"name":"stringtoolbox","git":"https://github.com/chrberger/stringtoolbox","description":"A simple header-only, single-file string toolbox library for C++."}
+{"name":"stringtoolbox","versions":["master","v0.0.1","v0.0.2","v0.0.3","v0.0.4"],"git":"https://github.com/chrberger/stringtoolbox","description":"A simple header-only, single-file string toolbox library for C++."}

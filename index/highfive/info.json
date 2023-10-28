@@ -1,1 +1,1 @@
-{"name":"highfive","git":"https://github.com/BlueBrain/HighFive","description":"HighFive is a modern header-only C++11 friendly interface for libhdf5."}
+{"name":"highfive","versions":["master","v2.1.1","v2.2.1","v2.2.2","v2.3.1","v2.4.0","v2.4.1","v2.5.0","v2.5.1","v2.6.0","v2.6.1","v2.6.2","v2.7.0","v2.7.1"],"git":"https://github.com/BlueBrain/HighFive","description":"HighFive is a modern header-only C++11 friendly interface for libhdf5."}

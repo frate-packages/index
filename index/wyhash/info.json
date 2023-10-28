@@ -1,1 +1,1 @@
-{"name":"wyhash","git":"https://github.com/wangyi-fudan/wyhash","description":"The FASTEST QUALITY hash function, random number generators (PRNG) and hash map."}
+{"name":"wyhash","versions":["master"],"git":"https://github.com/wangyi-fudan/wyhash","description":"The FASTEST QUALITY hash function, random number generators (PRNG) and hash map."}

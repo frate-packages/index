@@ -1,1 +1,1 @@
-{"name":"winmd","git":"https://github.com/microsoft/winmd","description":"C++ winmd parser"}
+{"name":"winmd","versions":["master"],"git":"https://github.com/microsoft/winmd","description":"C++ winmd parser"}

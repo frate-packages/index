@@ -1,1 +1,1 @@
-{"name":"cppzmq","git":"https://github.com/zeromq/cppzmq","description":"C++ binding for 0MQ"}
+{"name":"cppzmq","versions":["master","v4.10.0","v4.2.1","v4.2.2","v4.2.3","v4.3.0","v4.4.0","v4.4.1","v4.5.0","v4.6.0","v4.7.0","v4.7.1","v4.8.0","v4.8.1","v4.9.0"],"git":"https://github.com/zeromq/cppzmq","description":"C++ binding for 0MQ"}

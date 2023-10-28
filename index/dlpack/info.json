@@ -1,1 +1,1 @@
-{"name":"dlpack","git":"https://github.com/dmlc/dlpack","description":"RFC for common in-memory tensor structure and operator interface for deep learning system"}
+{"name":"dlpack","versions":["main","master"],"git":"https://github.com/dmlc/dlpack","description":"RFC for common in-memory tensor structure and operator interface for deep learning system"}

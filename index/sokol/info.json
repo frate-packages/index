@@ -1,1 +1,1 @@
-{"name":"sokol","git":"https://github.com/floooh/sokol","description":"Simple STB-style cross-platform libraries for C and C++, written in C."}
+{"name":"sokol","versions":["master"],"git":"https://github.com/floooh/sokol","description":"Simple STB-style cross-platform libraries for C and C++, written in C."}

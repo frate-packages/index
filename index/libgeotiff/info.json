@@ -1,1 +1,1 @@
-{"name":"libgeotiff","git":"https://github.com/OSGeo/libgeotiff","description":"Libgeotiff is an open source library normally hosted on top of libtiff for reading, and writing GeoTIFF information tags."}
+{"name":"libgeotiff","versions":["master","1.4.0","1.4.1","1.4.2","1.4.3","1.5.0","1.5.1","1.6.0","1.7.0","1.7.1"],"git":"https://github.com/OSGeo/libgeotiff","description":"Libgeotiff is an open source library normally hosted on top of libtiff for reading, and writing GeoTIFF information tags."}

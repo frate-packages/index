@@ -1,1 +1,1 @@
-{"name":"fastnoise2","git":"https://github.com/Auburn/FastNoise2","description":"Modular node graph based noise generation library using SIMD, C++17 and templates"}
+{"name":"fastnoise2","versions":["master"],"git":"https://github.com/Auburn/FastNoise2","description":"Modular node graph based noise generation library using SIMD, C++17 and templates"}

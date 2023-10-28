@@ -1,1 +1,1 @@
-{"name":"cxxopts","git":"https://github.com/jarro2783/cxxopts","description":"Lightweight C++ option parser library, supporting the standard GNU style syntax for options."}
+{"name":"cxxopts","versions":["master","v1.0.0","v1.1.0","v1.2.0","v1.3.0","v1.4.0","v1.4.1","v1.4.2","v1.4.3","v1.4.4","v2.0.0","v2.1.0","v2.1.1","v2.1.2","v2.2.0","v2.2.1","v3.0.0","v3.1.0","v3.1.1"],"git":"https://github.com/jarro2783/cxxopts","description":"Lightweight C++ option parser library, supporting the standard GNU style syntax for options."}

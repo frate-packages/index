@@ -1,1 +1,1 @@
-{"name":"libglvnd","git":"https://gitlab.freedesktop.org/glvnd/libglvnd","description":"The GL Vendor-Neutral Dispatch library"}
+{"name":"libglvnd","versions":["0.1.1","master","v0.1.1","v1.0.0","v1.1.0","v1.1.1","v1.2.0","v1.3.0","v1.3.1","v1.3.2","v1.3.3","v1.3.4","v1.4.0","v1.5.0","v1.6.0","v1.7.0"],"git":"https://gitlab.freedesktop.org/glvnd/libglvnd","description":"The GL Vendor-Neutral Dispatch library"}

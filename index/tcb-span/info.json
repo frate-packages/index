@@ -1,1 +1,1 @@
-{"name":"tcb-span","git":"https://github.com/tcbrindle/span","description":"Implementation of C++20's std::span for older C++ standards"}
+{"name":"tcb-span","versions":["master"],"git":"https://github.com/tcbrindle/span","description":"Implementation of C++20's std::span for older C++ standards"}

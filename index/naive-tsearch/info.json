@@ -1,1 +1,1 @@
-{"name":"naive-tsearch","git":"https://github.com/kulp/naive-tsearch","description":"A simple tsearch() implementation for platforms without one"}
+{"name":"naive-tsearch","versions":["master","v0.1.0","v0.1.1"],"git":"https://github.com/kulp/naive-tsearch","description":"A simple tsearch() implementation for platforms without one"}

@@ -1,1 +1,1 @@
-{"name":"sobjectizer","git":"https://github.com/Stiffstream/sobjectizer","description":"A framework for simplification of development of sophisticated concurrent and event-driven applications in C++ by using Actor, Publish-Subscribe and CSP models."}
+{"name":"sobjectizer","versions":["master"],"git":"https://github.com/Stiffstream/sobjectizer","description":"A framework for simplification of development of sophisticated concurrent and event-driven applications in C++ by using Actor, Publish-Subscribe and CSP models."}

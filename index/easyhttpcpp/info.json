@@ -1,1 +1,1 @@
-{"name":"easyhttpcpp","git":"https://github.com/sony/easyhttpcpp","description":"A cross-platform HTTP client library with a focus on usability and speed"}
+{"name":"easyhttpcpp","versions":["master","1.0.0","2.0.0","2.1.0"],"git":"https://github.com/sony/easyhttpcpp","description":"A cross-platform HTTP client library with a focus on usability and speed"}

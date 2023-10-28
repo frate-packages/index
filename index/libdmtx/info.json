@@ -1,1 +1,1 @@
-{"name":"libdmtx","git":"https://github.com/dmtx/libdmtx","description":"software library that enables programs to readand write Data Matrix barcodes of the modern ECC200 variety"}
+{"name":"libdmtx","versions":["master","v0.5.2","v0.6.0","v0.7.0","v0.7.2","v0.7.4","v0.7.5","v0.7.6","v0.7.7"],"git":"https://github.com/dmtx/libdmtx","description":"software library that enables programs to readand write Data Matrix barcodes of the modern ECC200 variety"}

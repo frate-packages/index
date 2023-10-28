@@ -1,1 +1,1 @@
-{"name":"egl-headers","git":"https://github.com/KhronosGroup/EGL-Registry","description":"EGL Header files."}
+{"name":"egl-headers","versions":["main"],"git":"https://github.com/KhronosGroup/EGL-Registry","description":"EGL Header files."}

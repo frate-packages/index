@@ -1,1 +1,1 @@
-{"name":"tinyexif","git":"https://github.com/cdcseacave/TinyEXIF/","description":"Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG"}
+{"name":"tinyexif","versions":["master","1.0.0","1.0.1","1.0.2"],"git":"https://github.com/cdcseacave/TinyEXIF/","description":"Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG"}

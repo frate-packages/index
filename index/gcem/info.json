@@ -1,1 +1,1 @@
-{"name":"gcem","git":"https://github.com/kthohr/gcem","description":"A C++ compile-time math library using generalized constant expressions."}
+{"name":"gcem","versions":["master","v1.12.0","v1.13.1","v1.14.1","v1.15.0","v1.16.0","v1.17.0","v1.6.0","v1.7.0","v1.8.0","v1.8.1"],"git":"https://github.com/kthohr/gcem","description":"A C++ compile-time math library using generalized constant expressions."}

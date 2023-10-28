@@ -1,1 +1,1 @@
-{"name":"heatshrink","git":"https://github.com/atomicobject/heatshrink","description":"data compression library for embedded/real-time systems"}
+{"name":"heatshrink","versions":["master","v0.3.0","v0.3.1","v0.3.2","v0.4.0","v0.4.1"],"git":"https://github.com/atomicobject/heatshrink","description":"data compression library for embedded/real-time systems"}

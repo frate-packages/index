@@ -1,1 +1,1 @@
-{"name":"paho-mqtt-c","git":"https://github.com/eclipse/paho.mqtt.c","description":"Eclipse Paho MQTT C client library for Linux, Windows and MacOS"}
+{"name":"paho-mqtt-c","versions":["master","v1.0.1","v1.0.2","v1.0.3","v1.1.0","v1.2.0","v1.2.1","v1.3.0","v1.3.1","v1.3.10","v1.3.11","v1.3.12","v1.3.13","v1.3.2","v1.3.3","v1.3.4","v1.3.5","v1.3.6","v1.3.7","v1.3.8","v1.3.9"],"git":"https://github.com/eclipse/paho.mqtt.c","description":"Eclipse Paho MQTT C client library for Linux, Windows and MacOS"}

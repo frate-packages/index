@@ -1,1 +1,1 @@
-{"name":"imgui","git":"https://github.com/ocornut/imgui","description":"Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies"}
+{"name":"imgui","versions":["master","v1.84.1","v1.84.2","v1.89.1","v1.89.2","v1.89.3","v1.89.4","v1.89.5","v1.89.6","v1.89.7","v1.89.8","v1.89.9"],"git":"https://github.com/ocornut/imgui","description":"Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies"}

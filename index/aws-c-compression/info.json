@@ -1,1 +1,1 @@
-{"name":"aws-c-compression","git":"https://github.com/awslabs/aws-c-compression","description":"C99 implementation of huffman encoding/decoding"}
+{"name":"aws-c-compression","versions":["main","v0.2.0","v0.2.1","v0.2.10","v0.2.11","v0.2.12","v0.2.13","v0.2.14","v0.2.15","v0.2.16","v0.2.17","v0.2.2","v0.2.3","v0.2.4","v0.2.5","v0.2.6","v0.2.7","v0.2.8","v0.2.9"],"git":"https://github.com/awslabs/aws-c-compression","description":"C99 implementation of huffman encoding/decoding"}

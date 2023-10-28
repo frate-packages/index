@@ -1,1 +1,1 @@
-{"name":"cpptoml","git":"https://github.com/skystrife/cpptoml","description":"cpptoml is a header-only library for parsing TOML "}
+{"name":"cpptoml","versions":["master","v0.1.0","v0.1.1"],"git":"https://github.com/skystrife/cpptoml","description":"cpptoml is a header-only library for parsing TOML "}

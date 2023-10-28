@@ -1,1 +1,1 @@
-{"name":"cajun-jsonapi","git":"https://github.com/cajun-jsonapi/cajun-jsonapi","description":"CAJUN* is a C++ API for the JSON object interchange format."}
+{"name":"cajun-jsonapi","versions":["master","2.0.3","2.1.0","2.1.1"],"git":"https://github.com/cajun-jsonapi/cajun-jsonapi","description":"CAJUN* is a C++ API for the JSON object interchange format."}

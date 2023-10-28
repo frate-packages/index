@@ -1,1 +1,1 @@
-{"name":"quaternions","git":"https://github.com/ferd36/quaternions","description":"A blazingly fast C++ library to work with quaternions."}
+{"name":"quaternions","versions":["master"],"git":"https://github.com/ferd36/quaternions","description":"A blazingly fast C++ library to work with quaternions."}
