@@ -1,1 +1,1 @@
-{"name":"vcglib","git":"https://github.com/cnr-isti-vclab/vcglib"}
+{"name":"vcglib","git":"https://github.com/cnr-isti-vclab/vcglib","description":"Library for manipulation, processing, cleaning, simplifying triangle meshes."}

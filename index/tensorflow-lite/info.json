@@ -1,1 +1,1 @@
-{"name":"tensorflow-lite","git":"https://www.tensorflow.org/lite/guide"}
+{"name":"tensorflow-lite","git":"https://www.tensorflow.org/lite/guide","description":"TensorFlow Lite is a set of tools that enables on-device machine learning by helping developers run their models on mobile, embedded, and IoT devices."}

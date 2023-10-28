@@ -1,1 +1,1 @@
-{"name":"plf_queue","git":"https://plflib.org/queue.htm"}
+{"name":"plf_queue","git":"https://plflib.org/queue.htm","description":"A C++ data container replicating std::queue functionality but with better performance."}

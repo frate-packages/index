@@ -1,1 +1,1 @@
-{"name":"b64","git":"https://libb64.sourceforge.net/"}
+{"name":"b64","git":"https://libb64.sourceforge.net/","description":"A library of ANSI C routines for fast encoding/decoding data into and from a base64-encoded format."}

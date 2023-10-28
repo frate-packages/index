@@ -1,1 +1,1 @@
-{"name":"http_parser","git":"https://github.com/nodejs/http-parser"}
+{"name":"http_parser","git":"https://github.com/nodejs/http-parser","description":"http request/response parser for c"}

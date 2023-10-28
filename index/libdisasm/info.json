@@ -1,1 +1,1 @@
-{"name":"libdisasm","git":"http://bastard.sourceforge.net/libdisasm.html"}
+{"name":"libdisasm","git":"http://bastard.sourceforge.net/libdisasm.html","description":"The libdisasm library provides basic disassembly of Intel x86 instructions from a binary stream."}

@@ -1,1 +1,1 @@
-{"name":"libtar","git":"https://repo.or.cz/libtar.git"}
+{"name":"libtar","git":"https://repo.or.cz/libtar.git","description":"libtar is a library for manipulating tar files from within C programs."}

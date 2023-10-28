@@ -1,1 +1,1 @@
-{"name":"paho-mqtt-cpp","git":"https://github.com/eclipse/paho.mqtt.cpp"}
+{"name":"paho-mqtt-cpp","git":"https://github.com/eclipse/paho.mqtt.cpp","description":"The open-source client implementations of MQTT and MQTT-SN"}

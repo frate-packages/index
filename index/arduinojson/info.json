@@ -1,1 +1,1 @@
-{"name":"arduinojson","git":"https://github.com/bblanchon/ArduinoJson"}
+{"name":"arduinojson","git":"https://github.com/bblanchon/ArduinoJson","description":"C++ JSON library for IoT. Simple and efficient."}

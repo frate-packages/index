@@ -1,1 +1,1 @@
-{"name":"czmq","git":"https://github.com/zeromq/czmq"}
+{"name":"czmq","git":"https://github.com/zeromq/czmq","description":"High-level C binding for ZeroMQ"}

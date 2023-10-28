@@ -1,1 +1,1 @@
-{"name":"libmemcached","git":"https://libmemcached.org/"}
+{"name":"libmemcached","git":"https://libmemcached.org/","description":"libmemcached is a C client library for interfacing to a memcached server"}

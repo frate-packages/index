@@ -1,1 +1,1 @@
-{"name":"libmetalink","git":"https://launchpad.net/libmetalink"}
+{"name":"libmetalink","git":"https://launchpad.net/libmetalink","description":"Libmetalink is a library to read Metalink XML download description format. It supports both Metalink version 3 and Metalink version 4 (RFC 5854)."}

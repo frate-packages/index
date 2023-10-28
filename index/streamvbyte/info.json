@@ -1,1 +1,1 @@
-{"name":"streamvbyte","git":"https://github.com/lemire/streamvbyte"}
+{"name":"streamvbyte","git":"https://github.com/lemire/streamvbyte","description":"Fast integer compression in C using the StreamVByte codec"}

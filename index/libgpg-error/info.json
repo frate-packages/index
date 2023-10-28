@@ -1,1 +1,1 @@
-{"name":"libgpg-error","git":"https://gnupg.org/software/libgpg-error/index.html"}
+{"name":"libgpg-error","git":"https://gnupg.org/software/libgpg-error/index.html","description":"Libgpg-error is a small library that originally defined common error values for all GnuPG components."}

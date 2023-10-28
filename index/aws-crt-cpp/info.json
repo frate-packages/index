@@ -1,1 +1,1 @@
-{"name":"aws-crt-cpp","git":"https://github.com/awslabs/aws-crt-cpp"}
+{"name":"aws-crt-cpp","git":"https://github.com/awslabs/aws-crt-cpp","description":"C++ wrapper around the aws-c-* libraries. Provides Cross-Platform Transport Protocols and SSL/TLS implementations for C++."}

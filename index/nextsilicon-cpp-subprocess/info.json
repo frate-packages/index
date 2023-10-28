@@ -1,1 +1,1 @@
-{"name":"nextsilicon-cpp-subprocess","git":"https://github.com/nextsilicon/cpp-subprocess"}
+{"name":"nextsilicon-cpp-subprocess","git":"https://github.com/nextsilicon/cpp-subprocess","description":"Subprocessing with modern C++. The only goal was to develop something that is as close as possible to the Python subprocess module in dealing with processes."}

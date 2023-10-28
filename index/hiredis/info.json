@@ -1,1 +1,1 @@
-{"name":"hiredis","git":"https://github.com/redis/hiredis"}
+{"name":"hiredis","git":"https://github.com/redis/hiredis","description":"Hiredis is a minimalistic C client library for the Redis database."}

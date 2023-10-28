@@ -1,1 +1,1 @@
-{"name":"ctml","git":"https://github.com/tinfoilboy/CTML"}
+{"name":"ctml","git":"https://github.com/tinfoilboy/CTML","description":"A C++ HTML document constructor only depending on the standard library."}

@@ -1,1 +1,1 @@
-{"name":"openblas","git":"https://github.com/xianyi/OpenBLAS"}
+{"name":"openblas","git":"https://www.openblas.net","description":"An optimized BLAS library based on GotoBLAS2 1.13 BSD version"}

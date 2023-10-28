@@ -1,1 +1,1 @@
-{"name":"wise_enum","git":"https://github.com/quicknir/wise_enum"}
+{"name":"wise_enum","git":"https://github.com/quicknir/wise_enum","description":"Header-only C++11/14/17 library provides static reflection for enums, work with any enum type without any boilerplate code."}

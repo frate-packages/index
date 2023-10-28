@@ -1,1 +1,1 @@
-{"name":"base64","git":"https://github.com/aklomp/base64"}
+{"name":"base64","git":"https://github.com/aklomp/base64","description":"Fast Base64 stream encoder/decoder"}

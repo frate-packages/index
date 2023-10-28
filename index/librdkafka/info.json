@@ -1,1 +1,1 @@
-{"name":"librdkafka","git":"https://github.com/edenhill/librdkafka"}
+{"name":"librdkafka","git":"https://github.com/edenhill/librdkafka","description":"Librdkafka is an Apache Kafka C/C++ library designed with message delivery reliability and high performance in mind."}

@@ -1,1 +1,1 @@
-{"name":"uriparser","git":"https://uriparser.github.io/"}
+{"name":"uriparser","git":"https://uriparser.github.io/","description":"Strictly RFC 3986 compliant URI parsing and handling library written in C89"}

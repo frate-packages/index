@@ -1,1 +1,1 @@
-{"name":"tng","git":"https://gitlab.com/gromacs/tng/"}
+{"name":"tng","git":"https://gitlab.com/gromacs/tng/","description":"External GROMACS library for loading tng files."}

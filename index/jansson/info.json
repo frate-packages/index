@@ -1,1 +1,1 @@
-{"name":"jansson","git":"https://github.com/akheron/jansson"}
+{"name":"jansson","git":"http://www.digip.org/jansson/","description":"C library for encoding, decoding and manipulating JSON data"}

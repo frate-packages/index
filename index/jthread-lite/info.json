@@ -1,1 +1,1 @@
-{"name":"jthread-lite","git":"https://github.com/martinmoene/jthread-lite"}
+{"name":"jthread-lite","git":"https://github.com/martinmoene/jthread-lite","description":"jthread lite - C++20's jthread for C++11 and later in a single-file header-only library "}

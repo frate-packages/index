@@ -1,1 +1,1 @@
-{"name":"veque","git":"https://github.com/Shmoopty/veque"}
+{"name":"veque","git":"https://github.com/Shmoopty/veque","description":"Fast C++ container combining the best features of std::vector and std::deque"}

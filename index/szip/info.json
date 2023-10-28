@@ -1,1 +1,1 @@
-{"name":"szip","git":"https://support.hdfgroup.org/doc_resource/SZIP/"}
+{"name":"szip","git":"https://support.hdfgroup.org/doc_resource/SZIP/","description":"C Implementation of the extended-Rice lossless compression algorithm, suitable for use with scientific data."}

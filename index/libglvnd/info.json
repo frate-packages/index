@@ -1,1 +1,1 @@
-{"name":"libglvnd","git":"https://gitlab.freedesktop.org/glvnd/libglvnd"}
+{"name":"libglvnd","git":"https://gitlab.freedesktop.org/glvnd/libglvnd","description":"The GL Vendor-Neutral Dispatch library"}

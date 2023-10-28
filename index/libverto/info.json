@@ -1,1 +1,1 @@
-{"name":"libverto","git":"https://github.com/latchset/libverto"}
+{"name":"libverto","git":"https://github.com/latchset/libverto","description":"An async event loop abstraction library."}

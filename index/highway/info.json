@@ -1,1 +1,1 @@
-{"name":"highway","git":"https://github.com/google/highway"}
+{"name":"highway","git":"https://github.com/google/highway","description":"Performance-portable, length-agnostic SIMD with runtime dispatch"}

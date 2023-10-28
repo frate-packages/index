@@ -1,1 +1,1 @@
-{"name":"libconfuse","git":"https://github.com/martinh/libconfuse"}
+{"name":"libconfuse","git":"https://github.com/martinh/libconfuse","description":"Small configuration file parser library for C"}

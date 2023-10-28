@@ -1,1 +1,1 @@
-{"name":"nanorange","git":"https://github.com/tcbrindle/NanoRange"}
+{"name":"nanorange","git":"https://github.com/tcbrindle/NanoRange","description":"NanoRange is a C++17 implementation of the C++20 Ranges proposals (formerly the Ranges TS)."}

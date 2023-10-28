@@ -1,1 +1,1 @@
-{"name":"libsgp4","git":"https://github.com/dnwrnr/sgp4"}
+{"name":"libsgp4","git":"https://github.com/dnwrnr/sgp4","description":"C++11 library for SGP4 Simplified perturbations model."}

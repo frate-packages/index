@@ -1,1 +1,1 @@
-{"name":"lest","git":"https://github.com/martinmoene/lest"}
+{"name":"lest","git":"https://github.com/martinmoene/lest","description":"A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD."}

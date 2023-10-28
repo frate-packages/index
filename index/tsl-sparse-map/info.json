@@ -1,1 +1,1 @@
-{"name":"tsl-sparse-map","git":"https://github.com/Tessil/sparse-map"}
+{"name":"tsl-sparse-map","git":"https://github.com/Tessil/sparse-map","description":"C++ implementation of a memory efficient hash map and hash set"}

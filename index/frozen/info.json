@@ -1,1 +1,1 @@
-{"name":"frozen","git":"https://github.com/serge-sans-paille/frozen"}
+{"name":"frozen","git":"https://github.com/serge-sans-paille/frozen","description":"A header-only, constexpr alternative to gperf for C++14 users."}

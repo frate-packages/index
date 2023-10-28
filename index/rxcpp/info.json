@@ -1,1 +1,1 @@
-{"name":"rxcpp","git":"https://github.com/Reactive-Extensions/RxCpp"}
+{"name":"rxcpp","git":"https://github.com/ReactiveX/RxCpp","description":"C++11 library for composing operations on streams of asynchronous events."}

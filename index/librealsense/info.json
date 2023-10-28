@@ -1,1 +1,1 @@
-{"name":"librealsense","git":"https://github.com/IntelRealSense/librealsense"}
+{"name":"librealsense","git":"https://github.com/IntelRealSense/librealsense","description":"Intel(R) RealSense(tm) Cross Platform API for accessing Intel RealSense cameras."}

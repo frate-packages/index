@@ -1,1 +1,1 @@
-{"name":"libmaxminddb","git":"http://maxmind.github.io/libmaxminddb/"}
+{"name":"libmaxminddb","git":"http://maxmind.github.io/libmaxminddb/","description":"C library for the MaxMind DB file format"}

@@ -1,1 +1,1 @@
-{"name":"luajit","git":"https://github.com/LuaJIT/LuaJIT"}
+{"name":"luajit","git":"http://luajit.org","description":"LuaJIT is a Just-In-Time Compiler (JIT) for the Lua programming language."}

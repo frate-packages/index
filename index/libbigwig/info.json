@@ -1,1 +1,1 @@
-{"name":"libbigwig","git":"https://github.com/dpryan79/libBigWig"}
+{"name":"libbigwig","git":"https://github.com/dpryan79/libBigWig","description":"A C library for handling bigWig files"}

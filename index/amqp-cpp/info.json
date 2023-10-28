@@ -1,1 +1,1 @@
-{"name":"amqp-cpp","git":"https://github.com/CopernicaMarketingSoftware/AMQP-CPP"}
+{"name":"amqp-cpp","git":"https://github.com/CopernicaMarketingSoftware/AMQP-CPP","description":"C++ library for asynchronous non-blocking communication with RabbitMQ"}

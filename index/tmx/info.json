@@ -1,1 +1,1 @@
-{"name":"tmx","git":"https://github.com/baylej/tmx"}
+{"name":"tmx","git":"https://github.com/baylej/tmx","description":"A portable C library to load tiled maps in your games."}

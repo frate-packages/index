@@ -1,1 +1,1 @@
-{"name":"libmysqlclient","git":"https://dev.mysql.com/downloads/mysql/"}
+{"name":"libmysqlclient","git":"https://dev.mysql.com/downloads/mysql/","description":"A MySQL client library for C development."}

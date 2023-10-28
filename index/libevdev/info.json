@@ -1,1 +1,1 @@
-{"name":"libevdev","git":"https://www.freedesktop.org/wiki/Software/libevdev"}
+{"name":"libevdev","git":"https://www.freedesktop.org/wiki/Software/libevdev","description":"libevdev is a wrapper library for evdev devices."}

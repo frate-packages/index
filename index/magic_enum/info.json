@@ -1,1 +1,1 @@
-{"name":"magic_enum","git":"https://github.com/Neargye/magic_enum"}
+{"name":"magic_enum","git":"https://github.com/Neargye/magic_enum","description":"Header-only C++17 library provides static reflection for enums, work with any enum type without any macro or boilerplate code."}

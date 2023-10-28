@@ -1,1 +1,1 @@
-{"name":"foonathan-lexy","git":"https://github.com/foonathan/lexy"}
+{"name":"foonathan-lexy","git":"https://github.com/foonathan/lexy","description":"lexy is a parser combinator library for C++17 and onwards."}

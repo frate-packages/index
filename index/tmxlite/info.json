@@ -1,1 +1,1 @@
-{"name":"tmxlite","git":"https://github.com/fallahn/tmxlite"}
+{"name":"tmxlite","git":"https://github.com/fallahn/tmxlite","description":"A lightweight C++14 parsing library for tmx map files created with the Tiled map editor."}

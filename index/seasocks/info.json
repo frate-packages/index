@@ -1,1 +1,1 @@
-{"name":"seasocks","git":"https://github.com/mattgodbolt/seasocks"}
+{"name":"seasocks","git":"https://github.com/mattgodbolt/seasocks","description":"A tiny embeddable C++ HTTP and WebSocket server for Linux"}

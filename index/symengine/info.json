@@ -1,1 +1,1 @@
-{"name":"symengine","git":"https://symengine.org/"}
+{"name":"symengine","git":"https://symengine.org/","description":"A fast symbolic manipulation library, written in C++"}

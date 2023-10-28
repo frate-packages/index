@@ -22,6 +22,7 @@ struct Item {
     name: String,
     href: String,
     git: Option<String>,
+    description: String,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -92,6 +93,7 @@ impl Conan {
 
                 // create a item, store name, and redirect href, set git link to None
                 let mut item = Item {
+                    description: String::new(),
                     name,
                     href: link.unwrap().to_owned(),
                     git: None,
@@ -122,6 +124,7 @@ impl Conan {
             .into_iter()
             .map(|it| Package {
                 name: it.name,
+                description: it.description,
                 git: it.git,
             })
             .collect::<Vec<Package>>();
@@ -164,6 +167,19 @@ fn scrape(item: &mut Item, retry_couter: &mut HashMap<String, usize>) {
                     item.git = Some(l.to_owned());
                     println!("[#] Checking: {}", item.name);
                 }
+            };
+
+            if let Some(header) = doc
+                .select(&Selector::parse("div.recipeContentBox > div.col > div.row").unwrap())
+                .nth(1)
+            {
+                let text = header
+                    .select(&Selector::parse("div").unwrap())
+                    .next()
+                    .unwrap()
+                    .inner_html();
+
+                item.description = text;
             };
         };
     } else {

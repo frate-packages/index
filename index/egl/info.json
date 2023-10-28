@@ -1,1 +1,1 @@
-{"name":"egl","git":"https://www.khronos.org/egl"}
+{"name":"egl","git":"https://www.khronos.org/egl","description":"cross-platform virtual conan package for the EGL support"}

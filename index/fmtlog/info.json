@@ -1,1 +1,1 @@
-{"name":"fmtlog","git":"https://github.com/MengRao/fmtlog"}
+{"name":"fmtlog","git":"https://github.com/MengRao/fmtlog","description":"fmtlog is a performant fmtlib-style logging library with latency in nanoseconds."}

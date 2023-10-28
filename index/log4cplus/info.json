@@ -1,1 +1,1 @@
-{"name":"log4cplus","git":"https://github.com/log4cplus/log4cplus"}
+{"name":"log4cplus","git":"https://github.com/log4cplus/log4cplus","description":"simple to use C++ logging API, modelled after the Java log4j API"}

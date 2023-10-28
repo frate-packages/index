@@ -70,10 +70,10 @@ impl Vcpkg {
                     let package = Package {
                         name: item.Name,
                         git: item.Homepage,
-                        //description: match item.Description {
-                        //    Descriptions::Arr(v) => v,
-                        //    Descriptions::Str(v) => vec![v],
-                        //},
+                        description: String::new(), //description: match item.Description {
+                                                    //    Descriptions::Arr(v) => v,
+                                                    //    Descriptions::Str(v) => vec![v],
+                                                    //},
                     };
                     // push package to filtered stack
                     filtered.push(package);

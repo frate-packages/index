@@ -1,1 +1,1 @@
-{"name":"kmod","git":"https://github.com/kmod-project/kmod"}
+{"name":"kmod","git":"https://github.com/kmod-project/kmod","description":"linux kernel module handling library"}

@@ -1,1 +1,1 @@
-{"name":"mio","git":"https://github.com/mandreyel/mio"}
+{"name":"mio","git":"https://github.com/mandreyel/mio","description":"Cross-platform C++11 header-only library for memory mapped file IO."}

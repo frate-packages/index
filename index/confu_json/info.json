@@ -1,1 +1,1 @@
-{"name":"confu_json","git":"https://github.com/werto87/confu_json"}
+{"name":"confu_json","git":"https://github.com/werto87/confu_json","description":"uses boost::fusion to help with serialization; json &lt;-&gt; user defined type"}

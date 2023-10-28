@@ -1,1 +1,1 @@
-{"name":"picosha2","git":"https://github.com/okdshin/PicoSHA2"}
+{"name":"picosha2","git":"https://github.com/okdshin/PicoSHA2","description":"a header-file-only, SHA256 hash generator in C++ "}

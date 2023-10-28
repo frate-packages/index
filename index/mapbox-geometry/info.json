@@ -1,1 +1,1 @@
-{"name":"mapbox-geometry","git":"https://github.com/mapbox/geometry.hpp"}
+{"name":"mapbox-geometry","git":"https://github.com/mapbox/geometry.hpp","description":"Provides header-only, generic C++ interfaces for geometry types, geometry collections, and features."}

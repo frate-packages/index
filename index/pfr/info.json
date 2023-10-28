@@ -1,1 +1,1 @@
-{"name":"pfr","git":"https://github.com/boostorg/pfr"}
+{"name":"pfr","git":"https://github.com/boostorg/pfr","description":"std::tuple like methods for user defined types without any macro or boilerplate code"}

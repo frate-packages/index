@@ -1,1 +1,1 @@
-{"name":"pdf-writer","git":"https://github.com/galkahana/PDF-Writer"}
+{"name":"pdf-writer","git":"https://github.com/galkahana/PDF-Writer","description":"High performance library for creating, modiyfing and parsing PDF files in C++"}

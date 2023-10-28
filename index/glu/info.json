@@ -1,1 +1,1 @@
-{"name":"glu","git":"https://cgit.freedesktop.org/mesa/glu/"}
+{"name":"glu","git":"https://cgit.freedesktop.org/mesa/glu/","description":"cross-platform virtual conan package for the GLU support"}

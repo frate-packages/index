@@ -1,1 +1,1 @@
-{"name":"aws-c-http","git":"https://github.com/awslabs/aws-c-http"}
+{"name":"aws-c-http","git":"https://github.com/awslabs/aws-c-http","description":"C99 implementation of the HTTP/1.1 and HTTP/2 specifications"}

@@ -1,1 +1,1 @@
-{"name":"cpprestsdk","git":"https://github.com/Microsoft/cpprestsdk"}
+{"name":"cpprestsdk","git":"https://github.com/Microsoft/cpprestsdk","description":"A project for cloud-based client-server communication in native code using a modern asynchronous C++ API design"}

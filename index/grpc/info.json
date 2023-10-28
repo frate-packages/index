@@ -1,1 +1,1 @@
-{"name":"grpc","git":"https://github.com/grpc/grpc"}
+{"name":"grpc","git":"https://github.com/grpc/grpc","description":"Google's RPC (remote procedure call) library and framework."}

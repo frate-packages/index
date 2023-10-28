@@ -1,1 +1,1 @@
-{"name":"hwloc","git":"https://github.com/open-mpi/hwloc"}
+{"name":"hwloc","git":"https://www.open-mpi.org/projects/hwloc/","description":"Portable Hardware Locality (hwloc)"}

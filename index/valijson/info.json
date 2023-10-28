@@ -1,1 +1,1 @@
-{"name":"valijson","git":"https://github.com/tristanpenman/valijson"}
+{"name":"valijson","git":"https://github.com/tristanpenman/valijson","description":"Valijson is a header-only JSON Schema Validation library for C++11."}

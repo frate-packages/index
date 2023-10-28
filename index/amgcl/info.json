@@ -1,1 +1,1 @@
-{"name":"amgcl","git":"https://github.com/ddemidov/amgcl"}
+{"name":"amgcl","git":"https://github.com/ddemidov/amgcl","description":"AMGCL is a header-only C++ library for solving large sparse linear systems with algebraic multigrid (AMG) method."}

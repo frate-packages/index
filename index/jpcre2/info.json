@@ -1,1 +1,1 @@
-{"name":"jpcre2","git":"https://github.com/jpcre2/jpcre2"}
+{"name":"jpcre2","git":"https://github.com/jpcre2/jpcre2","description":"Header-only C++ wrapper for PCRE2 library."}

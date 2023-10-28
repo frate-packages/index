@@ -1,1 +1,1 @@
-{"name":"matchit","git":"https://github.com/BowenFu/matchit.cpp"}
+{"name":"matchit","git":"https://github.com/BowenFu/matchit.cpp","description":"match(it): A lightweight header-only pattern-matching library for C++17 with macro-free APIs."}

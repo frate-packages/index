@@ -1,1 +1,1 @@
-{"name":"libmicrohttpd","git":"https://www.gnu.org/software/libmicrohttpd/"}
+{"name":"libmicrohttpd","git":"https://www.gnu.org/software/libmicrohttpd/","description":"A small C library that is supposed to make it easy to run an HTTP server"}

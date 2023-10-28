@@ -1,1 +1,1 @@
-{"name":"highfive","git":"https://github.com/BlueBrain/HighFive"}
+{"name":"highfive","git":"https://github.com/BlueBrain/HighFive","description":"HighFive is a modern header-only C++11 friendly interface for libhdf5."}

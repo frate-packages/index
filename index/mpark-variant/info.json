@@ -1,1 +1,1 @@
-{"name":"mpark-variant","git":"https://github.com/mpark/variant"}
+{"name":"mpark-variant","git":"https://github.com/mpark/variant","description":"C++17 std::variant for C++11/14/17"}

@@ -1,1 +1,1 @@
-{"name":"simple-websocket-server","git":"https://gitlab.com/eidheim/Simple-WebSocket-Server"}
+{"name":"simple-websocket-server","git":"https://gitlab.com/eidheim/Simple-WebSocket-Server","description":"A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library."}

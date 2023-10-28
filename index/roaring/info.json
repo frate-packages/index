@@ -1,1 +1,1 @@
-{"name":"roaring","git":"https://github.com/RoaringBitmap/CRoaring"}
+{"name":"roaring","git":"https://github.com/RoaringBitmap/CRoaring","description":"Portable Roaring bitmaps in C and C++"}

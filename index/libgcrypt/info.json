@@ -1,1 +1,1 @@
-{"name":"libgcrypt","git":"https://www.gnupg.org/download/index.html#libgcrypt"}
+{"name":"libgcrypt","git":"https://www.gnupg.org/download/index.html#libgcrypt","description":"Libgcrypt is a general purpose cryptographic library originally based on code from GnuPG"}

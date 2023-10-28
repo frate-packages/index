@@ -1,1 +1,1 @@
-{"name":"libspatialindex","git":"https://github.com/libspatialindex/libspatialindex"}
+{"name":"libspatialindex","git":"https://github.com/libspatialindex/libspatialindex","description":"C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API."}

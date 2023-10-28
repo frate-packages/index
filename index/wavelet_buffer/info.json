@@ -1,1 +1,1 @@
-{"name":"wavelet_buffer","git":"https://github.com/panda-official/WaveletBuffer"}
+{"name":"wavelet_buffer","git":"https://github.com/panda-official/WaveletBuffer","description":"An universal C++ compression library based on wavelet transformation"}

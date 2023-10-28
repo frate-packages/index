@@ -1,1 +1,1 @@
-{"name":"picojson","git":"https://github.com/kazuho/picojson"}
+{"name":"picojson","git":"https://github.com/kazuho/picojson","description":"A C++ JSON parser/serializer"}

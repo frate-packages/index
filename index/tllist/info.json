@@ -1,1 +1,1 @@
-{"name":"tllist","git":"https://codeberg.org/dnkl/tllist"}
+{"name":"tllist","git":"https://codeberg.org/dnkl/tllist","description":"A C header file only implementation of a typed linked list."}

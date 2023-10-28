@@ -1,1 +1,1 @@
-{"name":"gtsam","git":"https://github.com/borglab/gtsam"}
+{"name":"gtsam","git":"https://github.com/borglab/gtsam","description":"GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision"}

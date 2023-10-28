@@ -1,1 +1,1 @@
-{"name":"libcuckoo","git":"https://github.com/efficient/libcuckoo"}
+{"name":"libcuckoo","git":"https://github.com/efficient/libcuckoo","description":"A high-performance, concurrent hash table"}

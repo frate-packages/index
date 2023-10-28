@@ -1,1 +1,1 @@
-{"name":"taskflow","git":"https://github.com/taskflow/taskflow"}
+{"name":"taskflow","git":"https://github.com/taskflow/taskflow","description":"A fast C++ header-only library to help you quickly write parallel programs with complex task dependencies."}

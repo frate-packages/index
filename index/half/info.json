@@ -1,1 +1,1 @@
-{"name":"half","git":"https://sourceforge.net/projects/half"}
+{"name":"half","git":"https://sourceforge.net/projects/half","description":"C++ header-only library to provide an IEEE 754 conformant 16-bit half-precision floating-point type along with corresponding arithmetic operators, type conversions and common mathematical functions."}

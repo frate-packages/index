@@ -1,1 +1,1 @@
-{"name":"joltphysics","git":"https://github.com/jrouwe/JoltPhysics"}
+{"name":"joltphysics","git":"https://github.com/jrouwe/JoltPhysics","description":"A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications."}

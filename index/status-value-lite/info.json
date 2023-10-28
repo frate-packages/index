@@ -1,1 +1,1 @@
-{"name":"status-value-lite","git":"https://github.com/martinmoene/status-value-lite"}
+{"name":"status-value-lite","git":"https://github.com/martinmoene/status-value-lite","description":"status-value - A class for status and optional value for C++11 and later, C++98 variant provided in a single-file header-only library"}

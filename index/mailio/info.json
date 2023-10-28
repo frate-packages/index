@@ -1,1 +1,1 @@
-{"name":"mailio","git":"https://github.com/karastojko/mailio"}
+{"name":"mailio","git":"https://github.com/karastojko/mailio","description":"mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols."}

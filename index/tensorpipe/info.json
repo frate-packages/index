@@ -1,1 +1,1 @@
-{"name":"tensorpipe","git":"https://github.com/pytorch/tensorpipe"}
+{"name":"tensorpipe","git":"https://github.com/pytorch/tensorpipe","description":"The TensorPipe project provides a tensor-aware channel to transfer rich objects from one process to another while using the fastest transport for the tensors contained therein (e.g., CUDA device-to-device copy)."}

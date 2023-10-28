@@ -1,1 +1,1 @@
-{"name":"cppbenchmark","git":"https://github.com/chronoxor/CppBenchmark"}
+{"name":"cppbenchmark","git":"https://github.com/chronoxor/CppBenchmark","description":"Performance benchmark framework for C++ with nanoseconds measure precision."}

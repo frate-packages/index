@@ -1,1 +1,1 @@
-{"name":"cs_libguarded","git":"https://github.com/copperspice/libguarded"}
+{"name":"cs_libguarded","git":"https://github.com/copperspice/libguarded","description":"The libGuarded library is a standalone header-only library for multithreaded programming."}

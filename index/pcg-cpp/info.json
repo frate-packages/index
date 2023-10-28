@@ -1,1 +1,1 @@
-{"name":"pcg-cpp","git":"https://github.com/imneme/pcg-cpp"}
+{"name":"pcg-cpp","git":"https://github.com/imneme/pcg-cpp","description":"C++ implementation of the PCG family of random number generators."}

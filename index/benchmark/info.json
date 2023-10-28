@@ -1,1 +1,1 @@
-{"name":"benchmark","git":"https://github.com/google/benchmark"}
+{"name":"benchmark","git":"https://github.com/google/benchmark","description":"A microbenchmark support library."}

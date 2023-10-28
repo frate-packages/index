@@ -1,1 +1,1 @@
-{"name":"assimp","git":"https://github.com/assimp/assimp"}
+{"name":"assimp","git":"https://github.com/assimp/assimp","description":"A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data."}

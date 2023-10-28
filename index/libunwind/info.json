@@ -1,1 +1,1 @@
-{"name":"libunwind","git":"https://github.com/libunwind/libunwind"}
+{"name":"libunwind","git":"https://github.com/libunwind/libunwind","description":"Manipulate the preserved state of each call-frame and resume the execution at any point."}

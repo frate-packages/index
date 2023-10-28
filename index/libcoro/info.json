@@ -1,1 +1,1 @@
-{"name":"libcoro","git":"https://github.com/jbaldwin/libcoro"}
+{"name":"libcoro","git":"https://github.com/jbaldwin/libcoro","description":"C++20 coroutine library"}

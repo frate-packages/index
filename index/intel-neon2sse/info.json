@@ -1,1 +1,1 @@
-{"name":"intel-neon2sse","git":"https://github.com/intel/ARM_NEON_2_x86_SSE"}
+{"name":"intel-neon2sse","git":"https://github.com/intel/ARM_NEON_2_x86_SSE","description":"Header only library intended to simplify ARM-&gt;IA32 porting"}

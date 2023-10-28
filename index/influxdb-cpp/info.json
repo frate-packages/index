@@ -1,1 +1,1 @@
-{"name":"influxdb-cpp","git":"https://github.com/orca-zhang/influxdb-cpp"}
+{"name":"influxdb-cpp","git":"https://github.com/orca-zhang/influxdb-cpp","description":"C++ client for InfluxDB."}

@@ -1,1 +1,1 @@
-{"name":"msgpack-cxx","git":"https://github.com/msgpack/msgpack-c"}
+{"name":"msgpack-cxx","git":"https://github.com/msgpack/msgpack-c","description":"The official C++ library for MessagePack"}

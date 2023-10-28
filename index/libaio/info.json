@@ -1,1 +1,1 @@
-{"name":"libaio","git":"https://pagure.io/libaio"}
+{"name":"libaio","git":"https://pagure.io/libaio","description":"libaio provides the Linux-native API for async I/O."}

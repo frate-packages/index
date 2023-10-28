@@ -1,1 +1,1 @@
-{"name":"boolean-lite","git":"https://github.com/martinmoene/boolean-lite"}
+{"name":"boolean-lite","git":"https://github.com/martinmoene/boolean-lite","description":"boolean lite - A strong boolean type for C++98 and later in a single-file header-only library"}

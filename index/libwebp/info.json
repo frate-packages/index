@@ -1,1 +1,1 @@
-{"name":"libwebp","git":"https://github.com/webmproject/libwebp"}
+{"name":"libwebp","git":"https://chromium.googlesource.com/webm/libwebp","description":"Library to encode and decode images in WebP format"}

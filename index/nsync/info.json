@@ -1,1 +1,1 @@
-{"name":"nsync","git":"https://github.com/google/nsync"}
+{"name":"nsync","git":"https://github.com/google/nsync","description":"Library that exports various synchronization primitives"}

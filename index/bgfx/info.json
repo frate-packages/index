@@ -1,1 +1,1 @@
-{"name":"bgfx","git":"https://github.com/bkaradzic/bgfx"}
+{"name":"bgfx","git":"https://github.com/bkaradzic/bgfx","description":"Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library."}

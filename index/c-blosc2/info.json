@@ -1,1 +1,1 @@
-{"name":"c-blosc2","git":"https://github.com/Blosc/c-blosc2"}
+{"name":"c-blosc2","git":"https://github.com/Blosc/c-blosc2","description":"A fast, compressed, persistent binary data store library for C."}

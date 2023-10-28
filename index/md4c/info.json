@@ -1,1 +1,1 @@
-{"name":"md4c","git":"https://github.com/mity/md4c"}
+{"name":"md4c","git":"https://github.com/mity/md4c","description":"C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification."}

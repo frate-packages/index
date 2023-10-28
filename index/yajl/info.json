@@ -1,1 +1,1 @@
-{"name":"yajl","git":"https://github.com/lloyd/yajl"}
+{"name":"yajl","git":"https://github.com/lloyd/yajl","description":"A fast streaming JSON parsing library in C"}

@@ -1,1 +1,1 @@
-{"name":"simde","git":"https://github.com/simd-everywhere/simde"}
+{"name":"simde","git":"https://github.com/simd-everywhere/simde","description":"Implementations of SIMD instruction sets for systems which don't natively support them."}

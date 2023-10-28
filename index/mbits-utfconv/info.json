@@ -1,1 +1,1 @@
-{"name":"mbits-utfconv","git":"https://github.com/mbits-libs/utfconv"}
+{"name":"mbits-utfconv","git":"https://github.com/mbits-libs/utfconv","description":"Conversion library between string, u16string, u32string and u8string."}

@@ -1,1 +1,1 @@
-{"name":"cargs","git":"https://likle.github.io/cargs/"}
+{"name":"cargs","git":"https://likle.github.io/cargs/","description":"A lightweight getopt replacement that works on Linux, Windows and macOS. Command line argument parser library for C/C++. Can be used to parse argv and argc parameters."}

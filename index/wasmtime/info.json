@@ -1,1 +1,1 @@
-{"name":"wasmtime","git":"https://github.com/bytecodealliance/wasmtime"}
+{"name":"wasmtime","git":"https://github.com/bytecodealliance/wasmtime","description":"Standalone JIT-style runtime for WebAssembly, using Cranelift"}

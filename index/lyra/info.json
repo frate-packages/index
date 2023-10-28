@@ -1,1 +1,1 @@
-{"name":"lyra","git":"https://bfgroup.github.io/Lyra/"}
+{"name":"lyra","git":"https://bfgroup.github.io/Lyra/","description":"A simple to use, composing, header only, command line arguments parser for C++ 11 and beyond."}

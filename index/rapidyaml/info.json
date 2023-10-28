@@ -1,1 +1,1 @@
-{"name":"rapidyaml","git":"https://github.com/biojppm/rapidyaml"}
+{"name":"rapidyaml","git":"https://github.com/biojppm/rapidyaml","description":"a library to parse and emit YAML, and do it fast."}

@@ -1,1 +1,1 @@
-{"name":"mbits-mstch","git":"https://github.com/mbits-libs/libmstch"}
+{"name":"mbits-mstch","git":"https://github.com/mbits-libs/libmstch","description":"libmstch implemented in terms of C++17 variant."}

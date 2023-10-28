@@ -1,1 +1,1 @@
-{"name":"urdfdom","git":"https://github.com/ros/urdfdom"}
+{"name":"urdfdom","git":"https://github.com/ros/urdfdom","description":"Data structures and parsers to access URDF files using the DOM model"}

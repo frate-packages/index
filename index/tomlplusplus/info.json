@@ -1,1 +1,1 @@
-{"name":"tomlplusplus","git":"https://marzer.github.io/tomlplusplus/"}
+{"name":"tomlplusplus","git":"https://github.com/marzer/tomlplusplus","description":"Header-only TOML config file parser and serializer for modern C++."}

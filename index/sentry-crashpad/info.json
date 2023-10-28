@@ -1,1 +1,1 @@
-{"name":"sentry-crashpad","git":"https://github.com/getsentry/sentry-native"}
+{"name":"sentry-crashpad","git":"https://github.com/getsentry/sentry-native","description":"Crashpad is a crash-reporting system."}

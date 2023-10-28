@@ -1,1 +1,1 @@
-{"name":"msgpack-c","git":"https://github.com/msgpack/msgpack-c"}
+{"name":"msgpack-c","git":"https://github.com/msgpack/msgpack-c","description":"MessagePack implementation for C"}

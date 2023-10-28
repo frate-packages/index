@@ -1,1 +1,1 @@
-{"name":"libnl","git":"https://github.com/thom311/libnl"}
+{"name":"libnl","git":"https://github.com/thom311/libnl","description":"A collection of libraries providing APIs to netlink protocol based Linux kernel interfaces."}

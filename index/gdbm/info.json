@@ -1,1 +1,1 @@
-{"name":"gdbm","git":"https://www.gnu.org.ua/software/gdbm/gdbm.html"}
+{"name":"gdbm","git":"https://www.gnu.org.ua/software/gdbm/gdbm.html","description":"gdbm is a library of database functions that uses extensible hashing and work similar to the standard UNIX dbm. These routines are provided to a programmer needing to create and manipulate a hashed database."}

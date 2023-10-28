@@ -1,1 +1,1 @@
-{"name":"zfp","git":"https://github.com/LLNL/zfp"}
+{"name":"zfp","git":"https://github.com/LLNL/zfp","description":"Compressed numerical arrays that support high-speed random access"}

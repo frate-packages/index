@@ -1,1 +1,1 @@
-{"name":"re2","git":"https://github.com/google/re2"}
+{"name":"re2","git":"https://github.com/google/re2","description":"Fast, safe, thread-friendly regular expression library"}

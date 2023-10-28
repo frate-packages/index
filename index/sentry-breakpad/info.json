@@ -1,1 +1,1 @@
-{"name":"sentry-breakpad","git":"https://github.com/getsentry/breakpad"}
+{"name":"sentry-breakpad","git":"https://github.com/getsentry/breakpad","description":"Client component that implements a crash-reporting system."}

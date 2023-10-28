@@ -1,1 +1,1 @@
-{"name":"cd3-boost-unit-definitions","git":"https://github.com/CD3/BoostUnitDefinitions"}
+{"name":"cd3-boost-unit-definitions","git":"https://github.com/CD3/BoostUnitDefinitions","description":"A collection of pre-defined types and unit instances for working with Boost.Units quantities."}

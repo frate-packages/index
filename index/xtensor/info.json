@@ -1,1 +1,1 @@
-{"name":"xtensor","git":"https://github.com/xtensor-stack/xtensor"}
+{"name":"xtensor","git":"https://github.com/xtensor-stack/xtensor","description":"C++ tensors with broadcasting and lazy computing"}

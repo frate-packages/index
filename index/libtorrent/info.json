@@ -1,1 +1,1 @@
-{"name":"libtorrent","git":"http://libtorrent.org"}
+{"name":"libtorrent","git":"http://libtorrent.org","description":"libtorrent is a feature complete C++ bittorrent implementation focusing on efficiency and scalability"}

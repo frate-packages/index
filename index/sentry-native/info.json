@@ -1,1 +1,1 @@
-{"name":"sentry-native","git":"https://github.com/getsentry/sentry-native"}
+{"name":"sentry-native","git":"https://github.com/getsentry/sentry-native","description":"The Sentry Native SDK is an error and crash reporting client for native applications, optimized for C and C++. Sentry allows to add tags, breadcrumbs and arbitrary custom context to enrich error reports."}

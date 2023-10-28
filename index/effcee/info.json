@@ -1,1 +1,1 @@
-{"name":"effcee","git":"https://github.com/google/effcee/"}
+{"name":"effcee","git":"https://github.com/google/effcee/","description":"Effcee is a C++ library for stateful pattern matching of strings, inspired by LLVM's FileCheck"}

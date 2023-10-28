@@ -1,1 +1,1 @@
-{"name":"libcbor","git":"https://github.com/PJK/libcbor"}
+{"name":"libcbor","git":"https://github.com/PJK/libcbor","description":"CBOR protocol implementation for C"}

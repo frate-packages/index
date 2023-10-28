@@ -1,1 +1,1 @@
-{"name":"llhttp","git":"https://github.com/nodejs/llhttp"}
+{"name":"llhttp","git":"https://github.com/nodejs/llhttp","description":"http request/response parser for c"}

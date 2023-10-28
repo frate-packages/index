@@ -1,1 +1,1 @@
-{"name":"platform.delegates","git":"https://github.com/linksplatform/Delegates"}
+{"name":"platform.delegates","git":"https://github.com/linksplatform/Delegates","description":"platform.delegates is one of the libraries of the LinksPlatform modular framework, which uses\n    innovations from the C++17 standard, for easier use delegates/events in csharp style."}

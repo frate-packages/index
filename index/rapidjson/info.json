@@ -1,1 +1,1 @@
-{"name":"rapidjson","git":"http://rapidjson.org"}
+{"name":"rapidjson","git":"http://rapidjson.org","description":"A fast JSON parser/generator for C++ with both SAX/DOM style API"}

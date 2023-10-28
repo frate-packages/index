@@ -1,1 +1,1 @@
-{"name":"opencl-headers","git":"https://github.com/KhronosGroup/OpenCL-Headers"}
+{"name":"opencl-headers","git":"https://github.com/KhronosGroup/OpenCL-Headers","description":"C language headers for the OpenCL API"}

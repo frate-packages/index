@@ -1,1 +1,1 @@
-{"name":"libatomic_ops","git":"https://github.com/ivmai/libatomic_ops"}
+{"name":"libatomic_ops","git":"https://github.com/ivmai/libatomic_ops","description":"The atomic_ops project (Atomic memory update operations portable implementation)"}

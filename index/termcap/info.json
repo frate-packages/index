@@ -1,1 +1,1 @@
-{"name":"termcap","git":"https://www.gnu.org/software/termcap"}
+{"name":"termcap","git":"https://www.gnu.org/software/termcap","description":"Enables programs to use display terminals in a terminal-independent manner"}

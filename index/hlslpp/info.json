@@ -1,1 +1,1 @@
-{"name":"hlslpp","git":"https://github.com/redorav/hlslpp"}
+{"name":"hlslpp","git":"https://github.com/redorav/hlslpp","description":"Header-only Math library using hlsl syntax with SSE/NEON support"}

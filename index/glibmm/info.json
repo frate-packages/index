@@ -1,1 +1,1 @@
-{"name":"glibmm","git":"https://gitlab.gnome.org/GNOME/glibmm"}
+{"name":"glibmm","git":"https://gitlab.gnome.org/GNOME/glibmm","description":"glibmm is a C++ API for parts of glib that are useful for C++."}

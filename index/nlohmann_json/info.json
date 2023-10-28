@@ -1,1 +1,1 @@
-{"name":"nlohmann_json","git":"https://github.com/nlohmann/json"}
+{"name":"nlohmann_json","git":"https://github.com/nlohmann/json","description":"JSON for Modern C++ parser and generator."}

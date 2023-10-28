@@ -1,1 +1,1 @@
-{"name":"univalue","git":"https://github.com/jgarzik/univalue"}
+{"name":"univalue","git":"https://github.com/jgarzik/univalue","description":"High performance RAII C++ JSON library and universal value object class"}

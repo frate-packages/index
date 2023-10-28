@@ -1,1 +1,1 @@
-{"name":"tinymidi","git":"https://github.com/krgn/tinymidi"}
+{"name":"tinymidi","git":"https://github.com/krgn/tinymidi","description":"A small C library for doing MIDI on GNU/Linux"}

@@ -1,1 +1,1 @@
-{"name":"xlnt","git":"https://github.com/tfussell/xlnt"}
+{"name":"xlnt","git":"https://github.com/tfussell/xlnt","description":"Cross-platform user-friendly xlsx library for C++11+"}

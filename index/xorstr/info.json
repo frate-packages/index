@@ -1,1 +1,1 @@
-{"name":"xorstr","git":"https://github.com/JustasMasiulis/xorstr"}
+{"name":"xorstr","git":"https://github.com/JustasMasiulis/xorstr","description":"A heavily vectorized c++17 compile time string encryption."}

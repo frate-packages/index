@@ -1,1 +1,1 @@
-{"name":"libxslt","git":"https://github.com/GNOME/libxslt"}
+{"name":"libxslt","git":"https://xmlsoft.org","description":"libxslt is a software library implementing XSLT processor, based on libxml2"}

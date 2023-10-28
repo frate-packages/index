@@ -1,1 +1,1 @@
-{"name":"nanomsg","git":"https://github.com/nanomsg/nanomsg"}
+{"name":"nanomsg","git":"https://github.com/nanomsg/nanomsg","description":"A socket library that provides several common communication patterns."}

@@ -1,1 +1,1 @@
-{"name":"cppkafka","git":"https://github.com/mfontanini/cppkafka"}
+{"name":"cppkafka","git":"https://github.com/mfontanini/cppkafka","description":"Modern C++ Apache Kafka client library (wrapper for librdkafka)"}

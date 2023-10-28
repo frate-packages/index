@@ -1,1 +1,1 @@
-{"name":"flecs","git":"https://github.com/SanderMertens/flecs"}
+{"name":"flecs","git":"https://github.com/SanderMertens/flecs","description":"A fast entity component system (ECS) for C &amp; C++"}

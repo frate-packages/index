@@ -1,1 +1,1 @@
-{"name":"tsl-ordered-map","git":"https://github.com/Tessil/ordered-map"}
+{"name":"tsl-ordered-map","git":"https://github.com/Tessil/ordered-map","description":"C++ hash map and hash set which preserve the order of insertion."}

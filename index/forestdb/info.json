@@ -1,1 +1,1 @@
-{"name":"forestdb","git":"https://github.com/ForestDB-KVStore/forestdb"}
+{"name":"forestdb","git":"https://github.com/ForestDB-KVStore/forestdb","description":"ForestDB is a KeyValue store based on a Hierarchical B+-Tree."}

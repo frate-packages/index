@@ -1,1 +1,1 @@
-{"name":"sigslot","git":"https://github.com/palacaze/sigslot"}
+{"name":"sigslot","git":"https://github.com/palacaze/sigslot","description":"Sigslot is a header-only, thread safe implementation of signal-slots for C++."}

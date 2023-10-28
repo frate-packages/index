@@ -1,1 +1,1 @@
-{"name":"alpaca","git":"https://github.com/p-ranav/alpaca"}
+{"name":"alpaca","git":"https://github.com/p-ranav/alpaca","description":"Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code"}

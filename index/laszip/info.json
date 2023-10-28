@@ -1,1 +1,1 @@
-{"name":"laszip","git":"https://github.com/LASzip/LASzip"}
+{"name":"laszip","git":"https://github.com/LASzip/LASzip","description":"C++ library for lossless LiDAR compression."}

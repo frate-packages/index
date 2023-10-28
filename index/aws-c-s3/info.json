@@ -1,1 +1,1 @@
-{"name":"aws-c-s3","git":"https://github.com/awslabs/aws-c-s3"}
+{"name":"aws-c-s3","git":"https://github.com/awslabs/aws-c-s3","description":"C99 implementation of the S3 client"}

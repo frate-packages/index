@@ -1,1 +1,1 @@
-{"name":"libaesgm","git":"https://github.com/xmake-mirror/libaesgm"}
+{"name":"libaesgm","git":"https://github.com/xmake-mirror/libaesgm","description":"Library implementation of AES (Rijndael) cryptographic methods"}

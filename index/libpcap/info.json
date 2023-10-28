@@ -1,1 +1,1 @@
-{"name":"libpcap","git":"https://github.com/the-tcpdump-group/libpcap"}
+{"name":"libpcap","git":"https://github.com/the-tcpdump-group/libpcap","description":"libpcap is an API for capturing network traffic"}

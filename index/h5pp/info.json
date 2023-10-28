@@ -1,1 +1,1 @@
-{"name":"h5pp","git":"https://github.com/DavidAce/h5pp"}
+{"name":"h5pp","git":"https://github.com/DavidAce/h5pp","description":"A C++17 wrapper for HDF5 with focus on simplicity"}

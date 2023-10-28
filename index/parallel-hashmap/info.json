@@ -1,1 +1,1 @@
-{"name":"parallel-hashmap","git":"https://github.com/greg7mdp/parallel-hashmap"}
+{"name":"parallel-hashmap","git":"https://github.com/greg7mdp/parallel-hashmap","description":"A family of header-only, very fast and memory-friendly hashmap and btree containers."}

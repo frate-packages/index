@@ -1,1 +1,1 @@
-{"name":"mongo-cxx-driver","git":"http://mongocxx.org"}
+{"name":"mongo-cxx-driver","git":"http://mongocxx.org","description":"C++ Driver for MongoDB"}

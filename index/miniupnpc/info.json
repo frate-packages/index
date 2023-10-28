@@ -1,1 +1,1 @@
-{"name":"miniupnpc","git":"https://github.com/miniupnp/miniupnp"}
+{"name":"miniupnpc","git":"https://github.com/miniupnp/miniupnp","description":"UPnP client library/tool to access Internet Gateway Devices."}

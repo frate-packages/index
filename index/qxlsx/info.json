@@ -1,1 +1,1 @@
-{"name":"qxlsx","git":"https://github.com/QtExcel/QXlsx"}
+{"name":"qxlsx","git":"https://github.com/QtExcel/QXlsx","description":"Excel file(*.xlsx) reader/writer library using Qt 5 or 6."}

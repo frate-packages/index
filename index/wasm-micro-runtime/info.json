@@ -1,1 +1,1 @@
-{"name":"wasm-micro-runtime","git":"https://bytecodealliance.github.io/wamr.dev/"}
+{"name":"wasm-micro-runtime","git":"https://bytecodealliance.github.io/wamr.dev/","description":"WebAssembly Micro Runtime (WAMR)"}

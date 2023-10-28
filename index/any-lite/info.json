@@ -1,1 +1,1 @@
-{"name":"any-lite","git":"https://github.com/martinmoene/any-lite"}
+{"name":"any-lite","git":"https://github.com/martinmoene/any-lite","description":"any lite - A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library"}

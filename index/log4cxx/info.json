@@ -1,1 +1,1 @@
-{"name":"log4cxx","git":"https://logging.apache.org/log4cxx"}
+{"name":"log4cxx","git":"https://logging.apache.org/log4cxx","description":"Logging framework for C++ patterned after Apache log4j"}

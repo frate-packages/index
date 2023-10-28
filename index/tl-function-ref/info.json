@@ -1,1 +1,1 @@
-{"name":"tl-function-ref","git":"https://github.com/TartanLlama/function_ref"}
+{"name":"tl-function-ref","git":"https://github.com/TartanLlama/function_ref","description":"A lightweight, non-owning reference to a callable."}

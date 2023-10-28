@@ -1,1 +1,1 @@
-{"name":"tsl-hat-trie","git":"https://github.com/Tessil/hat-trie"}
+{"name":"tsl-hat-trie","git":"https://github.com/Tessil/hat-trie","description":"C++ implementation of a fast and memory efficient HAT-trie."}

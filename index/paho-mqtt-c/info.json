@@ -1,1 +1,1 @@
-{"name":"paho-mqtt-c","git":"https://github.com/eclipse/paho.mqtt.c"}
+{"name":"paho-mqtt-c","git":"https://github.com/eclipse/paho.mqtt.c","description":"Eclipse Paho MQTT C client library for Linux, Windows and MacOS"}

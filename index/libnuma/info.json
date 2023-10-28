@@ -1,1 +1,1 @@
-{"name":"libnuma","git":"https://github.com/numactl/numactl"}
+{"name":"libnuma","git":"https://github.com/numactl/numactl","description":"NUMA support for Linux."}

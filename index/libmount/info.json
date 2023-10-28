@@ -1,1 +1,1 @@
-{"name":"libmount","git":"https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git"}
+{"name":"libmount","git":"https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git","description":"The libmount library is used to parse /etc/fstab, /etc/mtab and /proc/self/mountinfo files, manage the mtab file, evaluate mount options, etc"}

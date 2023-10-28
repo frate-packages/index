@@ -1,1 +1,1 @@
-{"name":"mbits-diags","git":"https://github.com/mbits-libs/diags"}
+{"name":"mbits-diags","git":"https://github.com/mbits-libs/diags","description":"Diagnostic library with source positions, ranges and hints."}

@@ -1,1 +1,1 @@
-{"name":"jwt-cpp","git":"https://github.com/Thalhammer/jwt-cpp"}
+{"name":"jwt-cpp","git":"https://github.com/Thalhammer/jwt-cpp","description":"A C++ JSON Web Token library for encoding/decoding"}

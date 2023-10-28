@@ -1,1 +1,1 @@
-{"name":"xorg-makedepend","git":"https://gitlab.freedesktop.org/xorg/util/makedepend"}
+{"name":"xorg-makedepend","git":"https://gitlab.freedesktop.org/xorg/util/makedepend","description":"Utility to parse C source files to make dependency lists for Makefiles"}

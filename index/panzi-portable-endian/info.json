@@ -1,1 +1,1 @@
-{"name":"panzi-portable-endian","git":"https://gist.github.com/panzi/6856583"}
+{"name":"panzi-portable-endian","git":"https://gist.github.com/panzi/6856583","description":"This provides the endian conversion functions from endian.h on Windows, Linux, *BSD, and Mac OS X"}

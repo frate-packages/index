@@ -1,1 +1,1 @@
-{"name":"tinygltf","git":"https://github.com/syoyo/tinygltf"}
+{"name":"tinygltf","git":"https://github.com/syoyo/tinygltf","description":"Header only C++11 tiny glTF 2.0 library."}

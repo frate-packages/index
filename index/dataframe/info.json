@@ -1,1 +1,1 @@
-{"name":"dataframe","git":"https://github.com/hosseinmoein/DataFrame"}
+{"name":"dataframe","git":"https://github.com/hosseinmoein/DataFrame","description":"C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types, continuous memory storage, and no pointers are involved"}

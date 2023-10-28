@@ -1,1 +1,1 @@
-{"name":"ls-qpack","git":"https://github.com/litespeedtech/ls-qpack/"}
+{"name":"ls-qpack","git":"https://github.com/litespeedtech/ls-qpack/","description":"QPACK compression library for use with HTTP/3"}

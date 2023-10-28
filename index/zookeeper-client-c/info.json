@@ -1,1 +1,1 @@
-{"name":"zookeeper-client-c","git":"https://zookeeper.apache.org/"}
+{"name":"zookeeper-client-c","git":"https://zookeeper.apache.org/","description":"ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services."}

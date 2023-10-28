@@ -1,1 +1,1 @@
-{"name":"sdl","git":"https://www.libsdl.org"}
+{"name":"sdl","git":"https://www.libsdl.org","description":"Access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Vulkan"}

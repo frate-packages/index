@@ -1,1 +1,1 @@
-{"name":"glfw","git":"https://github.com/glfw/glfw"}
+{"name":"glfw","git":"https://github.com/glfw/glfw","description":"GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkanapplication development. It provides a simple, platform-independent API for creatingwindows, contexts and surfaces, reading input, handling events, etc."}

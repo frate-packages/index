@@ -1,1 +1,1 @@
-{"name":"libusb","git":"https://github.com/libusb/libusb"}
+{"name":"libusb","git":"https://github.com/libusb/libusb","description":"A cross-platform library to access USB devices"}

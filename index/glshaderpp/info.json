@@ -1,1 +1,1 @@
-{"name":"glshaderpp","git":"https://gitlab-lepuy.iut.uca.fr/opengl/glshaderpp"}
+{"name":"glshaderpp","git":"https://gitlab-lepuy.iut.uca.fr/opengl/glshaderpp","description":"A lightweight header-only library to compile and link OpenGL GLSL shaders."}

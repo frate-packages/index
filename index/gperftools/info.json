@@ -1,1 +1,1 @@
-{"name":"gperftools","git":"https://github.com/gperftools/gperftools"}
+{"name":"gperftools","git":"https://github.com/gperftools/gperftools","description":"High-performance multi-threaded malloc()"}

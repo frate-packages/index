@@ -1,1 +1,1 @@
-{"name":"cyrus-sasl","git":"https://www.cyrusimap.org/sasl/"}
+{"name":"cyrus-sasl","git":"https://www.cyrusimap.org/sasl/","description":"This is the Cyrus SASL API implementation. It can be used on the client or server side to provide authentication and authorization services."}

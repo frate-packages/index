@@ -1,1 +1,1 @@
-{"name":"seadex-genesis","git":"https://genesis.seadex.de/"}
+{"name":"seadex-genesis","git":"https://genesis.seadex.de/","description":"genesis is a generator library developed by Seadex (written in C++11)."}

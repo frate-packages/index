@@ -1,1 +1,1 @@
-{"name":"mongo-c-driver","git":"https://mongoc.org/"}
+{"name":"mongo-c-driver","git":"https://mongoc.org/","description":"A Cross Platform MongoDB Client Library for C"}

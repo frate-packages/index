@@ -1,1 +1,1 @@
-{"name":"openvino","git":"https://github.com/openvinotoolkit/openvino"}
+{"name":"openvino","git":"https://github.com/openvinotoolkit/openvino","description":"Open Visual Inference And Optimization toolkit for AI inference"}

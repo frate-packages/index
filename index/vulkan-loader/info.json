@@ -1,1 +1,1 @@
-{"name":"vulkan-loader","git":"https://github.com/KhronosGroup/Vulkan-Loader"}
+{"name":"vulkan-loader","git":"https://github.com/KhronosGroup/Vulkan-Loader","description":"Khronos official Vulkan ICD desktop loader for Windows, Linux, and MacOS."}

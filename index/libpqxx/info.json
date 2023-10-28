@@ -1,1 +1,1 @@
-{"name":"libpqxx","git":"https://github.com/jtv/libpqxx"}
+{"name":"libpqxx","git":"https://github.com/jtv/libpqxx","description":"The official C++ client API for PostgreSQL"}

@@ -1,1 +1,1 @@
-{"name":"libepoxy","git":"https://github.com/anholt/libepoxy"}
+{"name":"libepoxy","git":"https://github.com/anholt/libepoxy","description":"libepoxy is a library for handling OpenGL function pointer management"}

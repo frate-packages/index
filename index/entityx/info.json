@@ -1,1 +1,1 @@
-{"name":"entityx","git":"https://github.com/alecthomas/entityx"}
+{"name":"entityx","git":"https://github.com/alecthomas/entityx/","description":"EntityX is an EC system that uses C++11 features to provide type-safe component management, event delivery, etc."}

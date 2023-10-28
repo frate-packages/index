@@ -1,1 +1,1 @@
-{"name":"sonic-cpp","git":"https://github.com/bytedance/sonic-cpp"}
+{"name":"sonic-cpp","git":"https://github.com/bytedance/sonic-cpp","description":"A fast JSON serializing &amp; deserializing library, accelerated by SIMD."}

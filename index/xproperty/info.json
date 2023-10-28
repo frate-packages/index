@@ -1,1 +1,1 @@
-{"name":"xproperty","git":"https://github.com/jupyter-xeus/xproperty"}
+{"name":"xproperty","git":"https://github.com/jupyter-xeus/xproperty","description":"Traitlets-like C++ properties and implementation of the observer pattern."}

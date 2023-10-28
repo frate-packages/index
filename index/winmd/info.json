@@ -1,1 +1,1 @@
-{"name":"winmd","git":"https://github.com/microsoft/winmd"}
+{"name":"winmd","git":"https://github.com/microsoft/winmd","description":"C++ winmd parser"}

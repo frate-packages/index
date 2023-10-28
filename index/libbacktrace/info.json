@@ -1,1 +1,1 @@
-{"name":"libbacktrace","git":"https://github.com/ianlancetaylor/libbacktrace"}
+{"name":"libbacktrace","git":"https://github.com/ianlancetaylor/libbacktrace","description":"A C library that may be linked into a C/C++ program to produce symbolic backtraces."}

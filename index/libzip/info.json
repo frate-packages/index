@@ -1,1 +1,1 @@
-{"name":"libzip","git":"https://github.com/nih-at/libzip"}
+{"name":"libzip","git":"https://github.com/nih-at/libzip","description":"A C library for reading, creating, and modifying zip archives"}

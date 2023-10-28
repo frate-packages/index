@@ -1,1 +1,1 @@
-{"name":"libzippp","git":"https://github.com/ctabin/libzippp"}
+{"name":"libzippp","git":"https://github.com/ctabin/libzippp","description":"A simple basic C++ wrapper around the libzip library"}

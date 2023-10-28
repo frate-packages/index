@@ -1,1 +1,1 @@
-{"name":"cityhash","git":"https://github.com/google/cityhash"}
+{"name":"cityhash","git":"https://github.com/google/cityhash","description":"CityHash, a family of hash functions for strings."}

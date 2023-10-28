@@ -1,1 +1,1 @@
-{"name":"libxls","git":"https://github.com/libxls/libxls/"}
+{"name":"libxls","git":"https://github.com/libxls/libxls/","description":"a C library which can read Excel (xls) files."}

@@ -1,1 +1,1 @@
-{"name":"libwebm","git":"https://chromium.googlesource.com/webm/libwebm/"}
+{"name":"libwebm","git":"https://chromium.googlesource.com/webm/libwebm/","description":"Library for muxing and demuxing WebM media container files"}

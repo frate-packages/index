@@ -1,1 +1,1 @@
-{"name":"morton-nd","git":"https://github.com/kevinhartman/morton-nd"}
+{"name":"morton-nd","git":"https://github.com/kevinhartman/morton-nd","description":"A header-only Morton encode/decode library (C++14) capable of encoding from and decoding to N-dimensional space."}

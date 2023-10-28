@@ -1,1 +1,1 @@
-{"name":"libxcrypt","git":"https://github.com/besser82/libxcrypt"}
+{"name":"libxcrypt","git":"https://github.com/besser82/libxcrypt","description":"Extended crypt library for descrypt, md5crypt, bcrypt, and others"}

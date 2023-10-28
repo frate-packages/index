@@ -1,1 +1,1 @@
-{"name":"termcolor","git":"https://github.com/ikalnytskyi/termcolor"}
+{"name":"termcolor","git":"https://github.com/ikalnytskyi/termcolor","description":"Termcolor is a header-only C++ library for printing colored messages to the terminal."}

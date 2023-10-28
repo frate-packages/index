@@ -1,1 +1,1 @@
-{"name":"miniz","git":"https://github.com/richgel999/miniz"}
+{"name":"miniz","git":"https://github.com/richgel999/miniz","description":"Lossless, high performance data compression library that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards"}

@@ -1,1 +1,1 @@
-{"name":"glslang","git":"https://github.com/KhronosGroup/glslang"}
+{"name":"glslang","git":"https://github.com/KhronosGroup/glslang","description":"Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator."}

@@ -1,1 +1,1 @@
-{"name":"taocpp-tuple","git":"https://github.com/taocpp/tuple"}
+{"name":"taocpp-tuple","git":"https://github.com/taocpp/tuple","description":"Compile-time-efficient proof-of-concept implementation for std::tuple"}

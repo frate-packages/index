@@ -1,1 +1,1 @@
-{"name":"nanodbc","git":"https://github.com/nanodbc/nanodbc"}
+{"name":"nanodbc","git":"https://github.com/nanodbc/nanodbc/","description":"A small C++ wrapper for the native C ODBC API"}

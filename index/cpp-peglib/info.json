@@ -1,1 +1,1 @@
-{"name":"cpp-peglib","git":"https://github.com/yhirose/cpp-peglib"}
+{"name":"cpp-peglib","git":"https://github.com/yhirose/cpp-peglib","description":"A single file C++11 header-only PEG (Parsing Expression Grammars) library."}

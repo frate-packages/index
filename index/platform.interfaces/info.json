@@ -1,1 +1,1 @@
-{"name":"platform.interfaces","git":"https://github.com/linksplatform/Interfaces"}
+{"name":"platform.interfaces","git":"https://github.com/linksplatform/Interfaces","description":"platform.interfaces is one of the libraries of the LinksPlatform modular framework, which uses\n    innovations from the C++20 standard, for easier use of static polymorphism. It also includes some auxiliary\n    structures for more convenient work with containers."}

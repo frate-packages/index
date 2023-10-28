@@ -1,1 +1,1 @@
-{"name":"zxing-cpp","git":"https://github.com/zxing-cpp/zxing-cpp"}
+{"name":"zxing-cpp","git":"https://github.com/zxing-cpp/zxing-cpp","description":"C++ port of ZXing, a barcode scanning library"}

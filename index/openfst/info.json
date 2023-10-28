@@ -1,1 +1,1 @@
-{"name":"openfst","git":"https://www.openfst.org/twiki/bin/view/FST/WebHome"}
+{"name":"openfst","git":"https://www.openfst.org/twiki/bin/view/FST/WebHome","description":"A library for constructing, combining, optimizing and searching weighted finite-state-transducers (FSTs)."}

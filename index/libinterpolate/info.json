@@ -1,1 +1,1 @@
-{"name":"libinterpolate","git":"https://github.com/CD3/libInterpolate"}
+{"name":"libinterpolate","git":"https://github.com/CD3/libInterpolate","description":"A C++ interpolation library with a simple interface that supports multiple interpolation methods."}

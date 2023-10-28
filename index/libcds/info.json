@@ -1,1 +1,1 @@
-{"name":"libcds","git":"https://github.com/khizmax/libcds"}
+{"name":"libcds","git":"https://github.com/khizmax/libcds","description":"C++11 library of Concurrent Data Structures."}

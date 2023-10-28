@@ -1,1 +1,1 @@
-{"name":"readerwriterqueue","git":"https://github.com/cameron314/readerwriterqueue"}
+{"name":"readerwriterqueue","git":"https://github.com/cameron314/readerwriterqueue","description":"A fast single-producer, single-consumer lock-free queue for C++"}

@@ -1,1 +1,1 @@
-{"name":"thrift","git":"https://github.com/apache/thrift"}
+{"name":"thrift","git":"https://github.com/apache/thrift","description":"Thrift is an associated code generation mechanism for RPC"}

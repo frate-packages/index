@@ -1,1 +1,1 @@
-{"name":"vulkan-validationlayers","git":"https://github.com/KhronosGroup/Vulkan-ValidationLayers"}
+{"name":"vulkan-validationlayers","git":"https://github.com/KhronosGroup/Vulkan-ValidationLayers","description":"Khronos official Vulkan validation layers for Windows, Linux, Android, and MacOS."}

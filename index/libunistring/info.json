@@ -1,1 +1,1 @@
-{"name":"libunistring","git":"https://www.gnu.org/software/libunistring/"}
+{"name":"libunistring","git":"https://www.gnu.org/software/libunistring/","description":"This library provides functions for manipulating Unicode strings and for manipulating C strings according to the Unicode standard."}

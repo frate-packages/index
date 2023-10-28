@@ -1,1 +1,1 @@
-{"name":"transwarp","git":"https://github.com/bloomen/transwarp"}
+{"name":"transwarp","git":"https://github.com/bloomen/transwarp","description":"A header-only C++ library for task concurrency."}

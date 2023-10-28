@@ -1,1 +1,1 @@
-{"name":"cppserver","git":"https://github.com/chronoxor/CppServer"}
+{"name":"cppserver","git":"https://github.com/chronoxor/CppServer","description":"Ultra fast and low latency asynchronous socket server and client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution."}

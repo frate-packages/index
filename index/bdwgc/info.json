@@ -1,1 +1,1 @@
-{"name":"bdwgc","git":"https://www.hboehm.info/gc/"}
+{"name":"bdwgc","git":"https://www.hboehm.info/gc/","description":"The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)"}

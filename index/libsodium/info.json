@@ -1,1 +1,1 @@
-{"name":"libsodium","git":"https://github.com/jedisct1/libsodium"}
+{"name":"libsodium","git":"https://doc.libsodium.org/","description":"A modern and easy-to-use crypto library."}

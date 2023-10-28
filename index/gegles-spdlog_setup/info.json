@@ -1,1 +1,1 @@
-{"name":"gegles-spdlog_setup","git":"https://github.com/gegles/spdlog_setup"}
+{"name":"gegles-spdlog_setup","git":"https://github.com/gegles/spdlog_setup","description":"Setup spdlog via a TOML config file"}

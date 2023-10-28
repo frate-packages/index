@@ -5,5 +5,5 @@ use serde::{Deserialize, Serialize};
 pub struct Package {
     pub name: String,
     pub git: Option<String>,
-    //pub description: Vec<String>,
+    pub description: String,
 }

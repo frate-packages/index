@@ -1,1 +1,1 @@
-{"name":"libvault","git":"https://github.com/abedra/libvault"}
+{"name":"libvault","git":"https://github.com/abedra/libvault","description":"A C++ library for Hashicorp Vault"}

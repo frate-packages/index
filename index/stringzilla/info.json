@@ -1,1 +1,1 @@
-{"name":"stringzilla","git":"https://github.com/ashvardanian/StringZilla/"}
+{"name":"stringzilla","git":"https://github.com/ashvardanian/StringZilla/","description":"Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with Arm Neon and x86 AVX2 &amp; AVX-512 intrinsics."}

@@ -1,1 +1,1 @@
-{"name":"fmt","git":"https://github.com/fmtlib/fmt"}
+{"name":"fmt","git":"https://github.com/fmtlib/fmt","description":"A safe and fast alternative to printf and IOStreams."}

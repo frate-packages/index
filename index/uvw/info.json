@@ -1,1 +1,1 @@
-{"name":"uvw","git":"https://github.com/skypjack/uvw"}
+{"name":"uvw","git":"https://github.com/skypjack/uvw","description":"Header-only, event based, tiny and easy to use libuv wrapper in modern C++."}

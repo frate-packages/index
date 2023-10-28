@@ -1,1 +1,1 @@
-{"name":"elfio","git":"https://elfio.sourceforge.net"}
+{"name":"elfio","git":"https://elfio.sourceforge.net","description":"A header-only C++ library that provides a simple interface for reading and generating files in ELF binary format."}

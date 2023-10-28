@@ -1,1 +1,1 @@
-{"name":"bitflags","git":"https://github.com/m-peko/bitflags"}
+{"name":"bitflags","git":"https://github.com/m-peko/bitflags","description":"Single-header header-only C++11 / C++14 / C++17 library for easily managing set of auto-generated type-safe flags"}

@@ -1,1 +1,1 @@
-{"name":"c-blosc","git":"https://github.com/Blosc/c-blosc"}
+{"name":"c-blosc","git":"https://github.com/Blosc/c-blosc","description":"An extremely fast, multi-threaded, meta-compressor library."}

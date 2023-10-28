@@ -1,1 +1,1 @@
-{"name":"linmath.h","git":"https://github.com/datenwolf/linmath.h"}
+{"name":"linmath.h","git":"https://github.com/datenwolf/linmath.h","description":"A lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions"}

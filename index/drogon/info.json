@@ -1,1 +1,1 @@
-{"name":"drogon","git":"https://github.com/drogonframework/drogon"}
+{"name":"drogon","git":"https://github.com/drogonframework/drogon","description":"A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows"}

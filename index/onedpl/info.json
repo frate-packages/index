@@ -1,1 +1,1 @@
-{"name":"onedpl","git":"https://github.com/oneapi-src/oneDPL"}
+{"name":"onedpl","git":"https://github.com/oneapi-src/oneDPL","description":"OneDPL (Formerly Parallel STL) is an implementation of the C++ standard library algorithmswith support for execution policies, as specified in ISO/IEC 14882:2017 standard, commonly called C++17"}

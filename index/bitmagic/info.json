@@ -1,1 +1,1 @@
-{"name":"bitmagic","git":"http://bitmagic.io"}
+{"name":"bitmagic","git":"http://bitmagic.io","description":"BitMagic Library helps to develop high-throughput intelligent search systems, promote combination of hardware optimizations and on the fly compression to fit inverted indexes and binary fingerprints into memory, minimize disk and network footprint."}

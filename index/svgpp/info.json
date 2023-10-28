@@ -1,1 +1,1 @@
-{"name":"svgpp","git":"https://github.com/svgpp/svgpp"}
+{"name":"svgpp","git":"https://github.com/svgpp/svgpp","description":"SVG++ library contains parsers for various SVG syntaxes, adapters that simplify handling of parsed data and a lot of other utilities and helpers for the most common tasks."}

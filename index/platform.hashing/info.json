@@ -1,1 +1,1 @@
-{"name":"platform.hashing","git":"https://github.com/linksplatform/Hashing"}
+{"name":"platform.hashing","git":"https://github.com/linksplatform/Hashing","description":"platform.hashing is one of the libraries of the LinksPlatform modular framework, which contains std::hash specializations for:\n - trivial and standard-layout types\n - types constrained by std::ranges::range\n - std::any"}

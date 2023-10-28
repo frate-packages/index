@@ -1,1 +1,1 @@
-{"name":"astc-codec","git":"https://github.com/google/astc-codec"}
+{"name":"astc-codec","git":"https://github.com/google/astc-codec","description":"A software ASTC decoder implementation which supports the ASTC LDR profile"}

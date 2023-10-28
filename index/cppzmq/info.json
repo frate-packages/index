@@ -1,1 +1,1 @@
-{"name":"cppzmq","git":"https://github.com/zeromq/cppzmq"}
+{"name":"cppzmq","git":"https://github.com/zeromq/cppzmq","description":"C++ binding for 0MQ"}

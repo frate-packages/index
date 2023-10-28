@@ -1,1 +1,1 @@
-{"name":"aws-c-cal","git":"https://github.com/awslabs/aws-c-cal"}
+{"name":"aws-c-cal","git":"https://github.com/awslabs/aws-c-cal","description":"Aws Crypto Abstraction Layer: Cross-Platform, C99 wrapper for cryptography primitives."}

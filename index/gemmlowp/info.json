@@ -1,1 +1,1 @@
-{"name":"gemmlowp","git":"https://github.com/google/gemmlowp"}
+{"name":"gemmlowp","git":"https://github.com/google/gemmlowp","description":"Low-precision matrix multiplication"}

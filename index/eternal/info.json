@@ -1,1 +1,1 @@
-{"name":"eternal","git":"https://github.com/mapbox/eternal"}
+{"name":"eternal","git":"https://github.com/mapbox/eternal","description":"A C++14 compile-time/constexpr map and hash map with minimal binary footprint"}

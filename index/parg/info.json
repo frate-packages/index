@@ -1,1 +1,1 @@
-{"name":"parg","git":"https://github.com/jibsen/parg"}
+{"name":"parg","git":"https://github.com/jibsen/parg","description":"Parser for argv that works similarly to getopt"}

@@ -1,1 +1,1 @@
-{"name":"libwebsockets","git":"https://github.com/warmcat/libwebsockets"}
+{"name":"libwebsockets","git":"https://github.com/warmcat/libwebsockets","description":"Canonical libwebsockets.org websocket library"}

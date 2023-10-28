@@ -1,1 +1,1 @@
-{"name":"thelink2012-any","git":"https://github.com/thelink2012/any"}
+{"name":"thelink2012-any","git":"https://github.com/thelink2012/any","description":"Implementation of std::experimental::any, including small object optimization, for C++11 compilers"}

@@ -1,1 +1,1 @@
-{"name":"libpq","git":"https://www.postgresql.org/docs/current/static/libpq.html"}
+{"name":"libpq","git":"https://www.postgresql.org/docs/current/static/libpq.html","description":"The library used by all the standard PostgreSQL tools."}

@@ -1,1 +1,1 @@
-{"name":"pybind11","git":"https://github.com/pybind/pybind11"}
+{"name":"pybind11","git":"https://github.com/pybind/pybind11","description":"Seamless operability between C++11 and Python"}

@@ -1,1 +1,1 @@
-{"name":"tinyspline","git":"https://github.com/msteinbeck/tinyspline"}
+{"name":"tinyspline","git":"https://github.com/msteinbeck/tinyspline","description":"Library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bezier curves."}

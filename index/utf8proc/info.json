@@ -1,1 +1,1 @@
-{"name":"utf8proc","git":"https://github.com/JuliaStrings/utf8proc"}
+{"name":"utf8proc","git":"https://github.com/JuliaStrings/utf8proc","description":"A clean C library for processing UTF-8 Unicode data"}

@@ -1,1 +1,1 @@
-{"name":"mimalloc","git":"https://github.com/microsoft/mimalloc"}
+{"name":"mimalloc","git":"https://github.com/microsoft/mimalloc","description":"mimalloc is a compact general purpose allocator with excellent performance."}

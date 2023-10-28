@@ -1,1 +1,1 @@
-{"name":"xsimd","git":"https://github.com/xtensor-stack/xsimd"}
+{"name":"xsimd","git":"https://github.com/xtensor-stack/xsimd","description":"C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)"}

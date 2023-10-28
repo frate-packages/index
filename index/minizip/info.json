@@ -1,1 +1,1 @@
-{"name":"minizip","git":"https://zlib.net"}
+{"name":"minizip","git":"https://zlib.net","description":"An experimental package to read and write files in .zip format, written on top of zlib"}

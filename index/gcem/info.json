@@ -1,1 +1,1 @@
-{"name":"gcem","git":"https://github.com/kthohr/gcem"}
+{"name":"gcem","git":"https://github.com/kthohr/gcem","description":"A C++ compile-time math library using generalized constant expressions."}

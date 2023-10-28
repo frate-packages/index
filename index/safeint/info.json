@@ -1,1 +1,1 @@
-{"name":"safeint","git":"https://github.com/dcleblanc/SafeInt"}
+{"name":"safeint","git":"https://github.com/dcleblanc/SafeInt","description":"SafeInt is a class library for C++ that manages integer overflows."}

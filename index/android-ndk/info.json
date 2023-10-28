@@ -1,1 +1,1 @@
-{"name":"android-ndk","git":"https://developer.android.com/ndk/"}
+{"name":"android-ndk","git":"https://developer.android.com/ndk/","description":"The Android NDK is a toolset that lets you implement parts of your app in native code, using languages such as C and C++"}

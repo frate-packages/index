@@ -1,1 +1,1 @@
-{"name":"libbpf","git":"https://github.com/libbpf/libbpf"}
+{"name":"libbpf","git":"https://github.com/libbpf/libbpf","description":"eBPF helper library"}

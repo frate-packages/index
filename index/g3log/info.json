@@ -1,1 +1,1 @@
-{"name":"g3log","git":"https://github.com/KjellKod/g3log"}
+{"name":"g3log","git":"https://github.com/KjellKod/g3log","description":"G3log is an asynchronous, \"crash safe\", logger that is easy to use with default logging sinks or you can add your own."}

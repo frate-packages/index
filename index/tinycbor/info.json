@@ -1,1 +1,1 @@
-{"name":"tinycbor","git":"https://github.com/intel/tinycbor"}
+{"name":"tinycbor","git":"https://github.com/intel/tinycbor","description":"A small CBOR encoder and decoder library, optimized for very fast operation with very small footprint."}

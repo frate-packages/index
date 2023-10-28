@@ -1,1 +1,1 @@
-{"name":"capstone","git":"https://github.com/capstone-engine/capstone"}
+{"name":"capstone","git":"http://www.capstone-engine.org","description":"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings."}

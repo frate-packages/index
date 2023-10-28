@@ -1,1 +1,1 @@
-{"name":"out_ptr","git":"https://github.com/soasis/out_ptr"}
+{"name":"out_ptr","git":"https://github.com/soasis/out_ptr","description":"a C++11 implementation of std::out_ptr (p1132), as a standalone library"}

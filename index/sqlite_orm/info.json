@@ -1,1 +1,1 @@
-{"name":"sqlite_orm","git":"https://github.com/fnc12/sqlite_orm"}
+{"name":"sqlite_orm","git":"https://github.com/fnc12/sqlite_orm","description":"SQLite ORM light header only library for modern C++."}

@@ -1,1 +1,1 @@
-{"name":"vtu11","git":"https://github.com/phmkopp/vtu11"}
+{"name":"vtu11","git":"https://github.com/phmkopp/vtu11","description":"Vtu11 is a small C++ header-only library to write unstructured grids using the vtu file format"}

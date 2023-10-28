@@ -1,1 +1,1 @@
-{"name":"gflags","git":"https://github.com/gflags/gflags"}
+{"name":"gflags","git":"https://github.com/gflags/gflags","description":"The gflags package contains a C++ library that implements commandline flags processing"}

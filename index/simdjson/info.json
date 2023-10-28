@@ -1,1 +1,1 @@
-{"name":"simdjson","git":"https://github.com/lemire/simdjson"}
+{"name":"simdjson","git":"https://github.com/lemire/simdjson","description":"Parsing gigabytes of JSON per second"}
