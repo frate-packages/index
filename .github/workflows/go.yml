@@ -1,0 +1,37 @@
+# This workflow will build a golang project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
+
+name: Go
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
+
+    - name: Run Index
+      run: go run ${{github.workspace}}/
+
+    - name: Release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.CI_TOKEN }}
+        file: ${{github.workspace}}/dist/index.json
+        asset_name: index-${{github.run_number}}
+        tag: index-${{github.run_number}}
+        overwrite: false
+        prerelease: false
+        make_latest: true
+        release_name: "index-${{github.run_number}}"
+        body: "" 
