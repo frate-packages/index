@@ -21,7 +21,7 @@ jobs:
         go-version: '1.19'
 
     - name: Run Index
-      run: cd ./indexer/ && go run ./indexer
+      run: cd ${{github.workspace}}/indexer/ && go run ./indexer
 
     - name: Release
       uses: svenstaro/upload-release-action@v2
