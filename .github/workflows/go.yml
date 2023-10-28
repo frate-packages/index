@@ -28,7 +28,7 @@ jobs:
       with:
         repo_token: ${{ secrets.CI_TOKEN }}
         file: ${{github.workspace}}/dist/index.json
-        asset_name: index-${{github.run_number}}
+        asset_name: index.json
         tag: index-${{github.run_number}}
         overwrite: false
         prerelease: false
