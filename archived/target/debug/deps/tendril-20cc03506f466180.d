@@ -1,0 +1,11 @@
+/home/n3m0/Mounts/DATA3/Projecten/software/rust_development/cmaker/index/archived/scraper/target/debug/deps/libtendril-20cc03506f466180.rmeta: /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/home/n3m0/Mounts/DATA3/Projecten/software/rust_development/cmaker/index/archived/scraper/target/debug/deps/tendril-20cc03506f466180.d: /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs /home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs
+
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/lib.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/fmt.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/stream.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/buf32.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/tendril.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/utf8_decode.rs:
+/home/n3m0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tendril-0.4.3/src/util.rs:
