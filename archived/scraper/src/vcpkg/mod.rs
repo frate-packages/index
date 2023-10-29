@@ -1,4 +1,3 @@
-mod serializer;
 use crate::prelude::Package;
 use clap::{Args, Parser};
 use core::fmt;
@@ -70,6 +69,7 @@ impl Vcpkg {
                 if val.contains("github") {
                     // pack it into a new package
                     let package = Package {
+                        version: String::new(),
                         name: item.Name,
                         git: item.Homepage,
                         description: match item.Description.unwrap() {
