@@ -4,7 +4,7 @@ use core::fmt;
 use reqwest::blocking::get;
 use serde::{
     de::{Error, Visitor},
-    Deserialize, Deserializer, Serialize,
+    Deserialize, Deserializer, Serialize, Serializer,
 };
 use std::io::Write;
 
@@ -12,17 +12,8 @@ use std::io::Write;
 #[derive(Serialize, Deserialize, Debug)]
 #[serde(untagged)]
 pub enum Descriptions {
-    Arr(Vec<String>),
-    Str(String),
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-#[allow(non_snake_case)]
-pub struct Item {
-    pub Name: String,
-    pub Homepage: Option<String>,
-    //#[serde(skip)]
-    //pub Description: Descriptions,
+    Vec(Vec<String>),
+    String(String),
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -30,7 +21,16 @@ pub struct Item {
 pub struct Vcpkg {
     Baseline: Option<String>,
     Size: Option<usize>,
-    Source: Vec<Item>,
+    pub Source: Vec<Item>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+#[allow(non_snake_case)]
+pub struct Item {
+    pub Name: String,
+    pub Homepage: Option<String>,
+    pub Description: Option<Descriptions>,
+    //#[serde(skip)]
 }
 
 impl Vcpkg {
@@ -53,6 +53,7 @@ impl Vcpkg {
 
         // serialize data into struct Vcpkg
         let resp: Vcpkg = get("https://vcpkg.io/output.json")?.json()?;
+
         println!("[#] Download complete");
 
         // create vec for filtering
@@ -68,12 +69,13 @@ impl Vcpkg {
                 if val.contains("github") {
                     // pack it into a new package
                     let package = Package {
+                        version: String::new(),
                         name: item.Name,
                         git: item.Homepage,
-                        description: String::new(), //description: match item.Description {
-                                                    //    Descriptions::Arr(v) => v,
-                                                    //    Descriptions::Str(v) => vec![v],
-                                                    //},
+                        description: match item.Description.unwrap() {
+                            Descriptions::Vec(v) => v.join(" "),
+                            Descriptions::String(s) => s,
+                        },
                     };
                     // push package to filtered stack
                     filtered.push(package);
@@ -84,38 +86,3 @@ impl Vcpkg {
         Ok(filtered)
     }
 }
-
-//pub fn deserialize<'de, D>(deserializer: D) -> Result<Descriptions, D::Error>
-//where
-//    D: Deserializer<'de>,
-//{
-//    struct KeyVisitor;
-//
-//    impl<'de> Visitor<'de> for KeyVisitor {
-//        type Value = Descriptions;
-//
-//        fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
-//            formatter.write_str("a single string or an array of strings")
-//        }
-//
-//        fn visit_str<E>(self, value: &str) -> Result<Self::Value, E>
-//        where
-//            E: Error,
-//        {
-//            Ok(Descriptions::Str(value.to_owned()))
-//        }
-//
-//        fn visit_seq<A>(self, mut seq: A) -> Result<Self::Value, A::Error>
-//        where
-//            A: serde::de::SeqAccess<'de>,
-//        {
-//            let mut values = Vec::new();
-//            while let Some(value) = seq.next_element()? {
-//                values.push(value);
-//            }
-//            Ok(Descriptions::Arr(values))
-//        }
-//    }
-//
-//    deserializer.deserialize_any(KeyVisitor)
-//}

@@ -126,6 +126,7 @@ impl Conan {
                 name: it.name,
                 description: it.description,
                 git: it.git,
+                version: String::new(),
             })
             .collect::<Vec<Package>>();
 

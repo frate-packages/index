@@ -6,4 +6,5 @@ pub struct Package {
     pub name: String,
     pub git: Option<String>,
     pub description: String,
+    pub version: String,
 }
