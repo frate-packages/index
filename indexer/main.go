@@ -20,10 +20,32 @@ type PackageInfo struct{
 
 
 func validateVersionName(version string) bool{
+  //BECAUSE YOU FUCKERS CAN'T DECIDE ON YOUR FUCKING PACKAGE VERSIONING SCHEME
+  //WE DID THIS SHIT ARE YOU HAPPY?!!!!
 
+  //Typical versions like v1.2.3
   if(regexp.MustCompile(`^v\d+\.\d+\.\d+$`).MatchString(version)){
     return true;
-  }else if(regexp.MustCompile(`^\d+\.\d+\.\d+$`).MatchString(version)){
+    //Typical versions like 1.2.3
+  }else if(regexp.MustCompile(`^\d+\.\d+\.\d+`).MatchString(version)){
+    return true;
+    //Typical versions like 1.2
+  }else if(regexp.MustCompile(`^\d+\.\d+`).MatchString(version)){
+    return true;
+    //Typical versions like v1.2
+  }else if(regexp.MustCompile(`v\d+.\d+`).MatchString(version)){
+    return true;
+    //Curl style versions like word-1_2_3
+  }else if(regexp.MustCompile(`[A-Za-z]+-\d+_\d+_\d+`).MatchString(version)){
+    return true;
+    //word-1.2.3
+  }else if(regexp.MustCompile(`[A-Za-z]+-\d+\.\d+\.\d+`).MatchString(version)){
+    return true;
+    //word_1.2.3
+  }else if(regexp.MustCompile(`[A-Za-z]+_\d+\.\d+\.\d+`).MatchString(version)){
+    return true;
+    //word_1.2
+  }else if(regexp.MustCompile(`[A-Za-z]+_\d+.\d+`).MatchString(version)){
     return true;
   }else if(version == "master"){
     return true;
@@ -41,7 +63,6 @@ func validateVersionName(version string) bool{
 func parseRemoteLsTags(output string) []string{
   lines := strings.Split(output, "\n")
   tags := []string{}
-
   for _, line := range lines{
     if(strings.Contains(line, "refs/tags")){
       tag := strings.Split(line, "\t")[1] 
@@ -58,6 +79,7 @@ func parseRemoteLsTags(output string) []string{
       }
     }
   }
+  fmt.Printf("Found %d tags ",len(tags))
   return tags
 }
 
@@ -69,6 +91,14 @@ func validGitLink(link string) bool{
   }else if(strings.Contains(link, "https://bitbucket")){
     return true;
   }else if(strings.Contains(link, "svn")){
+    return true;
+  }else{
+    return false;
+  }
+}
+
+func packageOnlyHasMainTag(packageInfo PackageInfo) bool{
+  if(len(packageInfo.Versions) == 1 && ( packageInfo.Versions[0] == "main" || packageInfo.Versions[0] == "master")){
     return true;
   }else{
     return false;
@@ -106,7 +136,7 @@ func main(){
 
       if(validGitLink(packageInfo.Git)){
 
-        if(len(packageInfo.Versions) < 1){
+        if(len(packageInfo.Versions) < 1 || packageOnlyHasMainTag(packageInfo)){
 
           if(err != nil){
             fmt.Println(err);
@@ -127,6 +157,15 @@ func main(){
               tags := parseRemoteLsTags(string(out))
 
               packageInfo.Versions = tags
+
+              data, err := json.Marshal(packageInfo)
+
+              if(err != nil){
+                fmt.Println(err)
+              }
+              //Rewrite file after adding versions
+              os.WriteFile(path, data, 0644)
+
 
 
               packageIndex = append(packageIndex, packageInfo)
