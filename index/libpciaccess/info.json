@@ -1,1 +1,1 @@
-{"name":"libpciaccess","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/lib/libpciaccess","description":"Generic PCI access library"}
+{"name":"libpciaccess","versions":["master","XORG-7_0_99_901"],"git":"https://gitlab.freedesktop.org/xorg/lib/libpciaccess","description":"Generic PCI access library"}

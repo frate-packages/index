@@ -1,1 +1,1 @@
-{"name":"enum-flags","versions":["master"],"git":"https://github.com/grisumbras/enum-flags","description":"Bit flags for C++11 scoped enums"}
+{"name":"enum-flags","versions":["9999.9999","master","v0.1a"],"git":"https://github.com/grisumbras/enum-flags","description":"Bit flags for C++11 scoped enums"}

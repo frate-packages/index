@@ -1,1 +1,1 @@
-{"name":"hippomocks","versions":["master"],"git":"https://github.com/dascandy/hippomocks","description":"Single-header mocking framework."}
+{"name":"hippomocks","versions":["master","v5.0","v5.0^{}"],"git":"https://github.com/dascandy/hippomocks","description":"Single-header mocking framework."}

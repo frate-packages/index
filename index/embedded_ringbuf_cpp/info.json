@@ -1,1 +1,1 @@
-{"name":"embedded_ringbuf_cpp","versions":["master"],"git":"https://github.com/wizard97/Embedded_RingBuf_CPP/","description":"A simple C++ Ring (Circular) Buffer Queuing Library for Programming with Arduino's and other Embedded platforms"}
+{"name":"embedded_ringbuf_cpp","versions":["master","1.0","1.1","1.2","1.3"],"git":"https://github.com/wizard97/Embedded_RingBuf_CPP/","description":"A simple C++ Ring (Circular) Buffer Queuing Library for Programming with Arduino's and other Embedded platforms"}

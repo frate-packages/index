@@ -1,1 +1,1 @@
-{"name":"imguizmo","versions":["master"],"git":"https://github.com/CedricGuillemet/ImGuizmo","description":"Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui"}
+{"name":"imguizmo","versions":["master","1.83"],"git":"https://github.com/CedricGuillemet/ImGuizmo","description":"Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui"}

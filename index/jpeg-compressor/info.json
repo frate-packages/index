@@ -1,1 +1,1 @@
-{"name":"jpeg-compressor","versions":["master"],"git":"https://github.com/richgel999/jpeg-compressor","description":"C++ JPEG compression/fuzzed low-RAM JPEG decompression codec with Public Domain or Apache 2.0 license"}
+{"name":"jpeg-compressor","versions":["master","v101","v102","v103","v104"],"git":"https://github.com/richgel999/jpeg-compressor","description":"C++ JPEG compression/fuzzed low-RAM JPEG decompression codec with Public Domain or Apache 2.0 license"}

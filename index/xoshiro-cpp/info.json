@@ -1,1 +1,1 @@
-{"name":"xoshiro-cpp","versions":["master"],"git":"https://github.com/Reputeless/Xoshiro-cpp","description":"Header-only Xoshiro/Xoroshiro PRNG wrapper library for modern C++ (C++17/C++20)"}
+{"name":"xoshiro-cpp","versions":["master","v1.0","v1.1"],"git":"https://github.com/Reputeless/Xoshiro-cpp","description":"Header-only Xoshiro/Xoroshiro PRNG wrapper library for modern C++ (C++17/C++20)"}

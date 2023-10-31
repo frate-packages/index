@@ -1,1 +1,1 @@
-{"name":"coin-utils","versions":["master"],"git":"https://github.com/coin-or/CoinUtils","description":"CoinUtils is an open-source collection of classes and helper functions that are generally useful to multiple COIN-OR projects."}
+{"name":"coin-utils","versions":["master","release_2002-11-05"],"git":"https://github.com/coin-or/CoinUtils","description":"CoinUtils is an open-source collection of classes and helper functions that are generally useful to multiple COIN-OR projects."}

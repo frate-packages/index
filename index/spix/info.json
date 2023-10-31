@@ -1,1 +1,1 @@
-{"name":"spix","versions":["master"],"git":"https://github.com/faaxm/spix","description":"UI test automation library for QtQuick/QML Apps"}
+{"name":"spix","versions":["master","v0.1","v0.1^{}","v0.2","v0.2^{}","v0.3","v0.3^{}","v0.4","v0.4^{}","v0.5"],"git":"https://github.com/faaxm/spix","description":"UI test automation library for QtQuick/QML Apps"}

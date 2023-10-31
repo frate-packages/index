@@ -1,1 +1,1 @@
-{"name":"xorg-macros","versions":["master"],"git":"https://gitlab.freedesktop.org/xorg/util/macros","description":"GNU autoconf macros shared across X.Org projects"}
+{"name":"xorg-macros","versions":["master","XORG-6_99_99_900","XORG-6_99_99_901","XORG-6_99_99_902","XORG-6_99_99_903","XORG-6_99_99_904","XORG-7_0_99_901","util-macros-1_0_2"],"git":"https://gitlab.freedesktop.org/xorg/util/macros","description":"GNU autoconf macros shared across X.Org projects"}

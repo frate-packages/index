@@ -1,1 +1,1 @@
-{"name":"mingw-builds","versions":[],"git":"https://github.com/niXman/mingw-builds","description":"MinGW is a contraction of Minimalist GNU for Windows"}
+{"name":"mingw-builds","versions":["v-1.0.0","v-1.0.0^{}","v-2.0.0","v-2.0.0^{}","v-2.0.1","v-2.0.1^{}","v-3.0.0","v-3.0.0^{}","v-4.0.0","v-4.0.0^{}","v-4.1.0","v-4.1.0^{}","v-4.2.0","v-4.3.0","v-4.3.1","v-4.3.2","v-4.3.3","v-4.3.4","v-5.0.0"],"git":"https://github.com/niXman/mingw-builds","description":"MinGW is a contraction of Minimalist GNU for Windows"}

@@ -1,1 +1,1 @@
-{"name":"spscqueue","versions":["master"],"git":"https://github.com/rigtorp/SPSCQueue","description":"A bounded single-producer single-consumer wait-free and lock-free queue written in C++11."}
+{"name":"spscqueue","versions":["master","v1.0","v1.1"],"git":"https://github.com/rigtorp/SPSCQueue","description":"A bounded single-producer single-consumer wait-free and lock-free queue written in C++11."}

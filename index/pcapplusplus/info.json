@@ -1,1 +1,1 @@
-{"name":"pcapplusplus","versions":["master"],"git":"https://github.com/seladb/PcapPlusPlus","description":"PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets"}
+{"name":"pcapplusplus","versions":["master","v16.02","v16.09","v17.02","v17.11","v18.08","v19.04","v19.12","v20.08","v21.05","v21.11","v22.05","v22.11","v23.09"],"git":"https://github.com/seladb/PcapPlusPlus","description":"PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets"}

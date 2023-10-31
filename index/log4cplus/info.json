@@ -1,1 +1,1 @@
-{"name":"log4cplus","versions":["master"],"git":"https://github.com/log4cplus/log4cplus","description":"simple to use C++ logging API, modelled after the Java log4j API"}
+{"name":"log4cplus","versions":["1.0.4.1","master"],"git":"https://github.com/log4cplus/log4cplus","description":"simple to use C++ logging API, modelled after the Java log4j API"}

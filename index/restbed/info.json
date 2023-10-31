@@ -1,1 +1,1 @@
-{"name":"restbed","versions":["master"],"git":"https://github.com/Corvusoft/restbed","description":"Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications."}
+{"name":"restbed","versions":["4.7","master","1.0","1.0^{}","2.0","2.0^{}","2.5","3.0","3.0^{}","3.5","3.5^{}","4.0","4.0^{}","4.5","4.5-RC1","4.5-RC1^{}","4.6","4.7","4.7^{}","4.7-RC1","4.7-RC1^{}","4.8","4.8-RC1"],"git":"https://github.com/Corvusoft/restbed","description":"Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications."}

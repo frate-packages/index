@@ -1,1 +1,1 @@
-{"name":"tmx","versions":["master"],"git":"https://github.com/baylej/tmx","description":"A portable C library to load tiled maps in your games."}
+{"name":"tmx","versions":["master","tmx_0.10","tmx_0.10.1","tmx_0.10.2","tmx_0.11","tmx_0.11^{}","tmx_0.13","tmx_0.13^{}","tmx_0.13.1","tmx_0.15.0","tmx_0.15.1","tmx_0.16.0","tmx_0.17.0","tmx_0.17.1","tmx_0.9","tmx_1.0.0","tmx_1.1.0","tmx_1.2.0","tmx_1.4.0"],"git":"https://github.com/baylej/tmx","description":"A portable C library to load tiled maps in your games."}

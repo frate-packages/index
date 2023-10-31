@@ -1,1 +1,1 @@
-{"name":"pthreadpool","versions":["master"],"git":"https://github.com/Maratyszcza/pthreadpool","description":"pthreadpool is a portable and efficient thread pool implementation. It provides similar functionality to #pragma omp parallel for, but with additional features."}
+{"name":"pthreadpool","versions":["master","0.1"],"git":"https://github.com/Maratyszcza/pthreadpool","description":"pthreadpool is a portable and efficient thread pool implementation. It provides similar functionality to #pragma omp parallel for, but with additional features."}

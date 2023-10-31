@@ -1,1 +1,1 @@
-{"name":"lzham","versions":["master"],"git":"https://github.com/richgel999/lzham_codec","description":"Compression algorithm similar compression ratio and faster decompression than LZMA."}
+{"name":"lzham","versions":["master","v1_0_release","v1_0_release^{}","v1_0_stable1","v1_0_stable1^{}"],"git":"https://github.com/richgel999/lzham_codec","description":"Compression algorithm similar compression ratio and faster decompression than LZMA."}

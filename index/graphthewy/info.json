@@ -1,1 +1,1 @@
-{"name":"graphthewy","versions":["master"],"git":"https://github.com/alex-87/graphthewy","description":"Simple header-only C++ Library for graph modelling (directed or not) and graph cycle detection. "}
+{"name":"graphthewy","versions":["master","v0.1-alpha","v0.1-beta","v1.0","v1.1"],"git":"https://github.com/alex-87/graphthewy","description":"Simple header-only C++ Library for graph modelling (directed or not) and graph cycle detection. "}

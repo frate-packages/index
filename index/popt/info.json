@@ -1,1 +1,1 @@
-{"name":"popt","versions":["master"],"git":"https://github.com/rpm-software-management/popt","description":"Library for parsing command line parameters"}
+{"name":"popt","versions":["master","popt-1_1_1","popt-1_2_1","popt-1_2_2","popt-1_2_3"],"git":"https://github.com/rpm-software-management/popt","description":"Library for parsing command line parameters"}

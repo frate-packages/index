@@ -1,1 +1,1 @@
-{"name":"cppdap","versions":["main"],"git":"https://github.com/google/cppdap","description":"Debug Adapter Protocol SDK"}
+{"name":"cppdap","versions":["main","dap-1.58.0-a"],"git":"https://github.com/google/cppdap","description":"Debug Adapter Protocol SDK"}

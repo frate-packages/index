@@ -1,1 +1,1 @@
-{"name":"so5extra","versions":["master"],"git":"https://github.com/Stiffstream/so5extra","description":"A collection of various SObjectizer's extensions."}
+{"name":"so5extra","versions":["1.4-dev-1.4.1","1.4-dev-1.4.1-asio-one-thread-disp","1.4-dev-upgrade-to-so-5.7.3","1.5-dev-1.5.2-inflight-limit-mbox","1.6-dev-1.6.1","master"],"git":"https://github.com/Stiffstream/so5extra","description":"A collection of various SObjectizer's extensions."}
