@@ -1,1 +1,1 @@
-{"name":"cppfront","versions":["main"],"git":"https://github.com/hsutter/cppfront","description":"Cppfront is a experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1)"}
+{"name":"cppfront","versions":["main"],"git":"https://github.com/hsutter/cppfront","description":"Cppfront is a experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1)","target_link":""}

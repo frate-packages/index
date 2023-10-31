@@ -1,1 +1,1 @@
-{"name":"parson","versions":["master"],"git":"https://github.com/kgabis/parson","description":"Lightweight JSON library written in C."}
+{"name":"parson","versions":["master"],"git":"https://github.com/kgabis/parson","description":"Lightweight JSON library written in C.","target_link":""}

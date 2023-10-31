@@ -1,1 +1,1 @@
-{"name":"nv-codec-headers","versions":["master"],"git":"https://github.com/FFmpeg/nv-codec-headers","description":"FFmpeg version of headers required to interface with Nvidia's codec APIs"}
+{"name":"nv-codec-headers","versions":["master"],"git":"https://github.com/FFmpeg/nv-codec-headers","description":"FFmpeg version of headers required to interface with Nvidia's codec APIs","target_link":""}

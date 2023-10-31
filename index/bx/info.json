@@ -1,1 +1,1 @@
-{"name":"bx","versions":["master"],"git":"https://github.com/bkaradzic/bx","description":"Base library providing utility functions and macros."}
+{"name":"bx","versions":["master"],"git":"https://github.com/bkaradzic/bx","description":"Base library providing utility functions and macros.","target_link":""}

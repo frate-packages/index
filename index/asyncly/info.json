@@ -1,1 +1,1 @@
-{"name":"asyncly","versions":["master"],"git":"https://github.com/goto-opensource/asyncly","description":"High level concurrency primitives for C++"}
+{"name":"asyncly","versions":["master"],"git":"https://github.com/goto-opensource/asyncly","description":"High level concurrency primitives for C++","target_link":""}

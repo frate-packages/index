@@ -1,1 +1,1 @@
-{"name":"astc-codec","versions":["master"],"git":"https://github.com/google/astc-codec","description":"A software ASTC decoder implementation which supports the ASTC LDR profile"}
+{"name":"astc-codec","versions":["master"],"git":"https://github.com/google/astc-codec","description":"A software ASTC decoder implementation which supports the ASTC LDR profile","target_link":""}

@@ -16,6 +16,7 @@ type PackageInfo struct{
   Versions []string `json:"versions"`
   Git string `json:"git"`
   Description string `json:"description"`
+  Target string `json:"target_link"`
 }
 
 

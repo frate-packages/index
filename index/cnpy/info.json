@@ -1,1 +1,1 @@
-{"name":"cnpy","versions":["master"],"git":"https://github.com/rogersce/cnpy","description":"library to read/write .npy and .npz files in C/C++"}
+{"name":"cnpy","versions":["master"],"git":"https://github.com/rogersce/cnpy","description":"library to read/write .npy and .npz files in C/C++","target_link":""}

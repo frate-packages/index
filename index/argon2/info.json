@@ -1,1 +1,1 @@
-{"name":"argon2","versions":["master"],"git":"https://github.com/P-H-C/phc-winner-argon2","description":"Argon2 password hashing library"}
+{"name":"argon2","versions":["master"],"git":"https://github.com/P-H-C/phc-winner-argon2","description":"Argon2 password hashing library","target_link":""}

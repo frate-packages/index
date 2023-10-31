@@ -1,1 +1,1 @@
-{"name":"dr_libs","versions":["master"],"git":"https://github.com/mackron/dr_libs","description":"Public domain, single file audio decoding libraries for C and C++."}
+{"name":"dr_libs","versions":["master"],"git":"https://github.com/mackron/dr_libs","description":"Public domain, single file audio decoding libraries for C and C++.","target_link":""}

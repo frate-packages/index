@@ -1,1 +1,1 @@
-{"name":"minimp3","versions":["master"],"git":"https://github.com/lieff/minimp3","description":"Minimalistic MP3 decoder single header library."}
+{"name":"minimp3","versions":["master"],"git":"https://github.com/lieff/minimp3","description":"Minimalistic MP3 decoder single header library.","target_link":""}

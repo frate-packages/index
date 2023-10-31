@@ -1,1 +1,1 @@
-{"name":"libbacktrace","versions":["master"],"git":"https://github.com/ianlancetaylor/libbacktrace","description":"A C library that may be linked into a C/C++ program to produce symbolic backtraces."}
+{"name":"libbacktrace","versions":["master"],"git":"https://github.com/ianlancetaylor/libbacktrace","description":"A C library that may be linked into a C/C++ program to produce symbolic backtraces.","target_link":""}
