@@ -1,1 +1,1 @@
-{"name":"c-client","versions":["master"],"git":"https://github.com/uw-imap/imap","description":"University of Washington IMAP toolkit"}
+{"name":"c-client","versions":["master"],"git":"https://github.com/uw-imap/imap","description":"University of Washington IMAP toolkit","target_link":""}

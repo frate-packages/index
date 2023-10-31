@@ -1,1 +1,1 @@
-{"name":"iso8601lib","versions":["master"],"git":"https://github.com/TimSC/iso8601lib","description":"Parsing a subset of ISO 8601 datetimes, dates and times in C."}
+{"name":"iso8601lib","versions":["master"],"git":"https://github.com/TimSC/iso8601lib","description":"Parsing a subset of ISO 8601 datetimes, dates and times in C.","target_link":""}

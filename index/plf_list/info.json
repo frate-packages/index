@@ -1,1 +1,1 @@
-{"name":"plf_list","versions":["master"],"git":"https://github.com/mattreecebentley/plf_list","description":"plf::list is a drop-in higher-performance replacement for std::list"}
+{"name":"plf_list","versions":["master"],"git":"https://github.com/mattreecebentley/plf_list","description":"plf::list is a drop-in higher-performance replacement for std::list","target_link":""}

@@ -1,1 +1,1 @@
-{"name":"fastprng","versions":["master"],"git":"https://github.com/BrutPitt/fastPRNG","description":"FAST 32/64 bit PRNG (pseudo-random generator), highly optimized, based on xoshiro* / xoroshiro*, xorshift and other Marsaglia algorithms."}
+{"name":"fastprng","versions":["master"],"git":"https://github.com/BrutPitt/fastPRNG","description":"FAST 32/64 bit PRNG (pseudo-random generator), highly optimized, based on xoshiro* / xoroshiro*, xorshift and other Marsaglia algorithms.","target_link":""}

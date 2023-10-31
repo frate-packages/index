@@ -1,1 +1,1 @@
-{"name":"poly2tri","versions":["master"],"git":"https://github.com/greenm01/poly2tri","description":"Poly2Tri is a sweepline constrained Delaunay Polygon Triangulation Library."}
+{"name":"poly2tri","versions":["master"],"git":"https://github.com/greenm01/poly2tri","description":"Poly2Tri is a sweepline constrained Delaunay Polygon Triangulation Library.","target_link":""}

@@ -1,1 +1,1 @@
-{"name":"re2","versions":["main"],"git":"https://github.com/google/re2","description":"Fast, safe, thread-friendly regular expression library"}
+{"name":"re2","versions":["main"],"git":"https://github.com/google/re2","description":"Fast, safe, thread-friendly regular expression library","target_link":""}

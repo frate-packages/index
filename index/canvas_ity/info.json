@@ -1,1 +1,1 @@
-{"name":"canvas_ity","versions":["main"],"git":"https://github.com/a-e-k/canvas_ity","description":"A tiny, single-header \u0026lt;canvas\u0026gt;-like 2D rasterizer for C++"}
+{"name":"canvas_ity","versions":["main"],"git":"https://github.com/a-e-k/canvas_ity","description":"A tiny, single-header \u0026lt;canvas\u0026gt;-like 2D rasterizer for C++","target_link":""}

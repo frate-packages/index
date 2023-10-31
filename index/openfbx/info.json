@@ -1,1 +1,1 @@
-{"name":"openfbx","versions":["master"],"git":"https://github.com/nem0/OpenFBX","description":"Lightweight open source FBX importer."}
+{"name":"openfbx","versions":["master"],"git":"https://github.com/nem0/OpenFBX","description":"Lightweight open source FBX importer.","target_link":""}

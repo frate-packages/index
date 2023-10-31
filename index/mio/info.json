@@ -1,1 +1,1 @@
-{"name":"mio","versions":["master"],"git":"https://github.com/mandreyel/mio","description":"Cross-platform C++11 header-only library for memory mapped file IO."}
+{"name":"mio","versions":["master"],"git":"https://github.com/mandreyel/mio","description":"Cross-platform C++11 header-only library for memory mapped file IO.","target_link":""}

@@ -1,1 +1,1 @@
-{"name":"taocpp-taopq","versions":["main"],"git":"https://github.com/taocpp/taopq","description":"C++ client library for PostgreSQL"}
+{"name":"taocpp-taopq","versions":["main"],"git":"https://github.com/taocpp/taopq","description":"C++ client library for PostgreSQL","target_link":""}

@@ -1,1 +1,1 @@
-{"name":"happly","versions":["master"],"git":"https://github.com/nmwsharp/happly","description":"A C++ header-only parser for the PLY file format. Parse .ply happily!"}
+{"name":"happly","versions":["master"],"git":"https://github.com/nmwsharp/happly","description":"A C++ header-only parser for the PLY file format. Parse .ply happily!","target_link":""}

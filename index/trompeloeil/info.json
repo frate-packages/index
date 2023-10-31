@@ -1,1 +1,1 @@
-{"name":"trompeloeil","versions":["main"],"git":"https://github.com/rollbear/trompeloeil","description":"Header only C++14 mocking framework"}
+{"name":"trompeloeil","versions":["main"],"git":"https://github.com/rollbear/trompeloeil","description":"Header only C++14 mocking framework","target_link":""}

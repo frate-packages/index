@@ -1,1 +1,1 @@
-{"name":"cpuinfo","versions":["main"],"git":"https://github.com/pytorch/cpuinfo","description":"cpuinfo is a library to detect essential for performance optimization information about host CPU."}
+{"name":"cpuinfo","versions":["main"],"git":"https://github.com/pytorch/cpuinfo","description":"cpuinfo is a library to detect essential for performance optimization information about host CPU.","target_link":""}

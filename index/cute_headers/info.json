@@ -1,1 +1,1 @@
-{"name":"cute_headers","versions":["master"],"git":"https://github.com/RandyGaul/cute_headers","description":"Various single-file cross-platform C/C++ headers implementing self-contained libraries."}
+{"name":"cute_headers","versions":["master"],"git":"https://github.com/RandyGaul/cute_headers","description":"Various single-file cross-platform C/C++ headers implementing self-contained libraries.","target_link":""}

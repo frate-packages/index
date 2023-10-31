@@ -1,1 +1,1 @@
-{"name":"libhydrogen","versions":["master"],"git":"https://github.com/jedisct1/libhydrogen","description":"A lightweight, secure, easy-to-use crypto library suitable for constrained environments."}
+{"name":"libhydrogen","versions":["master"],"git":"https://github.com/jedisct1/libhydrogen","description":"A lightweight, secure, easy-to-use crypto library suitable for constrained environments.","target_link":""}
