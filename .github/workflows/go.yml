@@ -21,7 +21,7 @@ jobs:
         go-version: '1.19'
 
     - name: Run Index
-      run: cd ${{github.workspace}}/indexer/ && go run ./main.go
+      run: export GITHUB_TOKEN="${{ secrets.CI_TOKEN }}" && cd ${{github.workspace}}/indexer/ && go run ./main.go
 
     - name: Release
       uses: svenstaro/upload-release-action@v2
