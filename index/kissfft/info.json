@@ -1,1 +1,25 @@
-{"name":"kissfft","versions":["master","131.1.0"],"git":"https://github.com/mborgerding/kissfft","description":"a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid"}
+{
+  "name": "kissfft",
+  "versions": [
+    "master",
+    "131.1.0",
+    "v130",
+    "v131",
+    "v131^{}"
+  ],
+  "git": "https://github.com/mborgerding/kissfft",
+  "git_short": "mborgerding/kissfft",
+  "git_prefixed": "gh:mborgerding/kissfft",
+  "stars": 1262,
+  "forks": 263,
+  "open_issues": 31,
+  "maintainers": [],
+  "watchers": 50,
+  "description": "a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "mborgerding",
+  "owner_type": "User"
+}

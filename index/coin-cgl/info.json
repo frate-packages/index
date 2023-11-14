@@ -1,1 +1,22 @@
-{"name":"coin-cgl","versions":["master","release_2002-11-05"],"git":"https://github.com/coin-or/Cgl","description":"COIN-OR Cut Generator Library"}
+{
+  "name": "coin-cgl",
+  "versions": [
+    "master",
+    "release_2002-11-05"
+  ],
+  "git": "https://github.com/coin-or/Cgl",
+  "git_short": "coin-or/Cgl",
+  "git_prefixed": "gh:coin-or/Cgl",
+  "stars": 22,
+  "forks": 15,
+  "open_issues": 16,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "COIN-OR Cut Generator Library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "coin-or",
+  "owner_type": "Organization"
+}

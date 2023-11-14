@@ -1,1 +1,21 @@
-{"name":"bx","versions":["master"],"git":"https://github.com/bkaradzic/bx","description":"Base library providing utility functions and macros.","target_link":""}
+{
+  "name": "bx",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/bkaradzic/bx",
+  "git_short": "bkaradzic/bx",
+  "git_prefixed": "gh:bkaradzic/bx",
+  "stars": 508,
+  "forks": 406,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 48,
+  "description": "Base library providing utility functions and macros.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "bkaradzic",
+  "owner_type": "User"
+}

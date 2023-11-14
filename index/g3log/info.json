@@ -1,1 +1,33 @@
-{"name":"g3log","versions":["master","1.3.1","1.3.2","1.3.3","1.3.4","2.0.1"],"git":"https://github.com/KjellKod/g3log","description":"G3log is an asynchronous, \"crash safe\", logger that is easy to use with default logging sinks or you can add your own."}
+{
+  "name": "g3log",
+  "versions": [
+    "master",
+    "1.2",
+    "1.3",
+    "1.3.1",
+    "1.3.2",
+    "1.3.3",
+    "1.3.4",
+    "2.0.1",
+    "2.1",
+    "2.2",
+    "2.3",
+    "v1.1",
+    "v1.1^{}"
+  ],
+  "git": "https://github.com/KjellKod/g3log",
+  "git_short": "KjellKod/g3log",
+  "git_prefixed": "gh:KjellKod/g3log",
+  "stars": 861,
+  "forks": 272,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 54,
+  "description": "G3log is an asynchronous, \"crash safe\", logger that is easy to use with default logging sinks or you can add your own.",
+  "git_description": "",
+  "target_link": "",
+  "license": "The Unlicense",
+  "language": "C++",
+  "owner": "KjellKod",
+  "owner_type": "User"
+}

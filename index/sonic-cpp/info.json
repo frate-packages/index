@@ -1,1 +1,22 @@
-{"name":"sonic-cpp","versions":["master","v1.0.0"],"git":"https://github.com/bytedance/sonic-cpp","description":"A fast JSON serializing \u0026amp; deserializing library, accelerated by SIMD."}
+{
+  "name": "sonic-cpp",
+  "versions": [
+    "master",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/bytedance/sonic-cpp",
+  "git_short": "bytedance/sonic-cpp",
+  "git_prefixed": "gh:bytedance/sonic-cpp",
+  "stars": 678,
+  "forks": 78,
+  "open_issues": 19,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "A fast JSON serializing \u0026amp; deserializing library, accelerated by SIMD.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "bytedance",
+  "owner_type": "Organization"
+}

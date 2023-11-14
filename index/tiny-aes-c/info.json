@@ -1,1 +1,22 @@
-{"name":"tiny-aes-c","versions":["master","v1.0.0"],"git":"https://github.com/kokke/tiny-AES-c","description":"Small portable AES128/192/256 in C"}
+{
+  "name": "tiny-aes-c",
+  "versions": [
+    "master",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/kokke/tiny-AES-c",
+  "git_short": "kokke/tiny-AES-c",
+  "git_prefixed": "gh:kokke/tiny-AES-c",
+  "stars": 3825,
+  "forks": 1296,
+  "open_issues": 20,
+  "maintainers": [],
+  "watchers": 138,
+  "description": "Small portable AES128/192/256 in C",
+  "git_description": "",
+  "target_link": "",
+  "license": "The Unlicense",
+  "language": "C",
+  "owner": "kokke",
+  "owner_type": "User"
+}

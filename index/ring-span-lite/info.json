@@ -1,1 +1,28 @@
-{"name":"ring-span-lite","versions":["master","v0.0.0","v0.1.0","v0.2.0","v0.3.0","v0.4.0","v0.5.0","v0.6.0"],"git":"https://github.com/martinmoene/ring-span-lite","description":"ring-span lite - A ring_span type for C++98, C++11 and later in a single-file header-only library "}
+{
+  "name": "ring-span-lite",
+  "versions": [
+    "master",
+    "v0.0.0",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0",
+    "v0.5.0",
+    "v0.6.0"
+  ],
+  "git": "https://github.com/martinmoene/ring-span-lite",
+  "git_short": "martinmoene/ring-span-lite",
+  "git_prefixed": "gh:martinmoene/ring-span-lite",
+  "stars": 145,
+  "forks": 11,
+  "open_issues": 7,
+  "maintainers": [],
+  "watchers": 11,
+  "description": "ring-span lite - A ring_span type for C++98, C++11 and later in a single-file header-only library ",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

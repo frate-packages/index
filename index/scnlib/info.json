@@ -1,1 +1,34 @@
-{"name":"scnlib","versions":["master","v0.1.1","v0.1.2","v1.1.1","v1.1.2"],"git":"https://github.com/eliaskosunen/scnlib","description":"scanf for modern C++"}
+{
+  "name": "scnlib",
+  "versions": [
+    "master",
+    "v0.1",
+    "v0.1.1",
+    "v0.1.2",
+    "v0.2",
+    "v0.3",
+    "v0.4",
+    "v1.0",
+    "v1.0-rc1",
+    "v1.1",
+    "v1.1.1",
+    "v1.1.2",
+    "v1.1.3",
+    "v2.0.0-beta"
+  ],
+  "git": "https://github.com/eliaskosunen/scnlib",
+  "git_short": "eliaskosunen/scnlib",
+  "git_prefixed": "gh:eliaskosunen/scnlib",
+  "stars": 832,
+  "forks": 38,
+  "open_issues": 14,
+  "maintainers": [],
+  "watchers": 17,
+  "description": "scanf for modern C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "eliaskosunen",
+  "owner_type": "User"
+}

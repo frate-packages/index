@@ -1,1 +1,26 @@
-{"name":"observer-ptr-lite","versions":["master","v0.0.0","v0.1.0","v0.2.0","v0.3.0","v0.4.0"],"git":"https://github.com/martinmoene/observer-ptr-lite","description":"observer-ptr is a single-file header-only library with a variant of                     std::experimental::observer_ptr for C++98 and later."}
+{
+  "name": "observer-ptr-lite",
+  "versions": [
+    "master",
+    "v0.0.0",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0"
+  ],
+  "git": "https://github.com/martinmoene/observer-ptr-lite",
+  "git_short": "martinmoene/observer-ptr-lite",
+  "git_prefixed": "gh:martinmoene/observer-ptr-lite",
+  "stars": 36,
+  "forks": 6,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "observer-ptr is a single-file header-only library with a variant of                     std::experimental::observer_ptr for C++98 and later.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

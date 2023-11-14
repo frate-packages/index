@@ -1,1 +1,21 @@
-{"name":"vectorial","versions":["master"],"git":"https://github.com/scoopr/vectorial","description":"Vector math library with NEON/SSE support","target_link":""}
+{
+  "name": "vectorial",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/scoopr/vectorial",
+  "git_short": "scoopr/vectorial",
+  "git_prefixed": "gh:scoopr/vectorial",
+  "stars": 347,
+  "forks": 45,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "Vector math library with NEON/SSE support",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "scoopr",
+  "owner_type": "User"
+}

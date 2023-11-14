@@ -1,1 +1,21 @@
-{"name":"opengl-registry","versions":["main"],"git":"https://github.com/KhronosGroup/OpenGL-Registry","description":"OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry.","target_link":""}
+{
+  "name": "opengl-registry",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/KhronosGroup/OpenGL-Registry",
+  "git_short": "KhronosGroup/OpenGL-Registry",
+  "git_prefixed": "gh:KhronosGroup/OpenGL-Registry",
+  "stars": 603,
+  "forks": 264,
+  "open_issues": 27,
+  "maintainers": [],
+  "watchers": 62,
+  "description": "OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C",
+  "owner": "KhronosGroup",
+  "owner_type": "Organization"
+}

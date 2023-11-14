@@ -1,1 +1,21 @@
-{"name":"thelink2012-any","versions":["master"],"git":"https://github.com/thelink2012/any","description":"Implementation of std::experimental::any, including small object optimization, for C++11 compilers","target_link":""}
+{
+  "name": "thelink2012-any",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/thelink2012/any",
+  "git_short": "thelink2012/any",
+  "git_prefixed": "gh:thelink2012/any",
+  "stars": 139,
+  "forks": 35,
+  "open_issues": 6,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "Implementation of std::experimental::any, including small object optimization, for C++11 compilers",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "thelink2012",
+  "owner_type": "User"
+}

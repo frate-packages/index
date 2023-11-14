@@ -1,1 +1,22 @@
-{"name":"tensorpipe","versions":["main","master"],"git":"https://github.com/pytorch/tensorpipe","description":"The TensorPipe project provides a tensor-aware channel to transfer rich objects from one process to another while using the fastest transport for the tensors contained therein (e.g., CUDA device-to-device copy)."}
+{
+  "name": "tensorpipe",
+  "versions": [
+    "main",
+    "master"
+  ],
+  "git": "https://github.com/pytorch/tensorpipe",
+  "git_short": "pytorch/tensorpipe",
+  "git_prefixed": "gh:pytorch/tensorpipe",
+  "stars": 231,
+  "forks": 70,
+  "open_issues": 58,
+  "maintainers": [],
+  "watchers": 60,
+  "description": "The TensorPipe project provides a tensor-aware channel to transfer rich objects from one process to another while using the fastest transport for the tensors contained therein (e.g., CUDA device-to-device copy).",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "pytorch",
+  "owner_type": "Organization"
+}

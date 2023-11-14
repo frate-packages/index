@@ -1,1 +1,28 @@
-{"name":"dice-template-library","versions":["main","v0.1.0","v0.2.0","v0.3.0","v0.3.1","v0.3.2","v1.0.0","v1.1.0"],"git":"https://github.com/dice-group/dice-template-library/","description":"This template library is a collection of handy template-oriented code that we, the Data Science Group at UPB, found pretty handy."}
+{
+  "name": "dice-template-library",
+  "versions": [
+    "main",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.3.1",
+    "v0.3.2",
+    "v1.0.0",
+    "v1.1.0"
+  ],
+  "git": "https://github.com/dice-group/dice-template-library/",
+  "git_short": "dice-group/dice-template-library/",
+  "git_prefixed": "gh:dice-group/dice-template-library/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "This template library is a collection of handy template-oriented code that we, the Data Science Group at UPB, found pretty handy.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

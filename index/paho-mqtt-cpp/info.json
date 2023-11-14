@@ -1,1 +1,26 @@
-{"name":"paho-mqtt-cpp","versions":["master","v1.0.0","v1.0.1","v1.2.0"],"git":"https://github.com/eclipse/paho.mqtt.cpp","description":"The open-source client implementations of MQTT and MQTT-SN"}
+{
+  "name": "paho-mqtt-cpp",
+  "versions": [
+    "master",
+    "v0.5-prerelease",
+    "v1.0.0",
+    "v1.0.1",
+    "v1.1",
+    "v1.2.0"
+  ],
+  "git": "https://github.com/eclipse/paho.mqtt.cpp",
+  "git_short": "eclipse/paho.mqtt.cpp",
+  "git_prefixed": "gh:eclipse/paho.mqtt.cpp",
+  "stars": 834,
+  "forks": 394,
+  "open_issues": 121,
+  "maintainers": [],
+  "watchers": 48,
+  "description": "The open-source client implementations of MQTT and MQTT-SN",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C++",
+  "owner": "eclipse",
+  "owner_type": "Organization"
+}

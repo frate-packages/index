@@ -1,1 +1,33 @@
-{"name":"base64","versions":["master","v0.2.0","v0.3.0","v0.4.0","v0.5.0"],"git":"https://github.com/aklomp/base64","description":"Fast Base64 stream encoder/decoder"}
+{
+  "name": "base64",
+  "versions": [
+    "master",
+    "v0.1",
+    "v0.1^{}",
+    "v0.2.0",
+    "v0.2.0^{}",
+    "v0.3.0",
+    "v0.3.0^{}",
+    "v0.4.0",
+    "v0.4.0^{}",
+    "v0.5.0",
+    "v0.5.0^{}",
+    "v0.5.1",
+    "v0.5.1^{}"
+  ],
+  "git": "https://github.com/aklomp/base64",
+  "git_short": "aklomp/base64",
+  "git_prefixed": "gh:aklomp/base64",
+  "stars": 792,
+  "forks": 152,
+  "open_issues": 26,
+  "maintainers": [],
+  "watchers": 37,
+  "description": "Fast Base64 stream encoder/decoder",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C",
+  "owner": "aklomp",
+  "owner_type": "User"
+}

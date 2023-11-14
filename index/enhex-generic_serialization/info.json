@@ -1,1 +1,22 @@
-{"name":"enhex-generic_serialization","versions":["master","v1.0.0"],"git":"https://github.com/Enhex/generic_serialization","description":"Lightweight and extensible generic serialization library"}
+{
+  "name": "enhex-generic_serialization",
+  "versions": [
+    "master",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/Enhex/generic_serialization",
+  "git_short": "Enhex/generic_serialization",
+  "git_prefixed": "gh:Enhex/generic_serialization",
+  "stars": 1,
+  "forks": 1,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "Lightweight and extensible generic serialization library",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Enhex",
+  "owner_type": "User"
+}

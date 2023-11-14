@@ -1,1 +1,24 @@
-{"name":"icecream-cpp","versions":["master","v0.2.0","v0.3.0","v0.3.1"],"git":"https://github.com/renatoGarcia/icecream-cpp","description":"A little library to help with the print debugging on C++11 and forward."}
+{
+  "name": "icecream-cpp",
+  "versions": [
+    "master",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.3.1"
+  ],
+  "git": "https://github.com/renatoGarcia/icecream-cpp",
+  "git_short": "renatoGarcia/icecream-cpp",
+  "git_prefixed": "gh:renatoGarcia/icecream-cpp",
+  "stars": 471,
+  "forks": 30,
+  "open_issues": 9,
+  "maintainers": [],
+  "watchers": 11,
+  "description": "A little library to help with the print debugging on C++11 and forward.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "renatoGarcia",
+  "owner_type": "User"
+}

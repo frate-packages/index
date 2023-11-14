@@ -1,1 +1,33 @@
-{"name":"dbcppp","versions":["master","v1.0.0","v2.0.0","v3.0.0","v3.2.3","v3.2.4","v3.2.5","v3.2.6"],"git":"https://github.com/xR3b0rn/dbcppp","description":".dbc library for C/C++"}
+{
+  "name": "dbcppp",
+  "versions": [
+    "feat/v2.1.0",
+    "master",
+    "v1.0.0",
+    "v2.0.0",
+    "v3.0.0",
+    "v3.0.0-stable-api",
+    "v3.0.1-stable-api",
+    "v3.2.1-stable-api",
+    "v3.2.2-stable-api",
+    "v3.2.3",
+    "v3.2.4",
+    "v3.2.5",
+    "v3.2.6"
+  ],
+  "git": "https://github.com/xR3b0rn/dbcppp",
+  "git_short": "xR3b0rn/dbcppp",
+  "git_prefixed": "gh:xR3b0rn/dbcppp",
+  "stars": 179,
+  "forks": 92,
+  "open_issues": 17,
+  "maintainers": [],
+  "watchers": 13,
+  "description": ".dbc library for C/C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "xR3b0rn",
+  "owner_type": "User"
+}

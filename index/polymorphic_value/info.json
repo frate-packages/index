@@ -1,1 +1,22 @@
-{"name":"polymorphic_value","versions":["main","v1.3.0"],"git":"https://github.com/jbcoe/polymorphic_value","description":"Production-quality reference implementation of P0201r2: A polymorphic value-type for C++"}
+{
+  "name": "polymorphic_value",
+  "versions": [
+    "main",
+    "v1.3.0"
+  ],
+  "git": "https://github.com/jbcoe/polymorphic_value",
+  "git_short": "jbcoe/polymorphic_value",
+  "git_prefixed": "gh:jbcoe/polymorphic_value",
+  "stars": 229,
+  "forks": 23,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 13,
+  "description": "Production-quality reference implementation of P0201r2: A polymorphic value-type for C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "jbcoe",
+  "owner_type": "User"
+}

@@ -1,1 +1,28 @@
-{"name":"litehtml","versions":["master","v0.1","v0.3","v0.4","v0.5","v0.6","v0.7","v0.8"],"git":"https://github.com/litehtml/litehtml","description":"litehtml is the lightweight HTML rendering engine with CSS2/CSS3 support."}
+{
+  "name": "litehtml",
+  "versions": [
+    "master",
+    "v0.1",
+    "v0.3",
+    "v0.4",
+    "v0.5",
+    "v0.6",
+    "v0.7",
+    "v0.8"
+  ],
+  "git": "https://github.com/litehtml/litehtml",
+  "git_short": "litehtml/litehtml",
+  "git_prefixed": "gh:litehtml/litehtml",
+  "stars": 1663,
+  "forks": 249,
+  "open_issues": 40,
+  "maintainers": [],
+  "watchers": 89,
+  "description": "litehtml is the lightweight HTML rendering engine with CSS2/CSS3 support.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C",
+  "owner": "litehtml",
+  "owner_type": "Organization"
+}

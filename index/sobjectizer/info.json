@@ -1,1 +1,29 @@
-{"name":"sobjectizer","versions":["5.7-dev-5.7.2-safe-wait-for","5.7-dev-5.7.4.1","master"],"git":"https://github.com/Stiffstream/sobjectizer","description":"A framework for simplification of development of sophisticated concurrent and event-driven applications in C++ by using Actor, Publish-Subscribe and CSP models."}
+{
+  "name": "sobjectizer",
+  "versions": [
+    "5.6-dev",
+    "5.7-dev",
+    "5.7-dev-5.7.2-safe-wait-for",
+    "5.7-dev-5.7.4.1",
+    "5.7-dev-issue-35",
+    "5.7-dev-overlimit-timer-thread-check",
+    "5.8-dev",
+    "5.8-dev-gcc-9-backport",
+    "master"
+  ],
+  "git": "https://github.com/Stiffstream/sobjectizer",
+  "git_short": "Stiffstream/sobjectizer",
+  "git_prefixed": "gh:Stiffstream/sobjectizer",
+  "stars": 409,
+  "forks": 41,
+  "open_issues": 9,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "A framework for simplification of development of sophisticated concurrent and event-driven applications in C++ by using Actor, Publish-Subscribe and CSP models.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "Stiffstream",
+  "owner_type": "Organization"
+}

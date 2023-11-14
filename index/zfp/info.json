@@ -1,1 +1,35 @@
-{"name":"zfp","versions":["master","0.1.0","0.2.0","0.2.1","0.3.0","0.3.1","0.4.0","0.4.1","0.5.0","0.5.1","0.5.2","0.5.3","0.5.4","0.5.5","1.0.0"],"git":"https://github.com/LLNL/zfp","description":"Compressed numerical arrays that support high-speed random access"}
+{
+  "name": "zfp",
+  "versions": [
+    "master",
+    "0.1.0",
+    "0.2.0",
+    "0.2.1",
+    "0.3.0",
+    "0.3.1",
+    "0.4.0",
+    "0.4.1",
+    "0.5.0",
+    "0.5.1",
+    "0.5.2",
+    "0.5.3",
+    "0.5.4",
+    "0.5.5",
+    "1.0.0"
+  ],
+  "git": "https://github.com/LLNL/zfp",
+  "git_short": "LLNL/zfp",
+  "git_prefixed": "gh:LLNL/zfp",
+  "stars": 685,
+  "forks": 143,
+  "open_issues": 34,
+  "maintainers": [],
+  "watchers": 28,
+  "description": "Compressed numerical arrays that support high-speed random access",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "LLNL",
+  "owner_type": "Organization"
+}

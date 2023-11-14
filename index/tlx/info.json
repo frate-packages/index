@@ -1,1 +1,31 @@
-{"name":"tlx","versions":["master","v0.5.20191212","v0.5.20200222","v0.5.20230516","v0.6.0","v0.6.1"],"git":"https://github.com/tlx/tlx","description":"tlx is a collection of C++ helpers and extensions universally needed, but not found in the STL."}
+{
+  "name": "tlx",
+  "versions": [
+    "master",
+    "v0.5.20191212",
+    "v0.5.20191212^{}",
+    "v0.5.20200222",
+    "v0.5.20200222^{}",
+    "v0.5.20230516",
+    "v0.5.20230516^{}",
+    "v0.6.0",
+    "v0.6.0^{}",
+    "v0.6.1",
+    "v0.6.1^{}"
+  ],
+  "git": "https://github.com/tlx/tlx",
+  "git_short": "tlx/tlx",
+  "git_prefixed": "gh:tlx/tlx",
+  "stars": 366,
+  "forks": 95,
+  "open_issues": 7,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "tlx is a collection of C++ helpers and extensions universally needed, but not found in the STL.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "tlx",
+  "owner_type": "Organization"
+}

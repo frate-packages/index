@@ -1,1 +1,23 @@
-{"name":"naive-tsearch","versions":["master","v0.1.0","v0.1.1"],"git":"https://github.com/kulp/naive-tsearch","description":"A simple tsearch() implementation for platforms without one"}
+{
+  "name": "naive-tsearch",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.1.1"
+  ],
+  "git": "https://github.com/kulp/naive-tsearch",
+  "git_short": "kulp/naive-tsearch",
+  "git_prefixed": "gh:kulp/naive-tsearch",
+  "stars": 1,
+  "forks": 1,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 4,
+  "description": "A simple tsearch() implementation for platforms without one",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "kulp",
+  "owner_type": "User"
+}

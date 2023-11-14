@@ -1,1 +1,27 @@
-{"name":"beauty","versions":["master","1.0.0","1.0.1","1.0.2"],"git":"https://github.com/dfleury2/beauty","description":"HTTP Server above Boost.Beast"}
+{
+  "name": "beauty",
+  "versions": [
+    "master",
+    "1.0.0",
+    "1.0.0-rc1",
+    "1.0.1",
+    "1.0.1^{}",
+    "1.0.2",
+    "1.0.2^{}"
+  ],
+  "git": "https://github.com/dfleury2/beauty",
+  "git_short": "dfleury2/beauty",
+  "git_prefixed": "gh:dfleury2/beauty",
+  "stars": 145,
+  "forks": 15,
+  "open_issues": 6,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "HTTP Server above Boost.Beast",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "dfleury2",
+  "owner_type": "User"
+}

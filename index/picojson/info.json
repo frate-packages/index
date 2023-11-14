@@ -1,1 +1,32 @@
-{"name":"picojson","versions":["master","v1.0.0","v1.1.0","v1.1.1","v1.2.0","v1.2.1","v1.3.0"],"git":"https://github.com/kazuho/picojson","description":"A C++ JSON parser/serializer"}
+{
+  "name": "picojson",
+  "versions": [
+    "master",
+    "rel/v1.1.0",
+    "rel/v1.1.1",
+    "rel/v1.2.0",
+    "rel/v1.2.1",
+    "rel/v1.3.0",
+    "v1.0.0",
+    "v1.1.0",
+    "v1.1.1",
+    "v1.2.0",
+    "v1.2.1",
+    "v1.3.0"
+  ],
+  "git": "https://github.com/kazuho/picojson",
+  "git_short": "kazuho/picojson",
+  "git_prefixed": "gh:kazuho/picojson",
+  "stars": 1073,
+  "forks": 220,
+  "open_issues": 58,
+  "maintainers": [],
+  "watchers": 64,
+  "description": "A C++ JSON parser/serializer",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "kazuho",
+  "owner_type": "User"
+}

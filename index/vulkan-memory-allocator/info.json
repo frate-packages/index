@@ -1,1 +1,32 @@
-{"name":"vulkan-memory-allocator","versions":["master","v1.0.0","v1.0.1","v2.0.0","v2.1.0","v2.2.0","v2.3.0","v3.0.0","v3.0.1"],"git":"https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator","description":"Easy to integrate Vulkan memory allocation library."}
+{
+  "name": "vulkan-memory-allocator",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.1",
+    "v2.0.0",
+    "v2.1.0",
+    "v2.1.0^{}",
+    "v2.1.0-beta.1",
+    "v2.2.0",
+    "v2.3.0",
+    "v2.3.0+vs2017",
+    "v3.0.0",
+    "v3.0.1"
+  ],
+  "git": "https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
+  "git_short": "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
+  "git_prefixed": "gh:GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
+  "stars": 2181,
+  "forks": 311,
+  "open_issues": 22,
+  "maintainers": [],
+  "watchers": 88,
+  "description": "Easy to integrate Vulkan memory allocation library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "GPUOpen-LibrariesAndSDKs",
+  "owner_type": "Organization"
+}

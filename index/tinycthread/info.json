@@ -1,1 +1,23 @@
-{"name":"tinycthread","versions":["master","v1.1","v1.1^{}"],"git":"https://github.com/tinycthread/tinycthread","description":"Small, portable implementation of the C11 threads API"}
+{
+  "name": "tinycthread",
+  "versions": [
+    "master",
+    "v1.1",
+    "v1.1^{}"
+  ],
+  "git": "https://github.com/tinycthread/tinycthread",
+  "git_short": "tinycthread/tinycthread",
+  "git_prefixed": "gh:tinycthread/tinycthread",
+  "stars": 824,
+  "forks": 117,
+  "open_issues": 23,
+  "maintainers": [],
+  "watchers": 44,
+  "description": "Small, portable implementation of the C11 threads API",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C",
+  "owner": "tinycthread",
+  "owner_type": "Organization"
+}

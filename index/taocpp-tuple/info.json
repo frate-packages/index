@@ -1,1 +1,22 @@
-{"name":"taocpp-tuple","versions":["main","1.0.0"],"git":"https://github.com/taocpp/tuple","description":"Compile-time-efficient proof-of-concept implementation for std::tuple"}
+{
+  "name": "taocpp-tuple",
+  "versions": [
+    "main",
+    "1.0.0"
+  ],
+  "git": "https://github.com/taocpp/tuple",
+  "git_short": "taocpp/tuple",
+  "git_prefixed": "gh:taocpp/tuple",
+  "stars": 88,
+  "forks": 14,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 8,
+  "description": "Compile-time-efficient proof-of-concept implementation for std::tuple",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "taocpp",
+  "owner_type": "Organization"
+}

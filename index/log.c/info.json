@@ -1,1 +1,21 @@
-{"name":"log.c","versions":["master"],"git":"https://github.com/rxi/log.c","description":"A simple logging library implemented in C99","target_link":""}
+{
+  "name": "log.c",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/rxi/log.c",
+  "git_short": "rxi/log.c",
+  "git_prefixed": "gh:rxi/log.c",
+  "stars": 2250,
+  "forks": 492,
+  "open_issues": 30,
+  "maintainers": [],
+  "watchers": 52,
+  "description": "A simple logging library implemented in C99",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "rxi",
+  "owner_type": "User"
+}

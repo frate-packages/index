@@ -1,1 +1,24 @@
-{"name":"erkir","versions":["master","1.0.0","v2.0.0"],"git":"https://github.com/vahancho/erkir","description":"a C++ library for geodetic and trigonometric calculations"}
+{
+  "name": "erkir",
+  "versions": [
+    "master",
+    "1.0.0",
+    "v2.0.0",
+    "v2.0.1"
+  ],
+  "git": "https://github.com/vahancho/erkir",
+  "git_short": "vahancho/erkir",
+  "git_prefixed": "gh:vahancho/erkir",
+  "stars": 39,
+  "forks": 16,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 4,
+  "description": "a C++ library for geodetic and trigonometric calculations",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "vahancho",
+  "owner_type": "User"
+}

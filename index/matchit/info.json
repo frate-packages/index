@@ -1,1 +1,27 @@
-{"name":"matchit","versions":["main","v0.1.1","v0.1.2","v0.1.3","v1.0.0","v1.0.1"],"git":"https://github.com/BowenFu/matchit.cpp","description":"match(it): A lightweight header-only pattern-matching library for C++17 with macro-free APIs."}
+{
+  "name": "matchit",
+  "versions": [
+    "main",
+    "v0.1",
+    "v0.1.1",
+    "v0.1.2",
+    "v0.1.3",
+    "v1.0.0",
+    "v1.0.1"
+  ],
+  "git": "https://github.com/BowenFu/matchit.cpp",
+  "git_short": "BowenFu/matchit.cpp",
+  "git_prefixed": "gh:BowenFu/matchit.cpp",
+  "stars": 487,
+  "forks": 20,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 14,
+  "description": "match(it): A lightweight header-only pattern-matching library for C++17 with macro-free APIs.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "BowenFu",
+  "owner_type": "User"
+}

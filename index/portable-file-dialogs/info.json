@@ -1,1 +1,22 @@
-{"name":"portable-file-dialogs","versions":["main","0.1.0"],"git":"https://github.com/samhocevar/portable-file-dialogs","description":"Portable GUI dialogs library, C++11, single-header"}
+{
+  "name": "portable-file-dialogs",
+  "versions": [
+    "main",
+    "0.1.0"
+  ],
+  "git": "https://github.com/samhocevar/portable-file-dialogs",
+  "git_short": "samhocevar/portable-file-dialogs",
+  "git_prefixed": "gh:samhocevar/portable-file-dialogs",
+  "stars": 928,
+  "forks": 81,
+  "open_issues": 27,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "Portable GUI dialogs library, C++11, single-header",
+  "git_description": "",
+  "target_link": "",
+  "license": "Do What The F*ck You Want To Public License",
+  "language": "C++",
+  "owner": "samhocevar",
+  "owner_type": "User"
+}

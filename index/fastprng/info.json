@@ -1,1 +1,21 @@
-{"name":"fastprng","versions":["master"],"git":"https://github.com/BrutPitt/fastPRNG","description":"FAST 32/64 bit PRNG (pseudo-random generator), highly optimized, based on xoshiro* / xoroshiro*, xorshift and other Marsaglia algorithms.","target_link":""}
+{
+  "name": "fastprng",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/BrutPitt/fastPRNG",
+  "git_short": "BrutPitt/fastPRNG",
+  "git_prefixed": "gh:BrutPitt/fastPRNG",
+  "stars": 21,
+  "forks": 6,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "FAST 32/64 bit PRNG (pseudo-random generator), highly optimized, based on xoshiro* / xoroshiro*, xorshift and other Marsaglia algorithms.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "BrutPitt",
+  "owner_type": "User"
+}

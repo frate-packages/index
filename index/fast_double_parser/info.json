@@ -1,1 +1,28 @@
-{"name":"fast_double_parser","versions":["master","v0.1.0","v0.2.0","v0.3.0","v0.4.0","v0.5.0","v0.6.0","v0.7.0"],"git":"https://github.com/lemire/fast_double_parser","description":"Fast function to parse strings into double (binary64) floating-point values, enforces the RFC 7159 (JSON standard) grammar: 4x faster than strtod"}
+{
+  "name": "fast_double_parser",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0",
+    "v0.5.0",
+    "v0.6.0",
+    "v0.7.0"
+  ],
+  "git": "https://github.com/lemire/fast_double_parser",
+  "git_short": "lemire/fast_double_parser",
+  "git_prefixed": "gh:lemire/fast_double_parser",
+  "stars": 588,
+  "forks": 53,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "Fast function to parse strings into double (binary64) floating-point values, enforces the RFC 7159 (JSON standard) grammar: 4x faster than strtod",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "lemire",
+  "owner_type": "User"
+}

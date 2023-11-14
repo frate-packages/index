@@ -1,1 +1,21 @@
-{"name":"re2","versions":["main"],"git":"https://github.com/google/re2","description":"Fast, safe, thread-friendly regular expression library","target_link":""}
+{
+  "name": "re2",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/google/re2",
+  "git_short": "google/re2",
+  "git_prefixed": "gh:google/re2",
+  "stars": 8293,
+  "forks": 1141,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 240,
+  "description": "Fast, safe, thread-friendly regular expression library",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

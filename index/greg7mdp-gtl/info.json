@@ -1,1 +1,32 @@
-{"name":"greg7mdp-gtl","versions":["main","v1.1.0","v1.1.1","v1.1.2","v1.1.3","v1.1.4","v1.1.5","v1.1.6","v1.1.7","v1.1.8"],"git":"https://github.com/greg7mdp/gtl","description":"Greg's Template Library of useful classes."}
+{
+  "name": "greg7mdp-gtl",
+  "versions": [
+    "main",
+    "1.00",
+    "1.01",
+    "v1.1.0",
+    "v1.1.1",
+    "v1.1.2",
+    "v1.1.3",
+    "v1.1.4",
+    "v1.1.5",
+    "v1.1.6",
+    "v1.1.7",
+    "v1.1.8"
+  ],
+  "git": "https://github.com/greg7mdp/gtl",
+  "git_short": "greg7mdp/gtl",
+  "git_prefixed": "gh:greg7mdp/gtl",
+  "stars": 76,
+  "forks": 3,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "Greg's Template Library of useful classes.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "greg7mdp",
+  "owner_type": "User"
+}

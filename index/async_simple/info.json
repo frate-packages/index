@@ -1,1 +1,24 @@
-{"name":"async_simple","versions":["main","1.0","1.1","1.2"],"git":"https://github.com/alibaba/async_simple","description":"Simple, light-weight and easy-to-use asynchronous components"}
+{
+  "name": "async_simple",
+  "versions": [
+    "main",
+    "1.0",
+    "1.1",
+    "1.2"
+  ],
+  "git": "https://github.com/alibaba/async_simple",
+  "git_short": "alibaba/async_simple",
+  "git_prefixed": "gh:alibaba/async_simple",
+  "stars": 1157,
+  "forks": 181,
+  "open_issues": 18,
+  "maintainers": [],
+  "watchers": 31,
+  "description": "Simple, light-weight and easy-to-use asynchronous components",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "alibaba",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,21 @@
-{"name":"tinymidi","versions":["master"],"git":"https://github.com/krgn/tinymidi","description":"A small C library for doing MIDI on GNU/Linux","target_link":""}
+{
+  "name": "tinymidi",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/krgn/tinymidi",
+  "git_short": "krgn/tinymidi",
+  "git_prefixed": "gh:krgn/tinymidi",
+  "stars": 1,
+  "forks": 1,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "A small C library for doing MIDI on GNU/Linux",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU Lesser General Public License v3.0",
+  "language": "C",
+  "owner": "krgn",
+  "owner_type": "User"
+}

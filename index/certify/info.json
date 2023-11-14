@@ -1,1 +1,21 @@
-{"name":"certify","versions":["master"],"git":"https://github.com/djarek/certify","description":"Platform-specific TLS keystore abstraction for use with Boost.ASIO and OpenSSL","target_link":""}
+{
+  "name": "certify",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/djarek/certify",
+  "git_short": "djarek/certify",
+  "git_prefixed": "gh:djarek/certify",
+  "stars": 68,
+  "forks": 34,
+  "open_issues": 14,
+  "maintainers": [],
+  "watchers": 8,
+  "description": "Platform-specific TLS keystore abstraction for use with Boost.ASIO and OpenSSL",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "djarek",
+  "owner_type": "User"
+}

@@ -1,1 +1,31 @@
-{"name":"timsort","versions":["master","v1.0.0","v1.1.0","v1.2.0","v1.2.1","v1.2.2","v1.3.0","v2.0.0","v2.0.1","v2.0.2","v2.1.0"],"git":"https://github.com/timsort/cpp-TimSort","description":"A C++ implementation of timsort"}
+{
+  "name": "timsort",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.1.0",
+    "v1.2.0",
+    "v1.2.1",
+    "v1.2.2",
+    "v1.3.0",
+    "v2.0.0",
+    "v2.0.1",
+    "v2.0.2",
+    "v2.1.0"
+  ],
+  "git": "https://github.com/timsort/cpp-TimSort",
+  "git_short": "timsort/cpp-TimSort",
+  "git_prefixed": "gh:timsort/cpp-TimSort",
+  "stars": 280,
+  "forks": 41,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "A C++ implementation of timsort",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "timsort",
+  "owner_type": "Organization"
+}

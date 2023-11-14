@@ -1,1 +1,27 @@
-{"name":"dbg-macro","versions":["master","v0.2.0","v0.2.1","v0.3.0","v0.4.0","v0.5.0","v0.5.1"],"git":"https://github.com/sharkdp/dbg-macro","description":"A dbg(...) macro for C++"}
+{
+  "name": "dbg-macro",
+  "versions": [
+    "master",
+    "v0.2.0",
+    "v0.2.1",
+    "v0.3.0",
+    "v0.4.0",
+    "v0.5.0",
+    "v0.5.1"
+  ],
+  "git": "https://github.com/sharkdp/dbg-macro",
+  "git_short": "sharkdp/dbg-macro",
+  "git_prefixed": "gh:sharkdp/dbg-macro",
+  "stars": 2676,
+  "forks": 259,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 48,
+  "description": "A dbg(...) macro for C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "sharkdp",
+  "owner_type": "User"
+}

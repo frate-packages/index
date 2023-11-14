@@ -1,1 +1,21 @@
-{"name":"r8brain-free-src","versions":["master"],"git":"https://github.com/avaneev/r8brain-free-src","description":"High-quality pro audio sample rate converter / resampler C++ library","target_link":""}
+{
+  "name": "r8brain-free-src",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/avaneev/r8brain-free-src",
+  "git_short": "avaneev/r8brain-free-src",
+  "git_prefixed": "gh:avaneev/r8brain-free-src",
+  "stars": 485,
+  "forks": 55,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 32,
+  "description": "High-quality pro audio sample rate converter / resampler C++ library",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "avaneev",
+  "owner_type": "User"
+}

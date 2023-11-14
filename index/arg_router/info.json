@@ -1,1 +1,31 @@
-{"name":"arg_router","versions":["main","v0.1.0","v1.0.0","v1.1.0","v1.1.1","v1.2.0","v1.2.1","v1.2.2","v1.3.0","v1.4.0"],"git":"https://github.com/cmannett85/arg_router","description":"C++ command line argument parsing and routing."}
+{
+  "name": "arg_router",
+  "versions": [
+    "issue_391",
+    "main",
+    "v0.1.0",
+    "v1.0.0",
+    "v1.1.0",
+    "v1.1.1",
+    "v1.2.0",
+    "v1.2.1",
+    "v1.2.2",
+    "v1.3.0",
+    "v1.4.0"
+  ],
+  "git": "https://github.com/cmannett85/arg_router",
+  "git_short": "cmannett85/arg_router",
+  "git_prefixed": "gh:cmannett85/arg_router",
+  "stars": 24,
+  "forks": 0,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "C++ command line argument parsing and routing.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "cmannett85",
+  "owner_type": "User"
+}

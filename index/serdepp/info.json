@@ -1,1 +1,33 @@
-{"name":"serdepp","versions":["main","0.0.1","0.0.2","0.1.0","v0.1.0","v0.1.1","v0.1.2","v0.1.3","v0.1.4"],"git":"https://github.com/injae/serdepp","description":"c++ serialize and deserialize adaptor library like rust serde.rs"}
+{
+  "name": "serdepp",
+  "versions": [
+    "main",
+    "0.0.1",
+    "0.0.2",
+    "0.1.0",
+    "v0.1.0",
+    "v0.1.1",
+    "v0.1.2",
+    "v0.1.3",
+    "v0.1.3.1",
+    "v0.1.4",
+    "v0.1.4-pre",
+    "v0.1.4-pre.1",
+    "v0.1.4.1"
+  ],
+  "git": "https://github.com/injae/serdepp",
+  "git_short": "injae/serdepp",
+  "git_prefixed": "gh:injae/serdepp",
+  "stars": 87,
+  "forks": 7,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "c++ serialize and deserialize adaptor library like rust serde.rs",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "injae",
+  "owner_type": "User"
+}

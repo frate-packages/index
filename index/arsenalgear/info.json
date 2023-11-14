@@ -1,1 +1,30 @@
-{"name":"arsenalgear","versions":["main","v1.0.0","v1.1.0","v1.2.0","v1.2.1","v1.2.2","v1.2.3","v2.0.0","v2.0.1","v2.1.0"],"git":"https://github.com/JustWhit3/arsenalgear-cpp","description":"A library containing general purpose C++ utils."}
+{
+  "name": "arsenalgear",
+  "versions": [
+    "main",
+    "v1.0.0",
+    "v1.1.0",
+    "v1.2.0",
+    "v1.2.1",
+    "v1.2.2",
+    "v1.2.3",
+    "v2.0.0",
+    "v2.0.1",
+    "v2.1.0"
+  ],
+  "git": "https://github.com/JustWhit3/arsenalgear-cpp",
+  "git_short": "JustWhit3/arsenalgear-cpp",
+  "git_prefixed": "gh:JustWhit3/arsenalgear-cpp",
+  "stars": 3,
+  "forks": 1,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "A library containing general purpose C++ utils.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "JustWhit3",
+  "owner_type": "User"
+}

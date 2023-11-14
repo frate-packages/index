@@ -1,1 +1,21 @@
-{"name":"cppfront","versions":["main"],"git":"https://github.com/hsutter/cppfront","description":"Cppfront is a experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1)","target_link":""}
+{
+  "name": "cppfront",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/hsutter/cppfront",
+  "git_short": "hsutter/cppfront",
+  "git_prefixed": "gh:hsutter/cppfront",
+  "stars": 4626,
+  "forks": 236,
+  "open_issues": 153,
+  "maintainers": [],
+  "watchers": 98,
+  "description": "Cppfront is a experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1)",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "hsutter",
+  "owner_type": "User"
+}

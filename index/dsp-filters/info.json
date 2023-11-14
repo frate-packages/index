@@ -1,1 +1,21 @@
-{"name":"dsp-filters","versions":["master"],"git":"https://github.com/vinniefalco/DSPFilters","description":"Set of DSP filters","target_link":""}
+{
+  "name": "dsp-filters",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/vinniefalco/DSPFilters",
+  "git_short": "vinniefalco/DSPFilters",
+  "git_prefixed": "gh:vinniefalco/DSPFilters",
+  "stars": 1636,
+  "forks": 396,
+  "open_issues": 40,
+  "maintainers": [],
+  "watchers": 140,
+  "description": "Set of DSP filters",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C++",
+  "owner": "vinniefalco",
+  "owner_type": "User"
+}

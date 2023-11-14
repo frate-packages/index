@@ -1,1 +1,21 @@
-{"name":"plf_list","versions":["master"],"git":"https://github.com/mattreecebentley/plf_list","description":"plf::list is a drop-in higher-performance replacement for std::list","target_link":""}
+{
+  "name": "plf_list",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/mattreecebentley/plf_list",
+  "git_short": "mattreecebentley/plf_list",
+  "git_prefixed": "gh:mattreecebentley/plf_list",
+  "stars": 133,
+  "forks": 17,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 11,
+  "description": "plf::list is a drop-in higher-performance replacement for std::list",
+  "git_description": "",
+  "target_link": "",
+  "license": "zlib License",
+  "language": "C++",
+  "owner": "mattreecebentley",
+  "owner_type": "User"
+}

@@ -1,1 +1,25 @@
-{"name":"keychain","versions":["master","v1.2.0","v1.2.1"],"git":"https://github.com/hrantzsch/keychain","description":"A cross-platform wrapper for the operating system's credential storage"}
+{
+  "name": "keychain",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.1",
+    "v1.2.0",
+    "v1.2.1"
+  ],
+  "git": "https://github.com/hrantzsch/keychain",
+  "git_short": "hrantzsch/keychain",
+  "git_prefixed": "gh:hrantzsch/keychain",
+  "stars": 101,
+  "forks": 10,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "A cross-platform wrapper for the operating system's credential storage",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "hrantzsch",
+  "owner_type": "User"
+}

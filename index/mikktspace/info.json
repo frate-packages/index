@@ -1,1 +1,21 @@
-{"name":"mikktspace","versions":["master"],"git":"https://github.com/mmikk/MikkTSpace","description":" A common standard for tangent space used in baking tools to produce normal maps.","target_link":""}
+{
+  "name": "mikktspace",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/mmikk/MikkTSpace",
+  "git_short": "mmikk/MikkTSpace",
+  "git_prefixed": "gh:mmikk/MikkTSpace",
+  "stars": 191,
+  "forks": 27,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 7,
+  "description": " A common standard for tangent space used in baking tools to produce normal maps.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C",
+  "owner": "mmikk",
+  "owner_type": "User"
+}

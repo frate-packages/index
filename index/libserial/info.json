@@ -1,1 +1,29 @@
-{"name":"libserial","versions":["master","v1.0.0"],"git":"https://github.com/crayzeewulf/libserial","description":"Serial Port Programming in C++"}
+{
+  "name": "libserial",
+  "versions": [
+    "master",
+    "libserial-0_4_0",
+    "libserial_0_5_0",
+    "libserial_0_6_0rc1",
+    "libserial_0_6_0rc2",
+    "libserial_0_6_0rc2^{}",
+    "libserial_0_6_0rc3",
+    "v0.6.0rc3",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/crayzeewulf/libserial",
+  "git_short": "crayzeewulf/libserial",
+  "git_prefixed": "gh:crayzeewulf/libserial",
+  "stars": 340,
+  "forks": 162,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "Serial Port Programming in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "crayzeewulf",
+  "owner_type": "User"
+}

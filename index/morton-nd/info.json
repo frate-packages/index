@@ -1,1 +1,24 @@
-{"name":"morton-nd","versions":["main","v2.0.0","v3.0.0","v4.0.0"],"git":"https://github.com/kevinhartman/morton-nd","description":"A header-only Morton encode/decode library (C++14) capable of encoding from and decoding to N-dimensional space."}
+{
+  "name": "morton-nd",
+  "versions": [
+    "main",
+    "v2.0.0",
+    "v3.0.0",
+    "v4.0.0"
+  ],
+  "git": "https://github.com/kevinhartman/morton-nd",
+  "git_short": "kevinhartman/morton-nd",
+  "git_prefixed": "gh:kevinhartman/morton-nd",
+  "stars": 88,
+  "forks": 4,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 5,
+  "description": "A header-only Morton encode/decode library (C++14) capable of encoding from and decoding to N-dimensional space.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "morton-nd",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,29 @@
-{"name":"libsamplerate","versions":["master","0.1.9","0.2.0","0.2.1","0.2.2"],"git":"https://github.com/libsndfile/libsamplerate","description":"libsamplerate (also known as Secret Rabbit Code) is a library for performing sample rate conversion of audio data."}
+{
+  "name": "libsamplerate",
+  "versions": [
+    "master",
+    "release-0.2.2",
+    "0.1.9",
+    "0.2.0",
+    "0.2.0^{}",
+    "0.2.1",
+    "0.2.1^{}",
+    "0.2.2",
+    "0.2.2^{}"
+  ],
+  "git": "https://github.com/libsndfile/libsamplerate",
+  "git_short": "libsndfile/libsamplerate",
+  "git_prefixed": "gh:libsndfile/libsamplerate",
+  "stars": 515,
+  "forks": 140,
+  "open_issues": 15,
+  "maintainers": [],
+  "watchers": 29,
+  "description": "libsamplerate (also known as Secret Rabbit Code) is a library for performing sample rate conversion of audio data.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C",
+  "owner": "libsndfile",
+  "owner_type": "Organization"
+}

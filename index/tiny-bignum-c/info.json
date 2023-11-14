@@ -1,1 +1,21 @@
-{"name":"tiny-bignum-c","versions":["master"],"git":"https://github.com/kokke/tiny-bignum-c","description":"Small portable multiple-precision unsigned integer arithmetic in C.","target_link":""}
+{
+  "name": "tiny-bignum-c",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/kokke/tiny-bignum-c",
+  "git_short": "kokke/tiny-bignum-c",
+  "git_prefixed": "gh:kokke/tiny-bignum-c",
+  "stars": 381,
+  "forks": 76,
+  "open_issues": 15,
+  "maintainers": [],
+  "watchers": 20,
+  "description": "Small portable multiple-precision unsigned integer arithmetic in C.",
+  "git_description": "",
+  "target_link": "",
+  "license": "The Unlicense",
+  "language": "C",
+  "owner": "kokke",
+  "owner_type": "User"
+}

@@ -1,1 +1,21 @@
-{"name":"cpp-optparse","versions":["main"],"git":"https://github.com/weisslj/cpp-optparse","description":"Python's excellent OptionParser in C++","target_link":""}
+{
+  "name": "cpp-optparse",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/weisslj/cpp-optparse",
+  "git_short": "weisslj/cpp-optparse",
+  "git_prefixed": "gh:weisslj/cpp-optparse",
+  "stars": 91,
+  "forks": 47,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "Python's excellent OptionParser in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "weisslj",
+  "owner_type": "User"
+}

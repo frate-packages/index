@@ -1,1 +1,21 @@
-{"name":"tscns","versions":["master"],"git":"https://github.com/MengRao/tscns/","description":"A low overhead nanosecond clock based on x86 TSC","target_link":""}
+{
+  "name": "tscns",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/MengRao/tscns/",
+  "git_short": "MengRao/tscns/",
+  "git_prefixed": "gh:MengRao/tscns/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "A low overhead nanosecond clock based on x86 TSC",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

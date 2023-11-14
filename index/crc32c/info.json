@@ -1,1 +1,32 @@
-{"name":"crc32c","versions":["main","1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.1.0","1.1.1","1.1.2"],"git":"https://github.com/google/crc32c","description":"CRC32C implementation with support for CPU-specific acceleration instructions"}
+{
+  "name": "crc32c",
+  "versions": [
+    "main",
+    "1.0.0",
+    "1.0.1",
+    "1.0.2",
+    "1.0.3",
+    "1.0.4",
+    "1.0.5",
+    "1.0.6",
+    "1.0.7",
+    "1.1.0",
+    "1.1.1",
+    "1.1.2"
+  ],
+  "git": "https://github.com/google/crc32c",
+  "git_short": "google/crc32c",
+  "git_prefixed": "gh:google/crc32c",
+  "stars": 412,
+  "forks": 138,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 27,
+  "description": "CRC32C implementation with support for CPU-specific acceleration instructions",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

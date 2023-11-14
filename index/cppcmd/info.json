@@ -1,1 +1,21 @@
-{"name":"cppcmd","versions":["v0.1.0"],"git":"https://github.com/remysalim/cppcmd","description":"Simple cpp command interpreter header-only library"}
+{
+  "name": "cppcmd",
+  "versions": [
+    "v0.1.0"
+  ],
+  "git": "https://github.com/remysalim/cppcmd",
+  "git_short": "remysalim/cppcmd",
+  "git_prefixed": "gh:remysalim/cppcmd",
+  "stars": 10,
+  "forks": 1,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "Simple cpp command interpreter header-only library",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "remysalim",
+  "owner_type": "User"
+}

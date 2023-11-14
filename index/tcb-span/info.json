@@ -1,1 +1,21 @@
-{"name":"tcb-span","versions":["master"],"git":"https://github.com/tcbrindle/span","description":"Implementation of C++20's std::span for older C++ standards","target_link":""}
+{
+  "name": "tcb-span",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/tcbrindle/span",
+  "git_short": "tcbrindle/span",
+  "git_prefixed": "gh:tcbrindle/span",
+  "stars": 296,
+  "forks": 33,
+  "open_issues": 17,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "Implementation of C++20's std::span for older C++ standards",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "tcbrindle",
+  "owner_type": "User"
+}

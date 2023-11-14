@@ -1,1 +1,23 @@
-{"name":"pretty-name","versions":["main","v1.0.0"],"git":"https://github.com/Rechip/pretty-name","description":"An easy and consistent way how to get type names in C++"}
+{
+  "name": "pretty-name",
+  "versions": [
+    "main",
+    "v1.0.0",
+    "v1.0.0^{}"
+  ],
+  "git": "https://github.com/Rechip/pretty-name",
+  "git_short": "Rechip/pretty-name",
+  "git_prefixed": "gh:Rechip/pretty-name",
+  "stars": 1,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "An easy and consistent way how to get type names in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Rechip",
+  "owner_type": "Organization"
+}

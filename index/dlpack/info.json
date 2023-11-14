@@ -1,1 +1,30 @@
-{"name":"dlpack","versions":["main","master"],"git":"https://github.com/dmlc/dlpack","description":"RFC for common in-memory tensor structure and operator interface for deep learning system"}
+{
+  "name": "dlpack",
+  "versions": [
+    "main",
+    "master",
+    "v0.1",
+    "v0.2",
+    "v0.3",
+    "v0.4",
+    "v0.5",
+    "v0.6",
+    "v0.7",
+    "v0.8"
+  ],
+  "git": "https://github.com/dmlc/dlpack",
+  "git_short": "dmlc/dlpack",
+  "git_prefixed": "gh:dmlc/dlpack",
+  "stars": 795,
+  "forks": 131,
+  "open_issues": 26,
+  "maintainers": [],
+  "watchers": 47,
+  "description": "RFC for common in-memory tensor structure and operator interface for deep learning system",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "Python",
+  "owner": "dmlc",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,25 @@
-{"name":"svector","versions":["main","v1.0.0","v1.0.1","v1.0.2","v1.0.3"],"git":"https://github.com/martinus/svector","description":"Compact SVO optimized vector for C++17 or higher"}
+{
+  "name": "svector",
+  "versions": [
+    "main",
+    "v1.0.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3"
+  ],
+  "git": "https://github.com/martinus/svector",
+  "git_short": "martinus/svector",
+  "git_prefixed": "gh:martinus/svector",
+  "stars": 79,
+  "forks": 7,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "Compact SVO optimized vector for C++17 or higher",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "martinus",
+  "owner_type": "User"
+}

@@ -1,1 +1,22 @@
-{"name":"pranav-csv2","versions":["master","v0.1"],"git":"https://github.com/p-ranav/csv2","description":"Various header libraries mostly future std lib, replacements for(e.g. visit), or some misc"}
+{
+  "name": "pranav-csv2",
+  "versions": [
+    "master",
+    "v0.1"
+  ],
+  "git": "https://github.com/p-ranav/csv2",
+  "git_short": "p-ranav/csv2",
+  "git_prefixed": "gh:p-ranav/csv2",
+  "stars": 475,
+  "forks": 86,
+  "open_issues": 17,
+  "maintainers": [],
+  "watchers": 17,
+  "description": "Various header libraries mostly future std lib, replacements for(e.g. visit), or some misc",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "p-ranav",
+  "owner_type": "User"
+}

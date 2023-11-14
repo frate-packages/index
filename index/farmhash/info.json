@@ -1,1 +1,21 @@
-{"name":"farmhash","versions":["master"],"git":"https://github.com/google/farmhash","description":"A family of hash functions","target_link":""}
+{
+  "name": "farmhash",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/google/farmhash",
+  "git_short": "google/farmhash",
+  "git_prefixed": "gh:google/farmhash",
+  "stars": 609,
+  "forks": 106,
+  "open_issues": 19,
+  "maintainers": [],
+  "watchers": 30,
+  "description": "A family of hash functions",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

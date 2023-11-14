@@ -1,1 +1,22 @@
-{"name":"p-ranav-glob","versions":["master","v0.0.1"],"git":"https://github.com/p-ranav/glob","description":"Glob for C++17"}
+{
+  "name": "p-ranav-glob",
+  "versions": [
+    "master",
+    "v0.0.1"
+  ],
+  "git": "https://github.com/p-ranav/glob",
+  "git_short": "p-ranav/glob",
+  "git_prefixed": "gh:p-ranav/glob",
+  "stars": 217,
+  "forks": 37,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "Glob for C++17",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "p-ranav",
+  "owner_type": "User"
+}

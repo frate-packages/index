@@ -1,1 +1,22 @@
-{"name":"status-code","versions":["fix_issue_0048","master"],"git":"https://github.com/ned14/status-code","description":"Proposed SG14 status_code for the C++ standard"}
+{
+  "name": "status-code",
+  "versions": [
+    "fix_issue_0048",
+    "master"
+  ],
+  "git": "https://github.com/ned14/status-code",
+  "git_short": "ned14/status-code",
+  "git_prefixed": "gh:ned14/status-code",
+  "stars": 57,
+  "forks": 13,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "Proposed SG14 status_code for the C++ standard",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "ned14",
+  "owner_type": "User"
+}

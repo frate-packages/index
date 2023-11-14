@@ -1,1 +1,24 @@
-{"name":"jsmn","versions":["master","v1.0.0","v1.1.0"],"git":"https://github.com/zserge/jsmn","description":"jsmn (pronounced like 'jasmine') is a minimalistic JSON parser in C. It can be easily integrated into resource-limited or embedded projects."}
+{
+  "name": "jsmn",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.0^{}",
+    "v1.1.0"
+  ],
+  "git": "https://github.com/zserge/jsmn",
+  "git_short": "zserge/jsmn",
+  "git_prefixed": "gh:zserge/jsmn",
+  "stars": 3402,
+  "forks": 737,
+  "open_issues": 89,
+  "maintainers": [],
+  "watchers": 137,
+  "description": "jsmn (pronounced like 'jasmine') is a minimalistic JSON parser in C. It can be easily integrated into resource-limited or embedded projects.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "zserge",
+  "owner_type": "User"
+}

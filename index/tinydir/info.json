@@ -1,1 +1,29 @@
-{"name":"tinydir","versions":["master","1.1.0","1.1.1","1.2.1","1.2.2","1.2.3","1.2.4","1.2.5"],"git":"https://github.com/cxong/tinydir","description":"Lightweight, portable and easy to integrate C directory and file reader"}
+{
+  "name": "tinydir",
+  "versions": [
+    "master",
+    "1.1.0",
+    "1.1.1",
+    "1.2",
+    "1.2.1",
+    "1.2.2",
+    "1.2.3",
+    "1.2.4",
+    "1.2.5"
+  ],
+  "git": "https://github.com/cxong/tinydir",
+  "git_short": "cxong/tinydir",
+  "git_prefixed": "gh:cxong/tinydir",
+  "stars": 755,
+  "forks": 121,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 40,
+  "description": "Lightweight, portable and easy to integrate C directory and file reader",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "cxong",
+  "owner_type": "User"
+}

@@ -1,1 +1,27 @@
-{"name":"tsl-hat-trie","versions":["master","v0.1.0","v0.2.0","v0.3.0","v0.4.0","v0.5.0","v0.6.0"],"git":"https://github.com/Tessil/hat-trie","description":"C++ implementation of a fast and memory efficient HAT-trie."}
+{
+  "name": "tsl-hat-trie",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0",
+    "v0.5.0",
+    "v0.6.0"
+  ],
+  "git": "https://github.com/Tessil/hat-trie",
+  "git_short": "Tessil/hat-trie",
+  "git_prefixed": "gh:Tessil/hat-trie",
+  "stars": 734,
+  "forks": 108,
+  "open_issues": 7,
+  "maintainers": [],
+  "watchers": 36,
+  "description": "C++ implementation of a fast and memory efficient HAT-trie.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Tessil",
+  "owner_type": "User"
+}

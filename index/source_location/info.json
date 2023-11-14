@@ -1,1 +1,29 @@
-{"name":"source_location","versions":["main","v0.1.0","v0.1.1","v0.2.0","v0.2.1"],"git":"https://github.com/Rechip/source_location","description":"source_location header for some older compilers"}
+{
+  "name": "source_location",
+  "versions": [
+    "main",
+    "v0.1.0",
+    "v0.1.0^{}",
+    "v0.1.1",
+    "v0.1.1^{}",
+    "v0.2.0",
+    "v0.2.0^{}",
+    "v0.2.1",
+    "v0.2.1^{}"
+  ],
+  "git": "https://github.com/Rechip/source_location",
+  "git_short": "Rechip/source_location",
+  "git_prefixed": "gh:Rechip/source_location",
+  "stars": 2,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "source_location header for some older compilers",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Rechip",
+  "owner_type": "Organization"
+}

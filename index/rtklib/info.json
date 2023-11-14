@@ -1,1 +1,25 @@
-{"name":"rtklib","versions":["master","v2.4.2-p13","v2.4.3-b33","v2.4.3-b34"],"git":"https://github.com/tomojitakasu/RTKLIB","description":"Library for standard and precise positioning with GNSS"}
+{
+  "name": "rtklib",
+  "versions": [
+    "master",
+    "rtklib_2.4.3",
+    "v2.4.2-p13",
+    "v2.4.3-b33",
+    "v2.4.3-b34"
+  ],
+  "git": "https://github.com/tomojitakasu/RTKLIB",
+  "git_short": "tomojitakasu/RTKLIB",
+  "git_prefixed": "gh:tomojitakasu/RTKLIB",
+  "stars": 2220,
+  "forks": 1490,
+  "open_issues": 414,
+  "maintainers": [],
+  "watchers": 293,
+  "description": "Library for standard and precise positioning with GNSS",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C",
+  "owner": "tomojitakasu",
+  "owner_type": "User"
+}

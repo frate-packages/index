@@ -1,1 +1,21 @@
-{"name":"quaternions","versions":["master"],"git":"https://github.com/ferd36/quaternions","description":"A blazingly fast C++ library to work with quaternions.","target_link":""}
+{
+  "name": "quaternions",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/ferd36/quaternions",
+  "git_short": "ferd36/quaternions",
+  "git_prefixed": "gh:ferd36/quaternions",
+  "stars": 58,
+  "forks": 14,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "A blazingly fast C++ library to work with quaternions.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "ferd36",
+  "owner_type": "User"
+}

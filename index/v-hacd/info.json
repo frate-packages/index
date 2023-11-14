@@ -1,1 +1,23 @@
-{"name":"v-hacd","versions":["master","v4.0.0","v4.1.0"],"git":"https://github.com/kmammou/v-hacd","description":"The V-HACD library decomposes a 3D surface into a set of \"near\" convex parts."}
+{
+  "name": "v-hacd",
+  "versions": [
+    "master",
+    "v4.0.0",
+    "v4.1.0"
+  ],
+  "git": "https://github.com/kmammou/v-hacd",
+  "git_short": "kmammou/v-hacd",
+  "git_prefixed": "gh:kmammou/v-hacd",
+  "stars": 1229,
+  "forks": 236,
+  "open_issues": 64,
+  "maintainers": [],
+  "watchers": 67,
+  "description": "The V-HACD library decomposes a 3D surface into a set of \"near\" convex parts.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "kmammou",
+  "owner_type": "User"
+}

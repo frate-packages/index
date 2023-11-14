@@ -1,1 +1,29 @@
-{"name":"backward-cpp","versions":["master","v1.0","v1.0^{}","v1.1","v1.2","v1.3","v1.4","v1.5","v1.6"],"git":"https://github.com/bombela/backward-cpp","description":"A beautiful stack trace pretty printer for C++"}
+{
+  "name": "backward-cpp",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0^{}",
+    "v1.1",
+    "v1.2",
+    "v1.3",
+    "v1.4",
+    "v1.5",
+    "v1.6"
+  ],
+  "git": "https://github.com/bombela/backward-cpp",
+  "git_short": "bombela/backward-cpp",
+  "git_prefixed": "gh:bombela/backward-cpp",
+  "stars": 3377,
+  "forks": 482,
+  "open_issues": 98,
+  "maintainers": [],
+  "watchers": 94,
+  "description": "A beautiful stack trace pretty printer for C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "bombela",
+  "owner_type": "User"
+}

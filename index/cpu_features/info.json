@@ -1,1 +1,35 @@
-{"name":"cpu_features","versions":["main","v0.1.0","v0.2.0","v0.3.0","v0.4.0","v0.4.1","v0.5.0","v0.6.0","v0.7.0","v0.8.0","v0.9.0"],"git":"https://github.com/google/cpu_features","description":"A cross platform C99 library to get cpu features at runtime."}
+{
+  "name": "cpu_features",
+  "versions": [
+    "main",
+    "v0.1.0",
+    "v0.1.0^{}",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.3.0^{}",
+    "v0.4.0",
+    "v0.4.0^{}",
+    "v0.4.1",
+    "v0.4.1^{}",
+    "v0.5.0",
+    "v0.6.0",
+    "v0.7.0",
+    "v0.8.0",
+    "v0.9.0"
+  ],
+  "git": "https://github.com/google/cpu_features",
+  "git_short": "google/cpu_features",
+  "git_prefixed": "gh:google/cpu_features",
+  "stars": 2322,
+  "forks": 258,
+  "open_issues": 28,
+  "maintainers": [],
+  "watchers": 1236,
+  "description": "A cross platform C99 library to get cpu features at runtime.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

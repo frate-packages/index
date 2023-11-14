@@ -1,1 +1,37 @@
-{"name":"cfgfile","versions":["master","0.1.0","0.2.0","0.2.1","0.2.10","0.2.11","0.2.2","0.2.3","0.2.4","0.2.5","0.2.6","0.2.7","0.2.8"],"git":"https://github.com/igormironchik/cfgfile.git","description":"Header-only library for reading/saving configuration files with schema defined in sources."}
+{
+  "name": "cfgfile",
+  "versions": [
+    "master",
+    "0.1.0",
+    "0.2.0",
+    "0.2.1",
+    "0.2.10",
+    "0.2.11",
+    "0.2.2",
+    "0.2.3",
+    "0.2.4",
+    "0.2.5",
+    "0.2.6",
+    "0.2.7",
+    "0.2.8",
+    "0.2.8.2",
+    "0.2.8.2.1",
+    "0.2.9.0",
+    "0.2.9.1"
+  ],
+  "git": "https://github.com/igormironchik/cfgfile.git",
+  "git_short": "igormironchik/cfgfile",
+  "git_prefixed": "gh:igormironchik/cfgfile",
+  "stars": 5,
+  "forks": 2,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "Header-only library for reading/saving configuration files with schema defined in sources.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "igormironchik",
+  "owner_type": "User"
+}

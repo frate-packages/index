@@ -1,1 +1,25 @@
-{"name":"id3v2lib","versions":["master","1.0","1.1","2.0","2.1"],"git":"https://github.com/larsbs/id3v2lib","description":"id3v2lib is a library written in C to read and edit id3 tags from mp3 files."}
+{
+  "name": "id3v2lib",
+  "versions": [
+    "master",
+    "1.0",
+    "1.1",
+    "2.0",
+    "2.1"
+  ],
+  "git": "https://github.com/larsbs/id3v2lib",
+  "git_short": "larsbs/id3v2lib",
+  "git_prefixed": "gh:larsbs/id3v2lib",
+  "stars": 112,
+  "forks": 45,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 20,
+  "description": "id3v2lib is a library written in C to read and edit id3 tags from mp3 files.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C",
+  "owner": "larsbs",
+  "owner_type": "User"
+}

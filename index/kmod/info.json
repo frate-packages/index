@@ -1,1 +1,21 @@
-{"name":"kmod","versions":["master"],"git":"https://github.com/kmod-project/kmod","description":"linux kernel module handling library","target_link":""}
+{
+  "name": "kmod",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/kmod-project/kmod",
+  "git_short": "kmod-project/kmod",
+  "git_prefixed": "gh:kmod-project/kmod",
+  "stars": 25,
+  "forks": 17,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "linux kernel module handling library",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU Lesser General Public License v2.1",
+  "language": "C",
+  "owner": "kmod-project",
+  "owner_type": "Organization"
+}

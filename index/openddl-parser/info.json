@@ -1,1 +1,27 @@
-{"name":"openddl-parser","versions":["master","0.4.0","v0.5.0","v0.5.1"],"git":"https://github.com/kimkulling/openddl-parser","description":"A simple and fast OpenDDL Parser"}
+{
+  "name": "openddl-parser",
+  "versions": [
+    "master",
+    "0.4.0",
+    "v0.1.0-alpha",
+    "v0.2.0-alpha",
+    "v0.3.0-beta",
+    "v0.5.0",
+    "v0.5.1"
+  ],
+  "git": "https://github.com/kimkulling/openddl-parser",
+  "git_short": "kimkulling/openddl-parser",
+  "git_prefixed": "gh:kimkulling/openddl-parser",
+  "stars": 31,
+  "forks": 23,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "A simple and fast OpenDDL Parser",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "kimkulling",
+  "owner_type": "User"
+}

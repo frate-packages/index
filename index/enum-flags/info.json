@@ -1,1 +1,23 @@
-{"name":"enum-flags","versions":["9999.9999","master","v0.1a"],"git":"https://github.com/grisumbras/enum-flags","description":"Bit flags for C++11 scoped enums"}
+{
+  "name": "enum-flags",
+  "versions": [
+    "9999.9999",
+    "master",
+    "v0.1a"
+  ],
+  "git": "https://github.com/grisumbras/enum-flags",
+  "git_short": "grisumbras/enum-flags",
+  "git_prefixed": "gh:grisumbras/enum-flags",
+  "stars": 114,
+  "forks": 19,
+  "open_issues": 9,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "Bit flags for C++11 scoped enums",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "grisumbras",
+  "owner_type": "User"
+}

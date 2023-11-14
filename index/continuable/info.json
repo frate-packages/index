@@ -1,1 +1,33 @@
-{"name":"continuable","versions":["master","2.0.0","3.0.0","4.0.0","4.1.0","4.2.0","4.2.1","4.2.2","v0.7.0","v0.8.0","v1.0.0"],"git":"https://github.com/Naios/continuable","description":"C++14 asynchronous allocation aware futures (supporting then, exception handling, coroutines and connections)"}
+{
+  "name": "continuable",
+  "versions": [
+    "docs-3.0.0",
+    "master",
+    "2.0.0",
+    "3.0.0",
+    "3.0.0-alpha-1",
+    "4.0.0",
+    "4.1.0",
+    "4.2.0",
+    "4.2.1",
+    "4.2.2",
+    "v0.7.0",
+    "v0.8.0",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/Naios/continuable",
+  "git_short": "Naios/continuable",
+  "git_prefixed": "gh:Naios/continuable",
+  "stars": 805,
+  "forks": 44,
+  "open_issues": 16,
+  "maintainers": [],
+  "watchers": 37,
+  "description": "C++14 asynchronous allocation aware futures (supporting then, exception handling, coroutines and connections)",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Naios",
+  "owner_type": "User"
+}

@@ -1,1 +1,21 @@
-{"name":"minimp3","versions":["master"],"git":"https://github.com/lieff/minimp3","description":"Minimalistic MP3 decoder single header library.","target_link":""}
+{
+  "name": "minimp3",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/lieff/minimp3",
+  "git_short": "lieff/minimp3",
+  "git_prefixed": "gh:lieff/minimp3",
+  "stars": 1394,
+  "forks": 191,
+  "open_issues": 27,
+  "maintainers": [],
+  "watchers": 46,
+  "description": "Minimalistic MP3 decoder single header library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Creative Commons Zero v1.0 Universal",
+  "language": "C",
+  "owner": "lieff",
+  "owner_type": "User"
+}

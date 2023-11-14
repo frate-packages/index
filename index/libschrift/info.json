@@ -1,1 +1,24 @@
-{"name":"libschrift","versions":["master","v0.10.1","v0.10.2"],"git":"https://github.com/tomolt/libschrift","description":"A lightweight TrueType font rendering library "}
+{
+  "name": "libschrift",
+  "versions": [
+    "master",
+    "v0.10.1",
+    "v0.10.2",
+    "v0.10.2^{}"
+  ],
+  "git": "https://github.com/tomolt/libschrift",
+  "git_short": "tomolt/libschrift",
+  "git_prefixed": "gh:tomolt/libschrift",
+  "stars": 395,
+  "forks": 27,
+  "open_issues": 11,
+  "maintainers": [],
+  "watchers": 13,
+  "description": "A lightweight TrueType font rendering library ",
+  "git_description": "",
+  "target_link": "",
+  "license": "ISC License",
+  "language": "C",
+  "owner": "tomolt",
+  "owner_type": "User"
+}

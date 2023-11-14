@@ -1,1 +1,29 @@
-{"name":"libspatialindex","versions":["master","1.8.2","1.8.3","1.8.5","1.9.0","1.9.1","1.9.2","1.9.3"],"git":"https://github.com/libspatialindex/libspatialindex","description":"C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API."}
+{
+  "name": "libspatialindex",
+  "versions": [
+    "master",
+    "1.8.2",
+    "1.8.3",
+    "1.8.5",
+    "1.9.0",
+    "1.9.0RC1",
+    "1.9.1",
+    "1.9.2",
+    "1.9.3"
+  ],
+  "git": "https://github.com/libspatialindex/libspatialindex",
+  "git_short": "libspatialindex/libspatialindex",
+  "git_prefixed": "gh:libspatialindex/libspatialindex",
+  "stars": 671,
+  "forks": 233,
+  "open_issues": 20,
+  "maintainers": [],
+  "watchers": 54,
+  "description": "C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "libspatialindex",
+  "owner_type": "Organization"
+}

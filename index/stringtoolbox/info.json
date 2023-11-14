@@ -1,1 +1,25 @@
-{"name":"stringtoolbox","versions":["master","v0.0.1","v0.0.2","v0.0.3","v0.0.4"],"git":"https://github.com/chrberger/stringtoolbox","description":"A simple header-only, single-file string toolbox library for C++."}
+{
+  "name": "stringtoolbox",
+  "versions": [
+    "master",
+    "v0.0.1",
+    "v0.0.2",
+    "v0.0.3",
+    "v0.0.4"
+  ],
+  "git": "https://github.com/chrberger/stringtoolbox",
+  "git_short": "chrberger/stringtoolbox",
+  "git_prefixed": "gh:chrberger/stringtoolbox",
+  "stars": 14,
+  "forks": 3,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "A simple header-only, single-file string toolbox library for C++.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "chrberger",
+  "owner_type": "User"
+}

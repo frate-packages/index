@@ -1,1 +1,37 @@
-{"name":"cajun-jsonapi","versions":["master","2.0.3","2.1.0","2.1.1"],"git":"https://github.com/cajun-jsonapi/cajun-jsonapi","description":"CAJUN* is a C++ API for the JSON object interchange format."}
+{
+  "name": "cajun-jsonapi",
+  "versions": [
+    "master",
+    "2.0.3",
+    "2.0.3^{}",
+    "2.1.0",
+    "2.1.0^{}",
+    "2.1.1",
+    "2.1.1^{}",
+    "cajun-1.0.0",
+    "cajun-1.1.0",
+    "cajun-2.0.0",
+    "cajun-2.0.1",
+    "cajun-2.0.2",
+    "cajun-2.0.3",
+    "cajun-2.0.3^{}",
+    "cajun_1.0.0",
+    "cajun_1.1.0",
+    "cajun_1.1.1"
+  ],
+  "git": "https://github.com/cajun-jsonapi/cajun-jsonapi",
+  "git_short": "cajun-jsonapi/cajun-jsonapi",
+  "git_prefixed": "gh:cajun-jsonapi/cajun-jsonapi",
+  "stars": 18,
+  "forks": 8,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "CAJUN* is a C++ API for the JSON object interchange format.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "cajun-jsonapi",
+  "owner_type": "Organization"
+}

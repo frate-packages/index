@@ -1,1 +1,21 @@
-{"name":"wilzegers-autotest","versions":["master"],"git":"https://gitlab.com/wilzegers/autotest","description":"Autotest facilitates the testing of class interfaces","target_link":""}
+{
+  "name": "wilzegers-autotest",
+  "versions": [
+    "master"
+  ],
+  "git": "https://gitlab.com/wilzegers/autotest",
+  "git_short": "wilzegers/autotest",
+  "git_prefixed": "gl:wilzegers/autotest",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "Autotest facilitates the testing of class interfaces",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

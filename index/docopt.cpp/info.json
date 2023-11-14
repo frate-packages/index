@@ -1,1 +1,24 @@
-{"name":"docopt.cpp","versions":["master","v0.6.2","v0.6.3"],"git":"https://github.com/docopt/docopt.cpp","description":"C++11 port of docopt"}
+{
+  "name": "docopt.cpp",
+  "versions": [
+    "master",
+    "v0.6.2",
+    "v0.6.2^{}",
+    "v0.6.3"
+  ],
+  "git": "https://github.com/docopt/docopt.cpp",
+  "git_short": "docopt/docopt.cpp",
+  "git_prefixed": "gh:docopt/docopt.cpp",
+  "stars": 1024,
+  "forks": 176,
+  "open_issues": 69,
+  "maintainers": [],
+  "watchers": 41,
+  "description": "C++11 port of docopt",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "docopt",
+  "owner_type": "Organization"
+}

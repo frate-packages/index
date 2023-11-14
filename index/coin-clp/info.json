@@ -1,1 +1,23 @@
-{"name":"coin-clp","versions":["master","unlabeled-1.1.2"],"git":"https://github.com/coin-or/Clp","description":"COIN-OR Linear Programming Solver"}
+{
+  "name": "coin-clp",
+  "versions": [
+    "master",
+    "unlabeled-1.1.2",
+    "release_2002-11-05"
+  ],
+  "git": "https://github.com/coin-or/Clp",
+  "git_short": "coin-or/Clp",
+  "git_prefixed": "gh:coin-or/Clp",
+  "stars": 343,
+  "forks": 75,
+  "open_issues": 42,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "COIN-OR Linear Programming Solver",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "coin-or",
+  "owner_type": "Organization"
+}

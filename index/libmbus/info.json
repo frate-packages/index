@@ -1,1 +1,23 @@
-{"name":"libmbus","versions":["master","0.8.0","0.9.0"],"git":"https://github.com/rscada/libmbus","description":"Meter-bus library and utility programs"}
+{
+  "name": "libmbus",
+  "versions": [
+    "master",
+    "0.8.0",
+    "0.9.0"
+  ],
+  "git": "https://github.com/rscada/libmbus",
+  "git_short": "rscada/libmbus",
+  "git_prefixed": "gh:rscada/libmbus",
+  "stars": 209,
+  "forks": 129,
+  "open_issues": 66,
+  "maintainers": [],
+  "watchers": 34,
+  "description": "Meter-bus library and utility programs",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C",
+  "owner": "rscada",
+  "owner_type": "User"
+}

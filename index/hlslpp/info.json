@@ -1,1 +1,31 @@
-{"name":"hlslpp","versions":["master","3.2.1","3.2.2","3.2.3","3.3.1"],"git":"https://github.com/redorav/hlslpp","description":"Header-only Math library using hlsl syntax with SSE/NEON support"}
+{
+  "name": "hlslpp",
+  "versions": [
+    "master",
+    "1.0",
+    "2.0",
+    "3.0",
+    "3.1",
+    "3.2",
+    "3.2.1",
+    "3.2.2",
+    "3.2.3",
+    "3.3",
+    "3.3.1"
+  ],
+  "git": "https://github.com/redorav/hlslpp",
+  "git_short": "redorav/hlslpp",
+  "git_prefixed": "gh:redorav/hlslpp",
+  "stars": 429,
+  "forks": 38,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 15,
+  "description": "Header-only Math library using hlsl syntax with SSE/NEON support",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "redorav",
+  "owner_type": "User"
+}

@@ -1,1 +1,27 @@
-{"name":"concurrentqueue","versions":["master","1.0.2","v1.0.1","v1.0.2","v1.0.3","v1.0.4"],"git":"https://github.com/cameron314/concurrentqueue","description":"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11"}
+{
+  "name": "concurrentqueue",
+  "versions": [
+    "master",
+    "1.0.2",
+    "v1.0.0-beta",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3",
+    "v1.0.4"
+  ],
+  "git": "https://github.com/cameron314/concurrentqueue",
+  "git_short": "cameron314/concurrentqueue",
+  "git_prefixed": "gh:cameron314/concurrentqueue",
+  "stars": 8375,
+  "forks": 1602,
+  "open_issues": 36,
+  "maintainers": [],
+  "watchers": 332,
+  "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "cameron314",
+  "owner_type": "User"
+}

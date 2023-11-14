@@ -1,1 +1,29 @@
-{"name":"variant-lite","versions":["master","v0.0.0","v1.0.0","v1.1.0","v1.2.0","v1.2.1","v1.2.2","v2.0.0"],"git":"https://github.com/martinmoene/variant-lite","description":"variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library"}
+{
+  "name": "variant-lite",
+  "versions": [
+    "master",
+    "0.0.0-alpha",
+    "v0.0.0",
+    "v1.0.0",
+    "v1.1.0",
+    "v1.2.0",
+    "v1.2.1",
+    "v1.2.2",
+    "v2.0.0"
+  ],
+  "git": "https://github.com/martinmoene/variant-lite",
+  "git_short": "martinmoene/variant-lite",
+  "git_prefixed": "gh:martinmoene/variant-lite",
+  "stars": 234,
+  "forks": 27,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 11,
+  "description": "variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

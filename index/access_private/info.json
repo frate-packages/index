@@ -1,1 +1,21 @@
-{"name":"access_private","versions":["master"],"git":"https://github.com/martong/access_private","description":"Access private members and statics of a C++ class","target_link":""}
+{
+  "name": "access_private",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/martong/access_private",
+  "git_short": "martong/access_private",
+  "git_prefixed": "gh:martong/access_private",
+  "stars": 134,
+  "forks": 24,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 8,
+  "description": "Access private members and statics of a C++ class",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "martong",
+  "owner_type": "User"
+}

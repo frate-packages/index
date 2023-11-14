@@ -1,1 +1,21 @@
-{"name":"aaf","git":"https://sourceforge.net/projects/aaf/","description":"A cross-platform SDK for AAF. AAF is a metadata management system and file format for use in professional multimedia creation and authoring."}
+{
+  "name": "aaf",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/dneg/aaf",
+  "git_short": "dneg/aaf",
+  "git_prefixed": "gh:dneg/aaf",
+  "stars": 17,
+  "forks": 7,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 6,
+  "description": "A cross-platform SDK for AAF. AAF is a metadata management system and file format for use in professional multimedia creation and authoring.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C++",
+  "owner": "dneg",
+  "owner_type": "Organization"
+}

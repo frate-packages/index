@@ -1,1 +1,30 @@
-{"name":"libcoro","versions":["main","v0.1","v0.2","v0.3","v0.4","v0.5","v0.6","v0.7","v0.8","v0.9"],"git":"https://github.com/jbaldwin/libcoro","description":"C++20 coroutine library"}
+{
+  "name": "libcoro",
+  "versions": [
+    "main",
+    "v0.1",
+    "v0.2",
+    "v0.3",
+    "v0.4",
+    "v0.5",
+    "v0.6",
+    "v0.7",
+    "v0.8",
+    "v0.9"
+  ],
+  "git": "https://github.com/jbaldwin/libcoro",
+  "git_short": "jbaldwin/libcoro",
+  "git_prefixed": "gh:jbaldwin/libcoro",
+  "stars": 329,
+  "forks": 44,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "C++20 coroutine library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "jbaldwin",
+  "owner_type": "User"
+}

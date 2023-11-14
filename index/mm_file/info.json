@@ -1,1 +1,22 @@
-{"name":"mm_file","versions":["master","v1.0.0"],"git":"https://github.com/jermp/mm_file","description":"A self-contained, header-only, implementation of memory-mapped files in C++ for fast integration into larger projects."}
+{
+  "name": "mm_file",
+  "versions": [
+    "master",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/jermp/mm_file",
+  "git_short": "jermp/mm_file",
+  "git_prefixed": "gh:jermp/mm_file",
+  "stars": 21,
+  "forks": 3,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 5,
+  "description": "A self-contained, header-only, implementation of memory-mapped files in C++ for fast integration into larger projects.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "jermp",
+  "owner_type": "User"
+}

@@ -1,1 +1,26 @@
-{"name":"absent","versions":["master","0.0.1","0.1.0","0.2.0","0.3.0","0.3.1"],"git":"https://github.com/rvarago/absent","description":"A small C++17 library meant to simplify the composition of nullable types in a generic, type-safe, and declarative way"}
+{
+  "name": "absent",
+  "versions": [
+    "master",
+    "0.0.1",
+    "0.1.0",
+    "0.2.0",
+    "0.3.0",
+    "0.3.1"
+  ],
+  "git": "https://github.com/rvarago/absent",
+  "git_short": "rvarago/absent",
+  "git_prefixed": "gh:rvarago/absent",
+  "stars": 36,
+  "forks": 8,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 4,
+  "description": "A small C++17 library meant to simplify the composition of nullable types in a generic, type-safe, and declarative way",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "rvarago",
+  "owner_type": "User"
+}

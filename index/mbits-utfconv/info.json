@@ -1,1 +1,25 @@
-{"name":"mbits-utfconv","versions":["master","v1.0.0","v1.0.1","v1.0.2","v1.0.3"],"git":"https://github.com/mbits-libs/utfconv","description":"Conversion library between string, u16string, u32string and u8string."}
+{
+  "name": "mbits-utfconv",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3"
+  ],
+  "git": "https://github.com/mbits-libs/utfconv",
+  "git_short": "mbits-libs/utfconv",
+  "git_prefixed": "gh:mbits-libs/utfconv",
+  "stars": 2,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "Conversion library between string, u16string, u32string and u8string.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "mbits-libs",
+  "owner_type": "Organization"
+}

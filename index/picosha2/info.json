@@ -1,1 +1,22 @@
-{"name":"picosha2","versions":["master","v1.0.0"],"git":"https://github.com/okdshin/PicoSHA2","description":"a header-file-only, SHA256 hash generator in C++ "}
+{
+  "name": "picosha2",
+  "versions": [
+    "master",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/okdshin/PicoSHA2",
+  "git_short": "okdshin/PicoSHA2",
+  "git_prefixed": "gh:okdshin/PicoSHA2",
+  "stars": 602,
+  "forks": 151,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 32,
+  "description": "a header-file-only, SHA256 hash generator in C++ ",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "okdshin",
+  "owner_type": "User"
+}

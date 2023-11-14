@@ -1,1 +1,21 @@
-{"name":"tre","versions":["master"],"git":"https://github.com/laurikari/tre","description":"TRE is a lightweight, robust, and efficient POSIX-compliant regexp matching library with some exciting features such as approximate (fuzzy) matching.","target_link":""}
+{
+  "name": "tre",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/laurikari/tre",
+  "git_short": "laurikari/tre",
+  "git_prefixed": "gh:laurikari/tre",
+  "stars": 745,
+  "forks": 121,
+  "open_issues": 66,
+  "maintainers": [],
+  "watchers": 40,
+  "description": "TRE is a lightweight, robust, and efficient POSIX-compliant regexp matching library with some exciting features such as approximate (fuzzy) matching.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "laurikari",
+  "owner_type": "User"
+}

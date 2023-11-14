@@ -1,1 +1,35 @@
-{"name":"rxcpp","versions":["main","4.1.0","v1.0.2","v2.1.0","v2.2.0","v2.3.0","v3.0.0","v4.0.0","v4.1.0","v4.1.1"],"git":"https://github.com/ReactiveX/RxCpp","description":"C++11 library for composing operations on streams of asynchronous events."}
+{
+  "name": "rxcpp",
+  "versions": [
+    "main",
+    "release/v1.0.2",
+    "releases/v4.1.1",
+    "4.1.0",
+    "v1.0.2",
+    "v1.0.2^{}",
+    "v2.1.0",
+    "v2.1.0^{}",
+    "v2.2.0",
+    "v2.3.0",
+    "v3.0.0",
+    "v4.0.0",
+    "v4.1.0",
+    "v4.1.0^{}",
+    "v4.1.1"
+  ],
+  "git": "https://github.com/ReactiveX/RxCpp",
+  "git_short": "ReactiveX/RxCpp",
+  "git_prefixed": "gh:ReactiveX/RxCpp",
+  "stars": 2906,
+  "forks": 420,
+  "open_issues": 92,
+  "maintainers": [],
+  "watchers": 160,
+  "description": "C++11 library for composing operations on streams of asynchronous events.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "ReactiveX",
+  "owner_type": "Organization"
+}

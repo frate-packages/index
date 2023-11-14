@@ -1,1 +1,31 @@
-{"name":"st_tree","versions":["version_1.0.0","version_1.0.1","version_1.0.2","version_1.0.3","version_1.0.4","version_1.0.5","version_1.0.6","version_1.1.0","version_1.2.0","version_1.2.1","version_1.2.2"],"git":"https://github.com/erikerlandson/st_tree","description":"A fast and flexible c++ template class for tree data structures"}
+{
+  "name": "st_tree",
+  "versions": [
+    "version_1.0.0",
+    "version_1.0.1",
+    "version_1.0.2",
+    "version_1.0.3",
+    "version_1.0.4",
+    "version_1.0.5",
+    "version_1.0.6",
+    "version_1.1.0",
+    "version_1.2.0",
+    "version_1.2.1",
+    "version_1.2.2"
+  ],
+  "git": "https://github.com/erikerlandson/st_tree",
+  "git_short": "erikerlandson/st_tree",
+  "git_prefixed": "gh:erikerlandson/st_tree",
+  "stars": 90,
+  "forks": 18,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "A fast and flexible c++ template class for tree data structures",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "erikerlandson",
+  "owner_type": "User"
+}

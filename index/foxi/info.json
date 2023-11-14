@@ -1,1 +1,21 @@
-{"name":"foxi","versions":["master"],"git":"https://github.com/houseroad/foxi","description":"ONNXIFI with Facebook Extension.","target_link":""}
+{
+  "name": "foxi",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/houseroad/foxi",
+  "git_short": "houseroad/foxi",
+  "git_prefixed": "gh:houseroad/foxi",
+  "stars": 6,
+  "forks": 18,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "ONNXIFI with Facebook Extension.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "houseroad",
+  "owner_type": "User"
+}

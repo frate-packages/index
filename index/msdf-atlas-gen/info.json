@@ -1,1 +1,27 @@
-{"name":"msdf-atlas-gen","versions":["master","v1.0.1","v1.2.1","v1.2.2"],"git":"https://github.com/Chlumsky/msdf-atlas-gen","description":"MSDF font atlas generator"}
+{
+  "name": "msdf-atlas-gen",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0.1",
+    "v1.1",
+    "v1.2",
+    "v1.2.1",
+    "v1.2.2"
+  ],
+  "git": "https://github.com/Chlumsky/msdf-atlas-gen",
+  "git_short": "Chlumsky/msdf-atlas-gen",
+  "git_prefixed": "gh:Chlumsky/msdf-atlas-gen",
+  "stars": 591,
+  "forks": 133,
+  "open_issues": 14,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "MSDF font atlas generator",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Chlumsky",
+  "owner_type": "User"
+}

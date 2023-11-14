@@ -1,1 +1,32 @@
-{"name":"flex","versions":["master","v2.6.0","v2.6.1","v2.6.2","v2.6.3","v2.6.4"],"git":"https://github.com/westes/flex","description":"Flex, the fast lexical analyzer generator"}
+{
+  "name": "flex",
+  "versions": [
+    "master",
+    "flex-2.5.39",
+    "v2.6.0",
+    "v2.6.0^{}",
+    "v2.6.1",
+    "v2.6.1^{}",
+    "v2.6.2",
+    "v2.6.2^{}",
+    "v2.6.3",
+    "v2.6.3^{}",
+    "v2.6.4",
+    "v2.6.4^{}"
+  ],
+  "git": "https://github.com/westes/flex",
+  "git_short": "westes/flex",
+  "git_prefixed": "gh:westes/flex",
+  "stars": 3217,
+  "forks": 551,
+  "open_issues": 164,
+  "maintainers": [],
+  "watchers": 86,
+  "description": "Flex, the fast lexical analyzer generator",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "westes",
+  "owner_type": "User"
+}

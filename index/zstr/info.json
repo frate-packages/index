@@ -1,1 +1,29 @@
-{"name":"zstr","versions":["master","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5","v1.0.6","v1.0.7"],"git":"https://github.com/mateidavid/zstr","description":"A C++ header-only ZLib wrapper."}
+{
+  "name": "zstr",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3",
+    "v1.0.4",
+    "v1.0.5",
+    "v1.0.6",
+    "v1.0.7"
+  ],
+  "git": "https://github.com/mateidavid/zstr",
+  "git_short": "mateidavid/zstr",
+  "git_prefixed": "gh:mateidavid/zstr",
+  "stars": 265,
+  "forks": 71,
+  "open_issues": 6,
+  "maintainers": [],
+  "watchers": 15,
+  "description": "A C++ header-only ZLib wrapper.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "mateidavid",
+  "owner_type": "User"
+}

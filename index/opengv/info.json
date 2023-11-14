@@ -1,1 +1,21 @@
-{"name":"opengv","versions":["master"],"git":"https://github.com/laurentkneip/opengv","description":"A collection of computer vision methods for solving geometric vision problems","target_link":""}
+{
+  "name": "opengv",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/laurentkneip/opengv",
+  "git_short": "laurentkneip/opengv",
+  "git_prefixed": "gh:laurentkneip/opengv",
+  "stars": 948,
+  "forks": 343,
+  "open_issues": 55,
+  "maintainers": [],
+  "watchers": 69,
+  "description": "A collection of computer vision methods for solving geometric vision problems",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "laurentkneip",
+  "owner_type": "User"
+}

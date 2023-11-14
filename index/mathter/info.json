@@ -1,1 +1,23 @@
-{"name":"mathter","versions":["master","v1.0.0","v1.0.1"],"git":"https://github.com/petiaccja/Mathter","description":"Powerful 3D math and small-matrix linear algebra library for games and science."}
+{
+  "name": "mathter",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.1"
+  ],
+  "git": "https://github.com/petiaccja/Mathter",
+  "git_short": "petiaccja/Mathter",
+  "git_prefixed": "gh:petiaccja/Mathter",
+  "stars": 119,
+  "forks": 10,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "Powerful 3D math and small-matrix linear algebra library for games and science.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "petiaccja",
+  "owner_type": "User"
+}

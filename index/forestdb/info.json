@@ -1,1 +1,21 @@
-{"name":"forestdb","versions":["master"],"git":"https://github.com/ForestDB-KVStore/forestdb","description":"ForestDB is a KeyValue store based on a Hierarchical B+-Tree.","target_link":""}
+{
+  "name": "forestdb",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/ForestDB-KVStore/forestdb",
+  "git_short": "ForestDB-KVStore/forestdb",
+  "git_prefixed": "gh:ForestDB-KVStore/forestdb",
+  "stars": 14,
+  "forks": 7,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "ForestDB is a KeyValue store based on a Hierarchical B+-Tree.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "ForestDB-KVStore",
+  "owner_type": "Organization"
+}

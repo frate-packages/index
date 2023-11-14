@@ -1,1 +1,25 @@
-{"name":"popt","versions":["master","popt-1_1_1","popt-1_2_1","popt-1_2_2","popt-1_2_3"],"git":"https://github.com/rpm-software-management/popt","description":"Library for parsing command line parameters"}
+{
+  "name": "popt",
+  "versions": [
+    "master",
+    "popt-1_1_1",
+    "popt-1_2_1",
+    "popt-1_2_2",
+    "popt-1_2_3"
+  ],
+  "git": "https://github.com/rpm-software-management/popt",
+  "git_short": "rpm-software-management/popt",
+  "git_prefixed": "gh:rpm-software-management/popt",
+  "stars": 42,
+  "forks": 36,
+  "open_issues": 8,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "Library for parsing command line parameters",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "rpm-software-management",
+  "owner_type": "Organization"
+}

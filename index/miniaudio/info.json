@@ -1,1 +1,27 @@
-{"name":"miniaudio","versions":["master","0.11.15","0.11.16","0.11.17","0.11.18"],"git":"https://github.com/mackron/miniaudio","description":"A single file audio playback and capture library."}
+{
+  "name": "miniaudio",
+  "versions": [
+    "master",
+    "0.11.15",
+    "0.11.16",
+    "0.11.17",
+    "0.11.18",
+    "0.11.19",
+    "0.11.20"
+  ],
+  "git": "https://github.com/mackron/miniaudio",
+  "git_short": "mackron/miniaudio",
+  "git_prefixed": "gh:mackron/miniaudio",
+  "stars": 3266,
+  "forks": 272,
+  "open_issues": 16,
+  "maintainers": [],
+  "watchers": 86,
+  "description": "A single file audio playback and capture library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "mackron",
+  "owner_type": "User"
+}

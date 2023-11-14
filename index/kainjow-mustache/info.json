@@ -1,1 +1,36 @@
-{"name":"kainjow-mustache","versions":["master","v3.2.1"],"git":"https://github.com/kainjow/Mustache","description":"Mustache text templates for modern C++"}
+{
+  "name": "kainjow-mustache",
+  "versions": [
+    "master",
+    "v1.0",
+    "v2.0",
+    "v2.0^{}",
+    "v3.0",
+    "v3.0^{}",
+    "v3.1",
+    "v3.1^{}",
+    "v3.2",
+    "v3.2^{}",
+    "v3.2.1",
+    "v3.2.1^{}",
+    "v4.0",
+    "v4.0^{}",
+    "v4.1",
+    "v4.1^{}"
+  ],
+  "git": "https://github.com/kainjow/Mustache",
+  "git_short": "kainjow/Mustache",
+  "git_prefixed": "gh:kainjow/Mustache",
+  "stars": 341,
+  "forks": 44,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 21,
+  "description": "Mustache text templates for modern C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "kainjow",
+  "owner_type": "User"
+}

@@ -1,1 +1,21 @@
-{"name":"libhydrogen","versions":["master"],"git":"https://github.com/jedisct1/libhydrogen","description":"A lightweight, secure, easy-to-use crypto library suitable for constrained environments.","target_link":""}
+{
+  "name": "libhydrogen",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/jedisct1/libhydrogen",
+  "git_short": "jedisct1/libhydrogen",
+  "git_prefixed": "gh:jedisct1/libhydrogen",
+  "stars": 538,
+  "forks": 87,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 37,
+  "description": "A lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "jedisct1",
+  "owner_type": "User"
+}

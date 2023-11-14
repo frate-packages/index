@@ -1,1 +1,27 @@
-{"name":"s2geometry","versions":["master","v0.10.0","v0.9.0"],"git":"https://github.com/google/s2geometry","description":"Computational geometry and spatial indexing on the sphere"}
+{
+  "name": "s2geometry",
+  "versions": [
+    "master",
+    "v0.10.0",
+    "v0.10.0-2022.02.23.00",
+    "v0.9.0",
+    "v0.9.0-2019.02.11.00",
+    "v0.9.0-2019.03.01.00",
+    "v0.9.0-2019.03.04.00"
+  ],
+  "git": "https://github.com/google/s2geometry",
+  "git_short": "google/s2geometry",
+  "git_prefixed": "gh:google/s2geometry",
+  "stars": 2083,
+  "forks": 289,
+  "open_issues": 61,
+  "maintainers": [],
+  "watchers": 70,
+  "description": "Computational geometry and spatial indexing on the sphere",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,21 @@
-{"name":"lefticus-tools","versions":["main"],"git":"https://github.com/lefticus/tools","description":"Some handy C++ tools","target_link":""}
+{
+  "name": "lefticus-tools",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/lefticus/tools",
+  "git_short": "lefticus/tools",
+  "git_prefixed": "gh:lefticus/tools",
+  "stars": 70,
+  "forks": 7,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "Some handy C++ tools",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "lefticus",
+  "owner_type": "User"
+}

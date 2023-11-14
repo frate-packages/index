@@ -1,1 +1,27 @@
-{"name":"any-lite","versions":["master","v0.0.0","v0.1.0","v0.2.0","v0.3.0","v0.4.0"],"git":"https://github.com/martinmoene/any-lite","description":"any lite - A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library"}
+{
+  "name": "any-lite",
+  "versions": [
+    "master",
+    "v0.0.0",
+    "v0.0.0-alpha",
+    "v0.1.0",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0"
+  ],
+  "git": "https://github.com/martinmoene/any-lite",
+  "git_short": "martinmoene/any-lite",
+  "git_prefixed": "gh:martinmoene/any-lite",
+  "stars": 127,
+  "forks": 25,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 6,
+  "description": "any lite - A C++17-like any, a type-safe container for single values of any type for C++98, C++11 and later in a single-file header-only library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

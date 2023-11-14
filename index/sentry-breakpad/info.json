@@ -1,1 +1,22 @@
-{"name":"sentry-breakpad","versions":["main","master"],"git":"https://github.com/getsentry/breakpad","description":"Client component that implements a crash-reporting system."}
+{
+  "name": "sentry-breakpad",
+  "versions": [
+    "main",
+    "master"
+  ],
+  "git": "https://github.com/getsentry/breakpad",
+  "git_short": "getsentry/breakpad",
+  "git_prefixed": "gh:getsentry/breakpad",
+  "stars": 3,
+  "forks": 10,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 8,
+  "description": "Client component that implements a crash-reporting system.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "getsentry",
+  "owner_type": "Organization"
+}

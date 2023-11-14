@@ -1,1 +1,27 @@
-{"name":"easyhttpcpp","versions":["master","1.0.0","2.0.0","2.1.0"],"git":"https://github.com/sony/easyhttpcpp","description":"A cross-platform HTTP client library with a focus on usability and speed"}
+{
+  "name": "easyhttpcpp",
+  "versions": [
+    "easyhttp-1.0.0",
+    "easyhttp-2.0.0",
+    "easyhttp-2.1.0",
+    "master",
+    "1.0.0",
+    "2.0.0",
+    "2.1.0"
+  ],
+  "git": "https://github.com/sony/easyhttpcpp",
+  "git_short": "sony/easyhttpcpp",
+  "git_prefixed": "gh:sony/easyhttpcpp",
+  "stars": 155,
+  "forks": 31,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 28,
+  "description": "A cross-platform HTTP client library with a focus on usability and speed",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "sony",
+  "owner_type": "Organization"
+}

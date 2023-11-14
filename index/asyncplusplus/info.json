@@ -1,1 +1,23 @@
-{"name":"asyncplusplus","versions":["master","v1.0","v1.1"],"git":"https://github.com/Amanieu/asyncplusplus","description":"Async++ concurrency framework for C++11"}
+{
+  "name": "asyncplusplus",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.1"
+  ],
+  "git": "https://github.com/Amanieu/asyncplusplus",
+  "git_short": "Amanieu/asyncplusplus",
+  "git_prefixed": "gh:Amanieu/asyncplusplus",
+  "stars": 1238,
+  "forks": 241,
+  "open_issues": 9,
+  "maintainers": [],
+  "watchers": 88,
+  "description": "Async++ concurrency framework for C++11",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Amanieu",
+  "owner_type": "User"
+}

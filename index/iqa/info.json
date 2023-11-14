@@ -1,1 +1,21 @@
-{"name":"iqa","versions":["master"],"git":"https://github.com/tjdistler/iqa","description":"Image Quality Analysis Library","target_link":""}
+{
+  "name": "iqa",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/tjdistler/iqa",
+  "git_short": "tjdistler/iqa",
+  "git_prefixed": "gh:tjdistler/iqa",
+  "stars": 5,
+  "forks": 2,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 2,
+  "description": "Image Quality Analysis Library",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C",
+  "owner": "tjdistler",
+  "owner_type": "User"
+}

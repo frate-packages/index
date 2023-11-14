@@ -1,1 +1,26 @@
-{"name":"eabase","versions":["2.09.06","master","2.09.05","2.09.06"],"git":"https://github.com/electronicarts/EABase","description":"EABase is a small set of header files that define platform-independent data types and platform feature macros. "}
+{
+  "name": "eabase",
+  "versions": [
+    "2.09.06",
+    "master",
+    "2.09.05",
+    "2.09.05^{}",
+    "2.09.06",
+    "2.09.06^{}"
+  ],
+  "git": "https://github.com/electronicarts/EABase",
+  "git_short": "electronicarts/EABase",
+  "git_prefixed": "gh:electronicarts/EABase",
+  "stars": 149,
+  "forks": 94,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 14,
+  "description": "EABase is a small set of header files that define platform-independent data types and platform feature macros. ",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "electronicarts",
+  "owner_type": "Organization"
+}

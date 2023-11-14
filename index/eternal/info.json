@@ -1,1 +1,24 @@
-{"name":"eternal","versions":["master","v1.0.0","v1.0.1"],"git":"https://github.com/mapbox/eternal","description":"A C++14 compile-time/constexpr map and hash map with minimal binary footprint"}
+{
+  "name": "eternal",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0.0",
+    "v1.0.1"
+  ],
+  "git": "https://github.com/mapbox/eternal",
+  "git_short": "mapbox/eternal",
+  "git_prefixed": "gh:mapbox/eternal",
+  "stars": 184,
+  "forks": 17,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 85,
+  "description": "A C++14 compile-time/constexpr map and hash map with minimal binary footprint",
+  "git_description": "",
+  "target_link": "",
+  "license": "ISC License",
+  "language": "C++",
+  "owner": "mapbox",
+  "owner_type": "Organization"
+}

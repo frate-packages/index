@@ -1,1 +1,23 @@
-{"name":"libsgp4","versions":["master","v1.0","v1.0^{}"],"git":"https://github.com/dnwrnr/sgp4","description":"C++11 library for SGP4 Simplified perturbations model."}
+{
+  "name": "libsgp4",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0^{}"
+  ],
+  "git": "https://github.com/dnwrnr/sgp4",
+  "git_short": "dnwrnr/sgp4",
+  "git_prefixed": "gh:dnwrnr/sgp4",
+  "stars": 113,
+  "forks": 42,
+  "open_issues": 7,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "C++11 library for SGP4 Simplified perturbations model.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "dnwrnr",
+  "owner_type": "User"
+}

@@ -1,1 +1,22 @@
-{"name":"microservice-essentials","versions":["main","0.1.0"],"git":"https://github.com/seboste/microservice-essentials","description":"microservice-essentials is a portable, independent C++ library that takes care of typical recurring concerns that occur in microservice development."}
+{
+  "name": "microservice-essentials",
+  "versions": [
+    "main",
+    "0.1.0"
+  ],
+  "git": "https://github.com/seboste/microservice-essentials",
+  "git_short": "seboste/microservice-essentials",
+  "git_prefixed": "gh:seboste/microservice-essentials",
+  "stars": 2,
+  "forks": 0,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "microservice-essentials is a portable, independent C++ library that takes care of typical recurring concerns that occur in microservice development.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "seboste",
+  "owner_type": "User"
+}

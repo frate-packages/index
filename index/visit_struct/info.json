@@ -1,1 +1,24 @@
-{"name":"visit_struct","versions":["master","v1.1.0"],"git":"https://github.com/cbeck88/visit_struct","description":"A miniature library for struct-field reflection in C++"}
+{
+  "name": "visit_struct",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0^{}",
+    "v1.1.0"
+  ],
+  "git": "https://github.com/cbeck88/visit_struct",
+  "git_short": "cbeck88/visit_struct",
+  "git_prefixed": "gh:cbeck88/visit_struct",
+  "stars": 460,
+  "forks": 49,
+  "open_issues": 15,
+  "maintainers": [],
+  "watchers": 27,
+  "description": "A miniature library for struct-field reflection in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "cbeck88",
+  "owner_type": "User"
+}

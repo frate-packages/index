@@ -1,1 +1,23 @@
-{"name":"json_dto","versions":["0.2.9-dev","master"],"git":"https://github.com/Stiffstream/json_dto","description":"A small header-only helper for converting data between json representation and c++ structs"}
+{
+  "name": "json_dto",
+  "versions": [
+    "0.2.9-dev",
+    "0.3-dev",
+    "master"
+  ],
+  "git": "https://github.com/Stiffstream/json_dto",
+  "git_short": "Stiffstream/json_dto",
+  "git_prefixed": "gh:Stiffstream/json_dto",
+  "stars": 110,
+  "forks": 15,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "A small header-only helper for converting data between json representation and c++ structs",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "Stiffstream",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,26 @@
-{"name":"zopfli","versions":["master","zopfli-1.0.0","zopfli-1.0.0^{}","zopfli-1.0.1","zopfli-1.0.2","zopfli-1.0.3"],"git":"https://github.com/google/zopfli/","description":"Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression."}
+{
+  "name": "zopfli",
+  "versions": [
+    "master",
+    "zopfli-1.0.0",
+    "zopfli-1.0.0^{}",
+    "zopfli-1.0.1",
+    "zopfli-1.0.2",
+    "zopfli-1.0.3"
+  ],
+  "git": "https://github.com/google/zopfli/",
+  "git_short": "google/zopfli/",
+  "git_prefixed": "gh:google/zopfli/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

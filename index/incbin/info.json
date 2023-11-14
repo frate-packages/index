@@ -1,1 +1,21 @@
-{"name":"incbin","versions":["main"],"git":"https://github.com/graphitemaster/incbin/","description":"Include binary files in C/C++","target_link":""}
+{
+  "name": "incbin",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/graphitemaster/incbin/",
+  "git_short": "graphitemaster/incbin/",
+  "git_prefixed": "gh:graphitemaster/incbin/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "Include binary files in C/C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

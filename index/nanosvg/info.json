@@ -1,1 +1,21 @@
-{"name":"nanosvg","versions":["master"],"git":"https://github.com/memononen/nanosvg","description":"NanoSVG is a simple stupid single-header-file SVG parser.","target_link":""}
+{
+  "name": "nanosvg",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/memononen/nanosvg",
+  "git_short": "memononen/nanosvg",
+  "git_prefixed": "gh:memononen/nanosvg",
+  "stars": 1526,
+  "forks": 319,
+  "open_issues": 119,
+  "maintainers": [],
+  "watchers": 78,
+  "description": "NanoSVG is a simple stupid single-header-file SVG parser.",
+  "git_description": "",
+  "target_link": "",
+  "license": "zlib License",
+  "language": "C",
+  "owner": "memononen",
+  "owner_type": "User"
+}

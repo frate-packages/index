@@ -1,1 +1,25 @@
-{"name":"cpptoml","versions":["master","v0.1.0","v0.1.1"],"git":"https://github.com/skystrife/cpptoml","description":"cpptoml is a header-only library for parsing TOML "}
+{
+  "name": "cpptoml",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.1.0^{}",
+    "v0.1.1",
+    "v0.1.1^{}"
+  ],
+  "git": "https://github.com/skystrife/cpptoml",
+  "git_short": "skystrife/cpptoml",
+  "git_prefixed": "gh:skystrife/cpptoml",
+  "stars": 574,
+  "forks": 131,
+  "open_issues": 38,
+  "maintainers": [],
+  "watchers": 27,
+  "description": "cpptoml is a header-only library for parsing TOML ",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "skystrife",
+  "owner_type": "User"
+}

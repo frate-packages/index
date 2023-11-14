@@ -1,1 +1,33 @@
-{"name":"libe57format","versions":["master","v2.0.1","v2.2.0","v2.3.0","v3.0.0","v3.0.1","v3.0.2"],"git":"https://github.com/asmaloney/libE57Format","description":"Library for reading \u0026amp; writing the E57 file format"}
+{
+  "name": "libe57format",
+  "versions": [
+    "master",
+    "v2.0",
+    "v2.0.1",
+    "v2.1",
+    "v2.2.0",
+    "v2.3.0",
+    "v2.3.0^{}",
+    "v3.0.0",
+    "v3.0.0^{}",
+    "v3.0.1",
+    "v3.0.1^{}",
+    "v3.0.2",
+    "v3.0.2^{}"
+  ],
+  "git": "https://github.com/asmaloney/libE57Format",
+  "git_short": "asmaloney/libE57Format",
+  "git_prefixed": "gh:asmaloney/libE57Format",
+  "stars": 108,
+  "forks": 55,
+  "open_issues": 14,
+  "maintainers": [],
+  "watchers": 6,
+  "description": "Library for reading \u0026amp; writing the E57 file format",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "asmaloney",
+  "owner_type": "User"
+}

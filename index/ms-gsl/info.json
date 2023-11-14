@@ -1,1 +1,31 @@
-{"name":"ms-gsl","versions":["main","3.0.1","v1.0.0","v2.0.0","v2.1.0","v3.0.0","v3.0.1","v3.1.0","v4.0.0"],"git":"https://github.com/microsoft/GSL","description":"Microsoft's implementation of the Guidelines Support Library"}
+{
+  "name": "ms-gsl",
+  "versions": [
+    "main",
+    "3.0.1",
+    "v1.0.0",
+    "v1.0.0^{}",
+    "v2.0.0",
+    "v2.1.0",
+    "v3.0.0",
+    "v3.0.1",
+    "v3.1.0",
+    "v4.0.0",
+    "v4.0.0^{}"
+  ],
+  "git": "https://github.com/microsoft/GSL",
+  "git_short": "microsoft/GSL",
+  "git_prefixed": "gh:microsoft/GSL",
+  "stars": 5745,
+  "forks": 722,
+  "open_issues": 11,
+  "maintainers": [],
+  "watchers": 320,
+  "description": "Microsoft's implementation of the Guidelines Support Library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "microsoft",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,21 @@
-{"name":"tgc","versions":["master"],"git":"https://github.com/orangeduck/tgc","description":"A Tiny Garbage Collector for C.","target_link":""}
+{
+  "name": "tgc",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/orangeduck/tgc",
+  "git_short": "orangeduck/tgc",
+  "git_prefixed": "gh:orangeduck/tgc",
+  "stars": 878,
+  "forks": 61,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "A Tiny Garbage Collector for C.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "orangeduck",
+  "owner_type": "User"
+}

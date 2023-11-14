@@ -1,1 +1,29 @@
-{"name":"csm","versions":["master","v3.0.1","v3.0.3","v3.0.4"],"git":"https://github.com/ngageoint/csm","description":"Community Sensor Model base interface library"}
+{
+  "name": "csm",
+  "versions": [
+    "3.0.3_updates",
+    "master",
+    "v3.0.1",
+    "v3.0.3",
+    "v3.0.3.1",
+    "v3.0.3.2",
+    "v3.0.3.3",
+    "v3.0.4",
+    "v3.0.4^{}"
+  ],
+  "git": "https://github.com/ngageoint/csm",
+  "git_short": "ngageoint/csm",
+  "git_prefixed": "gh:ngageoint/csm",
+  "stars": 17,
+  "forks": 19,
+  "open_issues": 11,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "Community Sensor Model base interface library",
+  "git_description": "",
+  "target_link": "",
+  "license": "The Unlicense",
+  "language": "C++",
+  "owner": "ngageoint",
+  "owner_type": "Organization"
+}

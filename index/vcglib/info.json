@@ -1,1 +1,28 @@
-{"name":"vcglib","versions":["main","v1.0.0","v1.0.1"],"git":"https://github.com/cnr-isti-vclab/vcglib","description":"Library for manipulation, processing, cleaning, simplifying triangle meshes."}
+{
+  "name": "vcglib",
+  "versions": [
+    "main",
+    "2020.09",
+    "2020.12",
+    "2021.07",
+    "2021.10",
+    "2022.02",
+    "v1.0.0",
+    "v1.0.1"
+  ],
+  "git": "https://github.com/cnr-isti-vclab/vcglib",
+  "git_short": "cnr-isti-vclab/vcglib",
+  "git_prefixed": "gh:cnr-isti-vclab/vcglib",
+  "stars": 975,
+  "forks": 336,
+  "open_issues": 71,
+  "maintainers": [],
+  "watchers": 67,
+  "description": "Library for manipulation, processing, cleaning, simplifying triangle meshes.",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU General Public License v3.0",
+  "language": "C++",
+  "owner": "cnr-isti-vclab",
+  "owner_type": "Organization"
+}

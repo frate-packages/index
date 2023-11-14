@@ -1,1 +1,28 @@
-{"name":"joltphysics","versions":["master","v1.0.0","v1.1.0","v2.0.0","v2.0.1","v3.0.0","v3.0.1"],"git":"https://github.com/jrouwe/JoltPhysics","description":"A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications."}
+{
+  "name": "joltphysics",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.1.0",
+    "v2.0.0",
+    "v2.0.1",
+    "v3.0.0",
+    "v3.0.1",
+    "v4.0.0"
+  ],
+  "git": "https://github.com/jrouwe/JoltPhysics",
+  "git_short": "jrouwe/JoltPhysics",
+  "git_prefixed": "gh:jrouwe/JoltPhysics",
+  "stars": 4416,
+  "forks": 263,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 53,
+  "description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "jrouwe",
+  "owner_type": "User"
+}

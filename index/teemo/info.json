@@ -1,1 +1,33 @@
-{"name":"teemo","versions":["master","v1.0","v1.1","v1.2","v2.0","v2.1","v2.2","v2.3","v2.4","v2.5","v2.6","v2.7","v3.0"],"git":"https://github.com/winsoft666/teemo","description":"C++ File Download Library."}
+{
+  "name": "teemo",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.1",
+    "v1.2",
+    "v2.0",
+    "v2.1",
+    "v2.2",
+    "v2.3",
+    "v2.4",
+    "v2.5",
+    "v2.6",
+    "v2.7",
+    "v3.0"
+  ],
+  "git": "https://github.com/winsoft666/teemo",
+  "git_short": "winsoft666/teemo",
+  "git_prefixed": "gh:winsoft666/teemo",
+  "stars": 3,
+  "forks": 2,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "C++ File Download Library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU General Public License v3.0",
+  "language": "C++",
+  "owner": "winsoft666",
+  "owner_type": "User"
+}

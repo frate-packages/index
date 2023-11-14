@@ -1,1 +1,30 @@
-{"name":"boolinq","versions":["master","2.0.0","3.0.1","3.0.2","3.0.3","3.0.4"],"git":"https://github.com/k06a/boolinq","description":"Super tiny C++11 single-file header-only LINQ template library"}
+{
+  "name": "boolinq",
+  "versions": [
+    "master",
+    "2.0.0",
+    "3.0.1",
+    "3.0.1^{}",
+    "3.0.2",
+    "3.0.2^{}",
+    "3.0.3",
+    "3.0.3^{}",
+    "3.0.4",
+    "3.0.4^{}"
+  ],
+  "git": "https://github.com/k06a/boolinq",
+  "git_short": "k06a/boolinq",
+  "git_prefixed": "gh:k06a/boolinq",
+  "stars": 591,
+  "forks": 80,
+  "open_issues": 17,
+  "maintainers": [],
+  "watchers": 28,
+  "description": "Super tiny C++11 single-file header-only LINQ template library",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "k06a",
+  "owner_type": "User"
+}

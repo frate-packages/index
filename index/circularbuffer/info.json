@@ -1,1 +1,32 @@
-{"name":"circularbuffer","versions":["master","1.0.0","1.1.0","1.1.1","1.2.0","1.3.0","1.3.1","1.3.2","1.3.3"],"git":"https://github.com/rlogiacco/CircularBuffer","description":"Arduino circular buffer library"}
+{
+  "name": "circularbuffer",
+  "versions": [
+    "master",
+    "1.0.0",
+    "1.1.0",
+    "1.1.1",
+    "1.2.0",
+    "1.3.0",
+    "1.3.0^{}",
+    "1.3.1",
+    "1.3.2",
+    "1.3.2^{}",
+    "1.3.3",
+    "1.3.3^{}"
+  ],
+  "git": "https://github.com/rlogiacco/CircularBuffer",
+  "git_short": "rlogiacco/CircularBuffer",
+  "git_prefixed": "gh:rlogiacco/CircularBuffer",
+  "stars": 275,
+  "forks": 80,
+  "open_issues": 8,
+  "maintainers": [],
+  "watchers": 15,
+  "description": "Arduino circular buffer library",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU Lesser General Public License v3.0",
+  "language": "C++",
+  "owner": "rlogiacco",
+  "owner_type": "User"
+}

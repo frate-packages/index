@@ -1,1 +1,23 @@
-{"name":"metis","versions":["master","v5.2.1"],"git":"https://github.com/KarypisLab/METIS","description":"Set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices"}
+{
+  "name": "metis",
+  "versions": [
+    "master",
+    "v5.1.1-DistDGL-v0.5",
+    "v5.2.1"
+  ],
+  "git": "https://github.com/KarypisLab/METIS",
+  "git_short": "KarypisLab/METIS",
+  "git_prefixed": "gh:KarypisLab/METIS",
+  "stars": 462,
+  "forks": 98,
+  "open_issues": 40,
+  "maintainers": [],
+  "watchers": 12,
+  "description": "Set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "KarypisLab",
+  "owner_type": "Organization"
+}

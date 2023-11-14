@@ -1,1 +1,29 @@
-{"name":"tsl-sparse-map","versions":["master","v0.2.0","v0.3.0","v0.4.0","v0.5.0","v0.6.0","v0.6.1","v0.6.2"],"git":"https://github.com/Tessil/sparse-map","description":"C++ implementation of a memory efficient hash map and hash set"}
+{
+  "name": "tsl-sparse-map",
+  "versions": [
+    "master",
+    "v0.1",
+    "v0.2.0",
+    "v0.3.0",
+    "v0.4.0",
+    "v0.5.0",
+    "v0.6.0",
+    "v0.6.1",
+    "v0.6.2"
+  ],
+  "git": "https://github.com/Tessil/sparse-map",
+  "git_short": "Tessil/sparse-map",
+  "git_prefixed": "gh:Tessil/sparse-map",
+  "stars": 315,
+  "forks": 33,
+  "open_issues": 8,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "C++ implementation of a memory efficient hash map and hash set",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Tessil",
+  "owner_type": "User"
+}

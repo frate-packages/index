@@ -1,1 +1,21 @@
-{"name":"out_ptr","versions":["main"],"git":"https://github.com/soasis/out_ptr","description":"a C++11 implementation of std::out_ptr (p1132), as a standalone library","target_link":""}
+{
+  "name": "out_ptr",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/soasis/out_ptr",
+  "git_short": "soasis/out_ptr",
+  "git_prefixed": "gh:soasis/out_ptr",
+  "stars": 72,
+  "forks": 4,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 9,
+  "description": "a C++11 implementation of std::out_ptr (p1132), as a standalone library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "soasis",
+  "owner_type": "Organization"
+}

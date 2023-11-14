@@ -1,1 +1,21 @@
-{"name":"rapidcheck","versions":["master"],"git":"https://github.com/emil-e/rapidcheck","description":"QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible","target_link":""}
+{
+  "name": "rapidcheck",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/emil-e/rapidcheck",
+  "git_short": "emil-e/rapidcheck",
+  "git_prefixed": "gh:emil-e/rapidcheck",
+  "stars": 930,
+  "forks": 164,
+  "open_issues": 102,
+  "maintainers": [],
+  "watchers": 35,
+  "description": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "emil-e",
+  "owner_type": "User"
+}

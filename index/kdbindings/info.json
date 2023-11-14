@@ -1,1 +1,27 @@
-{"name":"kdbindings","versions":["main","v1.0.1","v1.0.2","v1.0.3"],"git":"https://github.com/KDAB/KDBindings","description":"Reactive programming \u0026amp; data binding in C++"}
+{
+  "name": "kdbindings",
+  "versions": [
+    "1.0",
+    "1.0.1-main",
+    "main",
+    "v1.0.1",
+    "v1.0.1^{}",
+    "v1.0.2",
+    "v1.0.3"
+  ],
+  "git": "https://github.com/KDAB/KDBindings",
+  "git_short": "KDAB/KDBindings",
+  "git_prefixed": "gh:KDAB/KDBindings",
+  "stars": 224,
+  "forks": 21,
+  "open_issues": 10,
+  "maintainers": [],
+  "watchers": 45,
+  "description": "Reactive programming \u0026amp; data binding in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C++",
+  "owner": "KDAB",
+  "owner_type": "Organization"
+}

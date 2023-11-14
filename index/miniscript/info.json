@@ -1,1 +1,22 @@
-{"name":"miniscript","versions":["master"],"git":"https://github.com/JoeStrout/miniscript","description":"modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects.","target_link":""}
+{
+  "name": "miniscript",
+  "versions": [
+    "master",
+    "v1.6.2"
+  ],
+  "git": "https://github.com/JoeStrout/miniscript",
+  "git_short": "JoeStrout/miniscript",
+  "git_prefixed": "gh:JoeStrout/miniscript",
+  "stars": 198,
+  "forks": 48,
+  "open_issues": 26,
+  "maintainers": [],
+  "watchers": 21,
+  "description": "modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "JoeStrout",
+  "owner_type": "User"
+}

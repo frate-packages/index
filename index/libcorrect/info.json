@@ -1,1 +1,21 @@
-{"name":"libcorrect","versions":["master"],"git":"https://github.com/quiet/libcorrect","description":"C library for Convolutional codes and Reed-Solomon","target_link":""}
+{
+  "name": "libcorrect",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/quiet/libcorrect",
+  "git_short": "quiet/libcorrect",
+  "git_prefixed": "gh:quiet/libcorrect",
+  "stars": 334,
+  "forks": 84,
+  "open_issues": 25,
+  "maintainers": [],
+  "watchers": 23,
+  "description": "C library for Convolutional codes and Reed-Solomon",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C",
+  "owner": "quiet",
+  "owner_type": "Organization"
+}

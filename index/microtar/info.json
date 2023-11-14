@@ -1,1 +1,22 @@
-{"name":"microtar","versions":["master","v0.1.0"],"git":"https://github.com/rxi/microtar","description":"A lightweight tar library written in ANSI C"}
+{
+  "name": "microtar",
+  "versions": [
+    "master",
+    "v0.1.0"
+  ],
+  "git": "https://github.com/rxi/microtar",
+  "git_short": "rxi/microtar",
+  "git_prefixed": "gh:rxi/microtar",
+  "stars": 389,
+  "forks": 92,
+  "open_issues": 19,
+  "maintainers": [],
+  "watchers": 17,
+  "description": "A lightweight tar library written in ANSI C",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "rxi",
+  "owner_type": "User"
+}

@@ -1,1 +1,28 @@
-{"name":"dacap-clip","versions":["main","v1.0","v1.1","v1.2","v1.3","v1.4","v1.5","v1.6"],"git":"https://github.com/dacap/clip/","description":"Cross-platform C++ library to copy/paste clipboard content"}
+{
+  "name": "dacap-clip",
+  "versions": [
+    "main",
+    "v1.0",
+    "v1.1",
+    "v1.2",
+    "v1.3",
+    "v1.4",
+    "v1.5",
+    "v1.6"
+  ],
+  "git": "https://github.com/dacap/clip/",
+  "git_short": "dacap/clip/",
+  "git_prefixed": "gh:dacap/clip/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "Cross-platform C++ library to copy/paste clipboard content",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

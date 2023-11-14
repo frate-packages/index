@@ -1,1 +1,21 @@
-{"name":"asyncly","versions":["master"],"git":"https://github.com/goto-opensource/asyncly","description":"High level concurrency primitives for C++","target_link":""}
+{
+  "name": "asyncly",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/goto-opensource/asyncly",
+  "git_short": "goto-opensource/asyncly",
+  "git_prefixed": "gh:goto-opensource/asyncly",
+  "stars": 27,
+  "forks": 9,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "High level concurrency primitives for C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "goto-opensource",
+  "owner_type": "Organization"
+}

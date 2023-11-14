@@ -1,1 +1,26 @@
-{"name":"mathfu","versions":["master","1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.1.0"],"git":"https://github.com/google/mathfu","description":"C++ math library developed primarily for games focused on simplicity and efficiency."}
+{
+  "name": "mathfu",
+  "versions": [
+    "master",
+    "1.0.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3",
+    "v1.1.0"
+  ],
+  "git": "https://github.com/google/mathfu",
+  "git_short": "google/mathfu",
+  "git_prefixed": "gh:google/mathfu",
+  "stars": 1346,
+  "forks": 196,
+  "open_issues": 24,
+  "maintainers": [],
+  "watchers": 88,
+  "description": "C++ math library developed primarily for games focused on simplicity and efficiency.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

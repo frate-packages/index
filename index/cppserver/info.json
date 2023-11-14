@@ -1,1 +1,24 @@
-{"name":"cppserver","versions":["master","1.0.0.0","1.0.1.0","1.0.2.0"],"git":"https://github.com/chronoxor/CppServer","description":"Ultra fast and low latency asynchronous socket server and client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution."}
+{
+  "name": "cppserver",
+  "versions": [
+    "master",
+    "1.0.0.0",
+    "1.0.1.0",
+    "1.0.2.0"
+  ],
+  "git": "https://github.com/chronoxor/CppServer",
+  "git_short": "chronoxor/CppServer",
+  "git_prefixed": "gh:chronoxor/CppServer",
+  "stars": 1195,
+  "forks": 259,
+  "open_issues": 52,
+  "maintainers": [],
+  "watchers": 73,
+  "description": "Ultra fast and low latency asynchronous socket server and client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "chronoxor",
+  "owner_type": "User"
+}

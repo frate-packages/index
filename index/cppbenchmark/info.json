@@ -1,1 +1,26 @@
-{"name":"cppbenchmark","versions":["master","1.0.0.0","1.0.1.0","1.0.2.0","1.0.3.0","1.0.4.0"],"git":"https://github.com/chronoxor/CppBenchmark","description":"Performance benchmark framework for C++ with nanoseconds measure precision."}
+{
+  "name": "cppbenchmark",
+  "versions": [
+    "master",
+    "1.0.0.0",
+    "1.0.1.0",
+    "1.0.2.0",
+    "1.0.3.0",
+    "1.0.4.0"
+  ],
+  "git": "https://github.com/chronoxor/CppBenchmark",
+  "git_short": "chronoxor/CppBenchmark",
+  "git_prefixed": "gh:chronoxor/CppBenchmark",
+  "stars": 213,
+  "forks": 41,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 13,
+  "description": "Performance benchmark framework for C++ with nanoseconds measure precision.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "chronoxor",
+  "owner_type": "User"
+}

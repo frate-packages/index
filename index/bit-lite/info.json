@@ -1,1 +1,22 @@
-{"name":"bit-lite","versions":["master","0.1.0"],"git":"https://github.com/martinmoene/bit-lite","description":"bit is a C++20 bit operations for C++98 and later                     in a single-file header-only library."}
+{
+  "name": "bit-lite",
+  "versions": [
+    "master",
+    "0.1.0"
+  ],
+  "git": "https://github.com/martinmoene/bit-lite",
+  "git_short": "martinmoene/bit-lite",
+  "git_prefixed": "gh:martinmoene/bit-lite",
+  "stars": 35,
+  "forks": 4,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "bit is a C++20 bit operations for C++98 and later                     in a single-file header-only library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

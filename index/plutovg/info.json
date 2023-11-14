@@ -1,1 +1,21 @@
-{"name":"plutovg","versions":["main"],"git":"https://github.com/sammycage/plutovg","description":"Tiny 2D vector graphics library in C","target_link":""}
+{
+  "name": "plutovg",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/sammycage/plutovg",
+  "git_short": "sammycage/plutovg",
+  "git_prefixed": "gh:sammycage/plutovg",
+  "stars": 277,
+  "forks": 25,
+  "open_issues": 13,
+  "maintainers": [],
+  "watchers": 14,
+  "description": "Tiny 2D vector graphics library in C",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "sammycage",
+  "owner_type": "User"
+}

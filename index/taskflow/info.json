@@ -1,1 +1,37 @@
-{"name":"taskflow","versions":["master","v2.0.0","v2.1.0","v2.2.0","v2.3.0","v2.3.1","v2.4.0","v2.5.0","v2.6.0","v2.7.0","v3.0.0","v3.1.0","v3.2.0","v3.3.0","v3.4.0","v3.5.0","v3.6.0"],"git":"https://github.com/taskflow/taskflow","description":"A fast C++ header-only library to help you quickly write parallel programs with complex task dependencies."}
+{
+  "name": "taskflow",
+  "versions": [
+    "master",
+    "v2.0.0",
+    "v2.1.0",
+    "v2.2.0",
+    "v2.3.0",
+    "v2.3.1",
+    "v2.4.0",
+    "v2.5.0",
+    "v2.6.0",
+    "v2.7.0",
+    "v3.0.0",
+    "v3.1.0",
+    "v3.2.0",
+    "v3.3.0",
+    "v3.4.0",
+    "v3.5.0",
+    "v3.6.0"
+  ],
+  "git": "https://github.com/taskflow/taskflow",
+  "git_short": "taskflow/taskflow",
+  "git_prefixed": "gh:taskflow/taskflow",
+  "stars": 8977,
+  "forks": 1078,
+  "open_issues": 39,
+  "maintainers": [],
+  "watchers": 246,
+  "description": "A fast C++ header-only library to help you quickly write parallel programs with complex task dependencies.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "taskflow",
+  "owner_type": "Organization"
+}

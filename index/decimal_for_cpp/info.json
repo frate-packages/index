@@ -1,1 +1,21 @@
-{"name":"decimal_for_cpp","versions":["master"],"git":"https://github.com/vpiotr/decimal_for_cpp","description":"Decimal data type support, for COBOL-like fixed-point operations on currency values.","target_link":""}
+{
+  "name": "decimal_for_cpp",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/vpiotr/decimal_for_cpp",
+  "git_short": "vpiotr/decimal_for_cpp",
+  "git_prefixed": "gh:vpiotr/decimal_for_cpp",
+  "stars": 239,
+  "forks": 56,
+  "open_issues": 4,
+  "maintainers": [],
+  "watchers": 31,
+  "description": "Decimal data type support, for COBOL-like fixed-point operations on currency values.",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "C++",
+  "owner": "vpiotr",
+  "owner_type": "User"
+}

@@ -1,1 +1,32 @@
-{"name":"confu_json","versions":["main","v0.0.1","v0.0.10","v0.0.2","v0.0.3","v0.0.4","v0.0.5","v0.0.6","v0.0.7","v0.0.8","v0.0.9","v1.0.0"],"git":"https://github.com/werto87/confu_json","description":"uses boost::fusion to help with serialization; json \u0026lt;-\u0026gt; user defined type"}
+{
+  "name": "confu_json",
+  "versions": [
+    "main",
+    "v0.0.1",
+    "v0.0.10",
+    "v0.0.2",
+    "v0.0.3",
+    "v0.0.4",
+    "v0.0.5",
+    "v0.0.6",
+    "v0.0.7",
+    "v0.0.8",
+    "v0.0.9",
+    "v1.0.0"
+  ],
+  "git": "https://github.com/werto87/confu_json",
+  "git_short": "werto87/confu_json",
+  "git_prefixed": "gh:werto87/confu_json",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 1,
+  "description": "uses boost::fusion to help with serialization; json \u0026lt;-\u0026gt; user defined type",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "werto87",
+  "owner_type": "User"
+}

@@ -1,1 +1,22 @@
-{"name":"trompeloeil","versions":["main"],"git":"https://github.com/rollbear/trompeloeil","description":"Header only C++14 mocking framework","target_link":""}
+{
+  "name": "trompeloeil",
+  "versions": [
+    "fix_322",
+    "main"
+  ],
+  "git": "https://github.com/rollbear/trompeloeil",
+  "git_short": "rollbear/trompeloeil",
+  "git_prefixed": "gh:rollbear/trompeloeil",
+  "stars": 754,
+  "forks": 84,
+  "open_issues": 47,
+  "maintainers": [],
+  "watchers": 33,
+  "description": "Header only C++14 mocking framework",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "rollbear",
+  "owner_type": "User"
+}

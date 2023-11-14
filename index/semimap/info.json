@@ -1,1 +1,21 @@
-{"name":"semimap","versions":["master"],"git":"https://github.com/hogliux/semimap","description":"A semi compile-/run-time associative map container with compile-time lookup and run-time storage","target_link":""}
+{
+  "name": "semimap",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/hogliux/semimap",
+  "git_short": "hogliux/semimap",
+  "git_prefixed": "gh:hogliux/semimap",
+  "stars": 369,
+  "forks": 26,
+  "open_issues": 3,
+  "maintainers": [],
+  "watchers": 14,
+  "description": "A semi compile-/run-time associative map container with compile-time lookup and run-time storage",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "hogliux",
+  "owner_type": "User"
+}

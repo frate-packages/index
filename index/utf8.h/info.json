@@ -1,1 +1,21 @@
-{"name":"utf8.h","versions":["master"],"git":"https://github.com/sheredom/utf8.h","description":"Single header utf8 string functions for C and C++","target_link":""}
+{
+  "name": "utf8.h",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/sheredom/utf8.h",
+  "git_short": "sheredom/utf8.h",
+  "git_prefixed": "gh:sheredom/utf8.h",
+  "stars": 1515,
+  "forks": 150,
+  "open_issues": 7,
+  "maintainers": [],
+  "watchers": 49,
+  "description": "Single header utf8 string functions for C and C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "The Unlicense",
+  "language": "C",
+  "owner": "sheredom",
+  "owner_type": "User"
+}

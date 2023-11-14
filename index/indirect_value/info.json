@@ -1,1 +1,22 @@
-{"name":"indirect_value","versions":["main","v0.0.1"],"git":"https://github.com/jbcoe/indirect_value","description":"Production-quality reference implementation of P1950: A Free-Store-Allocated Value Type For C++"}
+{
+  "name": "indirect_value",
+  "versions": [
+    "main",
+    "v0.0.1"
+  ],
+  "git": "https://github.com/jbcoe/indirect_value",
+  "git_short": "jbcoe/indirect_value",
+  "git_prefixed": "gh:jbcoe/indirect_value",
+  "stars": 84,
+  "forks": 12,
+  "open_issues": 11,
+  "maintainers": [],
+  "watchers": 10,
+  "description": "Production-quality reference implementation of P1950: A Free-Store-Allocated Value Type For C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "jbcoe",
+  "owner_type": "User"
+}

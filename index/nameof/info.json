@@ -1,1 +1,31 @@
-{"name":"nameof","versions":["master","v0.10.0","v0.10.1","v0.10.2","v0.10.3","v0.8.3","v0.9.0","v0.9.1","v0.9.2","v0.9.3","v0.9.4"],"git":"https://github.com/Neargye/nameof","description":"Header-only C++17 library provides nameof macros and functions to simply obtain the name of a variable, type, function, macro, and enum."}
+{
+  "name": "nameof",
+  "versions": [
+    "master",
+    "v0.10.0",
+    "v0.10.1",
+    "v0.10.2",
+    "v0.10.3",
+    "v0.8.3",
+    "v0.9.0",
+    "v0.9.1",
+    "v0.9.2",
+    "v0.9.3",
+    "v0.9.4"
+  ],
+  "git": "https://github.com/Neargye/nameof",
+  "git_short": "Neargye/nameof",
+  "git_prefixed": "gh:Neargye/nameof",
+  "stars": 1803,
+  "forks": 107,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 33,
+  "description": "Header-only C++17 library provides nameof macros and functions to simply obtain the name of a variable, type, function, macro, and enum.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "Neargye",
+  "owner_type": "User"
+}

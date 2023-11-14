@@ -1,1 +1,29 @@
-{"name":"cpp-jwt","versions":["master","v1.0.1","v1.0.2","v1.1.0","v1.1.1"],"git":"https://github.com/arun11299/cpp-jwt","description":"A C++ library for handling JWT tokens"}
+{
+  "name": "cpp-jwt",
+  "versions": [
+    "master",
+    "v1.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.1.0",
+    "v1.1.1",
+    "v1.2",
+    "v1.3",
+    "v1.4"
+  ],
+  "git": "https://github.com/arun11299/cpp-jwt",
+  "git_short": "arun11299/cpp-jwt",
+  "git_prefixed": "gh:arun11299/cpp-jwt",
+  "stars": 367,
+  "forks": 106,
+  "open_issues": 17,
+  "maintainers": [],
+  "watchers": 20,
+  "description": "A C++ library for handling JWT tokens",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "arun11299",
+  "owner_type": "User"
+}

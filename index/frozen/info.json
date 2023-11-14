@@ -1,1 +1,25 @@
-{"name":"frozen","versions":["master","1.0.0","1.0.1","1.1.0","1.1.1"],"git":"https://github.com/serge-sans-paille/frozen","description":"A header-only, constexpr alternative to gperf for C++14 users."}
+{
+  "name": "frozen",
+  "versions": [
+    "master",
+    "1.0.0",
+    "1.0.1",
+    "1.1.0",
+    "1.1.1"
+  ],
+  "git": "https://github.com/serge-sans-paille/frozen",
+  "git_short": "serge-sans-paille/frozen",
+  "git_prefixed": "gh:serge-sans-paille/frozen",
+  "stars": 1122,
+  "forks": 98,
+  "open_issues": 32,
+  "maintainers": [],
+  "watchers": 37,
+  "description": "A header-only, constexpr alternative to gperf for C++14 users.",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "serge-sans-paille",
+  "owner_type": "User"
+}

@@ -1,1 +1,25 @@
-{"name":"scippp","versions":["main","1.0.0","1.0.1","1.0.2","1.1.0"],"git":"https://github.com/scipopt/SCIPpp","description":"SCIP++ is a C++ wrapper for SCIP's C interface"}
+{
+  "name": "scippp",
+  "versions": [
+    "main",
+    "1.0.0",
+    "1.0.1",
+    "1.0.2",
+    "1.1.0"
+  ],
+  "git": "https://github.com/scipopt/SCIPpp",
+  "git_short": "scipopt/SCIPpp",
+  "git_prefixed": "gh:scipopt/SCIPpp",
+  "stars": 13,
+  "forks": 3,
+  "open_issues": 2,
+  "maintainers": [],
+  "watchers": 7,
+  "description": "SCIP++ is a C++ wrapper for SCIP's C interface",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "scipopt",
+  "owner_type": "Organization"
+}

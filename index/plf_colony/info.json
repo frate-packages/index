@@ -1,1 +1,21 @@
-{"name":"plf_colony","versions":["master"],"git":"https://github.com/mattreecebentley/plf_colony","description":"An unordered data container providing fast iteration/insertion/erasure while maintaining pointer/iterator/reference validity to non-erased elements.","target_link":""}
+{
+  "name": "plf_colony",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/mattreecebentley/plf_colony",
+  "git_short": "mattreecebentley/plf_colony",
+  "git_prefixed": "gh:mattreecebentley/plf_colony",
+  "stars": 370,
+  "forks": 32,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 19,
+  "description": "An unordered data container providing fast iteration/insertion/erasure while maintaining pointer/iterator/reference validity to non-erased elements.",
+  "git_description": "",
+  "target_link": "",
+  "license": "zlib License",
+  "language": "C++",
+  "owner": "mattreecebentley",
+  "owner_type": "User"
+}

@@ -1,1 +1,21 @@
-{"name":"csvmonkey","versions":["master"],"git":"https://github.com/dw/csvmonkey/","description":"Header-only vectorized, lazy-decoding, zero-copy CSV file parser","target_link":""}
+{
+  "name": "csvmonkey",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/dw/csvmonkey/",
+  "git_short": "dw/csvmonkey/",
+  "git_prefixed": "gh:dw/csvmonkey/",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "Header-only vectorized, lazy-decoding, zero-copy CSV file parser",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

@@ -1,1 +1,30 @@
-{"name":"valijson","versions":["master","v1.0.1"],"git":"https://github.com/tristanpenman/valijson","description":"Valijson is a header-only JSON Schema Validation library for C++11."}
+{
+  "name": "valijson",
+  "versions": [
+    "master",
+    "v0.1",
+    "v0.2",
+    "v0.3",
+    "v0.4",
+    "v0.5",
+    "v0.6",
+    "v0.7",
+    "v1.0",
+    "v1.0.1"
+  ],
+  "git": "https://github.com/tristanpenman/valijson",
+  "git_short": "tristanpenman/valijson",
+  "git_prefixed": "gh:tristanpenman/valijson",
+  "stars": 309,
+  "forks": 96,
+  "open_issues": 8,
+  "maintainers": [],
+  "watchers": 17,
+  "description": "Valijson is a header-only JSON Schema Validation library for C++11.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "tristanpenman",
+  "owner_type": "User"
+}

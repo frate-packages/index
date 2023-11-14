@@ -1,1 +1,23 @@
-{"name":"7bitdi","versions":["main","v1.0.0"],"git":"https://github.com/7bitcoder/7bitDI","description":"7bitDI is a simple C++ dependency injection library."}
+{
+  "name": "7bitdi",
+  "versions": [
+    "main",
+    "v1.0.0",
+    "v1.0.0-b"
+  ],
+  "git": "https://github.com/7bitcoder/7bitDI",
+  "git_short": "7bitcoder/7bitDI",
+  "git_prefixed": "gh:7bitcoder/7bitDI",
+  "stars": 1,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "7bitDI is a simple C++ dependency injection library.",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "7bitcoder",
+  "owner_type": "User"
+}

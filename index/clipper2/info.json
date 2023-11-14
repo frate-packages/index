@@ -1,1 +1,21 @@
-{"name":"clipper2","versions":["main"],"git":"https://github.com/AngusJohnson/Clipper2","description":" A Polygon Clipping and Offsetting library in C++","target_link":""}
+{
+  "name": "clipper2",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/AngusJohnson/Clipper2",
+  "git_short": "AngusJohnson/Clipper2",
+  "git_prefixed": "gh:AngusJohnson/Clipper2",
+  "stars": 979,
+  "forks": 217,
+  "open_issues": 1,
+  "maintainers": [],
+  "watchers": 43,
+  "description": " A Polygon Clipping and Offsetting library in C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "AngusJohnson",
+  "owner_type": "User"
+}

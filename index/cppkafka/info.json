@@ -1,1 +1,26 @@
-{"name":"cppkafka","versions":["master","0.4.0","v0.3.0","v0.3.1"],"git":"https://github.com/mfontanini/cppkafka","description":"Modern C++ Apache Kafka client library (wrapper for librdkafka)"}
+{
+  "name": "cppkafka",
+  "versions": [
+    "master",
+    "0.2",
+    "0.4.0",
+    "v0.1",
+    "v0.3.0",
+    "v0.3.1"
+  ],
+  "git": "https://github.com/mfontanini/cppkafka",
+  "git_short": "mfontanini/cppkafka",
+  "git_prefixed": "gh:mfontanini/cppkafka",
+  "stars": 557,
+  "forks": 195,
+  "open_issues": 79,
+  "maintainers": [],
+  "watchers": 30,
+  "description": "Modern C++ Apache Kafka client library (wrapper for librdkafka)",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 2-Clause \"Simplified\" License",
+  "language": "C++",
+  "owner": "mfontanini",
+  "owner_type": "User"
+}

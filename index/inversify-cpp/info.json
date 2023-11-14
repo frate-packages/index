@@ -1,1 +1,28 @@
-{"name":"inversify-cpp","versions":["main","1.0.0","1.0.1","1.0.2","1.0.3","1.1.0","2.0.0","2.1.0"],"git":"https://github.com/mosure/inversify-cpp","description":"C++17 inversion of control and dependency injection container library"}
+{
+  "name": "inversify-cpp",
+  "versions": [
+    "main",
+    "1.0.0",
+    "1.0.1",
+    "1.0.2",
+    "1.0.3",
+    "1.1.0",
+    "2.0.0",
+    "2.1.0"
+  ],
+  "git": "https://github.com/mosure/inversify-cpp",
+  "git_short": "mosure/inversify-cpp",
+  "git_prefixed": "gh:mosure/inversify-cpp",
+  "stars": 9,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 4,
+  "description": "C++17 inversion of control and dependency injection container library",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C++",
+  "owner": "mosure",
+  "owner_type": "User"
+}

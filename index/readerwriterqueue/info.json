@@ -1,1 +1,28 @@
-{"name":"readerwriterqueue","versions":["master","v1.0.0","v1.0.1","v1.0.2","v1.0.3","v1.0.4","v1.0.5","v1.0.6"],"git":"https://github.com/cameron314/readerwriterqueue","description":"A fast single-producer, single-consumer lock-free queue for C++"}
+{
+  "name": "readerwriterqueue",
+  "versions": [
+    "master",
+    "v1.0.0",
+    "v1.0.1",
+    "v1.0.2",
+    "v1.0.3",
+    "v1.0.4",
+    "v1.0.5",
+    "v1.0.6"
+  ],
+  "git": "https://github.com/cameron314/readerwriterqueue",
+  "git_short": "cameron314/readerwriterqueue",
+  "git_prefixed": "gh:cameron314/readerwriterqueue",
+  "stars": 3237,
+  "forks": 616,
+  "open_issues": 12,
+  "maintainers": [],
+  "watchers": 139,
+  "description": "A fast single-producer, single-consumer lock-free queue for C++",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "cameron314",
+  "owner_type": "User"
+}

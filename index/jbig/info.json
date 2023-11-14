@@ -1,1 +1,21 @@
-{"name":"jbig","versions":["main"],"git":"https://github.com/ImageMagick/jbig","description":"jbig for the Windows build of ImageMagick","target_link":""}
+{
+  "name": "jbig",
+  "versions": [
+    "main"
+  ],
+  "git": "https://github.com/ImageMagick/jbig",
+  "git_short": "ImageMagick/jbig",
+  "git_prefixed": "gh:ImageMagick/jbig",
+  "stars": 4,
+  "forks": 8,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "jbig for the Windows build of ImageMagick",
+  "git_description": "",
+  "target_link": "",
+  "license": "GNU General Public License v2.0",
+  "language": "C",
+  "owner": "ImageMagick",
+  "owner_type": "Organization"
+}

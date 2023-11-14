@@ -1,1 +1,34 @@
-{"name":"create-dmg","versions":["master","v1.0.10","v1.0.8","v1.0.9","v1.1.0","v1.2.0","v1.2.1"],"git":"https://github.com/create-dmg/create-dmg","description":"A shell script to build fancy DMGs"}
+{
+  "name": "create-dmg",
+  "versions": [
+    "master",
+    "v1.0.0.3",
+    "v1.0.0.4",
+    "v1.0.0.5",
+    "v1.0.0.6",
+    "v1.0.0.7",
+    "v1.0.0.7^{}",
+    "v1.0.10",
+    "v1.0.10^{}",
+    "v1.0.8",
+    "v1.0.9",
+    "v1.1.0",
+    "v1.2.0",
+    "v1.2.1"
+  ],
+  "git": "https://github.com/create-dmg/create-dmg",
+  "git_short": "create-dmg/create-dmg",
+  "git_prefixed": "gh:create-dmg/create-dmg",
+  "stars": 1809,
+  "forks": 291,
+  "open_issues": 34,
+  "maintainers": [],
+  "watchers": 36,
+  "description": "A shell script to build fancy DMGs",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "Shell",
+  "owner": "create-dmg",
+  "owner_type": "Organization"
+}

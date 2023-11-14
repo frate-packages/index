@@ -1,1 +1,21 @@
-{"name":"fast-cpp-csv-parser","versions":["master"],"git":"https://github.com/ben-strasser/fast-cpp-csv-parser","description":"C++11 header-only library for reading comma separated value (CSV) files.","target_link":""}
+{
+  "name": "fast-cpp-csv-parser",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/ben-strasser/fast-cpp-csv-parser",
+  "git_short": "ben-strasser/fast-cpp-csv-parser",
+  "git_prefixed": "gh:ben-strasser/fast-cpp-csv-parser",
+  "stars": 1968,
+  "forks": 427,
+  "open_issues": 27,
+  "maintainers": [],
+  "watchers": 69,
+  "description": "C++11 header-only library for reading comma separated value (CSV) files.",
+  "git_description": "",
+  "target_link": "",
+  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "language": "C++",
+  "owner": "ben-strasser",
+  "owner_type": "User"
+}

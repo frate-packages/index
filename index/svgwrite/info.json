@@ -1,1 +1,23 @@
-{"name":"svgwrite","versions":["master","v0.1.0","v0.2.0"],"git":"https://gitlab.com/dvd0101/svgwrite","description":"a streaming svg library"}
+{
+  "name": "svgwrite",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.2.0"
+  ],
+  "git": "https://gitlab.com/dvd0101/svgwrite",
+  "git_short": "dvd0101/svgwrite",
+  "git_prefixed": "gl:dvd0101/svgwrite",
+  "stars": 0,
+  "forks": 0,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 0,
+  "description": "a streaming svg library",
+  "git_description": "",
+  "target_link": "",
+  "license": "",
+  "language": "",
+  "owner": "",
+  "owner_type": ""
+}

@@ -1,1 +1,21 @@
-{"name":"butteraugli","versions":["master"],"git":"https://github.com/google/butteraugli","description":"A tool for measuring perceived differences between images","target_link":""}
+{
+  "name": "butteraugli",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/google/butteraugli",
+  "git_short": "google/butteraugli",
+  "git_prefixed": "gh:google/butteraugli",
+  "stars": 1939,
+  "forks": 144,
+  "open_issues": 39,
+  "maintainers": [],
+  "watchers": 89,
+  "description": "A tool for measuring perceived differences between images",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "google",
+  "owner_type": "Organization"
+}

@@ -1,1 +1,21 @@
-{"name":"z3","versions":["master"],"git":"https://github.com/Z3Prover/z3","description":"The Z3 Theorem Prover","target_link":""}
+{
+  "name": "z3",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/Z3Prover/z3",
+  "git_short": "Z3Prover/z3",
+  "git_prefixed": "gh:Z3Prover/z3",
+  "stars": 9163,
+  "forks": 1418,
+  "open_issues": 144,
+  "maintainers": [],
+  "watchers": 179,
+  "description": "The Z3 Theorem Prover",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C++",
+  "owner": "Z3Prover",
+  "owner_type": "Organization"
+}

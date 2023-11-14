@@ -1,1 +1,21 @@
-{"name":"whereami","versions":["master"],"git":"https://github.com/gpakosz/whereami","description":"Locate the current executable and the current module/library on the file system","target_link":""}
+{
+  "name": "whereami",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/gpakosz/whereami",
+  "git_short": "gpakosz/whereami",
+  "git_prefixed": "gh:gpakosz/whereami",
+  "stars": 415,
+  "forks": 58,
+  "open_issues": 5,
+  "maintainers": [],
+  "watchers": 18,
+  "description": "Locate the current executable and the current module/library on the file system",
+  "git_description": "",
+  "target_link": "",
+  "license": "MIT License",
+  "language": "C",
+  "owner": "gpakosz",
+  "owner_type": "User"
+}

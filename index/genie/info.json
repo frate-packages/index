@@ -1,1 +1,21 @@
-{"name":"genie","versions":["master"],"git":"https://github.com/bkaradzic/GENie","description":"Project generator tool","target_link":""}
+{
+  "name": "genie",
+  "versions": [
+    "master"
+  ],
+  "git": "https://github.com/bkaradzic/GENie",
+  "git_short": "bkaradzic/GENie",
+  "git_prefixed": "gh:bkaradzic/GENie",
+  "stars": 855,
+  "forks": 161,
+  "open_issues": 88,
+  "maintainers": [],
+  "watchers": 37,
+  "description": "Project generator tool",
+  "git_description": "",
+  "target_link": "",
+  "license": "Other",
+  "language": "C",
+  "owner": "bkaradzic",
+  "owner_type": "User"
+}

@@ -1,1 +1,23 @@
-{"name":"boolean-lite","versions":["master","v0.1.0"],"git":"https://github.com/martinmoene/boolean-lite","description":"boolean lite - A strong boolean type for C++98 and later in a single-file header-only library"}
+{
+  "name": "boolean-lite",
+  "versions": [
+    "master",
+    "v0.1.0",
+    "v0.1.0-alpha"
+  ],
+  "git": "https://github.com/martinmoene/boolean-lite",
+  "git_short": "martinmoene/boolean-lite",
+  "git_prefixed": "gh:martinmoene/boolean-lite",
+  "stars": 5,
+  "forks": 2,
+  "open_issues": 0,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "boolean lite - A strong boolean type for C++98 and later in a single-file header-only library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Boost Software License 1.0",
+  "language": "C++",
+  "owner": "martinmoene",
+  "owner_type": "User"
+}

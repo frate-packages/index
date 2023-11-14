@@ -1,1 +1,25 @@
-{"name":"oatpp-openssl","versions":["master","1.2.0","1.2.5","1.3.0"],"git":"https://github.com/oatpp/oatpp-openssl","description":"Oat++ OpenSSL library"}
+{
+  "name": "oatpp-openssl",
+  "versions": [
+    "fix_cert_load_1.2.5",
+    "master",
+    "1.2.0",
+    "1.2.5",
+    "1.3.0"
+  ],
+  "git": "https://github.com/oatpp/oatpp-openssl",
+  "git_short": "oatpp/oatpp-openssl",
+  "git_prefixed": "gh:oatpp/oatpp-openssl",
+  "stars": 12,
+  "forks": 18,
+  "open_issues": 6,
+  "maintainers": [],
+  "watchers": 3,
+  "description": "Oat++ OpenSSL library",
+  "git_description": "",
+  "target_link": "",
+  "license": "Apache License 2.0",
+  "language": "C++",
+  "owner": "oatpp",
+  "owner_type": "Organization"
+}
