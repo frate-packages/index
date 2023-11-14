@@ -234,7 +234,7 @@ type GithubRepoInfo struct{
     Type string `json:"type"`
   } `json:"owner"`
 }
-func addGithubInfo(pkg *PackageInfo) {
+func addGithubInfo(pkg *PackageInfo, GithubToken string) {
 
   gitshort := shortenGitLink(pkg.Git)
   pkg.GitShort = gitshort
@@ -352,6 +352,9 @@ func main(){
   var packageIndex []PackageInfo;
 
 
+  GithubToken := os.Getenv("GITHUB_TOKEN")
+
+
   err := filepath.Walk("../index", func(path string, _ os.FileInfo, err error) error {
     if(strings.Contains(path,"info.json")){
       if err != nil {
@@ -379,7 +382,7 @@ func main(){
             return nil
           }
 
-          addGithubInfo(&packageInfo)
+          addGithubInfo(&packageInfo, GithubToken)
 
           fmt.Printf("%+v\n\n", packageInfo)
 
