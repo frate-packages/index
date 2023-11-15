@@ -396,9 +396,7 @@ func main(){
           }
           //Rewrite file after adding versions
           os.WriteFile(path, data, 0644)
-
       }
-      packageIndex = append(packageIndex, packageInfo)
     }
     return nil
   })
