@@ -404,7 +404,7 @@ func main(){
   if err != nil {
     fmt.Println(err)
   }
-  packageIndexJson, err := json.Marshal(packageIndex)
+  packageIndexJson, err := json.MarshalIndent(packageIndex,""," ")
 
   if(err != nil){
     fmt.Println(err)
