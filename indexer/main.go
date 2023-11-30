@@ -14,6 +14,7 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -70,7 +71,6 @@ func parseRemoteLsTags(output string) []string {
 			}
 		}
 	}
-	fmt.Printf("Found %d tags\n", len(tags))
 	return tags
 }
 
@@ -125,10 +125,10 @@ func makeAuthorizedRequest(url string, token string) (string, error) {
 	req.Header.Add("User-Agent", "curl/7.64.1")
 
 	client := &http.Client{
-		Timeout: 10 * time.Second,
+		Timeout: 5 * time.Second,
 	}
 
-	ctx, cancel := context.WithTimeout(req.Context(), 10*time.Second)
+	ctx, cancel := context.WithTimeout(req.Context(), 5*time.Second)
 	defer cancel()
 
 	resp, err := client.Do(req.WithContext(ctx))
@@ -169,8 +169,6 @@ func addGithubInfo(pkg *PackageInfo, githubToken string) error {
 	gitShort := shortenGitLink(pkg.Git)
 	pkg.GitShort = gitShort
 	url := "https://api.github.com/repos/" + gitShort
-
-	log.Printf("Fetching GitHub info for %s\n", url)
 
 	body, err := makeAuthorizedRequest(url, githubToken)
 	if err != nil {
@@ -245,77 +243,115 @@ func getCurrentPackageInfo(path string) (PackageInfo, error) {
 	}
 }
 
-func getRemoteVersions(packageInfo PackageInfo) ([]string, error) {
+func getRemoteVersions(packageInfo *PackageInfo) (error) {
 	if packageInfo.Git != "" {
 		cmd := exec.Command("git", "ls-remote", packageInfo.Git)
 
 		out, err := cmd.CombinedOutput()
 
 		if err != nil {
-			fmt.Println("Could not get versions for " + packageInfo.Name)
-			return []string{}, err
+			return err
 		} else {
 			tags := parseRemoteLsTags(string(out))
-			return tags, nil
+      packageInfo.Versions = tags;
+			return nil
 		}
 	} else {
-		return []string{}, nil
+		return errors.New("no git link")
 	}
 }
-
 func main() {
 	var packageIndex []PackageInfo
 	githubToken := os.Getenv("GITHUB_TOKEN")
 
+
+
 	err := filepath.Walk("../index", func(path string, _ os.FileInfo, err error) error {
-		if err != nil {
-			return err
-		}
-		if !strings.Contains(path, "info.json") {
-			return nil
-		}
 
-		packageInfo, err := getCurrentPackageInfo(path)
-		if err != nil {
-			log.Println(err)
-			return nil
-		}
+    if err != nil {
+      return nil
+    }
 
-		if packageInfo.Name == "cub" || packageInfo.Name == "libliftoff" || packageInfo.Name == "libxpm" || !validGitLink(packageInfo.Git) {
-			return nil
-		}
+    if !strings.Contains(path, "info.json") {
+      return nil
+    }
 
-		packageInfo.Versions, err = getRemoteVersions(packageInfo)
-		if err != nil {
-			log.Println(err)
-			return nil
-		}
+    packageInfo, err := getCurrentPackageInfo(path)
+    if err != nil {
+      return nil
+    }
 
-		if err := addGithubInfo(&packageInfo, githubToken); err != nil {
-			log.Println(err)
-			return nil
-		}
+    if packageInfo.Name == "cub" ||
+    packageInfo.Name == "libliftoff" ||
+    packageInfo.Name == "libxpm" ||
+    !validGitLink(packageInfo.Git) {
+      return nil;
+    }
 
-		log.Printf("%+v\n\n", packageInfo)
+    log.Printf("%+v\n\n", packageInfo)
+    packageIndex = append(packageIndex, packageInfo)
 
-		data, err := json.MarshalIndent(packageInfo, "", "  ")
-		if err != nil {
-			log.Println(err)
-			return nil
-		}
-
-		if err := os.WriteFile(path, data, 0644); err != nil {
-			log.Println(err)
-			return err
-		}
-
-		packageIndex = append(packageIndex, packageInfo)
-		return nil
+    return nil;
 	})
+  
+  var wg sync.WaitGroup
+  errChan := make(chan error, 10)
 
+  for i := 0; i < len(packageIndex); i++ {
+    wg.Add(1);
+    timeout := time.After(5 * time.Second)
+    go func(packageIndex *[]PackageInfo,index int) {
+      log.Printf("Fetching github info for %s\n", (*packageIndex)[index].Name)
+      if err := addGithubInfo(&(*packageIndex)[index], githubToken); err != nil {
+        log.Printf("Error fetching github info for %s\n", (*packageIndex)[index].Name)
+        errChan <- err;
+        wg.Done();
+        return;
+      }
+      log.Printf("Fetching remote versions for %s\n", (*packageIndex)[index].Name)
+      err := getRemoteVersions(&(*packageIndex)[index])
+      if err != nil {
+        log.Printf("Error fetching remote versions for %s\n", (*packageIndex)[index].Name)
+        errChan <- err;
+        wg.Done();
+        return;
+      }
+      select {
+      case err := <-errChan:
+        log.Printf(
+          "Error fetching remote versions and github info for %s\n",
+          (*packageIndex)[index].Name)
+        log.Printf("%v\n", err)
+        wg.Done();
+        return;
+      case <-timeout:
+        log.Printf(
+          "Timeout fetching remote versions and github info for %s\n", 
+          (*packageIndex)[index].Name)
+        wg.Done();
+        return;
+      default:
+      }
+      log.Printf(
+        "Done fetching remote versions and github info for %s\n",
+        (*packageIndex)[index].Name)
+      wg.Done();
+    }(&packageIndex, i);
+
+    if(i % 32 == 31) {
+      time.Sleep(1 * time.Second)
+    }
+
+  }
 	if err != nil {
 		log.Fatalf("Error walking through files: %v", err)
 	}
+
+  wg.Wait();
+
+  close(errChan);
+
+
 
 	packageIndexJson, err := json.MarshalIndent(packageIndex, "", " ")
 	if err != nil {
