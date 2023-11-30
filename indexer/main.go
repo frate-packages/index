@@ -299,6 +299,9 @@ func main() {
 
   for i := 0; i < len(packageIndex); i++ {
     wg.Add(1);
+    if(i % 64 == 63) {
+      time.Sleep(15 * time.Second)
+    }
     timeout := time.After(5 * time.Second)
     go func(packageIndex *[]PackageInfo,index int) {
       log.Printf("Fetching github info for %s\n", (*packageIndex)[index].Name)
@@ -338,9 +341,6 @@ func main() {
       wg.Done();
     }(&packageIndex, i);
 
-    if(i % 16 == 15) {
-      time.Sleep(1 * time.Second)
-    }
 
   }
 	if err != nil {
