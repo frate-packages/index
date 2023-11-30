@@ -299,8 +299,8 @@ func main() {
 
   for i := 0; i < len(packageIndex); i++ {
     wg.Add(1);
+    timeout := time.After(5 * time.Second)
     go func(packageIndex *[]PackageInfo,index int) {
-      timeout := time.After(5 * time.Second)
       log.Printf("Fetching github info for %s\n", (*packageIndex)[index].Name)
       if err := addGithubInfo(&(*packageIndex)[index], githubToken); err != nil {
         log.Printf("Error fetching github info for %s\n", (*packageIndex)[index].Name)
@@ -338,7 +338,7 @@ func main() {
       wg.Done();
     }(&packageIndex, i);
 
-    if(i % 32 == 31) {
+    if(i % 16 == 15) {
       time.Sleep(1 * time.Second)
     }
 
