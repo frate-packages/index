@@ -1,24 +1,6 @@
 {
   "name": "luple",
-  "versions": [
-    "master",
-    "1.0",
-    "1.1",
-    "1.2"
-  ],
-  "git": "https://github.com/alexpolt/luple",
-  "git_short": "alexpolt/luple",
-  "git_prefixed": "gh:alexpolt/luple",
-  "stars": 153,
-  "forks": 11,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 9,
   "description": "Home to luple, nuple, C++ String Interning, Struct Reader and C++ Type Loophole",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "alexpolt",
-  "owner_type": "User"
+  "git": "https://github.com/alexpolt/luple",
+  "target_link": ""
 }

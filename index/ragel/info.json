@@ -1,1 +1,6 @@
-{"name":"ragel","git":"http://www.colm.net/open-source/ragel","description":"Ragel compiles executable finite state machines from regular languages"}
+{
+  "name": "ragel",
+  "description": "Ragel compiles executable finite state machines from regular languages",
+  "git": "",
+  "target_link": ""
+}

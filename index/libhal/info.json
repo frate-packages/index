@@ -1,1 +1,6 @@
-{"name":"libhal","git":"https://libhal.github.io/libhal","description":"A collection of interfaces and abstractions for embedded peripherals and devices using modern C++"}
+{
+  "name": "libhal",
+  "description": "A collection of interfaces and abstractions for embedded peripherals and devices using modern C++",
+  "git": "",
+  "target_link": ""
+}

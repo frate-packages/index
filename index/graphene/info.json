@@ -1,1 +1,6 @@
-{"name":"graphene","git":"http://ebassi.github.io/graphene/","description":"A thin layer of graphic data types."}
+{
+  "name": "graphene",
+  "description": "A thin layer of graphic data types.",
+  "git": "",
+  "target_link": ""
+}

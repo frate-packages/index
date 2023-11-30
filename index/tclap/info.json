@@ -1,1 +1,6 @@
-{"name":"tclap","git":"https://sourceforge.net/projects/tclap/","description":"Templatized Command Line Argument Parser"}
+{
+  "name": "tclap",
+  "description": "Templatized Command Line Argument Parser",
+  "git": "",
+  "target_link": ""
+}

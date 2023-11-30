@@ -1,1 +1,6 @@
-{"name":"systemc","git":"https://www.accellera.org/","description":"SystemC is a set of C++ classes and macros which provide an event-driven simulation interface."}
+{
+  "name": "systemc",
+  "description": "SystemC is a set of C++ classes and macros which provide an event-driven simulation interface.",
+  "git": "",
+  "target_link": ""
+}

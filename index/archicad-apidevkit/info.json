@@ -1,1 +1,6 @@
-{"name":"archicad-apidevkit","git":"https://archicadapi.graphisoft.com/","description":"The General API Development Kit enables software developers to extend the functionality of Archicad"}
+{
+  "name": "archicad-apidevkit",
+  "description": "The General API Development Kit enables software developers to extend the functionality of Archicad",
+  "git": "",
+  "target_link": ""
+}

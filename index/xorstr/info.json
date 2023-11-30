@@ -1,21 +1,6 @@
 {
   "name": "xorstr",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/JustasMasiulis/xorstr",
-  "git_short": "JustasMasiulis/xorstr",
-  "git_prefixed": "gh:JustasMasiulis/xorstr",
-  "stars": 994,
-  "forks": 188,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 30,
   "description": "A heavily vectorized c++17 compile time string encryption.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "JustasMasiulis",
-  "owner_type": "User"
+  "git": "https://github.com/JustasMasiulis/xorstr",
+  "target_link": ""
 }

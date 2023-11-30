@@ -1,1 +1,6 @@
-{"name":"gmp","git":"https://gmplib.org","description":"GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers."}
+{
+  "name": "gmp",
+  "description": "GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.",
+  "git": "",
+  "target_link": ""
+}

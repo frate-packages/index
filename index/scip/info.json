@@ -1,1 +1,6 @@
-{"name":"scip","git":"https://scipopt.org/","description":"SCIP mixed integer (nonlinear) programming solver"}
+{
+  "name": "scip",
+  "description": "SCIP mixed integer (nonlinear) programming solver",
+  "git": "",
+  "target_link": ""
+}

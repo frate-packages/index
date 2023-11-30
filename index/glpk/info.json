@@ -1,1 +1,6 @@
-{"name":"glpk","git":"https://www.gnu.org/software/glpk","description":"GNU Linear Programming Kit"}
+{
+  "name": "glpk",
+  "description": "GNU Linear Programming Kit",
+  "git": "",
+  "target_link": ""
+}

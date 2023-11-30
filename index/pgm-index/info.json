@@ -1,1 +1,6 @@
-{"name":"pgm-index","git":"https://pgm.di.unipi.it","description":"State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays"}
+{
+  "name": "pgm-index",
+  "description": "State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays",
+  "git": "",
+  "target_link": ""
+}

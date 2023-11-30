@@ -1,29 +1,6 @@
 {
   "name": "immer",
-  "versions": [
-    "master",
-    "release-v0.8",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.6.1",
-    "v0.6.2",
-    "v0.7.0",
-    "v0.8.0",
-    "v0.8.1"
-  ],
-  "git": "https://github.com/arximboldi/immer",
-  "git_short": "arximboldi/immer",
-  "git_prefixed": "gh:arximboldi/immer",
-  "stars": 2366,
-  "forks": 172,
-  "open_issues": 45,
-  "maintainers": [],
-  "watchers": 66,
   "description": "Postmodern immutable and persistent data structures for C++ - value semantics at scale",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "arximboldi",
-  "owner_type": "User"
+  "git": "https://github.com/arximboldi/immer",
+  "target_link": ""
 }

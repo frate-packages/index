@@ -1,1 +1,6 @@
-{"name":"libsvm","git":"https://www.csie.ntu.edu.tw/~cjlin/libsvm/","description":"Libsvm is a simple, easy-to-use, and efficient software for SVM classification and regression"}
+{
+  "name": "libsvm",
+  "description": "Libsvm is a simple, easy-to-use, and efficient software for SVM classification and regression",
+  "git": "",
+  "target_link": ""
+}

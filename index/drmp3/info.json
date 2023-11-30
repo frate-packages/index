@@ -1,1 +1,6 @@
-{"name":"drmp3","git":"https://mackron.github.io/","description":"MP3 audio decoder."}
+{
+  "name": "drmp3",
+  "description": "MP3 audio decoder.",
+  "git": "",
+  "target_link": ""
+}

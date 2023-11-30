@@ -1,1 +1,6 @@
-{"name":"xtrans","git":"https://www.x.org/wiki/","description":"X Network Transport layer shared code"}
+{
+  "name": "xtrans",
+  "description": "X Network Transport layer shared code",
+  "git": "",
+  "target_link": ""
+}

@@ -1,26 +1,6 @@
 {
   "name": "tinyply",
-  "versions": [
-    "2.4",
-    "master",
-    "2.1",
-    "2.2",
-    "2.3.2",
-    "2.3.4"
-  ],
-  "git": "https://github.com/ddiakopoulos/tinyply",
-  "git_short": "ddiakopoulos/tinyply",
-  "git_prefixed": "gh:ddiakopoulos/tinyply",
-  "stars": 496,
-  "forks": 117,
-  "open_issues": 14,
-  "maintainers": [],
-  "watchers": 19,
   "description": "C++11 ply 3d mesh format importer \u0026amp; exporter.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "ddiakopoulos",
-  "owner_type": "User"
+  "git": "https://github.com/ddiakopoulos/tinyply",
+  "target_link": ""
 }

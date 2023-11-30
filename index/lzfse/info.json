@@ -1,21 +1,6 @@
 {
   "name": "lzfse",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/lzfse/lzfse",
-  "git_short": "lzfse/lzfse",
-  "git_prefixed": "gh:lzfse/lzfse",
-  "stars": 1732,
-  "forks": 184,
-  "open_issues": 28,
-  "maintainers": [],
-  "watchers": 93,
   "description": "Lempel-Ziv style data compression algorithm using Finite State Entropy coding.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "C",
-  "owner": "lzfse",
-  "owner_type": "Organization"
+  "git": "https://github.com/lzfse/lzfse",
+  "target_link": ""
 }

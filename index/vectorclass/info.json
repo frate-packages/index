@@ -1,28 +1,6 @@
 {
   "name": "vectorclass",
-  "versions": [
-    "master",
-    "v2.00.01",
-    "v2.01.00",
-    "v2.01.02",
-    "v2.01.03",
-    "v2.01.04",
-    "v2.02.00",
-    "v2.02.01"
-  ],
-  "git": "https://github.com/vectorclass/version2",
-  "git_short": "vectorclass/version2",
-  "git_prefixed": "gh:vectorclass/version2",
-  "stars": 1131,
-  "forks": 134,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 50,
   "description": "C++ class library for using the Single Instruction Multiple Data (SIMD) instructions to improve performance on modern microprocessors with the x86 or x86/64 instruction set on Windows, Linux, and Mac platforms.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "vectorclass",
-  "owner_type": "Organization"
+  "git": "https://github.com/vectorclass/version2",
+  "target_link": ""
 }

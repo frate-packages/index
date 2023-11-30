@@ -1,25 +1,6 @@
 {
   "name": "pcg-cpp",
-  "versions": [
-    "master",
-    "v0.98",
-    "v0.98^{}",
-    "v0.98.1",
-    "v0.98.1^{}"
-  ],
-  "git": "https://github.com/imneme/pcg-cpp",
-  "git_short": "imneme/pcg-cpp",
-  "git_prefixed": "gh:imneme/pcg-cpp",
-  "stars": 690,
-  "forks": 134,
-  "open_issues": 38,
-  "maintainers": [],
-  "watchers": 32,
   "description": "C++ implementation of the PCG family of random number generators.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "imneme",
-  "owner_type": "User"
+  "git": "https://github.com/imneme/pcg-cpp",
+  "target_link": ""
 }

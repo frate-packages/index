@@ -1,21 +1,6 @@
 {
   "name": "sokol",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/floooh/sokol",
-  "git_short": "floooh/sokol",
-  "git_prefixed": "gh:floooh/sokol",
-  "stars": 5338,
-  "forks": 443,
-  "open_issues": 137,
-  "maintainers": [],
-  "watchers": 114,
   "description": "Simple STB-style cross-platform libraries for C and C++, written in C.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C",
-  "owner": "floooh",
-  "owner_type": "User"
+  "git": "https://github.com/floooh/sokol",
+  "target_link": ""
 }

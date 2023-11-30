@@ -1,28 +1,6 @@
 {
   "name": "hffix",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.1.0",
-    "v1.1.1",
-    "v1.2.0",
-    "v1.2.1",
-    "v1.3.0"
-  ],
-  "git": "https://github.com/jamesdbrock/hffix",
-  "git_short": "jamesdbrock/hffix",
-  "git_prefixed": "gh:jamesdbrock/hffix",
-  "stars": 250,
-  "forks": 86,
-  "open_issues": 15,
-  "maintainers": [],
-  "watchers": 31,
   "description": "Financial Information Exchange Protocol C++ Library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "jamesdbrock",
-  "owner_type": "User"
+  "git": "https://github.com/jamesdbrock/hffix",
+  "target_link": ""
 }

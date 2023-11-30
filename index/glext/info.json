@@ -1,1 +1,6 @@
-{"name":"glext","git":"https://www.khronos.org/registry/OpenGL/index_gl.php","description":"OpenGL 1.2 and above compatibility profile and extension interfaces"}
+{
+  "name": "glext",
+  "description": "OpenGL 1.2 and above compatibility profile and extension interfaces",
+  "git": "",
+  "target_link": ""
+}

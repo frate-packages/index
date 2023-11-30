@@ -1,24 +1,6 @@
 {
   "name": "sole",
-  "versions": [
-    "master",
-    "1.0.1",
-    "1.0.2",
-    "1.0.4"
-  ],
-  "git": "https://github.com/r-lyeh-archived/sole",
-  "git_short": "r-lyeh-archived/sole",
-  "git_prefixed": "gh:r-lyeh-archived/sole",
-  "stars": 287,
-  "forks": 78,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 17,
   "description": "Sole is a lightweight C++11 library to generate universally unique identificators (UUID), both v1 and v4.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "r-lyeh-archived",
-  "owner_type": "User"
+  "git": "https://github.com/r-lyeh-archived/sole",
+  "target_link": ""
 }

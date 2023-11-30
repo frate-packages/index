@@ -1,1 +1,6 @@
-{"name":"mbedtls","git":"https://tls.mbed.org","description":"mbed TLS makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products"}
+{
+  "name": "mbedtls",
+  "description": "mbed TLS makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "psimd",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/Maratyszcza/psimd",
-  "git_short": "Maratyszcza/psimd",
-  "git_prefixed": "gh:Maratyszcza/psimd",
-  "stars": 53,
-  "forks": 30,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 8,
   "description": "Portable 128-bit SIMD intrinsics.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Maratyszcza",
-  "owner_type": "User"
+  "git": "https://github.com/Maratyszcza/psimd",
+  "target_link": ""
 }

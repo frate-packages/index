@@ -1,27 +1,6 @@
 {
   "name": "anyrpc",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.0^{}",
-    "v1.0.1",
-    "v1.0.1^{}",
-    "v1.0.2",
-    "v1.0.2^{}"
-  ],
-  "git": "https://github.com/sgieseking/anyrpc",
-  "git_short": "sgieseking/anyrpc",
-  "git_prefixed": "gh:sgieseking/anyrpc",
-  "stars": 62,
-  "forks": 28,
-  "open_issues": 5,
-  "maintainers": [],
-  "watchers": 9,
   "description": "A multiprotocol remote procedure call system for C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "sgieseking",
-  "owner_type": "User"
+  "git": "https://github.com/sgieseking/anyrpc",
+  "target_link": ""
 }

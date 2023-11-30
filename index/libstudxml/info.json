@@ -1,1 +1,6 @@
-{"name":"libstudxml","git":"https://www.codesynthesis.com/projects/libstudxml/","description":"A streaming XML pull parser and streaming XML serializer implementation for modern, standard C++."}
+{
+  "name": "libstudxml",
+  "description": "A streaming XML pull parser and streaming XML serializer implementation for modern, standard C++.",
+  "git": "",
+  "target_link": ""
+}

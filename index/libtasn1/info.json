@@ -1,1 +1,6 @@
-{"name":"libtasn1","git":"https://www.gnu.org/software/libtasn1/","description":"Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages."}
+{
+  "name": "libtasn1",
+  "description": "Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages.",
+  "git": "",
+  "target_link": ""
+}

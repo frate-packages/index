@@ -1,21 +1,6 @@
 {
   "name": "libnop",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/google/libnop",
-  "git_short": "google/libnop",
-  "git_prefixed": "gh:google/libnop",
-  "stars": 542,
-  "forks": 59,
-  "open_issues": 8,
-  "maintainers": [],
-  "watchers": 31,
   "description": "libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/libnop",
+  "target_link": ""
 }

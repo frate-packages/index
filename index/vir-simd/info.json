@@ -1,26 +1,6 @@
 {
   "name": "vir-simd",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.0^{}",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.3.1"
-  ],
-  "git": "https://github.com/mattkretz/vir-simd",
-  "git_short": "mattkretz/vir-simd",
-  "git_prefixed": "gh:mattkretz/vir-simd",
-  "stars": 9,
-  "forks": 1,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 3,
   "description": "A fallback std::experimental::simd (Parallelism TS 2) implementation with additional features",
-  "git_description": "",
-  "target_link": "",
-  "license": "GNU Lesser General Public License v3.0",
-  "language": "C++",
-  "owner": "mattkretz",
-  "owner_type": "User"
+  "git": "https://github.com/mattkretz/vir-simd",
+  "target_link": ""
 }

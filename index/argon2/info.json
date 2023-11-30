@@ -1,21 +1,6 @@
 {
   "name": "argon2",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/P-H-C/phc-winner-argon2",
-  "git_short": "P-H-C/phc-winner-argon2",
-  "git_prefixed": "gh:P-H-C/phc-winner-argon2",
-  "stars": 4499,
-  "forks": 394,
-  "open_issues": 81,
-  "maintainers": [],
-  "watchers": 126,
   "description": "Argon2 password hashing library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "P-H-C",
-  "owner_type": "Organization"
+  "git": "https://github.com/P-H-C/phc-winner-argon2",
+  "target_link": ""
 }

@@ -1,21 +1,6 @@
 {
   "name": "libdrawille",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/Huulivoide/libdrawille/",
-  "git_short": "Huulivoide/libdrawille/",
-  "git_prefixed": "gh:Huulivoide/libdrawille/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "C implementation of drawille library and extra drawing functionality",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/Huulivoide/libdrawille/",
+  "target_link": ""
 }

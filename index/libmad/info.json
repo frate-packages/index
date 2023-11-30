@@ -1,1 +1,6 @@
-{"name":"libmad","git":"https://www.underbit.com/products/mad/","description":"MAD is a high-quality MPEG audio decoder."}
+{
+  "name": "libmad",
+  "description": "MAD is a high-quality MPEG audio decoder.",
+  "git": "",
+  "target_link": ""
+}

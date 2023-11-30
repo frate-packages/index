@@ -1,1 +1,6 @@
-{"name":"quickjs","git":"https://bellard.org/quickjs/","description":"QuickJS is a small and embeddable Javascript engine."}
+{
+  "name": "quickjs",
+  "description": "QuickJS is a small and embeddable Javascript engine.",
+  "git": "",
+  "target_link": ""
+}

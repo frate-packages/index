@@ -1,1 +1,6 @@
-{"name":"libmodplug","git":"http://modplug-xmms.sourceforge.net","description":"libmodplug - the library which was part of the Modplug-xmms project"}
+{
+  "name": "libmodplug",
+  "description": "libmodplug - the library which was part of the Modplug-xmms project",
+  "git": "",
+  "target_link": ""
+}

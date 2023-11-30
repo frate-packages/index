@@ -1,1 +1,6 @@
-{"name":"sfml","git":"https://www.sfml-dev.org","description":"Simple and Fast Multimedia Library."}
+{
+  "name": "sfml",
+  "description": "Simple and Fast Multimedia Library.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "inih",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/benhoyt/inih",
-  "git_short": "benhoyt/inih",
-  "git_prefixed": "gh:benhoyt/inih",
-  "stars": 2173,
-  "forks": 487,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 98,
   "description": "Simple .INI file parser in C, good for embedded systems ",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "benhoyt",
-  "owner_type": "User"
+  "git": "https://github.com/benhoyt/inih",
+  "target_link": ""
 }

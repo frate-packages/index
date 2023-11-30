@@ -1,1 +1,6 @@
-{"name":"innoextract","git":"https://constexpr.org/innoextract","description":"Extract contents of Inno Setup installers"}
+{
+  "name": "innoextract",
+  "description": "Extract contents of Inno Setup installers",
+  "git": "",
+  "target_link": ""
+}

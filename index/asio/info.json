@@ -1,1 +1,6 @@
-{"name":"asio","git":"http://think-async.com/Asio","description":"Asio is a cross-platform C++ library for network and low-level I/O"}
+{
+  "name": "asio",
+  "description": "Asio is a cross-platform C++ library for network and low-level I/O",
+  "git": "",
+  "target_link": ""
+}

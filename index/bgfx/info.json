@@ -1,21 +1,6 @@
 {
   "name": "bgfx",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/bkaradzic/bgfx",
-  "git_short": "bkaradzic/bgfx",
-  "git_prefixed": "gh:bkaradzic/bgfx",
-  "stars": 13662,
-  "forks": 1872,
-  "open_issues": 281,
-  "maintainers": [],
-  "watchers": 485,
   "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C++",
-  "owner": "bkaradzic",
-  "owner_type": "User"
+  "git": "https://github.com/bkaradzic/bgfx",
+  "target_link": ""
 }

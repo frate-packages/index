@@ -1,1 +1,6 @@
-{"name":"libvpx","git":"https://www.webmproject.org/code","description":"WebM VP8/VP9 Codec SDK"}
+{
+  "name": "libvpx",
+  "description": "WebM VP8/VP9 Codec SDK",
+  "git": "",
+  "target_link": ""
+}

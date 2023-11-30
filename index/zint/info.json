@@ -1,1 +1,6 @@
-{"name":"zint","git":"https://sourceforge.net/p/zint/code","description":"Zint Barcode Generator"}
+{
+  "name": "zint",
+  "description": "Zint Barcode Generator",
+  "git": "",
+  "target_link": ""
+}

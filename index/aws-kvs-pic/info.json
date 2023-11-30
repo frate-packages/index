@@ -1,27 +1,6 @@
 {
   "name": "aws-kvs-pic",
-  "versions": [
-    "fix_up_1_7",
-    "master",
-    "new_release_1_5_1-exponential-retry",
-    "prep_release_1_3",
-    "release_1_2_1_prep",
-    "v1.0.0",
-    "v1.0.1"
-  ],
-  "git": "https://github.com/awslabs/amazon-kinesis-video-streams-pic",
-  "git_short": "awslabs/amazon-kinesis-video-streams-pic",
-  "git_prefixed": "gh:awslabs/amazon-kinesis-video-streams-pic",
-  "stars": 42,
-  "forks": 41,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 17,
   "description": "Platform Independent Code for Amazon Kinesis Video Streams",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "awslabs",
-  "owner_type": "Organization"
+  "git": "https://github.com/awslabs/amazon-kinesis-video-streams-pic",
+  "target_link": ""
 }

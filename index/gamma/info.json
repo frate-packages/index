@@ -1,26 +1,6 @@
 {
   "name": "gamma",
-  "versions": [
-    "master",
-    "0.9.6",
-    "0.9.7",
-    "0.9.7^{}",
-    "0.9.8",
-    "0.9.8^{}"
-  ],
-  "git": "https://github.com/LancePutnam/Gamma",
-  "git_short": "LancePutnam/Gamma",
-  "git_prefixed": "gh:LancePutnam/Gamma",
-  "stars": 432,
-  "forks": 54,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 23,
   "description": "Gamma is a cross-platform, C++ library for doing generic synthesis and filtering of signals.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "LancePutnam",
-  "owner_type": "User"
+  "git": "https://github.com/LancePutnam/Gamma",
+  "target_link": ""
 }

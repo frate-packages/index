@@ -1,1 +1,6 @@
-{"name":"libgphoto2","git":"http://www.gphoto.org/","description":"The libgphoto2 camera access and control library."}
+{
+  "name": "libgphoto2",
+  "description": "The libgphoto2 camera access and control library.",
+  "git": "",
+  "target_link": ""
+}

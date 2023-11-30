@@ -1,1 +1,6 @@
-{"name":"openblas","git":"https://www.openblas.net","description":"An optimized BLAS library based on GotoBLAS2 1.13 BSD version"}
+{
+  "name": "openblas",
+  "description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD version",
+  "git": "",
+  "target_link": ""
+}

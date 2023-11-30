@@ -1,26 +1,6 @@
 {
   "name": "wise_enum",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.1.0",
-    "2.0.0",
-    "2.1.0",
-    "3.0.0"
-  ],
-  "git": "https://github.com/quicknir/wise_enum",
-  "git_short": "quicknir/wise_enum",
-  "git_prefixed": "gh:quicknir/wise_enum",
-  "stars": 276,
-  "forks": 27,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 16,
   "description": "Header-only C++11/14/17 library provides static reflection for enums, work with any enum type without any boilerplate code.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C",
-  "owner": "quicknir",
-  "owner_type": "User"
+  "git": "https://github.com/quicknir/wise_enum",
+  "target_link": ""
 }

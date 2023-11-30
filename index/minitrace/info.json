@@ -1,21 +1,6 @@
 {
   "name": "minitrace",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/hrydgard/minitrace",
-  "git_short": "hrydgard/minitrace",
-  "git_prefixed": "gh:hrydgard/minitrace",
-  "stars": 349,
-  "forks": 62,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 15,
   "description": "Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing).",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "hrydgard",
-  "owner_type": "User"
+  "git": "https://github.com/hrydgard/minitrace",
+  "target_link": ""
 }

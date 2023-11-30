@@ -1,22 +1,6 @@
 {
   "name": "tl-function-ref",
-  "versions": [
-    "master",
-    "v1.0.0"
-  ],
-  "git": "https://github.com/TartanLlama/function_ref",
-  "git_short": "TartanLlama/function_ref",
-  "git_prefixed": "gh:TartanLlama/function_ref",
-  "stars": 165,
-  "forks": 23,
-  "open_issues": 10,
-  "maintainers": [],
-  "watchers": 6,
   "description": "A lightweight, non-owning reference to a callable.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Creative Commons Zero v1.0 Universal",
-  "language": "C++",
-  "owner": "TartanLlama",
-  "owner_type": "User"
+  "git": "https://github.com/TartanLlama/function_ref",
+  "target_link": ""
 }

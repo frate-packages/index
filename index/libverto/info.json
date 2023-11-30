@@ -1,34 +1,6 @@
 {
   "name": "libverto",
-  "versions": [
-    "main",
-    "0.1",
-    "0.2",
-    "0.2.1",
-    "0.2.2",
-    "0.2.3",
-    "0.2.4",
-    "0.2.5",
-    "0.2.6",
-    "0.2.7",
-    "0.3.0",
-    "0.3.1",
-    "0.3.2",
-    "v0.2.6"
-  ],
-  "git": "https://github.com/latchset/libverto",
-  "git_short": "latchset/libverto",
-  "git_prefixed": "gh:latchset/libverto",
-  "stars": 12,
-  "forks": 4,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 3,
   "description": "An async event loop abstraction library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "latchset",
-  "owner_type": "Organization"
+  "git": "https://github.com/latchset/libverto",
+  "target_link": ""
 }

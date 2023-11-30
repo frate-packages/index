@@ -1,1 +1,6 @@
-{"name":"strawberryperl","git":"http://strawberryperl.com","description":"Strawberry Perl for Windows."}
+{
+  "name": "strawberryperl",
+  "description": "Strawberry Perl for Windows.",
+  "git": "",
+  "target_link": ""
+}

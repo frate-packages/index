@@ -1,1 +1,6 @@
-{"name":"cub","git":"https://github.com/project/cub","description":"Cooperative primitives for CUDA C++"}
+{
+  "name": "cub",
+  "description": "Cooperative primitives for CUDA C++",
+  "git": "https://github.com/project/cub",
+  "target_link": ""
+}

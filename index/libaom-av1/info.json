@@ -1,1 +1,6 @@
-{"name":"libaom-av1","git":"https://aomedia.googlesource.com/aom","description":"AV1 Codec Library"}
+{
+  "name": "libaom-av1",
+  "description": "AV1 Codec Library",
+  "git": "",
+  "target_link": ""
+}

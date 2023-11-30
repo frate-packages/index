@@ -1,31 +1,6 @@
 {
   "name": "heatshrink",
-  "versions": [
-    "master",
-    "v0.3.0",
-    "v0.3.0^{}",
-    "v0.3.1",
-    "v0.3.1^{}",
-    "v0.3.2",
-    "v0.3.2^{}",
-    "v0.4.0",
-    "v0.4.0^{}",
-    "v0.4.1",
-    "v0.4.1^{}"
-  ],
-  "git": "https://github.com/atomicobject/heatshrink",
-  "git_short": "atomicobject/heatshrink",
-  "git_prefixed": "gh:atomicobject/heatshrink",
-  "stars": 1222,
-  "forks": 170,
-  "open_issues": 29,
-  "maintainers": [],
-  "watchers": 64,
   "description": "data compression library for embedded/real-time systems",
-  "git_description": "",
-  "target_link": "",
-  "license": "ISC License",
-  "language": "C",
-  "owner": "atomicobject",
-  "owner_type": "Organization"
+  "git": "https://github.com/atomicobject/heatshrink",
+  "target_link": ""
 }

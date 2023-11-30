@@ -1,1 +1,6 @@
-{"name":"muparserx","git":"https://beltoforion.de/article.php?a=muparserx","description":"A C++ Library for Parsing Expressions with Strings, Complex Numbers, Vectors, Matrices and more"}
+{
+  "name": "muparserx",
+  "description": "A C++ Library for Parsing Expressions with Strings, Complex Numbers, Vectors, Matrices and more",
+  "git": "",
+  "target_link": ""
+}

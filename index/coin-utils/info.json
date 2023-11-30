@@ -1,22 +1,6 @@
 {
   "name": "coin-utils",
-  "versions": [
-    "master",
-    "release_2002-11-05"
-  ],
-  "git": "https://github.com/coin-or/CoinUtils",
-  "git_short": "coin-or/CoinUtils",
-  "git_prefixed": "gh:coin-or/CoinUtils",
-  "stars": 39,
-  "forks": 38,
-  "open_issues": 25,
-  "maintainers": [],
-  "watchers": 9,
   "description": "CoinUtils is an open-source collection of classes and helper functions that are generally useful to multiple COIN-OR projects.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "coin-or",
-  "owner_type": "Organization"
+  "git": "https://github.com/coin-or/CoinUtils",
+  "target_link": ""
 }

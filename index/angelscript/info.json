@@ -1,21 +1,6 @@
 {
   "name": "angelscript",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/IngwiePhoenix/AngelScript",
-  "git_short": "IngwiePhoenix/AngelScript",
-  "git_prefixed": "gh:IngwiePhoenix/AngelScript",
-  "stars": 32,
-  "forks": 5,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 3,
   "description": "An extremely flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "IngwiePhoenix",
-  "owner_type": "User"
+  "git": "https://github.com/IngwiePhoenix/AngelScript",
+  "target_link": ""
 }

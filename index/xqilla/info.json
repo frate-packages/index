@@ -1,1 +1,6 @@
-{"name":"xqilla","git":"http://xqilla.sourceforge.net/HomePage","description":"XQilla is an XQuery and XPath 2 library and command line utility written in C++, implemented on top of the Xerces-C library"}
+{
+  "name": "xqilla",
+  "description": "XQilla is an XQuery and XPath 2 library and command line utility written in C++, implemented on top of the Xerces-C library",
+  "git": "",
+  "target_link": ""
+}

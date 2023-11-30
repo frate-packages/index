@@ -1,24 +1,6 @@
 {
   "name": "gurkenlaeufer",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/paulelsner/gurkenlaeufer",
-  "git_short": "paulelsner/gurkenlaeufer",
-  "git_prefixed": "gh:paulelsner/gurkenlaeufer",
-  "stars": 6,
-  "forks": 4,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 2,
   "description": "Simple way to write cucumber tests for your C++ projects",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "paulelsner",
-  "owner_type": "User"
+  "git": "https://github.com/paulelsner/gurkenlaeufer",
+  "target_link": ""
 }

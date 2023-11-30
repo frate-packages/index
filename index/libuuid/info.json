@@ -1,1 +1,6 @@
-{"name":"libuuid","git":"https://sourceforge.net/projects/libuuid/","description":"Portable uuid C library"}
+{
+  "name": "libuuid",
+  "description": "Portable uuid C library",
+  "git": "",
+  "target_link": ""
+}

@@ -1,35 +1,6 @@
 {
   "name": "qtxlsxwriter",
-  "versions": [
-    "master",
-    "v0.1",
-    "v0.1^{}",
-    "v0.1.1",
-    "v0.1.1^{}",
-    "v0.2",
-    "v0.2^{}",
-    "v0.2.1",
-    "v0.2.1^{}",
-    "v0.2.2",
-    "v0.2.2^{}",
-    "v0.2.2-doc",
-    "v0.2.2-doc^{}",
-    "v0.3.0",
-    "v0.3.0^{}"
-  ],
-  "git": "https://github.com/dbzhang800/QtXlsxWriter",
-  "git_short": "dbzhang800/QtXlsxWriter",
-  "git_prefixed": "gh:dbzhang800/QtXlsxWriter",
-  "stars": 1117,
-  "forks": 620,
-  "open_issues": 127,
-  "maintainers": [],
-  "watchers": 90,
   "description": ".xlsx file reader and writer for Qt5",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "dbzhang800",
-  "owner_type": "User"
+  "git": "https://github.com/dbzhang800/QtXlsxWriter",
+  "target_link": ""
 }

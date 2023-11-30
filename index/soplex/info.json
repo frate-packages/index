@@ -1,1 +1,6 @@
-{"name":"soplex","git":"https://soplex.zib.de","description":"SoPlex linear programming solver"}
+{
+  "name": "soplex",
+  "description": "SoPlex linear programming solver",
+  "git": "",
+  "target_link": ""
+}

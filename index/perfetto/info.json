@@ -1,1 +1,6 @@
-{"name":"perfetto","git":"https://perfetto.dev","description":"Performance instrumentation and tracing for Android, Linux and Chrome"}
+{
+  "name": "perfetto",
+  "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+  "git": "",
+  "target_link": ""
+}

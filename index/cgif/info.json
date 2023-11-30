@@ -1,21 +1,6 @@
 {
   "name": "cgif",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/dloebl/cgif",
-  "git_short": "dloebl/cgif",
-  "git_prefixed": "gh:dloebl/cgif",
-  "stars": 92,
-  "forks": 15,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 6,
   "description": "GIF encoder written in C",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "dloebl",
-  "owner_type": "User"
+  "git": "https://github.com/dloebl/cgif",
+  "target_link": ""
 }

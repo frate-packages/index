@@ -1,36 +1,6 @@
 {
   "name": "xlnt",
-  "versions": [
-    "dependabot/npm_and_yarn/cacheable-request-and-release-it/bumper-and-release-it-10.2.7",
-    "dependabot/npm_and_yarn/decode-uri-component-0.2.2",
-    "dependabot/npm_and_yarn/http-cache-semantics-4.1.1",
-    "master",
-    "v0.9.0",
-    "v0.9.1",
-    "v0.9.2",
-    "v1.0.0",
-    "v1.0.0^{}",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.2.0^{}",
-    "v1.3.0",
-    "v1.4.0",
-    "v1.5.0",
-    "v1.5.0^{}"
-  ],
-  "git": "https://github.com/tfussell/xlnt",
-  "git_short": "tfussell/xlnt",
-  "git_prefixed": "gh:tfussell/xlnt",
-  "stars": 1341,
-  "forks": 377,
-  "open_issues": 186,
-  "maintainers": [],
-  "watchers": 73,
   "description": "Cross-platform user-friendly xlsx library for C++11+",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "tfussell",
-  "owner_type": "User"
+  "git": "https://github.com/tfussell/xlnt",
+  "target_link": ""
 }

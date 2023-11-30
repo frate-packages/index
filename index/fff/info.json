@@ -1,23 +1,6 @@
 {
   "name": "fff",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.1"
-  ],
-  "git": "https://github.com/meekrosoft/fff",
-  "git_short": "meekrosoft/fff",
-  "git_prefixed": "gh:meekrosoft/fff",
-  "stars": 661,
-  "forks": 155,
-  "open_issues": 51,
-  "maintainers": [],
-  "watchers": 43,
   "description": "A testing micro framework for creating function test doubles",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "meekrosoft",
-  "owner_type": "User"
+  "git": "https://github.com/meekrosoft/fff",
+  "target_link": ""
 }

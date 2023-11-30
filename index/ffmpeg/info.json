@@ -1,1 +1,6 @@
-{"name":"ffmpeg","git":"https://ffmpeg.org","description":"A complete, cross-platform solution to record, convert and stream audio and video"}
+{
+  "name": "ffmpeg",
+  "description": "A complete, cross-platform solution to record, convert and stream audio and video",
+  "git": "",
+  "target_link": ""
+}

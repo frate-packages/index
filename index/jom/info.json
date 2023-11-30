@@ -1,1 +1,6 @@
-{"name":"jom","git":"http://wiki.qt.io/Jom","description":"jom is a clone of nmake to support the execution of multiple independent commands in parallel"}
+{
+  "name": "jom",
+  "description": "jom is a clone of nmake to support the execution of multiple independent commands in parallel",
+  "git": "",
+  "target_link": ""
+}

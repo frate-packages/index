@@ -1,1 +1,6 @@
-{"name":"cyclonedds","git":"https://cyclonedds.io/","description":"Eclipse Cyclone DDS - An implementation of the OMG Data Distribution Service (DDS) specification"}
+{
+  "name": "cyclonedds",
+  "description": "Eclipse Cyclone DDS - An implementation of the OMG Data Distribution Service (DDS) specification",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"pngpp","git":"https://www.nongnu.org/pngpp","description":"A C++ wrapper for libpng library."}
+{
+  "name": "pngpp",
+  "description": "A C++ wrapper for libpng library.",
+  "git": "",
+  "target_link": ""
+}

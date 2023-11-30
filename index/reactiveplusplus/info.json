@@ -1,36 +1,6 @@
 {
   "name": "reactiveplusplus",
-  "versions": [
-    "v0.0.1",
-    "v0.0.2",
-    "v0.0.3",
-    "v0.0.4",
-    "v0.0.5",
-    "v0.0.6",
-    "v0.0.7",
-    "v0.1.0",
-    "v0.1.1",
-    "v0.1.2",
-    "v0.1.3",
-    "v0.1.4",
-    "v0.2.0",
-    "v0.2.1",
-    "v0.2.2",
-    "v0.2.3"
-  ],
-  "git": "https://github.com/victimsnino/ReactivePlusPlus",
-  "git_short": "victimsnino/ReactivePlusPlus",
-  "git_prefixed": "gh:victimsnino/ReactivePlusPlus",
-  "stars": 158,
-  "forks": 13,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 8,
   "description": "ReactivePlusPlus is library for building asynchronous event-driven streams of data with help of sequences of primitive operators in the declarative form.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "victimsnino",
-  "owner_type": "User"
+  "git": "https://github.com/victimsnino/ReactivePlusPlus",
+  "target_link": ""
 }

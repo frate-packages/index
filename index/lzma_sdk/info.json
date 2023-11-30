@@ -1,1 +1,6 @@
-{"name":"lzma_sdk","git":"https://www.7-zip.org/sdk.html","description":"LZMA provides a high compression ratio and fast decompression, so it is very suitable for embedded applications."}
+{
+  "name": "lzma_sdk",
+  "description": "LZMA provides a high compression ratio and fast decompression, so it is very suitable for embedded applications.",
+  "git": "",
+  "target_link": ""
+}

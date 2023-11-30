@@ -1,1 +1,6 @@
-{"name":"b2","git":"https://www.bfgroup.xyz/b2/","description":"B2 makes it easy to build C++ projects, everywhere."}
+{
+  "name": "b2",
+  "description": "B2 makes it easy to build C++ projects, everywhere.",
+  "git": "",
+  "target_link": ""
+}

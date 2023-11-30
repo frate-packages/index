@@ -1,1 +1,6 @@
-{"name":"libev","git":"http://software.schmorp.de/pkg/libev.html","description":"A full-featured and high-performance event loop that is loosely modelled after libevent"}
+{
+  "name": "libev",
+  "description": "A full-featured and high-performance event loop that is loosely modelled after libevent",
+  "git": "",
+  "target_link": ""
+}

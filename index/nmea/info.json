@@ -1,1 +1,6 @@
-{"name":"nmea","git":"http://nmea.sourceforge.net/","description":"Library to work with NMEA protocol"}
+{
+  "name": "nmea",
+  "description": "Library to work with NMEA protocol",
+  "git": "",
+  "target_link": ""
+}

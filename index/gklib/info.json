@@ -1,22 +1,6 @@
 {
   "name": "gklib",
-  "versions": [
-    "master",
-    "METIS-v5.1.1-DistDGL-0.5"
-  ],
-  "git": "https://github.com/KarypisLab/GKlib",
-  "git_short": "KarypisLab/GKlib",
-  "git_prefixed": "gh:KarypisLab/GKlib",
-  "stars": 25,
-  "forks": 41,
-  "open_issues": 17,
-  "maintainers": [],
-  "watchers": 4,
   "description": "A library of various helper routines and frameworks used by many of the lab's software",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "KarypisLab",
-  "owner_type": "Organization"
+  "git": "https://github.com/KarypisLab/GKlib",
+  "target_link": ""
 }

@@ -1,21 +1,6 @@
 {
   "name": "strong_type",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/rollbear/strong_type",
-  "git_short": "rollbear/strong_type",
-  "git_prefixed": "gh:rollbear/strong_type",
-  "stars": 330,
-  "forks": 29,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 13,
   "description": "An additive strong typedef library for C++14/17/20",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "rollbear",
-  "owner_type": "User"
+  "git": "https://github.com/rollbear/strong_type",
+  "target_link": ""
 }

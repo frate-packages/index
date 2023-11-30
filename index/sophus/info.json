@@ -1,1 +1,6 @@
-{"name":"sophus","git":"https://strasdat.github.io/Sophus/","description":"C++ implementation of Lie Groups using Eigen."}
+{
+  "name": "sophus",
+  "description": "C++ implementation of Lie Groups using Eigen.",
+  "git": "",
+  "target_link": ""
+}

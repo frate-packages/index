@@ -1,21 +1,6 @@
 {
   "name": "lodepng",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/lvandeve/lodepng",
-  "git_short": "lvandeve/lodepng",
-  "git_prefixed": "gh:lvandeve/lodepng",
-  "stars": 1909,
-  "forks": 450,
-  "open_issues": 80,
-  "maintainers": [],
-  "watchers": 75,
   "description": "PNG encoder and decoder in C and C++, without dependencies.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "lvandeve",
-  "owner_type": "User"
+  "git": "https://github.com/lvandeve/lodepng",
+  "target_link": ""
 }

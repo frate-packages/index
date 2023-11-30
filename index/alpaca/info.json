@@ -1,24 +1,6 @@
 {
   "name": "alpaca",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.2.1"
-  ],
-  "git": "https://github.com/p-ranav/alpaca",
-  "git_short": "p-ranav/alpaca",
-  "git_prefixed": "gh:p-ranav/alpaca",
-  "stars": 364,
-  "forks": 24,
-  "open_issues": 10,
-  "maintainers": [],
-  "watchers": 9,
   "description": "Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "p-ranav",
-  "owner_type": "User"
+  "git": "https://github.com/p-ranav/alpaca",
+  "target_link": ""
 }

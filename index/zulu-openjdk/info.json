@@ -1,1 +1,6 @@
-{"name":"zulu-openjdk","git":"https://www.azul.com","description":"A OpenJDK distribution"}
+{
+  "name": "zulu-openjdk",
+  "description": "A OpenJDK distribution",
+  "git": "",
+  "target_link": ""
+}

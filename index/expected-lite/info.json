@@ -1,30 +1,6 @@
 {
   "name": "expected-lite",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.4.0",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.6.1",
-    "v0.6.2",
-    "v0.6.3"
-  ],
-  "git": "https://github.com/martinmoene/expected-lite",
-  "git_short": "martinmoene/expected-lite",
-  "git_prefixed": "gh:martinmoene/expected-lite",
-  "stars": 324,
-  "forks": 27,
-  "open_issues": 15,
-  "maintainers": [],
-  "watchers": 13,
   "description": "expected lite - Expected objects in C++11 and later in a single-file header-only library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/expected-lite",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"libdwarf","git":"https://www.prevanders.net/dwarf.html","description":"A library and a set of command-line tools for reading and writing DWARF2"}
+{
+  "name": "libdwarf",
+  "description": "A library and a set of command-line tools for reading and writing DWARF2",
+  "git": "",
+  "target_link": ""
+}

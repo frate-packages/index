@@ -1,1 +1,6 @@
-{"name":"pixman","git":"https://cairographics.org/","description":"Pixman is a low-level software library for pixel manipulation"}
+{
+  "name": "pixman",
+  "description": "Pixman is a low-level software library for pixel manipulation",
+  "git": "",
+  "target_link": ""
+}

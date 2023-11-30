@@ -1,1 +1,6 @@
-{"name":"bzip2","git":"http://www.bzip.org","description":"bzip2 is a free and open-source file compression program that uses the Burrows Wheeler algorithm."}
+{
+  "name": "bzip2",
+  "description": "bzip2 is a free and open-source file compression program that uses the Burrows Wheeler algorithm.",
+  "git": "",
+  "target_link": ""
+}

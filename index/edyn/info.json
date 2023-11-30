@@ -1,29 +1,6 @@
 {
   "name": "edyn",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.2.1",
-    "v0.3.0",
-    "v1.0.0",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.2.1"
-  ],
-  "git": "https://github.com/xissburg/edyn",
-  "git_short": "xissburg/edyn",
-  "git_prefixed": "gh:xissburg/edyn",
-  "stars": 470,
-  "forks": 26,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 16,
   "description": "Edyn is a real-time physics engine organized as an ECS",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "xissburg",
-  "owner_type": "User"
+  "git": "https://github.com/xissburg/edyn",
+  "target_link": ""
 }

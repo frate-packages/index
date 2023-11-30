@@ -1,1 +1,6 @@
-{"name":"tl","git":"https://tl.tartanllama.xyz","description":"tl is a collection of generic C++ libraries"}
+{
+  "name": "tl",
+  "description": "tl is a collection of generic C++ libraries",
+  "git": "",
+  "target_link": ""
+}

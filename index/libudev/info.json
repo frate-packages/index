@@ -1,1 +1,6 @@
-{"name":"libudev","git":"https://www.freedesktop.org/software/systemd/man/udev.html","description":"API for enumerating and introspecting local devices"}
+{
+  "name": "libudev",
+  "description": "API for enumerating and introspecting local devices",
+  "git": "",
+  "target_link": ""
+}

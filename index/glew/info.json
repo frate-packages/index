@@ -1,1 +1,6 @@
-{"name":"glew","git":"http://github.com/nigels-com/glew","description":"The GLEW library"}
+{
+  "name": "glew",
+  "description": "The GLEW library",
+  "git": "",
+  "target_link": ""
+}

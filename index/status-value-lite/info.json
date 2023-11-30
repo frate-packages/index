@@ -1,23 +1,6 @@
 {
   "name": "status-value-lite",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/martinmoene/status-value-lite",
-  "git_short": "martinmoene/status-value-lite",
-  "git_prefixed": "gh:martinmoene/status-value-lite",
-  "stars": 14,
-  "forks": 1,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 4,
   "description": "status-value - A class for status and optional value for C++11 and later, C++98 variant provided in a single-file header-only library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/status-value-lite",
+  "target_link": ""
 }

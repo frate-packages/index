@@ -1,1 +1,6 @@
-{"name":"gdcm","git":"http://gdcm.sourceforge.net/","description":"C++ library for DICOM medical files"}
+{
+  "name": "gdcm",
+  "description": "C++ library for DICOM medical files",
+  "git": "",
+  "target_link": ""
+}

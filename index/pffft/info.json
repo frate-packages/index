@@ -1,21 +1,6 @@
 {
   "name": "pffft",
-  "versions": [
-    "master"
-  ],
-  "git": "https://bitbucket.org/jpommier/pffft/src/master/",
-  "git_short": "https://bitbucket.org/jpommier/pffft/src/master/",
-  "git_prefixed": "",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "PFFFT, a pretty fast Fourier Transform.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://bitbucket.org/jpommier/pffft/src/master/",
+  "target_link": ""
 }

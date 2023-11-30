@@ -1,1 +1,6 @@
-{"name":"sofa","git":"http://www.iausofa.org","description":"IAU Standards of Fundamental Astronomy (SOFA) C Library."}
+{
+  "name": "sofa",
+  "description": "IAU Standards of Fundamental Astronomy (SOFA) C Library.",
+  "git": "",
+  "target_link": ""
+}

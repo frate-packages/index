@@ -1,21 +1,6 @@
 {
   "name": "gtk-doc-stub",
-  "versions": [
-    "master"
-  ],
-  "git": "https://gitlab.gnome.org/GNOME/gtk-doc-stub",
-  "git_short": "https://gitlab.gnome.org/GNOME/gtk-doc-stub",
-  "git_prefixed": "",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Helper scripts for generating GTK documentation",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "",
+  "target_link": ""
 }

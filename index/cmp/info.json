@@ -1,1 +1,6 @@
-{"name":"cmp","git":"http://msgpack.org","description":"An implementation of the MessagePack serialization format in C / msgpack.org[C]"}
+{
+  "name": "cmp",
+  "description": "An implementation of the MessagePack serialization format in C / msgpack.org[C]",
+  "git": "",
+  "target_link": ""
+}

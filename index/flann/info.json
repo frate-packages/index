@@ -1,1 +1,6 @@
-{"name":"flann","git":"https://www.cs.ubc.ca/research/flann/","description":"Fast Library for Approximate Nearest Neighbors"}
+{
+  "name": "flann",
+  "description": "Fast Library for Approximate Nearest Neighbors",
+  "git": "",
+  "target_link": ""
+}

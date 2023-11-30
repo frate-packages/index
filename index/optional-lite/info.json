@@ -1,36 +1,6 @@
 {
   "name": "optional-lite",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.0.3",
-    "v2.0.0",
-    "v2.1.0",
-    "v2.2.0",
-    "v2.3.0",
-    "v3.0.0",
-    "v3.1.0",
-    "v3.1.1",
-    "v3.2.0",
-    "v3.3.0",
-    "v3.4.0",
-    "v3.5.0"
-  ],
-  "git": "https://github.com/martinmoene/optional-lite",
-  "git_short": "martinmoene/optional-lite",
-  "git_prefixed": "gh:martinmoene/optional-lite",
-  "stars": 394,
-  "forks": 48,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 20,
   "description": "A single-file header-only version of a C++17-like optional, a nullable object for C++98, C++11 and later",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/optional-lite",
+  "target_link": ""
 }

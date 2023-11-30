@@ -1,1 +1,6 @@
-{"name":"libmp3lame","git":"http://lame.sourceforge.net","description":"LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL."}
+{
+  "name": "libmp3lame",
+  "description": "LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.",
+  "git": "",
+  "target_link": ""
+}

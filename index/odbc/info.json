@@ -1,1 +1,6 @@
-{"name":"odbc","git":"http://www.unixodbc.org","description":"Package providing unixODBC"}
+{
+  "name": "odbc",
+  "description": "Package providing unixODBC",
+  "git": "",
+  "target_link": ""
+}

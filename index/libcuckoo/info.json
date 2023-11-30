@@ -1,27 +1,6 @@
 {
   "name": "libcuckoo",
-  "versions": [
-    "master",
-    "v0.1",
-    "v0.2",
-    "v0.2^{}",
-    "v0.3",
-    "v0.3.1",
-    "v0.3.1^{}"
-  ],
-  "git": "https://github.com/efficient/libcuckoo",
-  "git_short": "efficient/libcuckoo",
-  "git_prefixed": "gh:efficient/libcuckoo",
-  "stars": 1477,
-  "forks": 268,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 76,
   "description": "A high-performance, concurrent hash table",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "efficient",
-  "owner_type": "Organization"
+  "git": "https://github.com/efficient/libcuckoo",
+  "target_link": ""
 }

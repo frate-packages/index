@@ -1,1 +1,6 @@
-{"name":"norm","git":"https://www.nrl.navy.mil/itd/ncs/products/norm","description":"A reliable multicast transport protocol"}
+{
+  "name": "norm",
+  "description": "A reliable multicast transport protocol",
+  "git": "",
+  "target_link": ""
+}

@@ -1,31 +1,6 @@
 {
   "name": "backport-cpp",
-  "versions": [
-    "master",
-    "v0.0.1",
-    "v0.1.0",
-    "v0.1.1",
-    "v0.2.0",
-    "v0.2.0^{}",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.2.0^{}"
-  ],
-  "git": "https://github.com/bitwizeshift/BackportCpp",
-  "git_short": "bitwizeshift/BackportCpp",
-  "git_prefixed": "gh:bitwizeshift/BackportCpp",
-  "stars": 64,
-  "forks": 8,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 2,
   "description": "An ongoing effort to bring modern C++ utilities to be compatible with C++11",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "bitwizeshift",
-  "owner_type": "User"
+  "git": "https://github.com/bitwizeshift/BackportCpp",
+  "target_link": ""
 }

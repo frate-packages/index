@@ -1,22 +1,6 @@
 {
   "name": "fernandovelcic-hexdump",
-  "versions": [
-    "master",
-    "1.0.0"
-  ],
-  "git": "https://github.com/FernandoVelcic/hexdump",
-  "git_short": "FernandoVelcic/hexdump",
-  "git_prefixed": "gh:FernandoVelcic/hexdump",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "A header-only hexdump library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "C++",
-  "owner": "FernandoVelcic",
-  "owner_type": "User"
+  "git": "https://github.com/FernandoVelcic/hexdump",
+  "target_link": ""
 }

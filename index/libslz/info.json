@@ -1,1 +1,6 @@
-{"name":"libslz","git":"http://www.libslz.org/","description":"Simple, modern libpng alternative "}
+{
+  "name": "libslz",
+  "description": "Simple, modern libpng alternative ",
+  "git": "",
+  "target_link": ""
+}

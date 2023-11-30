@@ -1,21 +1,6 @@
 {
   "name": "influxdb-cpp",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/orca-zhang/influxdb-cpp",
-  "git_short": "orca-zhang/influxdb-cpp",
-  "git_prefixed": "gh:orca-zhang/influxdb-cpp",
-  "stars": 143,
-  "forks": 112,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 14,
   "description": "C++ client for InfluxDB.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "orca-zhang",
-  "owner_type": "User"
+  "git": "https://github.com/orca-zhang/influxdb-cpp",
+  "target_link": ""
 }

@@ -1,26 +1,6 @@
 {
   "name": "nvtx",
-  "versions": [
-    "v3.0.1",
-    "v3.0.1^{}",
-    "v3.1.0",
-    "v3.1.0^{}",
-    "v3.1.0-c-cpp",
-    "v3.1.0-c-cpp^{}"
-  ],
-  "git": "https://github.com/NVIDIA/NVTX",
-  "git_short": "NVIDIA/NVTX",
-  "git_prefixed": "gh:NVIDIA/NVTX",
-  "stars": 189,
-  "forks": 35,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 8,
   "description": "The NVIDIA Tools Extension SDK (NVTX) is a C-based API for annotating events, code ranges, and resources in your applications.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C",
-  "owner": "NVIDIA",
-  "owner_type": "Organization"
+  "git": "https://github.com/NVIDIA/NVTX",
+  "target_link": ""
 }

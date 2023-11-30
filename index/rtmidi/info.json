@@ -1,1 +1,6 @@
-{"name":"rtmidi","git":"http://www.music.mcgill.ca/~gary/rtmidi/","description":"Realtime MIDI input/output"}
+{
+  "name": "rtmidi",
+  "description": "Realtime MIDI input/output",
+  "git": "",
+  "target_link": ""
+}

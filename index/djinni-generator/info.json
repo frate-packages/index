@@ -1,1 +1,6 @@
-{"name":"djinni-generator","git":"https://djinni.xlcpp.dev","description":"Djinni is a tool for generating cross-language type declarations and interface bindings."}
+{
+  "name": "djinni-generator",
+  "description": "Djinni is a tool for generating cross-language type declarations and interface bindings.",
+  "git": "",
+  "target_link": ""
+}

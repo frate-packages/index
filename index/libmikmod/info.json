@@ -1,1 +1,6 @@
-{"name":"libmikmod","git":"http://mikmod.sourceforge.net","description":"Module player and library supporting many formats, including mod, s3m, it, and xm."}
+{
+  "name": "libmikmod",
+  "description": "Module player and library supporting many formats, including mod, s3m, it, and xm.",
+  "git": "",
+  "target_link": ""
+}

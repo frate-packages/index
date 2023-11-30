@@ -1,31 +1,6 @@
 {
   "name": "wavelet_buffer",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.1",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.4.0",
-    "v0.5.0",
-    "v0.5.1",
-    "v0.6.0",
-    "v0.7.0",
-    "v0.7.1"
-  ],
-  "git": "https://github.com/panda-official/WaveletBuffer",
-  "git_short": "panda-official/WaveletBuffer",
-  "git_prefixed": "gh:panda-official/WaveletBuffer",
-  "stars": 9,
-  "forks": 4,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 3,
   "description": "An universal C++ compression library based on wavelet transformation",
-  "git_description": "",
-  "target_link": "",
-  "license": "Mozilla Public License 2.0",
-  "language": "C++",
-  "owner": "panda-official",
-  "owner_type": "Organization"
+  "git": "https://github.com/panda-official/WaveletBuffer",
+  "target_link": ""
 }

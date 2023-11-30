@@ -1,1 +1,6 @@
-{"name":"libgpiod","git":"https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git/","description":"C library and tools for interacting with the linux GPIO character device"}
+{
+  "name": "libgpiod",
+  "description": "C library and tools for interacting with the linux GPIO character device",
+  "git": "",
+  "target_link": ""
+}

@@ -1,32 +1,6 @@
 {
   "name": "polylabel",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.1^{}",
-    "v1.0.2",
-    "v1.0.2^{}",
-    "v1.0.3",
-    "v1.0.4",
-    "v1.0.5",
-    "v1.0.5^{}",
-    "v1.1.0",
-    "v1.1.0^{}"
-  ],
-  "git": "https://github.com/mapbox/polylabel",
-  "git_short": "mapbox/polylabel",
-  "git_prefixed": "gh:mapbox/polylabel",
-  "stars": 1336,
-  "forks": 138,
-  "open_issues": 23,
-  "maintainers": [],
-  "watchers": 136,
   "description": "A fast algorithm for finding the pole of inaccessibility of a polygon.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "mapbox",
-  "owner_type": "Organization"
+  "git": "https://github.com/mapbox/polylabel",
+  "target_link": ""
 }

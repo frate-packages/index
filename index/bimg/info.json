@@ -1,21 +1,6 @@
 {
   "name": "bimg",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/bkaradzic/bimg",
-  "git_short": "bkaradzic/bimg",
-  "git_prefixed": "gh:bkaradzic/bimg",
-  "stars": 281,
-  "forks": 244,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 27,
   "description": "Image library providing loading, saving, conversions and other utilities.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C++",
-  "owner": "bkaradzic",
-  "owner_type": "User"
+  "git": "https://github.com/bkaradzic/bimg",
+  "target_link": ""
 }

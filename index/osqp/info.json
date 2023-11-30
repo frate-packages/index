@@ -1,1 +1,6 @@
-{"name":"osqp","git":"https://osqp.org/","description":"The OSQP (Operator Splitting Quadratic Program) solver is a numerical optimization package."}
+{
+  "name": "osqp",
+  "description": "The OSQP (Operator Splitting Quadratic Program) solver is a numerical optimization package.",
+  "git": "",
+  "target_link": ""
+}

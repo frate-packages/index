@@ -1,1 +1,6 @@
-{"name":"gsl","git":"https://www.gnu.org/software/gsl","description":"GNU Scientific Library"}
+{
+  "name": "gsl",
+  "description": "GNU Scientific Library",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"sdl_ttf","git":"https://www.libsdl.org/projects/SDL_ttf","description":"A TrueType font library for SDL"}
+{
+  "name": "sdl_ttf",
+  "description": "A TrueType font library for SDL",
+  "git": "",
+  "target_link": ""
+}

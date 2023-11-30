@@ -1,1 +1,6 @@
-{"name":"lzo","git":"http://www.oberhumer.com/opensource/lzo/","description":"lzo is a portable lossless data compression library written in ANSI C"}
+{
+  "name": "lzo",
+  "description": "lzo is a portable lossless data compression library written in ANSI C",
+  "git": "",
+  "target_link": ""
+}

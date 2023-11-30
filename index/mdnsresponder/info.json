@@ -1,1 +1,6 @@
-{"name":"mdnsresponder","git":"https://opensource.apple.com/tarballs/mDNSResponder/","description":"Apple Open Source DNS Service Discovery Collection"}
+{
+  "name": "mdnsresponder",
+  "description": "Apple Open Source DNS Service Discovery Collection",
+  "git": "",
+  "target_link": ""
+}

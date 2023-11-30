@@ -1,22 +1,6 @@
 {
   "name": "concurrencpp",
-  "versions": [
-    "master",
-    "0.0.7"
-  ],
-  "git": "https://github.com/David-Haim/concurrencpp",
-  "git_short": "David-Haim/concurrencpp",
-  "git_prefixed": "gh:David-Haim/concurrencpp",
-  "stars": 1769,
-  "forks": 196,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 43,
   "description": "Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "David-Haim",
-  "owner_type": "User"
+  "git": "https://github.com/David-Haim/concurrencpp",
+  "target_link": ""
 }

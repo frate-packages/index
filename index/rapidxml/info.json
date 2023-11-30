@@ -1,1 +1,6 @@
-{"name":"rapidxml","git":"http://rapidxml.sourceforge.net","description":"RapidXml is an attempt to create the fastest XML parser possible."}
+{
+  "name": "rapidxml",
+  "description": "RapidXml is an attempt to create the fastest XML parser possible.",
+  "git": "",
+  "target_link": ""
+}

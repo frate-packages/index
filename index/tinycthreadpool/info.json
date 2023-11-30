@@ -1,22 +1,6 @@
 {
   "name": "tinycthreadpool",
-  "versions": [
-    "master",
-    "v1.0"
-  ],
-  "git": "https://github.com/bennyhuo/tinycthreadpool",
-  "git_short": "bennyhuo/tinycthreadpool",
-  "git_prefixed": "gh:bennyhuo/tinycthreadpool",
-  "stars": 8,
-  "forks": 4,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "Portable C thread pool",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C",
-  "owner": "bennyhuo",
-  "owner_type": "User"
+  "git": "https://github.com/bennyhuo/tinycthreadpool",
+  "target_link": ""
 }

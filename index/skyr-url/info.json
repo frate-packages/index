@@ -1,1 +1,6 @@
-{"name":"skyr-url","git":"https://cpp-netlib.github.io/url","description":"A C++ library that implements the WhatWG URL specification"}
+{
+  "name": "skyr-url",
+  "description": "A C++ library that implements the WhatWG URL specification",
+  "git": "",
+  "target_link": ""
+}

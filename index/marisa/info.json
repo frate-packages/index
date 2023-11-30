@@ -1,24 +1,6 @@
 {
   "name": "marisa",
-  "versions": [
-    "master",
-    "v0.2.5",
-    "v0.2.5^{}",
-    "v0.2.6"
-  ],
-  "git": "https://github.com/s-yata/marisa-trie",
-  "git_short": "s-yata/marisa-trie",
-  "git_prefixed": "gh:s-yata/marisa-trie",
-  "stars": 461,
-  "forks": 87,
-  "open_issues": 26,
-  "maintainers": [],
-  "watchers": 30,
   "description": "Matching Algorithm with Recursively Implemented StorAge ",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "s-yata",
-  "owner_type": "User"
+  "git": "https://github.com/s-yata/marisa-trie",
+  "target_link": ""
 }

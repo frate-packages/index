@@ -1,22 +1,6 @@
 {
   "name": "jthread-lite",
-  "versions": [
-    "master",
-    "v0.1.0"
-  ],
-  "git": "https://github.com/martinmoene/jthread-lite",
-  "git_short": "martinmoene/jthread-lite",
-  "git_prefixed": "gh:martinmoene/jthread-lite",
-  "stars": 59,
-  "forks": 2,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 3,
   "description": "jthread lite - C++20's jthread for C++11 and later in a single-file header-only library ",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/jthread-lite",
+  "target_link": ""
 }

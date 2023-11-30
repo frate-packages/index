@@ -1,1 +1,6 @@
-{"name":"opencv","git":"https://opencv.org","description":"OpenCV (Open Source Computer Vision Library)"}
+{
+  "name": "opencv",
+  "description": "OpenCV (Open Source Computer Vision Library)",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"libsquish","git":"https://sourceforge.net/projects/libsquish","description":"The libSquish library compresses images with the DXT standard (also known as S3TC)."}
+{
+  "name": "libsquish",
+  "description": "The libSquish library compresses images with the DXT standard (also known as S3TC).",
+  "git": "",
+  "target_link": ""
+}

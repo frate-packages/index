@@ -1,29 +1,6 @@
 {
   "name": "taocpp-operators",
-  "versions": [
-    "main",
-    "1.0.0",
-    "1.0.1",
-    "1.0.2",
-    "1.1.0",
-    "1.1.1",
-    "1.2.0",
-    "1.2.1",
-    "1.2.2"
-  ],
-  "git": "https://github.com/taocpp/operators",
-  "git_short": "taocpp/operators",
-  "git_prefixed": "gh:taocpp/operators",
-  "stars": 190,
-  "forks": 16,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 20,
   "description": "A highly efficient, move-aware operators library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "taocpp",
-  "owner_type": "Organization"
+  "git": "https://github.com/taocpp/operators",
+  "target_link": ""
 }

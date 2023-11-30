@@ -1,21 +1,6 @@
 {
   "name": "sdf",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/memononen/SDF",
-  "git_short": "memononen/SDF",
-  "git_prefixed": "gh:memononen/SDF",
-  "stars": 211,
-  "forks": 19,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 16,
   "description": "Signed Distance Field Builder for Contour Texturing",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "memononen",
-  "owner_type": "User"
+  "git": "https://github.com/memononen/SDF",
+  "target_link": ""
 }

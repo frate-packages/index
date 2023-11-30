@@ -1,21 +1,6 @@
 {
   "name": "choc",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/Tracktion/choc/",
-  "git_short": "Tracktion/choc/",
-  "git_prefixed": "gh:Tracktion/choc/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "A collection of header only classes, permissively licensed, to provide basic useful tasks with the bare-minimum of dependencies.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/Tracktion/choc/",
+  "target_link": ""
 }

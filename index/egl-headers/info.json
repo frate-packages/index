@@ -1,21 +1,6 @@
 {
   "name": "egl-headers",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/KhronosGroup/EGL-Registry",
-  "git_short": "KhronosGroup/EGL-Registry",
-  "git_prefixed": "gh:KhronosGroup/EGL-Registry",
-  "stars": 105,
-  "forks": 98,
-  "open_issues": 16,
-  "maintainers": [],
-  "watchers": 55,
   "description": "EGL Header files.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "HTML",
-  "owner": "KhronosGroup",
-  "owner_type": "Organization"
+  "git": "https://github.com/KhronosGroup/EGL-Registry",
+  "target_link": ""
 }

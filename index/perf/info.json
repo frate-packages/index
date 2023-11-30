@@ -1,1 +1,6 @@
-{"name":"perf","git":"https://perf.wiki.kernel.org/index.php","description":"Linux profiling with performance counters"}
+{
+  "name": "perf",
+  "description": "Linux profiling with performance counters",
+  "git": "",
+  "target_link": ""
+}

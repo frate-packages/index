@@ -1,1 +1,6 @@
-{"name":"tsil","git":"https://www.niu.edu/spmartin/TSIL/","description":"Two-loop Self-energy Integral Library"}
+{
+  "name": "tsil",
+  "description": "Two-loop Self-energy Integral Library",
+  "git": "",
+  "target_link": ""
+}

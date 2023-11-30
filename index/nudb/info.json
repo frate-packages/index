@@ -1,29 +1,6 @@
 {
   "name": "nudb",
-  "versions": [
-    "master",
-    "1.0.0",
-    "2.0.0",
-    "2.0.1",
-    "2.0.2",
-    "2.0.3",
-    "2.0.4",
-    "2.0.5",
-    "2.0.8"
-  ],
-  "git": "https://github.com/CPPAlliance/NuDB",
-  "git_short": "CPPAlliance/NuDB",
-  "git_prefixed": "gh:CPPAlliance/NuDB",
-  "stars": 370,
-  "forks": 52,
-  "open_issues": 36,
-  "maintainers": [],
-  "watchers": 27,
   "description": "A fast key/value insert-only database for SSD drives in C++11",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "cppalliance",
-  "owner_type": "Organization"
+  "git": "https://github.com/CPPAlliance/NuDB",
+  "target_link": ""
 }

@@ -1,33 +1,6 @@
 {
   "name": "simde",
-  "versions": [
-    "master",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.7.0",
-    "v0.7.0-rc-1",
-    "v0.7.0-rc2",
-    "v0.7.2",
-    "v0.7.4",
-    "v0.7.4-rc1",
-    "v0.7.4-rc2",
-    "v0.7.4-rc3",
-    "v0.7.4-rc4",
-    "v0.7.6"
-  ],
-  "git": "https://github.com/simd-everywhere/simde",
-  "git_short": "simd-everywhere/simde",
-  "git_prefixed": "gh:simd-everywhere/simde",
-  "stars": 1985,
-  "forks": 207,
-  "open_issues": 114,
-  "maintainers": [],
-  "watchers": 48,
   "description": "Implementations of SIMD instruction sets for systems which don't natively support them.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "simd-everywhere",
-  "owner_type": "Organization"
+  "git": "https://github.com/simd-everywhere/simde",
+  "target_link": ""
 }

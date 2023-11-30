@@ -1,27 +1,6 @@
 {
   "name": "stduuid",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.1",
-    "v1.2",
-    "v1.2.1",
-    "v1.2.2",
-    "v1.2.3"
-  ],
-  "git": "https://github.com/mariusbancila/stduuid",
-  "git_short": "mariusbancila/stduuid",
-  "git_prefixed": "gh:mariusbancila/stduuid",
-  "stars": 651,
-  "forks": 108,
-  "open_issues": 18,
-  "maintainers": [],
-  "watchers": 24,
   "description": "A C++17 cross-platform implementation for UUIDs",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "mariusbancila",
-  "owner_type": "User"
+  "git": "https://github.com/mariusbancila/stduuid",
+  "target_link": ""
 }

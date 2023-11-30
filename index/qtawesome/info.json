@@ -1,34 +1,6 @@
 {
   "name": "qtawesome",
-  "versions": [
-    "main",
-    "font-awesome-4.0.3",
-    "font-awesome-4.0.3^{}",
-    "font-awesome-4.1.0",
-    "font-awesome-4.1.0^{}",
-    "font-awesome-4.2.0",
-    "font-awesome-4.2.0^{}",
-    "font-awesome-4.3.0",
-    "font-awesome-4.3.0^{}",
-    "font-awesome-5.10.2",
-    "font-awesome-6.2.0",
-    "font-awesome-6.3.0",
-    "font-awesome-6.4.0",
-    "font-awesome-6.4.2"
-  ],
-  "git": "https://github.com/gamecreature/QtAwesome",
-  "git_short": "gamecreature/QtAwesome",
-  "git_prefixed": "gh:gamecreature/QtAwesome",
-  "stars": 677,
-  "forks": 137,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 43,
   "description": "Font Awesome for Qt Applications",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "gamecreature",
-  "owner_type": "User"
+  "git": "https://github.com/gamecreature/QtAwesome",
+  "target_link": ""
 }

@@ -1,27 +1,6 @@
 {
   "name": "wg21-linear_algebra",
-  "versions": [
-    "master",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.7.0",
-    "v0.7.1",
-    "v0.7.2",
-    "v0.7.3"
-  ],
-  "git": "https://github.com/BobSteagall/wg21",
-  "git_short": "BobSteagall/wg21",
-  "git_prefixed": "gh:BobSteagall/wg21",
-  "stars": 59,
-  "forks": 9,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 17,
   "description": "Production-quality reference implementation of P1385: A proposal to add linear algebra support to the C++ standard library",
-  "git_description": "",
-  "target_link": "",
-  "license": "University of Illinois/NCSA Open Source License",
-  "language": "C++",
-  "owner": "BobSteagall",
-  "owner_type": "User"
+  "git": "https://github.com/BobSteagall/wg21",
+  "target_link": ""
 }

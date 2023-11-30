@@ -1,21 +1,6 @@
 {
   "name": "getopt-for-visual-studio",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/skandhurkat/Getopt-for-Visual-Studio",
-  "git_short": "skandhurkat/Getopt-for-Visual-Studio",
-  "git_prefixed": "gh:skandhurkat/Getopt-for-Visual-Studio",
-  "stars": 72,
-  "forks": 88,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 5,
   "description": "GNU getopt for Visual Studio",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C",
-  "owner": "skandhurkat",
-  "owner_type": "User"
+  "git": "https://github.com/skandhurkat/Getopt-for-Visual-Studio",
+  "target_link": ""
 }

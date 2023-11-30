@@ -1,31 +1,6 @@
 {
   "name": "gcem",
-  "versions": [
-    "master",
-    "v1.12.0",
-    "v1.13.1",
-    "v1.14.1",
-    "v1.15.0",
-    "v1.16.0",
-    "v1.17.0",
-    "v1.6.0",
-    "v1.7.0",
-    "v1.8.0",
-    "v1.8.1"
-  ],
-  "git": "https://github.com/kthohr/gcem",
-  "git_short": "kthohr/gcem",
-  "git_prefixed": "gh:kthohr/gcem",
-  "stars": 545,
-  "forks": 54,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 25,
   "description": "A C++ compile-time math library using generalized constant expressions.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "kthohr",
-  "owner_type": "User"
+  "git": "https://github.com/kthohr/gcem",
+  "target_link": ""
 }

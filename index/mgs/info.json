@@ -1,1 +1,6 @@
-{"name":"mgs","git":"https://theodelrieu.github.io/mgs-docs","description":"C++14 codec library"}
+{
+  "name": "mgs",
+  "description": "C++14 codec library",
+  "git": "",
+  "target_link": ""
+}

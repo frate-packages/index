@@ -1,1 +1,6 @@
-{"name":"libxslt","git":"https://xmlsoft.org","description":"libxslt is a software library implementing XSLT processor, based on libxml2"}
+{
+  "name": "libxslt",
+  "description": "libxslt is a software library implementing XSLT processor, based on libxml2",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"libavrocpp","git":"https://avro.apache.org/","description":"Avro is a data serialization system."}
+{
+  "name": "libavrocpp",
+  "description": "Avro is a data serialization system.",
+  "git": "",
+  "target_link": ""
+}

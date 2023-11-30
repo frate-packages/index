@@ -1,24 +1,6 @@
 {
   "name": "hictk",
-  "versions": [
-    "main",
-    "v0.0.1",
-    "v0.0.2",
-    "v0.0.3"
-  ],
-  "git": "https://github.com/paulsengroup/hictk",
-  "git_short": "paulsengroup/hictk",
-  "git_prefixed": "gh:paulsengroup/hictk",
-  "stars": 1,
-  "forks": 0,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 1,
   "description": "Blazing fast toolkit to work with .hic and .cool files",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "paulsengroup",
-  "owner_type": "Organization"
+  "git": "https://github.com/paulsengroup/hictk",
+  "target_link": ""
 }

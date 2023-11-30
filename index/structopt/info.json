@@ -1,27 +1,6 @@
 {
   "name": "structopt",
-  "versions": [
-    "master",
-    "release/v0.1.1",
-    "v0.1.0",
-    "v0.1.0^{}",
-    "v0.1.1",
-    "v0.1.2",
-    "v0.1.3"
-  ],
-  "git": "https://github.com/p-ranav/structopt",
-  "git_short": "p-ranav/structopt",
-  "git_prefixed": "gh:p-ranav/structopt",
-  "stars": 445,
-  "forks": 25,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 12,
   "description": "Parse command line arguments by defining a struct+",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "p-ranav",
-  "owner_type": "User"
+  "git": "https://github.com/p-ranav/structopt",
+  "target_link": ""
 }

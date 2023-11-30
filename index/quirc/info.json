@@ -1,24 +1,6 @@
 {
   "name": "quirc",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.1",
-    "v1.2"
-  ],
-  "git": "https://github.com/dlbeer/quirc",
-  "git_short": "dlbeer/quirc",
-  "git_prefixed": "gh:dlbeer/quirc",
-  "stars": 796,
-  "forks": 277,
-  "open_issues": 35,
-  "maintainers": [],
-  "watchers": 51,
   "description": "QR decoder library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "dlbeer",
-  "owner_type": "User"
+  "git": "https://github.com/dlbeer/quirc",
+  "target_link": ""
 }

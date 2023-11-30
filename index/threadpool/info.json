@@ -1,21 +1,6 @@
 {
   "name": "threadpool",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/progschj/ThreadPool",
-  "git_short": "progschj/ThreadPool",
-  "git_prefixed": "gh:progschj/ThreadPool",
-  "stars": 6984,
-  "forks": 2155,
-  "open_issues": 45,
-  "maintainers": [],
-  "watchers": 224,
   "description": "A simple C++11 Thread Pool implementation.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "progschj",
-  "owner_type": "User"
+  "git": "https://github.com/progschj/ThreadPool",
+  "target_link": ""
 }

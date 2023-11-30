@@ -1,35 +1,6 @@
 {
   "name": "ade",
-  "versions": [
-    "master",
-    "release_0.1",
-    "v0.1",
-    "v0.1.1",
-    "v0.1.1a",
-    "v0.1.1b",
-    "v0.1.1c",
-    "v0.1.1d",
-    "v0.1.1e",
-    "v0.1.1f",
-    "v0.1.2",
-    "v0.1.2a",
-    "v0.1.2b",
-    "v0.1.2c",
-    "v0.1.2d"
-  ],
-  "git": "https://github.com/opencv/ade",
-  "git_short": "opencv/ade",
-  "git_prefixed": "gh:opencv/ade",
-  "stars": 53,
-  "forks": 49,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 15,
   "description": "Graph construction, manipulation, and processing framework",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "opencv",
-  "owner_type": "Organization"
+  "git": "https://github.com/opencv/ade",
+  "target_link": ""
 }

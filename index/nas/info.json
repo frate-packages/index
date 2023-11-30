@@ -1,1 +1,6 @@
-{"name":"nas","git":"https://www.radscan.com/nas.html","description":"The Network Audio System is a network transparent, client/server audio transport system."}
+{
+  "name": "nas",
+  "description": "The Network Audio System is a network transparent, client/server audio transport system.",
+  "git": "",
+  "target_link": ""
+}

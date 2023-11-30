@@ -1,21 +1,6 @@
 {
   "name": "cute_headers",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/RandyGaul/cute_headers",
-  "git_short": "RandyGaul/cute_headers",
-  "git_prefixed": "gh:RandyGaul/cute_headers",
-  "stars": 3967,
-  "forks": 303,
-  "open_issues": 14,
-  "maintainers": [],
-  "watchers": 116,
   "description": "Various single-file cross-platform C/C++ headers implementing self-contained libraries.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C",
-  "owner": "RandyGaul",
-  "owner_type": "User"
+  "git": "https://github.com/RandyGaul/cute_headers",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"mongo-cxx-driver","git":"http://mongocxx.org","description":"C++ Driver for MongoDB"}
+{
+  "name": "mongo-cxx-driver",
+  "description": "C++ Driver for MongoDB",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"fft","git":"http://www.kurims.kyoto-u.ac.jp/~ooura/fft.html","description":"This is a package to calculate Discrete Fourier/Cosine/Sine Transforms of 2,3-dimensional sequences of length 2^N."}
+{
+  "name": "fft",
+  "description": "This is a package to calculate Discrete Fourier/Cosine/Sine Transforms of 2,3-dimensional sequences of length 2^N.",
+  "git": "",
+  "target_link": ""
+}

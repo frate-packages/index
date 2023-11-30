@@ -1,25 +1,6 @@
 {
   "name": "libnpy",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.0^{}",
-    "v1.0",
-    "v1.0.1"
-  ],
-  "git": "https://github.com/llohse/libnpy",
-  "git_short": "llohse/libnpy",
-  "git_prefixed": "gh:llohse/libnpy",
-  "stars": 283,
-  "forks": 66,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 7,
   "description": "C++ library for reading and writing of numpy's .npy files",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "llohse",
-  "owner_type": "User"
+  "git": "https://github.com/llohse/libnpy",
+  "target_link": ""
 }

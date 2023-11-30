@@ -1,1 +1,6 @@
-{"name":"sqlite3","git":"https://www.sqlite.org","description":"Self-contained, serverless, in-process SQL database engine."}
+{
+  "name": "sqlite3",
+  "description": "Self-contained, serverless, in-process SQL database engine.",
+  "git": "",
+  "target_link": ""
+}

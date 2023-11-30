@@ -1,29 +1,6 @@
 {
   "name": "theora",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.0^{}",
-    "v1.1.0",
-    "v1.1.0^{}",
-    "v1.1.1",
-    "v1.1.1^{}",
-    "v1.2.0alpha1",
-    "v1.2.0alpha1^{}"
-  ],
-  "git": "https://github.com/xiph/theora",
-  "git_short": "xiph/theora",
-  "git_prefixed": "gh:xiph/theora",
-  "stars": 89,
-  "forks": 62,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 26,
   "description": "Theora is a free and open video compression format from the Xiph.org Foundation",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "xiph",
-  "owner_type": "Organization"
+  "git": "https://github.com/xiph/theora",
+  "target_link": ""
 }

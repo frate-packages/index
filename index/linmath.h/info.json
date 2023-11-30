@@ -1,21 +1,6 @@
 {
   "name": "linmath.h",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/datenwolf/linmath.h",
-  "git_short": "datenwolf/linmath.h",
-  "git_prefixed": "gh:datenwolf/linmath.h",
-  "stars": 828,
-  "forks": 138,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 44,
   "description": "A lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions",
-  "git_description": "",
-  "target_link": "",
-  "license": "Do What The F*ck You Want To Public License",
-  "language": "C",
-  "owner": "datenwolf",
-  "owner_type": "User"
+  "git": "https://github.com/datenwolf/linmath.h",
+  "target_link": ""
 }

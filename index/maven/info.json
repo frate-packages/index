@@ -1,1 +1,6 @@
-{"name":"maven","git":"https://maven.apache.org/","description":"Apache Maven is a software project management and comprehension tool."}
+{
+  "name": "maven",
+  "description": "Apache Maven is a software project management and comprehension tool.",
+  "git": "",
+  "target_link": ""
+}

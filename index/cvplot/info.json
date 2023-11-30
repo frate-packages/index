@@ -1,25 +1,6 @@
 {
   "name": "cvplot",
-  "versions": [
-    "master",
-    "v1.2",
-    "v1.2.1",
-    "v1.2.2",
-    "v1.2.2^{}"
-  ],
-  "git": "https://github.com/Profactor/cv-plot",
-  "git_short": "Profactor/cv-plot",
-  "git_prefixed": "gh:Profactor/cv-plot",
-  "stars": 132,
-  "forks": 27,
-  "open_issues": 10,
-  "maintainers": [],
-  "watchers": 7,
   "description": "Fast modular OpenCV plotting library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Profactor",
-  "owner_type": "Organization"
+  "git": "https://github.com/Profactor/cv-plot",
+  "target_link": ""
 }

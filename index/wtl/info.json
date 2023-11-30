@@ -1,1 +1,6 @@
-{"name":"wtl","git":"https://sourceforge.net/projects/wtl","description":"Windows Template Library (WTL) is a C++ library for developing Windows applications and UI components."}
+{
+  "name": "wtl",
+  "description": "Windows Template Library (WTL) is a C++ library for developing Windows applications and UI components.",
+  "git": "",
+  "target_link": ""
+}

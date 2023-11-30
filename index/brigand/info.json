@@ -1,27 +1,6 @@
 {
   "name": "brigand",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.1.0",
-    "1.1.0^{}",
-    "1.2.0",
-    "1.3.0",
-    "1.3.0^{}"
-  ],
-  "git": "https://github.com/edouarda/brigand",
-  "git_short": "edouarda/brigand",
-  "git_prefixed": "gh:edouarda/brigand",
-  "stars": 565,
-  "forks": 48,
-  "open_issues": 16,
-  "maintainers": [],
-  "watchers": 48,
   "description": "A light-weight, fully functional, instant-compile time meta-programming library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "edouarda",
-  "owner_type": "User"
+  "git": "https://github.com/edouarda/brigand",
+  "target_link": ""
 }

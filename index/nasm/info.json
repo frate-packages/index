@@ -1,1 +1,6 @@
-{"name":"nasm","git":"http://www.nasm.us","description":"The Netwide Assembler, NASM, is an 80x86 and x86-64 assembler"}
+{
+  "name": "nasm",
+  "description": "The Netwide Assembler, NASM, is an 80x86 and x86-64 assembler",
+  "git": "",
+  "target_link": ""
+}

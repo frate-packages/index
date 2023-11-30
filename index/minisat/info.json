@@ -1,1 +1,6 @@
-{"name":"minisat","git":"http://minisat.se","description":"minimalistic SAT solver"}
+{
+  "name": "minisat",
+  "description": "minimalistic SAT solver",
+  "git": "",
+  "target_link": ""
+}

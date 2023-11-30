@@ -1,32 +1,6 @@
 {
   "name": "di",
-  "versions": [
-    "v1.3",
-    "v0.1.0",
-    "v0.5.0",
-    "v0.5.0^{}",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.1^{}",
-    "v1.0.2",
-    "v1.0.2^{}",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.3.0"
-  ],
-  "git": "https://github.com/boost-ext/di",
-  "git_short": "boost-ext/di",
-  "git_prefixed": "gh:boost-ext/di",
-  "stars": 1051,
-  "forks": 167,
-  "open_issues": 73,
-  "maintainers": [],
-  "watchers": 68,
   "description": "DI: C++14 Dependency Injection Library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "boost-ext",
-  "owner_type": "Organization"
+  "git": "https://github.com/boost-ext/di",
+  "target_link": ""
 }

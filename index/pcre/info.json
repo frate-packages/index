@@ -1,1 +1,6 @@
-{"name":"pcre","git":"https://www.pcre.org","description":"Perl Compatible Regular Expressions"}
+{
+  "name": "pcre",
+  "description": "Perl Compatible Regular Expressions",
+  "git": "",
+  "target_link": ""
+}

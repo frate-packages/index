@@ -1,1 +1,6 @@
-{"name":"libjpeg","git":"http://ijg.org","description":"Libjpeg is a widely used C library for reading and writing JPEG image files."}
+{
+  "name": "libjpeg",
+  "description": "Libjpeg is a widely used C library for reading and writing JPEG image files.",
+  "git": "",
+  "target_link": ""
+}

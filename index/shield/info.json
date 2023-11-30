@@ -1,25 +1,6 @@
 {
   "name": "shield",
-  "versions": [
-    "main",
-    "0.1",
-    "0.2",
-    "0.3",
-    "0.4"
-  ],
-  "git": "https://github.com/holoplot/shield",
-  "git_short": "holoplot/shield",
-  "git_prefixed": "gh:holoplot/shield",
-  "stars": 6,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 13,
   "description": "C++ warning suppression headers.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "holoplot",
-  "owner_type": "Organization"
+  "git": "https://github.com/holoplot/shield",
+  "target_link": ""
 }

@@ -1,23 +1,6 @@
 {
   "name": "gzip-hpp",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.0^{}"
-  ],
-  "git": "https://github.com/mapbox/gzip-hpp",
-  "git_short": "mapbox/gzip-hpp",
-  "git_prefixed": "gh:mapbox/gzip-hpp",
-  "stars": 287,
-  "forks": 68,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 101,
   "description": "Gzip header-only C++ library ",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C++",
-  "owner": "mapbox",
-  "owner_type": "Organization"
+  "git": "https://github.com/mapbox/gzip-hpp",
+  "target_link": ""
 }

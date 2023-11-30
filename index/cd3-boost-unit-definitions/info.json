@@ -1,28 +1,6 @@
 {
   "name": "cd3-boost-unit-definitions",
-  "versions": [
-    "master",
-    "0.1",
-    "0.1.1",
-    "0.1.2",
-    "0.1.3",
-    "0.2",
-    "0.2.1",
-    "0.2.2"
-  ],
-  "git": "https://github.com/CD3/BoostUnitDefinitions",
-  "git_short": "CD3/BoostUnitDefinitions",
-  "git_prefixed": "gh:CD3/BoostUnitDefinitions",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 2,
   "description": "A collection of pre-defined types and unit instances for working with Boost.Units quantities.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "CD3",
-  "owner_type": "User"
+  "git": "https://github.com/CD3/BoostUnitDefinitions",
+  "target_link": ""
 }

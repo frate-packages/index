@@ -1,1 +1,6 @@
-{"name":"libmpdclient","git":"https://www.musicpd.org/libs/libmpdclient","description":"libmpdclient is a C library which implements the Music Player Daemon protocol."}
+{
+  "name": "libmpdclient",
+  "description": "libmpdclient is a C library which implements the Music Player Daemon protocol.",
+  "git": "",
+  "target_link": ""
+}

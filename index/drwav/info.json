@@ -1,1 +1,6 @@
-{"name":"drwav","git":"https://mackron.github.io/dr_wav","description":"WAV audio loader and writer."}
+{
+  "name": "drwav",
+  "description": "WAV audio loader and writer.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"pthreads4w","git":"https://sourceforge.net/projects/pthreads4w/","description":"POSIX Threads for Windows"}
+{
+  "name": "pthreads4w",
+  "description": "POSIX Threads for Windows",
+  "git": "",
+  "target_link": ""
+}

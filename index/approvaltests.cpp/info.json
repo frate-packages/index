@@ -1,21 +1,6 @@
 {
   "name": "approvaltests.cpp",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/approvals/ApprovalTests.cpp",
-  "git_short": "approvals/ApprovalTests.cpp",
-  "git_prefixed": "gh:approvals/ApprovalTests.cpp",
-  "stars": 292,
-  "forks": 49,
-  "open_issues": 25,
-  "maintainers": [],
-  "watchers": 15,
   "description": "Approval Tests allow you to verify a chunk of output (such as a file) in one operation as opposed to writing test assertions for each element.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "approvals",
-  "owner_type": "Organization"
+  "git": "https://github.com/approvals/ApprovalTests.cpp",
+  "target_link": ""
 }

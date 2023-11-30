@@ -1,21 +1,6 @@
 {
   "name": "stb",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/nothings/stb",
-  "git_short": "nothings/stb",
-  "git_prefixed": "gh:nothings/stb",
-  "stars": 23658,
-  "forks": 7807,
-  "open_issues": 239,
-  "maintainers": [],
-  "watchers": 622,
   "description": "single-file public domain libraries for C/C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "nothings",
-  "owner_type": "User"
+  "git": "https://github.com/nothings/stb",
+  "target_link": ""
 }

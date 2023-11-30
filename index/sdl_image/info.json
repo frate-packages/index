@@ -1,1 +1,6 @@
-{"name":"sdl_image","git":"https://www.libsdl.org/projects/SDL_image/","description":"SDL_image is an image file loading library"}
+{
+  "name": "sdl_image",
+  "description": "SDL_image is an image file loading library",
+  "git": "",
+  "target_link": ""
+}

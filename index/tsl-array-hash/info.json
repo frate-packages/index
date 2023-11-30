@@ -1,29 +1,6 @@
 {
   "name": "tsl-array-hash",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.4.0",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.7.0",
-    "v0.7.1"
-  ],
-  "git": "https://github.com/Tessil/array-hash",
-  "git_short": "Tessil/array-hash",
-  "git_prefixed": "gh:Tessil/array-hash",
-  "stars": 171,
-  "forks": 27,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 17,
   "description": "C++ implementation of a fast and memory efficient hash map and hash set specialized for strings.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Tessil",
-  "owner_type": "User"
+  "git": "https://github.com/Tessil/array-hash",
+  "target_link": ""
 }

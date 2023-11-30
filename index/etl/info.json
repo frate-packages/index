@@ -1,1 +1,6 @@
-{"name":"etl","git":"https://www.etlcpp.com/","description":"A C++ template library for embedded applications"}
+{
+  "name": "etl",
+  "description": "A C++ template library for embedded applications",
+  "git": "",
+  "target_link": ""
+}

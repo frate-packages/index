@@ -1,25 +1,6 @@
 {
   "name": "cuda-kat",
-  "versions": [
-    "master",
-    "v0.1.1",
-    "v0.1.0",
-    "v0.1.1",
-    "v0.2"
-  ],
-  "git": "https://github.com/eyalroz/cuda-kat",
-  "git_short": "eyalroz/cuda-kat",
-  "git_prefixed": "gh:eyalroz/cuda-kat",
-  "stars": 98,
-  "forks": 7,
-  "open_issues": 65,
-  "maintainers": [],
-  "watchers": 8,
   "description": "CUDA kernel author's tools",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "Cuda",
-  "owner": "eyalroz",
-  "owner_type": "User"
+  "git": "https://github.com/eyalroz/cuda-kat",
+  "target_link": ""
 }

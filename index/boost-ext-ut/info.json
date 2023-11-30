@@ -1,1 +1,6 @@
-{"name":"boost-ext-ut","git":"https://boost-ext.github.io/ut/","description":"C++20 single header/single module, macro-free micro Unit Testing Framework"}
+{
+  "name": "boost-ext-ut",
+  "description": "C++20 single header/single module, macro-free micro Unit Testing Framework",
+  "git": "",
+  "target_link": ""
+}

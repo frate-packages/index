@@ -1,29 +1,6 @@
 {
   "name": "json-schema-validator",
-  "versions": [
-    "main",
-    "master",
-    "1.0.0",
-    "1.0.0^{}",
-    "2.0.0",
-    "2.0.0^{}",
-    "2.1.0",
-    "2.2.0",
-    "2.2.0^{}"
-  ],
-  "git": "https://github.com/pboettch/json-schema-validator",
-  "git_short": "pboettch/json-schema-validator",
-  "git_prefixed": "gh:pboettch/json-schema-validator",
-  "stars": 423,
-  "forks": 126,
-  "open_issues": 30,
-  "maintainers": [],
-  "watchers": 18,
   "description": "JSON schema validator for JSON for Modern C++ ",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "pboettch",
-  "owner_type": "User"
+  "git": "https://github.com/pboettch/json-schema-validator",
+  "target_link": ""
 }

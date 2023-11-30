@@ -1,1 +1,6 @@
-{"name":"serd","git":"https://drobilla.net/software/serd.html","description":"A lightweight C library for RDF syntax"}
+{
+  "name": "serd",
+  "description": "A lightweight C library for RDF syntax",
+  "git": "",
+  "target_link": ""
+}

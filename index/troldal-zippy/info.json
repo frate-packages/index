@@ -1,21 +1,6 @@
 {
   "name": "troldal-zippy",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/troldal/Zippy",
-  "git_short": "troldal/Zippy",
-  "git_prefixed": "gh:troldal/Zippy",
-  "stars": 26,
-  "forks": 11,
-  "open_issues": 5,
-  "maintainers": [],
-  "watchers": 3,
   "description": "A simple C++ wrapper around the \"miniz\" zip library ",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "troldal",
-  "owner_type": "User"
+  "git": "https://github.com/troldal/Zippy",
+  "target_link": ""
 }

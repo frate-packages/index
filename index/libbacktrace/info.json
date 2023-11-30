@@ -1,21 +1,6 @@
 {
   "name": "libbacktrace",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/ianlancetaylor/libbacktrace",
-  "git_short": "ianlancetaylor/libbacktrace",
-  "git_prefixed": "gh:ianlancetaylor/libbacktrace",
-  "stars": 822,
-  "forks": 250,
-  "open_issues": 38,
-  "maintainers": [],
-  "watchers": 33,
   "description": "A C library that may be linked into a C/C++ program to produce symbolic backtraces.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "ianlancetaylor",
-  "owner_type": "User"
+  "git": "https://github.com/ianlancetaylor/libbacktrace",
+  "target_link": ""
 }

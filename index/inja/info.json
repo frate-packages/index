@@ -1,33 +1,6 @@
 {
   "name": "inja",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.1",
-    "v1.0.0",
-    "v2.0.0",
-    "v2.0.1",
-    "v2.1.0",
-    "v2.2.0",
-    "v3.0.0",
-    "v3.1.0",
-    "v3.2.0",
-    "v3.3.0",
-    "v3.4.0"
-  ],
-  "git": "https://github.com/pantor/inja",
-  "git_short": "pantor/inja",
-  "git_prefixed": "gh:pantor/inja",
-  "stars": 1418,
-  "forks": 215,
-  "open_issues": 38,
-  "maintainers": [],
-  "watchers": 51,
   "description": "Inja is a template engine for modern C++, loosely inspired by jinja for python",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "pantor",
-  "owner_type": "User"
+  "git": "https://github.com/pantor/inja",
+  "target_link": ""
 }

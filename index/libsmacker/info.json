@@ -1,1 +1,6 @@
-{"name":"libsmacker","git":"http://libsmacker.sourceforge.net","description":"A C library for decoding .smk Smacker Video files"}
+{
+  "name": "libsmacker",
+  "description": "A C library for decoding .smk Smacker Video files",
+  "git": "",
+  "target_link": ""
+}

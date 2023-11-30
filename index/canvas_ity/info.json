@@ -1,21 +1,6 @@
 {
   "name": "canvas_ity",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/a-e-k/canvas_ity",
-  "git_short": "a-e-k/canvas_ity",
-  "git_prefixed": "gh:a-e-k/canvas_ity",
-  "stars": 282,
-  "forks": 20,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 10,
   "description": "A tiny, single-header \u0026lt;canvas\u0026gt;-like 2D rasterizer for C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "ISC License",
-  "language": "C++",
-  "owner": "a-e-k",
-  "owner_type": "User"
+  "git": "https://github.com/a-e-k/canvas_ity",
+  "target_link": ""
 }

@@ -1,22 +1,6 @@
 {
   "name": "pdfgen",
-  "versions": [
-    "master",
-    "0.1.0"
-  ],
-  "git": "https://github.com/AndreRenaud/PDFGen",
-  "git_short": "AndreRenaud/PDFGen",
-  "git_prefixed": "gh:AndreRenaud/PDFGen",
-  "stars": 432,
-  "forks": 111,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 31,
   "description": "Simple C PDF Writer/Generation library",
-  "git_description": "",
-  "target_link": "",
-  "license": "The Unlicense",
-  "language": "C",
-  "owner": "AndreRenaud",
-  "owner_type": "User"
+  "git": "https://github.com/AndreRenaud/PDFGen",
+  "target_link": ""
 }

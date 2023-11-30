@@ -1,23 +1,6 @@
 {
   "name": "cppcodec",
-  "versions": [
-    "master",
-    "v0.1",
-    "v0.2"
-  ],
-  "git": "https://github.com/tplgy/cppcodec",
-  "git_short": "tplgy/cppcodec",
-  "git_prefixed": "gh:tplgy/cppcodec",
-  "stars": 555,
-  "forks": 103,
-  "open_issues": 16,
-  "maintainers": [],
-  "watchers": 26,
   "description": "Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "tplgy",
-  "owner_type": "Organization"
+  "git": "https://github.com/tplgy/cppcodec",
+  "target_link": ""
 }

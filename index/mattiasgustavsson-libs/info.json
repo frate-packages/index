@@ -1,21 +1,6 @@
 {
   "name": "mattiasgustavsson-libs",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/mattiasgustavsson/libs",
-  "git_short": "mattiasgustavsson/libs",
-  "git_prefixed": "gh:mattiasgustavsson/libs",
-  "stars": 1376,
-  "forks": 154,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 51,
   "description": "Single-file public domain libraries for C/C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C",
-  "owner": "mattiasgustavsson",
-  "owner_type": "User"
+  "git": "https://github.com/mattiasgustavsson/libs",
+  "target_link": ""
 }

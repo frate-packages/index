@@ -1,32 +1,6 @@
 {
   "name": "string-view-lite",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v1.0.0",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.3.0",
-    "v1.4.0",
-    "v1.5.0",
-    "v1.5.1",
-    "v1.6.0",
-    "v1.7.0"
-  ],
-  "git": "https://github.com/martinmoene/string-view-lite",
-  "git_short": "martinmoene/string-view-lite",
-  "git_prefixed": "gh:martinmoene/string-view-lite",
-  "stars": 380,
-  "forks": 43,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 14,
   "description": "string-view lite - A C++17-like string_view for C++98, C++11 and later in a single-file header-only library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/string-view-lite",
+  "target_link": ""
 }

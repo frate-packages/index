@@ -1,29 +1,6 @@
 {
   "name": "nextsilicon-cpp-subprocess",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.0.3",
-    "v1.0.4",
-    "v2.0",
-    "v2.0.1",
-    "v2.0.2"
-  ],
-  "git": "https://github.com/nextsilicon/cpp-subprocess",
-  "git_short": "nextsilicon/cpp-subprocess",
-  "git_prefixed": "gh:nextsilicon/cpp-subprocess",
-  "stars": 2,
-  "forks": 1,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Subprocessing with modern C++. The only goal was to develop something that is as close as possible to the Python subprocess module in dealing with processes.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "nextsilicon",
-  "owner_type": "Organization"
+  "git": "https://github.com/nextsilicon/cpp-subprocess",
+  "target_link": ""
 }

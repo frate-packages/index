@@ -1,25 +1,6 @@
 {
   "name": "jpeg-compressor",
-  "versions": [
-    "master",
-    "v101",
-    "v102",
-    "v103",
-    "v104"
-  ],
-  "git": "https://github.com/richgel999/jpeg-compressor",
-  "git_short": "richgel999/jpeg-compressor",
-  "git_prefixed": "gh:richgel999/jpeg-compressor",
-  "stars": 190,
-  "forks": 53,
-  "open_issues": 11,
-  "maintainers": [],
-  "watchers": 8,
   "description": "C++ JPEG compression/fuzzed low-RAM JPEG decompression codec with Public Domain or Apache 2.0 license",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C",
-  "owner": "richgel999",
-  "owner_type": "User"
+  "git": "https://github.com/richgel999/jpeg-compressor",
+  "target_link": ""
 }

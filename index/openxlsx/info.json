@@ -1,24 +1,6 @@
 {
   "name": "openxlsx",
-  "versions": [
-    "dependabot/pip/Benchmarks/gbench/scipy-1.10.0",
-    "master",
-    "v0.3.1",
-    "v0.3.2"
-  ],
-  "git": "https://github.com/troldal/OpenXLSX",
-  "git_short": "troldal/OpenXLSX",
-  "git_prefixed": "gh:troldal/OpenXLSX",
-  "stars": 1083,
-  "forks": 275,
-  "open_issues": 90,
-  "maintainers": [],
-  "watchers": 49,
   "description": "reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "C++",
-  "owner": "troldal",
-  "owner_type": "User"
+  "git": "https://github.com/troldal/OpenXLSX",
+  "target_link": ""
 }

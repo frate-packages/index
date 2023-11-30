@@ -1,1 +1,6 @@
-{"name":"irrxml","git":"http://www.ambiera.com/irrxml","description":"irrXML is a simple and fast open source xml parser for C++"}
+{
+  "name": "irrxml",
+  "description": "irrXML is a simple and fast open source xml parser for C++",
+  "git": "",
+  "target_link": ""
+}

@@ -1,23 +1,6 @@
 {
   "name": "bvdberg-ctest",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.0.0^{}"
-  ],
-  "git": "https://github.com/bvdberg/ctest",
-  "git_short": "bvdberg/ctest",
-  "git_prefixed": "gh:bvdberg/ctest",
-  "stars": 210,
-  "forks": 87,
-  "open_issues": 8,
-  "maintainers": [],
-  "watchers": 18,
   "description": "ctest is a unit test framework for software written in C.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "bvdberg",
-  "owner_type": "User"
+  "git": "https://github.com/bvdberg/ctest",
+  "target_link": ""
 }

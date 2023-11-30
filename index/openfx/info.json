@@ -1,1 +1,6 @@
-{"name":"openfx","git":"http://openeffects.org","description":"OpenFX image processing plug-in standard."}
+{
+  "name": "openfx",
+  "description": "OpenFX image processing plug-in standard.",
+  "git": "",
+  "target_link": ""
+}

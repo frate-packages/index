@@ -1,35 +1,6 @@
 {
   "name": "stringzilla",
-  "versions": [
-    "main",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.0.3",
-    "v1.1.0",
-    "v1.1.1",
-    "v1.1.2",
-    "v1.1.3",
-    "v1.2.0",
-    "v1.2.1",
-    "v1.2.2",
-    "v2.0.0",
-    "v2.0.1",
-    "v2.0.2"
-  ],
-  "git": "https://github.com/ashvardanian/StringZilla/",
-  "git_short": "ashvardanian/StringZilla/",
-  "git_prefixed": "gh:ashvardanian/StringZilla/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with Arm Neon and x86 AVX2 \u0026amp; AVX-512 intrinsics.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/ashvardanian/StringZilla/",
+  "target_link": ""
 }

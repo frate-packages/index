@@ -1,1 +1,6 @@
-{"name":"stdgpu","git":"https://stotko.github.io/stdgpu/","description":"Efficient STL-like Data Structures on the GPU"}
+{
+  "name": "stdgpu",
+  "description": "Efficient STL-like Data Structures on the GPU",
+  "git": "",
+  "target_link": ""
+}

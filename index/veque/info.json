@@ -1,34 +1,6 @@
 {
   "name": "veque",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.1.0",
-    "1.2.0",
-    "1.3.0",
-    "1.3.1",
-    "1.3.2",
-    "1.3.3",
-    "1.3.5",
-    "v1.3.4",
-    "v1.3.5",
-    "v1.3.6",
-    "v1.3.7",
-    "v1.3.7^{}"
-  ],
-  "git": "https://github.com/Shmoopty/veque",
-  "git_short": "Shmoopty/veque",
-  "git_prefixed": "gh:Shmoopty/veque",
-  "stars": 105,
-  "forks": 5,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 8,
   "description": "Fast C++ container combining the best features of std::vector and std::deque",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "Shmoopty",
-  "owner_type": "User"
+  "git": "https://github.com/Shmoopty/veque",
+  "target_link": ""
 }

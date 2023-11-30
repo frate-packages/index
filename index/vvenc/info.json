@@ -1,1 +1,6 @@
-{"name":"vvenc","git":"https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html","description":"Fraunhofer Versatile Video Encoder (VVenC)"}
+{
+  "name": "vvenc",
+  "description": "Fraunhofer Versatile Video Encoder (VVenC)",
+  "git": "",
+  "target_link": ""
+}

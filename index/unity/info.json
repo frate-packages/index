@@ -1,1 +1,6 @@
-{"name":"unity","git":"http://www.throwtheswitch.org","description":"Unity Test is a unit testing framework built for C, with a focus on working with embedded toolchains"}
+{
+  "name": "unity",
+  "description": "Unity Test is a unit testing framework built for C, with a focus on working with embedded toolchains",
+  "git": "",
+  "target_link": ""
+}

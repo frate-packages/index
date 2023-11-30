@@ -1,1 +1,6 @@
-{"name":"vdpau","git":"https://www.freedesktop.org/wiki/Software/VDPAU/","description":"VDPAU is the Video Decode and Presentation API for UNIX. It provides an interface to video decode acceleration and presentation hardware present in modern GPUs."}
+{
+  "name": "vdpau",
+  "description": "VDPAU is the Video Decode and Presentation API for UNIX. It provides an interface to video decode acceleration and presentation hardware present in modern GPUs.",
+  "git": "",
+  "target_link": ""
+}

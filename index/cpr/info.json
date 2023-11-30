@@ -1,1 +1,6 @@
-{"name":"cpr","git":"https://docs.libcpr.org/","description":"C++ Requests: Curl for People, a spiritual port of Python Requests"}
+{
+  "name": "cpr",
+  "description": "C++ Requests: Curl for People, a spiritual port of Python Requests",
+  "git": "",
+  "target_link": ""
+}

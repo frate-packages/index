@@ -1,1 +1,6 @@
-{"name":"gainput","git":"https://gainput.johanneskuhlmann.de","description":"Cross-platform C++ input library supporting gamepads, keyboard, mouse, touch."}
+{
+  "name": "gainput",
+  "description": "Cross-platform C++ input library supporting gamepads, keyboard, mouse, touch.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "libnl",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/thom311/libnl",
-  "git_short": "thom311/libnl",
-  "git_prefixed": "gh:thom311/libnl",
-  "stars": 377,
-  "forks": 301,
-  "open_issues": 57,
-  "maintainers": [],
-  "watchers": 42,
   "description": "A collection of libraries providing APIs to netlink protocol based Linux kernel interfaces.",
-  "git_description": "",
-  "target_link": "",
-  "license": "GNU Lesser General Public License v2.1",
-  "language": "C",
-  "owner": "thom311",
-  "owner_type": "User"
+  "git": "https://github.com/thom311/libnl",
+  "target_link": ""
 }

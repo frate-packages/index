@@ -1,1 +1,6 @@
-{"name":"leptonica","git":"http://leptonica.org","description":"Library containing software that is broadly useful for image processing and image analysis applications."}
+{
+  "name": "leptonica",
+  "description": "Library containing software that is broadly useful for image processing and image analysis applications.",
+  "git": "",
+  "target_link": ""
+}

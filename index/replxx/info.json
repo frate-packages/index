@@ -1,29 +1,6 @@
 {
   "name": "replxx",
-  "versions": [
-    "master",
-    "release-0.0.1",
-    "release-0.0.1^{}",
-    "release-0.0.2",
-    "release-0.0.2^{}",
-    "release-0.0.3",
-    "release-0.0.3^{}",
-    "release-0.0.4",
-    "release-0.0.4^{}"
-  ],
-  "git": "https://github.com/AmokHuginnsson/replxx",
-  "git_short": "AmokHuginnsson/replxx",
-  "git_prefixed": "gh:AmokHuginnsson/replxx",
-  "stars": 652,
-  "forks": 100,
-  "open_issues": 28,
-  "maintainers": [],
-  "watchers": 32,
   "description": "\n    A readline and libedit replacement that supports UTF-8,\n    syntax highlighting, hints and Windows and is BSD licensed.\n    ",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "AmokHuginnsson",
-  "owner_type": "User"
+  "git": "https://github.com/AmokHuginnsson/replxx",
+  "target_link": ""
 }

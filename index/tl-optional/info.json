@@ -1,1 +1,6 @@
-{"name":"tl-optional","git":"https://tl.tartanllama.xyz","description":"C++11/14/17 std::optional with functional-style extensions and reference support"}
+{
+  "name": "tl-optional",
+  "description": "C++11/14/17 std::optional with functional-style extensions and reference support",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "astc-codec",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/google/astc-codec",
-  "git_short": "google/astc-codec",
-  "git_prefixed": "gh:google/astc-codec",
-  "stars": 64,
-  "forks": 31,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 10,
   "description": "A software ASTC decoder implementation which supports the ASTC LDR profile",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/astc-codec",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"nodejs","git":"https://nodejs.org","description":"nodejs binaries for use in recipes"}
+{
+  "name": "nodejs",
+  "description": "nodejs binaries for use in recipes",
+  "git": "",
+  "target_link": ""
+}

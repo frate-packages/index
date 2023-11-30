@@ -1,21 +1,6 @@
 {
   "name": "iso8601lib",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/TimSC/iso8601lib",
-  "git_short": "TimSC/iso8601lib",
-  "git_prefixed": "gh:TimSC/iso8601lib",
-  "stars": 5,
-  "forks": 2,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 2,
   "description": "Parsing a subset of ISO 8601 datetimes, dates and times in C.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "TimSC",
-  "owner_type": "User"
+  "git": "https://github.com/TimSC/iso8601lib",
+  "target_link": ""
 }

@@ -1,21 +1,6 @@
 {
   "name": "nv-codec-headers",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/FFmpeg/nv-codec-headers",
-  "git_short": "FFmpeg/nv-codec-headers",
-  "git_prefixed": "gh:FFmpeg/nv-codec-headers",
-  "stars": 234,
-  "forks": 79,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 29,
   "description": "FFmpeg version of headers required to interface with Nvidia's codec APIs",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C",
-  "owner": "FFmpeg",
-  "owner_type": "Organization"
+  "git": "https://github.com/FFmpeg/nv-codec-headers",
+  "target_link": ""
 }

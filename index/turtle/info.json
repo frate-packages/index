@@ -1,24 +1,6 @@
 {
   "name": "turtle",
-  "versions": [
-    "boost-1.70.0",
-    "master",
-    "v1.3.1",
-    "v1.3.2"
-  ],
-  "git": "https://github.com/mat007/turtle",
-  "git_short": "mat007/turtle",
-  "git_prefixed": "gh:mat007/turtle",
-  "stars": 47,
-  "forks": 58,
-  "open_issues": 13,
-  "maintainers": [],
-  "watchers": 6,
   "description": "Turtle is a C++ mock object library based on Boost with a focus on usability, simplicity and flexibility.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "mat007",
-  "owner_type": "User"
+  "git": "https://github.com/mat007/turtle",
+  "target_link": ""
 }

@@ -1,25 +1,6 @@
 {
   "name": "chef-fun",
-  "versions": [
-    "main",
-    "1.0.0",
-    "1.0.0^{}",
-    "1.0.1",
-    "1.0.1^{}"
-  ],
-  "git": "https://gitlab.com/libchef/chef-fun",
-  "git_short": "libchef/chef-fun",
-  "git_prefixed": "gl:libchef/chef-fun",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "C++ Functional programming support library",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://gitlab.com/libchef/chef-fun",
+  "target_link": ""
 }

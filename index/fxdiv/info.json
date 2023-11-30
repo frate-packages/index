@@ -1,21 +1,6 @@
 {
   "name": "fxdiv",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/Maratyszcza/FXdiv",
-  "git_short": "Maratyszcza/FXdiv",
-  "git_prefixed": "gh:Maratyszcza/FXdiv",
-  "stars": 38,
-  "forks": 42,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 8,
   "description": "C99/C++ header-only library for division via fixed-point multiplication by inverse.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Maratyszcza",
-  "owner_type": "User"
+  "git": "https://github.com/Maratyszcza/FXdiv",
+  "target_link": ""
 }

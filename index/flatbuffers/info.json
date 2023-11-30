@@ -1,1 +1,6 @@
-{"name":"flatbuffers","git":"http://google.github.io/flatbuffers","description":"Memory Efficient Serialization Library"}
+{
+  "name": "flatbuffers",
+  "description": "Memory Efficient Serialization Library",
+  "git": "",
+  "target_link": ""
+}

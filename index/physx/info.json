@@ -1,25 +1,6 @@
 {
   "name": "physx",
-  "versions": [
-    "3.4",
-    "4.0",
-    "4.1",
-    "3.4.2-bsd",
-    "4.0.0"
-  ],
-  "git": "https://github.com/NVIDIAGameWorks/PhysX",
-  "git_short": "NVIDIAGameWorks/PhysX",
-  "git_prefixed": "gh:NVIDIAGameWorks/PhysX",
-  "stars": 2968,
-  "forks": 777,
-  "open_issues": 326,
-  "maintainers": [],
-  "watchers": 144,
   "description": "The NVIDIA PhysX SDK is a scalable multi-platform physics solution supporting a wide range of devices, from smartphones to high-end multicore CPUs and GPUs.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "NVIDIAGameWorks",
-  "owner_type": "Organization"
+  "git": "https://github.com/NVIDIAGameWorks/PhysX",
+  "target_link": ""
 }

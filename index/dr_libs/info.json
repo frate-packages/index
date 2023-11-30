@@ -1,21 +1,6 @@
 {
   "name": "dr_libs",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/mackron/dr_libs",
-  "git_short": "mackron/dr_libs",
-  "git_prefixed": "gh:mackron/dr_libs",
-  "stars": 1061,
-  "forks": 225,
-  "open_issues": 10,
-  "maintainers": [],
-  "watchers": 44,
   "description": "Public domain, single file audio decoding libraries for C and C++.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "mackron",
-  "owner_type": "User"
+  "git": "https://github.com/mackron/dr_libs",
+  "target_link": ""
 }

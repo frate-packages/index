@@ -1,1 +1,6 @@
-{"name":"extra-cmake-modules","git":"https://api.kde.org/ecm/","description":"KDE's CMake modules"}
+{
+  "name": "extra-cmake-modules",
+  "description": "KDE's CMake modules",
+  "git": "",
+  "target_link": ""
+}

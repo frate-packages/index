@@ -1,29 +1,6 @@
 {
   "name": "mpark-variant",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.2.1",
-    "v1.2.2",
-    "v1.3.0",
-    "v1.4.0"
-  ],
-  "git": "https://github.com/mpark/variant",
-  "git_short": "mpark/variant",
-  "git_prefixed": "gh:mpark/variant",
-  "stars": 636,
-  "forks": 120,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 31,
   "description": "C++17 std::variant for C++11/14/17",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "mpark",
-  "owner_type": "User"
+  "git": "https://github.com/mpark/variant",
+  "target_link": ""
 }

@@ -1,30 +1,6 @@
 {
   "name": "ftxui",
-  "versions": [
-    "main",
-    "v0.10",
-    "v0.11",
-    "v0.9",
-    "v2.0.0",
-    "v3.0.0",
-    "v4.0.0",
-    "v4.1.0",
-    "v4.1.1",
-    "v5.0.0"
-  ],
-  "git": "https://github.com/ArthurSonzogni/FTXUI",
-  "git_short": "ArthurSonzogni/FTXUI",
-  "git_prefixed": "gh:ArthurSonzogni/FTXUI",
-  "stars": 5440,
-  "forks": 382,
-  "open_issues": 32,
-  "maintainers": [],
-  "watchers": 64,
   "description": "C++ Functional Terminal User Interface.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "ArthurSonzogni",
-  "owner_type": "User"
+  "git": "https://github.com/ArthurSonzogni/FTXUI",
+  "target_link": ""
 }

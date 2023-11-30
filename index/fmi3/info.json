@@ -1,1 +1,6 @@
-{"name":"fmi3","git":"https://fmi-standard.org","description":"Functional Mock-up Interface (FMI)"}
+{
+  "name": "fmi3",
+  "description": "Functional Mock-up Interface (FMI)",
+  "git": "",
+  "target_link": ""
+}

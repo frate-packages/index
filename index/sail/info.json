@@ -1,1 +1,6 @@
-{"name":"sail","git":"https://sail.software","description":"The missing small and fast image decoding library for humans (not for machines)"}
+{
+  "name": "sail",
+  "description": "The missing small and fast image decoding library for humans (not for machines)",
+  "git": "",
+  "target_link": ""
+}

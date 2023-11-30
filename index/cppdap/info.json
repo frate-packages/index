@@ -1,22 +1,6 @@
 {
   "name": "cppdap",
-  "versions": [
-    "main",
-    "dap-1.58.0-a"
-  ],
-  "git": "https://github.com/google/cppdap",
-  "git_short": "google/cppdap",
-  "git_prefixed": "gh:google/cppdap",
-  "stars": 124,
-  "forks": 42,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 10,
   "description": "Debug Adapter Protocol SDK",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/cppdap",
+  "target_link": ""
 }

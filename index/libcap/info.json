@@ -1,1 +1,6 @@
-{"name":"libcap","git":"https://git.kernel.org/pub/scm/libs/libcap/libcap.git","description":"This is a library for getting and setting POSIX.1e (formerly POSIX 6) draft 15 capabilities"}
+{
+  "name": "libcap",
+  "description": "This is a library for getting and setting POSIX.1e (formerly POSIX 6) draft 15 capabilities",
+  "git": "",
+  "target_link": ""
+}

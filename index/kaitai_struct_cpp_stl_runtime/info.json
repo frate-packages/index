@@ -1,1 +1,6 @@
-{"name":"kaitai_struct_cpp_stl_runtime","git":"https://kaitai.io/","description":"kaitai struct c++ runtime library"}
+{
+  "name": "kaitai_struct_cpp_stl_runtime",
+  "description": "kaitai struct c++ runtime library",
+  "git": "",
+  "target_link": ""
+}

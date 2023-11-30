@@ -1,1 +1,6 @@
-{"name":"tl-expected","git":"https://tl.tartanllama.xyz","description":"C++11/14/17 std::expected with functional-style extensions"}
+{
+  "name": "tl-expected",
+  "description": "C++11/14/17 std::expected with functional-style extensions",
+  "git": "",
+  "target_link": ""
+}

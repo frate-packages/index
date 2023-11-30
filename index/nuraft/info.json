@@ -1,1 +1,6 @@
-{"name":"nuraft","git":"https://github.corp.ebay.com/sds/NuRaft","description":"Cornerstone based RAFT library."}
+{
+  "name": "nuraft",
+  "description": "Cornerstone based RAFT library.",
+  "git": "",
+  "target_link": ""
+}

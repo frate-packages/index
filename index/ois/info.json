@@ -1,27 +1,6 @@
 {
   "name": "ois",
-  "versions": [
-    "master",
-    "v1.3",
-    "v1.3^{}",
-    "v1.4",
-    "v1.4^{}",
-    "v1.5",
-    "v1.5.1"
-  ],
-  "git": "https://github.com/wgois/OIS",
-  "git_short": "wgois/OIS",
-  "git_prefixed": "gh:wgois/OIS",
-  "stars": 244,
-  "forks": 86,
-  "open_issues": 14,
-  "maintainers": [],
-  "watchers": 31,
   "description": "Object oriented Input System.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "wgois",
-  "owner_type": "Organization"
+  "git": "https://github.com/wgois/OIS",
+  "target_link": ""
 }

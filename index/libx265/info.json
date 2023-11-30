@@ -1,1 +1,6 @@
-{"name":"libx265","git":"https://www.videolan.org/developers/x265.html","description":"x265 is the leading H.265 / HEVC encoder software library"}
+{
+  "name": "libx265",
+  "description": "x265 is the leading H.265 / HEVC encoder software library",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"qarchive","git":"https://antonyjr.in/QArchive/","description":"QArchive is a cross-platform C++ library that modernizes libarchive, This library helps you to extract and compress archives supported by libarchive"}
+{
+  "name": "qarchive",
+  "description": "QArchive is a cross-platform C++ library that modernizes libarchive, This library helps you to extract and compress archives supported by libarchive",
+  "git": "",
+  "target_link": ""
+}

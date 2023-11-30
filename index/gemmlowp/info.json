@@ -1,21 +1,6 @@
 {
   "name": "gemmlowp",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/google/gemmlowp",
-  "git_short": "google/gemmlowp",
-  "git_prefixed": "gh:google/gemmlowp",
-  "stars": 1703,
-  "forks": 453,
-  "open_issues": 16,
-  "maintainers": [],
-  "watchers": 111,
   "description": "Low-precision matrix multiplication",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/gemmlowp",
+  "target_link": ""
 }

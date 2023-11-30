@@ -1,19 +1,6 @@
 {
   "name": "watcher",
-  "versions": [],
-  "git": "https://github.com/e-dant/watcher/",
-  "git_short": "e-dant/watcher/",
-  "git_prefixed": "gh:e-dant/watcher/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Filesystem watcher. Works anywhere. Simple, efficient and friendly.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/e-dant/watcher/",
+  "target_link": ""
 }

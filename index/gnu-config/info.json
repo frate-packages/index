@@ -1,1 +1,6 @@
-{"name":"gnu-config","git":"https://savannah.gnu.org/projects/config/","description":"The GNU config.guess and config.sub scripts"}
+{
+  "name": "gnu-config",
+  "description": "The GNU config.guess and config.sub scripts",
+  "git": "",
+  "target_link": ""
+}

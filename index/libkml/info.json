@@ -1,26 +1,6 @@
 {
   "name": "libkml",
-  "versions": [
-    "master",
-    "1.3.0",
-    "1.3.0-rc0",
-    "1.3.0-rc1",
-    "1.3.0-rc2",
-    "release-1.1.0"
-  ],
-  "git": "https://github.com/libkml/libkml",
-  "git_short": "libkml/libkml",
-  "git_prefixed": "gh:libkml/libkml",
-  "stars": 47,
-  "forks": 31,
-  "open_issues": 48,
-  "maintainers": [],
-  "watchers": 11,
   "description": "Reference implementation of OGC KML 2.2",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "libkml",
-  "owner_type": "Organization"
+  "git": "https://github.com/libkml/libkml",
+  "target_link": ""
 }

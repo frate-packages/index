@@ -1,26 +1,6 @@
 {
   "name": "libassert",
-  "versions": [
-    "main",
-    "v0.1",
-    "v1.0",
-    "v1.1",
-    "v1.2",
-    "v1.2.1"
-  ],
-  "git": "https://github.com/jeremy-rifkin/libassert",
-  "git_short": "jeremy-rifkin/libassert",
-  "git_prefixed": "gh:jeremy-rifkin/libassert",
-  "stars": 294,
-  "forks": 28,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 7,
   "description": "The most over-engineered and overpowered C++ assertion library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "jeremy-rifkin",
-  "owner_type": "User"
+  "git": "https://github.com/jeremy-rifkin/libassert",
+  "target_link": ""
 }

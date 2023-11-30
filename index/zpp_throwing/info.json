@@ -1,23 +1,6 @@
 {
   "name": "zpp_throwing",
-  "versions": [
-    "main",
-    "v1.0",
-    "v1.0.1"
-  ],
-  "git": "https://github.com/eyalz800/zpp_throwing",
-  "git_short": "eyalz800/zpp_throwing",
-  "git_prefixed": "gh:eyalz800/zpp_throwing",
-  "stars": 67,
-  "forks": 3,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 8,
   "description": "Using coroutines to implement C++ exceptions for freestanding environments",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "eyalz800",
-  "owner_type": "User"
+  "git": "https://github.com/eyalz800/zpp_throwing",
+  "target_link": ""
 }

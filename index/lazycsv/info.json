@@ -1,21 +1,6 @@
 {
   "name": "lazycsv",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/ashtum/lazycsv",
-  "git_short": "ashtum/lazycsv",
-  "git_prefixed": "gh:ashtum/lazycsv",
-  "stars": 68,
-  "forks": 9,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 3,
   "description": "A fast, lightweight and single-header C++ csv parser library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "ashtum",
-  "owner_type": "User"
+  "git": "https://github.com/ashtum/lazycsv",
+  "target_link": ""
 }

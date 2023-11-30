@@ -1,1 +1,6 @@
-{"name":"cmocka","git":"https://cmocka.org","description":"A unit testing framework for C"}
+{
+  "name": "cmocka",
+  "description": "A unit testing framework for C",
+  "git": "",
+  "target_link": ""
+}

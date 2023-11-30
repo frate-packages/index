@@ -1,25 +1,6 @@
 {
   "name": "svgpp",
-  "versions": [
-    "1.2.1",
-    "master",
-    "v1.2.2",
-    "v1.2.3",
-    "v1.3.0"
-  ],
-  "git": "https://github.com/svgpp/svgpp",
-  "git_short": "svgpp/svgpp",
-  "git_prefixed": "gh:svgpp/svgpp",
-  "stars": 501,
-  "forks": 128,
-  "open_issues": 34,
-  "maintainers": [],
-  "watchers": 36,
   "description": "SVG++ library contains parsers for various SVG syntaxes, adapters that simplify handling of parsed data and a lot of other utilities and helpers for the most common tasks.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "svgpp",
-  "owner_type": "User"
+  "git": "https://github.com/svgpp/svgpp",
+  "target_link": ""
 }

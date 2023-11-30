@@ -1,1 +1,6 @@
-{"name":"libliftoff","git":"https://github.com/project/package","description":"Lightweight KMS plane library."}
+{
+  "name": "libliftoff",
+  "description": "Lightweight KMS plane library.",
+  "git": "https://github.com/project/package",
+  "target_link": ""
+}

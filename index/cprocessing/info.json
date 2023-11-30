@@ -1,19 +1,6 @@
 {
   "name": "cprocessing",
-  "versions": [],
-  "git": "https://github.com/maksmakuta/CProcessing",
-  "git_short": "maksmakuta/CProcessing",
-  "git_prefixed": "gh:maksmakuta/CProcessing",
-  "stars": 24,
-  "forks": 2,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 3,
   "description": "Processing programming for C++ ",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "maksmakuta",
-  "owner_type": "User"
+  "git": "https://github.com/maksmakuta/CProcessing",
+  "target_link": ""
 }

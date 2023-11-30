@@ -1,1 +1,6 @@
-{"name":"libdaemon","git":"http://0pointer.de/lennart/projects/libdaemon/","description":"a lightweight C library that eases the writing of UNIX daemons"}
+{
+  "name": "libdaemon",
+  "description": "a lightweight C library that eases the writing of UNIX daemons",
+  "git": "",
+  "target_link": ""
+}

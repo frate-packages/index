@@ -1,1 +1,6 @@
-{"name":"linux-headers-generic","git":"https://www.kernel.org/","description":"Generic Linux kernel headers"}
+{
+  "name": "linux-headers-generic",
+  "description": "Generic Linux kernel headers",
+  "git": "",
+  "target_link": ""
+}

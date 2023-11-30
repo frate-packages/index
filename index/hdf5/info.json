@@ -1,1 +1,6 @@
-{"name":"hdf5","git":"https://portal.hdfgroup.org/display/HDF5/HDF5","description":"HDF5 is a data model, library, and file format for storing and managing data."}
+{
+  "name": "hdf5",
+  "description": "HDF5 is a data model, library, and file format for storing and managing data.",
+  "git": "",
+  "target_link": ""
+}

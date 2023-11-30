@@ -1,1 +1,6 @@
-{"name":"openmesh","git":"https://www.graphics.rwth-aachen.de/software/openmesh","description":"OpenMesh is a generic and efficient data structure for representing and manipulating polygonal meshes."}
+{
+  "name": "openmesh",
+  "description": "OpenMesh is a generic and efficient data structure for representing and manipulating polygonal meshes.",
+  "git": "",
+  "target_link": ""
+}

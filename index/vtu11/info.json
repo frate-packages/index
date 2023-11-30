@@ -1,24 +1,6 @@
 {
   "name": "vtu11",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.1",
-    "v1.2"
-  ],
-  "git": "https://github.com/phmkopp/vtu11",
-  "git_short": "phmkopp/vtu11",
-  "git_prefixed": "gh:phmkopp/vtu11",
-  "stars": 22,
-  "forks": 4,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 5,
   "description": "Vtu11 is a small C++ header-only library to write unstructured grids using the vtu file format",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "C++",
-  "owner": "phmkopp",
-  "owner_type": "User"
+  "git": "https://github.com/phmkopp/vtu11",
+  "target_link": ""
 }

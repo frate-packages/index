@@ -1,22 +1,6 @@
 {
   "name": "googleapis",
-  "versions": [
-    "master",
-    "common-protos-1_3_1"
-  ],
-  "git": "https://github.com/googleapis/googleapis",
-  "git_short": "googleapis/googleapis",
-  "git_prefixed": "gh:googleapis/googleapis",
-  "stars": 5926,
-  "forks": 2474,
-  "open_issues": 48,
-  "maintainers": [],
-  "watchers": 319,
   "description": "Public interface definitions of Google APIs",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "Starlark",
-  "owner": "googleapis",
-  "owner_type": "Organization"
+  "git": "https://github.com/googleapis/googleapis",
+  "target_link": ""
 }

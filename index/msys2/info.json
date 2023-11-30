@@ -1,1 +1,6 @@
-{"name":"msys2","git":"http://www.msys2.org","description":"MSYS2 is a software distro and building platform for Windows"}
+{
+  "name": "msys2",
+  "description": "MSYS2 is a software distro and building platform for Windows",
+  "git": "",
+  "target_link": ""
+}

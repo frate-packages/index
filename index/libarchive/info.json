@@ -1,1 +1,6 @@
-{"name":"libarchive","git":"https://libarchive.org","description":"Multi-format archive and compression library"}
+{
+  "name": "libarchive",
+  "description": "Multi-format archive and compression library",
+  "git": "",
+  "target_link": ""
+}

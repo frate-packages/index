@@ -1,35 +1,6 @@
 {
   "name": "oatpp-websocket",
-  "versions": [
-    "master",
-    "0.19.1",
-    "0.19.10",
-    "0.19.11",
-    "0.19.12",
-    "0.19.4",
-    "0.19.6",
-    "0.19.7",
-    "0.19.8",
-    "0.19.9",
-    "1.0.0",
-    "1.1.0",
-    "1.2.0",
-    "1.2.5",
-    "1.3.0"
-  ],
-  "git": "https://github.com/oatpp/oatpp-websocket",
-  "git_short": "oatpp/oatpp-websocket",
-  "git_prefixed": "gh:oatpp/oatpp-websocket",
-  "stars": 73,
-  "forks": 29,
-  "open_issues": 13,
-  "maintainers": [],
-  "watchers": 11,
   "description": "WebSocket functionality for oatpp applications",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "oatpp",
-  "owner_type": "Organization"
+  "git": "https://github.com/oatpp/oatpp-websocket",
+  "target_link": ""
 }

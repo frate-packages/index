@@ -1,1 +1,6 @@
-{"name":"unqlite","git":"https://unqlite.org","description":"An Embedded NoSQL, Transactional Database Engine."}
+{
+  "name": "unqlite",
+  "description": "An Embedded NoSQL, Transactional Database Engine.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"openpam","git":"https://openpam.org/","description":"OpenPAM library"}
+{
+  "name": "openpam",
+  "description": "OpenPAM library",
+  "git": "",
+  "target_link": ""
+}

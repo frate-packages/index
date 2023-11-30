@@ -1,31 +1,6 @@
 {
   "name": "kplot",
-  "versions": [
-    "master",
-    "VERSION_0_1_10",
-    "VERSION_0_1_12",
-    "VERSION_0_1_13",
-    "VERSION_0_1_14",
-    "VERSION_0_1_15",
-    "VERSION_0_1_4",
-    "VERSION_0_1_5",
-    "VERSION_0_1_6",
-    "VERSION_0_1_7",
-    "VERSION_0_1_8"
-  ],
-  "git": "https://github.com/kristapsdz/kplot/",
-  "git_short": "kristapsdz/kplot/",
-  "git_prefixed": "gh:kristapsdz/kplot/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "open source Cairo plotting library",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/kristapsdz/kplot/",
+  "target_link": ""
 }

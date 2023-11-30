@@ -1,1 +1,6 @@
-{"name":"breakpad","git":"https://chromium.googlesource.com/breakpad/breakpad/","description":"A set of client and server components which implement a crash-reporting system"}
+{
+  "name": "breakpad",
+  "description": "A set of client and server components which implement a crash-reporting system",
+  "git": "",
+  "target_link": ""
+}

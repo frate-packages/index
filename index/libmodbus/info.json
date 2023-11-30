@@ -1,1 +1,6 @@
-{"name":"libmodbus","git":"https://libmodbus.org/","description":"libmodbus is a free software library to send/receive data according to the Modbus protocol"}
+{
+  "name": "libmodbus",
+  "description": "libmodbus is a free software library to send/receive data according to the Modbus protocol",
+  "git": "",
+  "target_link": ""
+}

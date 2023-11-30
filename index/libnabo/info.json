@@ -1,29 +1,6 @@
 {
   "name": "libnabo",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.0.1",
-    "1.0.2",
-    "1.0.3",
-    "1.0.4",
-    "1.0.5",
-    "1.0.6",
-    "1.0.7"
-  ],
-  "git": "https://github.com/ethz-asl/libnabo",
-  "git_short": "ethz-asl/libnabo",
-  "git_prefixed": "gh:ethz-asl/libnabo",
-  "stars": 406,
-  "forks": 143,
-  "open_issues": 34,
-  "maintainers": [],
-  "watchers": 43,
   "description": "A fast K Nearest Neighbor library for low-dimensional spaces",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-  "language": "C++",
-  "owner": "norlab-ulaval",
-  "owner_type": "Organization"
+  "git": "https://github.com/ethz-asl/libnabo",
+  "target_link": ""
 }

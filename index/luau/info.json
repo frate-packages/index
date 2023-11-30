@@ -1,1 +1,6 @@
-{"name":"luau","git":"https://luau-lang.org/","description":"A fast, small, safe, gradually typed embeddable scripting language derived from Lua"}
+{
+  "name": "luau",
+  "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+  "git": "",
+  "target_link": ""
+}

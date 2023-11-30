@@ -1,1 +1,6 @@
-{"name":"embree3","git":"https://embree.github.io/","description":"Intel's collection of high-performance ray tracing kernels."}
+{
+  "name": "embree3",
+  "description": "Intel's collection of high-performance ray tracing kernels.",
+  "git": "",
+  "target_link": ""
+}

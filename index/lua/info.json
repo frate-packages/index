@@ -1,1 +1,6 @@
-{"name":"lua","git":"https://www.lua.org/","description":"Lua is a powerful, efficient, lightweight, embeddable scripting language."}
+{
+  "name": "lua",
+  "description": "Lua is a powerful, efficient, lightweight, embeddable scripting language.",
+  "git": "",
+  "target_link": ""
+}

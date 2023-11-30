@@ -1,28 +1,6 @@
 {
   "name": "tabulate",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.1",
-    "v1.2",
-    "v1.3",
-    "v1.3^{}",
-    "v1.4",
-    "v1.5"
-  ],
-  "git": "https://github.com/p-ranav/tabulate",
-  "git_short": "p-ranav/tabulate",
-  "git_prefixed": "gh:p-ranav/tabulate",
-  "stars": 1668,
-  "forks": 157,
-  "open_issues": 28,
-  "maintainers": [],
-  "watchers": 32,
   "description": "Table Maker for Modern C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "p-ranav",
-  "owner_type": "User"
+  "git": "https://github.com/p-ranav/tabulate",
+  "target_link": ""
 }

@@ -1,21 +1,6 @@
 {
   "name": "cpuinfo",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/pytorch/cpuinfo",
-  "git_short": "pytorch/cpuinfo",
-  "git_prefixed": "gh:pytorch/cpuinfo",
-  "stars": 865,
-  "forks": 290,
-  "open_issues": 46,
-  "maintainers": [],
-  "watchers": 231,
   "description": "cpuinfo is a library to detect essential for performance optimization information about host CPU.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C",
-  "owner": "pytorch",
-  "owner_type": "Organization"
+  "git": "https://github.com/pytorch/cpuinfo",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"drflac","git":"https://mackron.github.io/dr_flac","description":"FLAC audio decoder."}
+{
+  "name": "drflac",
+  "description": "FLAC audio decoder.",
+  "git": "",
+  "target_link": ""
+}

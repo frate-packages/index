@@ -1,1 +1,6 @@
-{"name":"c-ares","git":"https://c-ares.haxx.se/","description":"A C library for asynchronous DNS requests"}
+{
+  "name": "c-ares",
+  "description": "A C library for asynchronous DNS requests",
+  "git": "",
+  "target_link": ""
+}

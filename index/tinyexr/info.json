@@ -1,32 +1,6 @@
 {
   "name": "tinyexr",
-  "versions": [
-    "v0.9.0",
-    "v0.9.0^{}",
-    "v0.9.5",
-    "v0.9.5^{}",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.0.3",
-    "v1.0.4",
-    "v1.0.5",
-    "v1.0.6",
-    "v1.0.7"
-  ],
-  "git": "https://github.com/syoyo/tinyexr",
-  "git_short": "syoyo/tinyexr",
-  "git_prefixed": "gh:syoyo/tinyexr",
-  "stars": 629,
-  "forks": 124,
-  "open_issues": 11,
-  "maintainers": [],
-  "watchers": 28,
   "description": "Tiny OpenEXR image loader/saver library",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "syoyo",
-  "owner_type": "User"
+  "git": "https://github.com/syoyo/tinyexr",
+  "target_link": ""
 }

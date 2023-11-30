@@ -1,1 +1,6 @@
-{"name":"unicorn","git":"https://www.unicorn-engine.org/","description":"Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework."}
+{
+  "name": "unicorn",
+  "description": "Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.",
+  "git": "",
+  "target_link": ""
+}

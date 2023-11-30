@@ -1,1 +1,6 @@
-{"name":"argtable2","git":"http://argtable.sourceforge.net/","description":"Argtable is an ANSI C library for parsing GNU style command line options with a minimum of fuss."}
+{
+  "name": "argtable2",
+  "description": "Argtable is an ANSI C library for parsing GNU style command line options with a minimum of fuss.",
+  "git": "",
+  "target_link": ""
+}

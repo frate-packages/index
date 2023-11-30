@@ -1,22 +1,6 @@
 {
   "name": "pthreadpool",
-  "versions": [
-    "master",
-    "0.1"
-  ],
-  "git": "https://github.com/Maratyszcza/pthreadpool",
-  "git_short": "Maratyszcza/pthreadpool",
-  "git_prefixed": "gh:Maratyszcza/pthreadpool",
-  "stars": 302,
-  "forks": 156,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 19,
   "description": "pthreadpool is a portable and efficient thread pool implementation. It provides similar functionality to #pragma omp parallel for, but with additional features.",
-  "git_description": "",
-  "target_link": "",
-  "license": "BSD 2-Clause \"Simplified\" License",
-  "language": "C++",
-  "owner": "Maratyszcza",
-  "owner_type": "User"
+  "git": "https://github.com/Maratyszcza/pthreadpool",
+  "target_link": ""
 }

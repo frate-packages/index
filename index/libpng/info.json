@@ -1,1 +1,6 @@
-{"name":"libpng","git":"http://www.libpng.org","description":"libpng is the official PNG file format reference library."}
+{
+  "name": "libpng",
+  "description": "libpng is the official PNG file format reference library.",
+  "git": "",
+  "target_link": ""
+}

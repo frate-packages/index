@@ -1,1 +1,6 @@
-{"name":"libattr","git":"https://savannah.nongnu.org/projects/attr/","description":"Commands for Manipulating Filesystem Extended Attributes"}
+{
+  "name": "libattr",
+  "description": "Commands for Manipulating Filesystem Extended Attributes",
+  "git": "",
+  "target_link": ""
+}

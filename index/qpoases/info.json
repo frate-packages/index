@@ -1,21 +1,6 @@
 {
   "name": "qpoases",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/coin-or/qpOASES",
-  "git_short": "coin-or/qpOASES",
-  "git_prefixed": "gh:coin-or/qpOASES",
-  "stars": 293,
-  "forks": 118,
-  "open_issues": 78,
-  "maintainers": [],
-  "watchers": 16,
   "description": "Open-source C++ implementation of the recently proposed online active set strategy.",
-  "git_description": "",
-  "target_link": "",
-  "license": "GNU Lesser General Public License v2.1",
-  "language": "C++",
-  "owner": "coin-or",
-  "owner_type": "Organization"
+  "git": "https://github.com/coin-or/qpOASES",
+  "target_link": ""
 }

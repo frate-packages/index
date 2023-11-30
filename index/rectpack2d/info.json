@@ -1,21 +1,6 @@
 {
   "name": "rectpack2d",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/TeamHypersomnia/rectpack2D",
-  "git_short": "TeamHypersomnia/rectpack2D",
-  "git_prefixed": "gh:TeamHypersomnia/rectpack2D",
-  "stars": 361,
-  "forks": 37,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 16,
   "description": "C++17 rectangle packing library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "TeamHypersomnia",
-  "owner_type": "Organization"
+  "git": "https://github.com/TeamHypersomnia/rectpack2D",
+  "target_link": ""
 }

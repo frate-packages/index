@@ -1,1 +1,6 @@
-{"name":"bigint","git":"https://mattmccutchen.net/bigint","description":"C++ Big Integer Library"}
+{
+  "name": "bigint",
+  "description": "C++ Big Integer Library",
+  "git": "",
+  "target_link": ""
+}

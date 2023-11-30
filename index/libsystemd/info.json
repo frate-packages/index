@@ -1,1 +1,6 @@
-{"name":"libsystemd","git":"https://www.freedesktop.org/wiki/Software/systemd/","description":"System and Service Manager API library"}
+{
+  "name": "libsystemd",
+  "description": "System and Service Manager API library",
+  "git": "",
+  "target_link": ""
+}

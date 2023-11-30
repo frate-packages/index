@@ -1,1 +1,6 @@
-{"name":"mariadb-connector-c","git":"https://mariadb.com/kb/en/mariadb-connector-c","description":"MariaDB Connector/C is used to connect applications developed in C/C++ to MariaDB and MySQL databases."}
+{
+  "name": "mariadb-connector-c",
+  "description": "MariaDB Connector/C is used to connect applications developed in C/C++ to MariaDB and MySQL databases.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,29 +1,6 @@
 {
   "name": "parg",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.0^{}",
-    "v1.0.1",
-    "v1.0.1^{}",
-    "v1.0.2",
-    "v1.0.2^{}",
-    "v1.0.3",
-    "v1.0.3^{}"
-  ],
-  "git": "https://github.com/jibsen/parg",
-  "git_short": "jibsen/parg",
-  "git_prefixed": "gh:jibsen/parg",
-  "stars": 166,
-  "forks": 19,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 7,
   "description": "Parser for argv that works similarly to getopt",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT No Attribution",
-  "language": "C",
-  "owner": "jibsen",
-  "owner_type": "User"
+  "git": "https://github.com/jibsen/parg",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"libgta","git":"https://marlam.de/gta","description":"Library that reads and writes GTA (Generic Tagged Arrays) files."}
+{
+  "name": "libgta",
+  "description": "Library that reads and writes GTA (Generic Tagged Arrays) files.",
+  "git": "",
+  "target_link": ""
+}

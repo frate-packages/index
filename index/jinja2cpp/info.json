@@ -1,1 +1,6 @@
-{"name":"jinja2cpp","git":"https://jinja2cpp.dev/","description":"Jinja2 C++ (and for C++) almost full-conformance template engine implementation"}
+{
+  "name": "jinja2cpp",
+  "description": "Jinja2 C++ (and for C++) almost full-conformance template engine implementation",
+  "git": "",
+  "target_link": ""
+}

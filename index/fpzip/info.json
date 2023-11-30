@@ -1,1 +1,6 @@
-{"name":"fpzip","git":"http://fpzip.llnl.gov/","description":"Lossless compressor of multidimensional floating-point arrays"}
+{
+  "name": "fpzip",
+  "description": "Lossless compressor of multidimensional floating-point arrays",
+  "git": "",
+  "target_link": ""
+}

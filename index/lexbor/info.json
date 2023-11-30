@@ -1,28 +1,6 @@
 {
   "name": "lexbor",
-  "versions": [
-    "master",
-    "0.1.0",
-    "0.2.0",
-    "v0.4.0",
-    "v1.0.0",
-    "v2.1.0",
-    "v2.2.0",
-    "v2.3.0"
-  ],
-  "git": "https://github.com/lexbor/lexbor/",
-  "git_short": "lexbor/lexbor/",
-  "git_prefixed": "gh:lexbor/lexbor/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Lexbor is development of an open source HTML Renderer library",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/lexbor/lexbor/",
+  "target_link": ""
 }

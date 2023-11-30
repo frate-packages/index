@@ -1,23 +1,6 @@
 {
   "name": "namedtype",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/joboccara/NamedType",
-  "git_short": "joboccara/NamedType",
-  "git_prefixed": "gh:joboccara/NamedType",
-  "stars": 719,
-  "forks": 80,
-  "open_issues": 29,
-  "maintainers": [],
-  "watchers": 45,
   "description": "Implementation of strong types in C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "joboccara",
-  "owner_type": "User"
+  "git": "https://github.com/joboccara/NamedType",
+  "target_link": ""
 }

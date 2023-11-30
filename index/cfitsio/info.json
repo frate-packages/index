@@ -1,1 +1,6 @@
-{"name":"cfitsio","git":"https://heasarc.gsfc.nasa.gov/fitsio/","description":"C library for reading and writing data files in FITS (Flexible Image Transport System) data format"}
+{
+  "name": "cfitsio",
+  "description": "C library for reading and writing data files in FITS (Flexible Image Transport System) data format",
+  "git": "",
+  "target_link": ""
+}

@@ -1,27 +1,6 @@
 {
   "name": "xpack",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.0.3",
-    "v1.0.4",
-    "v1.0.5"
-  ],
-  "git": "https://github.com/xyz347/xpack",
-  "git_short": "xyz347/xpack",
-  "git_prefixed": "gh:xyz347/xpack",
-  "stars": 548,
-  "forks": 114,
-  "open_issues": 5,
-  "maintainers": [],
-  "watchers": 16,
   "description": "C++ reflection, ability to convert between C++ structures and json/xml.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "xyz347",
-  "owner_type": "User"
+  "git": "https://github.com/xyz347/xpack",
+  "target_link": ""
 }

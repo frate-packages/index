@@ -1,25 +1,6 @@
 {
   "name": "graphthewy",
-  "versions": [
-    "master",
-    "v0.1-alpha",
-    "v0.1-beta",
-    "v1.0",
-    "v1.1"
-  ],
-  "git": "https://github.com/alex-87/graphthewy",
-  "git_short": "alex-87/graphthewy",
-  "git_prefixed": "gh:alex-87/graphthewy",
-  "stars": 2,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 2,
   "description": "Simple header-only C++ Library for graph modelling (directed or not) and graph cycle detection. ",
-  "git_description": "",
-  "target_link": "",
-  "license": "European Union Public License 1.2",
-  "language": "C++",
-  "owner": "alex-87",
-  "owner_type": "User"
+  "git": "https://github.com/alex-87/graphthewy",
+  "target_link": ""
 }

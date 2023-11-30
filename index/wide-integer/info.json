@@ -1,21 +1,6 @@
 {
   "name": "wide-integer",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/ckormanyos/wide-integer/",
-  "git_short": "ckormanyos/wide-integer/",
-  "git_prefixed": "gh:ckormanyos/wide-integer/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Wide-Integer implements a generic C++ template for uint128_t, uint256_t, uint512_t, uint1024_t, etc.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/ckormanyos/wide-integer/",
+  "target_link": ""
 }

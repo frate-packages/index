@@ -1,34 +1,6 @@
 {
   "name": "clickhouse-cpp",
-  "versions": [
-    "master",
-    "1.5.0",
-    "v1.2.0",
-    "v1.3",
-    "v1.4.0",
-    "v1.4.1",
-    "v2.0.0",
-    "v2.1.0",
-    "v2.2.0",
-    "v2.2.1",
-    "v2.3.0",
-    "v2.4.0",
-    "v2.5.0",
-    "v2.5.1"
-  ],
-  "git": "https://github.com/ClickHouse/clickhouse-cpp",
-  "git_short": "ClickHouse/clickhouse-cpp",
-  "git_prefixed": "gh:ClickHouse/clickhouse-cpp",
-  "stars": 264,
-  "forks": 171,
-  "open_issues": 22,
-  "maintainers": [],
-  "watchers": 23,
   "description": "ClickHouse C++ API",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "ClickHouse",
-  "owner_type": "Organization"
+  "git": "https://github.com/ClickHouse/clickhouse-cpp",
+  "target_link": ""
 }

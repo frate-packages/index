@@ -1,22 +1,6 @@
 {
   "name": "imutils-cpp",
-  "versions": [
-    "main",
-    "v1.0.1"
-  ],
-  "git": "https://github.com/thedevmanek/imutils-cpp",
-  "git_short": "thedevmanek/imutils-cpp",
-  "git_prefixed": "gh:thedevmanek/imutils-cpp",
-  "stars": 46,
-  "forks": 4,
-  "open_issues": 2,
-  "maintainers": [],
-  "watchers": 1,
   "description": "This is a cpp version of popular python computer vision library imutils.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "thedevmanek",
-  "owner_type": "User"
+  "git": "https://github.com/thedevmanek/imutils-cpp",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"ptex","git":"https://ptex.us","description":"Ptex is a texture mapping system developed by Walt Disney Animation Studios for production-quality rendering."}
+{
+  "name": "ptex",
+  "description": "Ptex is a texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.",
+  "git": "",
+  "target_link": ""
+}

@@ -1,25 +1,6 @@
 {
   "name": "mikelankamp-fpm",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.0.2",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/MikeLankamp/fpm",
-  "git_short": "MikeLankamp/fpm",
-  "git_prefixed": "gh:MikeLankamp/fpm",
-  "stars": 519,
-  "forks": 65,
-  "open_issues": 15,
-  "maintainers": [],
-  "watchers": 21,
   "description": "C++ header-only fixed-point math library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "MikeLankamp",
-  "owner_type": "User"
+  "git": "https://github.com/MikeLankamp/fpm",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"libnova","git":"https://sourceforge.net/projects/libnova","description":"libnova is a general purpose, double precision, celestial mechanics, astrometry and astrodynamics library."}
+{
+  "name": "libnova",
+  "description": "libnova is a general purpose, double precision, celestial mechanics, astrometry and astrodynamics library.",
+  "git": "",
+  "target_link": ""
+}

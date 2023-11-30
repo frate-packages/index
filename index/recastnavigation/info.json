@@ -1,27 +1,6 @@
 {
   "name": "recastnavigation",
-  "versions": [
-    "main",
-    "1.5.0",
-    "1.5.0^{}",
-    "1.5.1",
-    "1.5.1^{}",
-    "v1.6.0",
-    "v1.6.0^{}"
-  ],
-  "git": "https://github.com/recastnavigation/recastnavigation",
-  "git_short": "recastnavigation/recastnavigation",
-  "git_prefixed": "gh:recastnavigation/recastnavigation",
-  "stars": 5867,
-  "forks": 1525,
-  "open_issues": 87,
-  "maintainers": [],
-  "watchers": 382,
   "description": " Navigation-mesh Toolset for Games",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "recastnavigation",
-  "owner_type": "Organization"
+  "git": "https://github.com/recastnavigation/recastnavigation",
+  "target_link": ""
 }

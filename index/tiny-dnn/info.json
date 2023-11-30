@@ -1,27 +1,6 @@
 {
   "name": "tiny-dnn",
-  "versions": [
-    "master",
-    "v0.0.1",
-    "v0.1.0",
-    "v0.1.1",
-    "v1.0.0a",
-    "v1.0.0a2",
-    "v1.0.0a3"
-  ],
-  "git": "https://github.com/tiny-dnn/tiny-dnn",
-  "git_short": "tiny-dnn/tiny-dnn",
-  "git_prefixed": "gh:tiny-dnn/tiny-dnn",
-  "stars": 5721,
-  "forks": 1425,
-  "open_issues": 300,
-  "maintainers": [],
-  "watchers": 340,
   "description": "tiny-dnn is a C++14 implementation of deep learning.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "tiny-dnn",
-  "owner_type": "Organization"
+  "git": "https://github.com/tiny-dnn/tiny-dnn",
+  "target_link": ""
 }

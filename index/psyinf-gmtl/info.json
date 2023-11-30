@@ -1,22 +1,6 @@
 {
   "name": "psyinf-gmtl",
-  "versions": [
-    "master",
-    "0.7.1"
-  ],
-  "git": "https://github.com/psyinf/gmtl",
-  "git_short": "psyinf/gmtl",
-  "git_prefixed": "gh:psyinf/gmtl",
-  "stars": 1,
-  "forks": 1,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 2,
   "description": "The Generic Math Template Library. A math library designed to be high-performance, extensible, and generic.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "psyinf",
-  "owner_type": "User"
+  "git": "https://github.com/psyinf/gmtl",
+  "target_link": ""
 }

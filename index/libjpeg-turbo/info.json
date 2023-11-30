@@ -1,1 +1,6 @@
-{"name":"libjpeg-turbo","git":"https://libjpeg-turbo.org","description":"SIMD-accelerated libjpeg-compatible JPEG codec library"}
+{
+  "name": "libjpeg-turbo",
+  "description": "SIMD-accelerated libjpeg-compatible JPEG codec library",
+  "git": "",
+  "target_link": ""
+}

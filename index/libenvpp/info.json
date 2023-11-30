@@ -1,25 +1,6 @@
 {
   "name": "libenvpp",
-  "versions": [
-    "main",
-    "v1.0.0",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.3.0"
-  ],
-  "git": "https://github.com/ph3at/libenvpp",
-  "git_short": "ph3at/libenvpp",
-  "git_prefixed": "gh:ph3at/libenvpp",
-  "stars": 102,
-  "forks": 4,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 7,
   "description": "A modern C++ library for type-safe environment variable parsing",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "ph3at",
-  "owner_type": "Organization"
+  "git": "https://github.com/ph3at/libenvpp",
+  "target_link": ""
 }

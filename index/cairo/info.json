@@ -1,1 +1,6 @@
-{"name":"cairo","git":"https://cairographics.org/","description":"Cairo is a 2D graphics library with support for multiple output devices"}
+{
+  "name": "cairo",
+  "description": "Cairo is a 2D graphics library with support for multiple output devices",
+  "git": "",
+  "target_link": ""
+}

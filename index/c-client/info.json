@@ -1,21 +1,6 @@
 {
   "name": "c-client",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/uw-imap/imap",
-  "git_short": "uw-imap/imap",
-  "git_prefixed": "gh:uw-imap/imap",
-  "stars": 29,
-  "forks": 13,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 10,
   "description": "University of Washington IMAP toolkit",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C",
-  "owner": "uw-imap",
-  "owner_type": "Organization"
+  "git": "https://github.com/uw-imap/imap",
+  "target_link": ""
 }

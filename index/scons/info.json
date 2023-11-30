@@ -1,1 +1,6 @@
-{"name":"scons","git":"https://scons.org","description":"SCons is an Open Source software construction tool-that is, a next-generation build tool"}
+{
+  "name": "scons",
+  "description": "SCons is an Open Source software construction tool-that is, a next-generation build tool",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "openfbx",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/nem0/OpenFBX",
-  "git_short": "nem0/OpenFBX",
-  "git_prefixed": "gh:nem0/OpenFBX",
-  "stars": 1009,
-  "forks": 119,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 39,
   "description": "Lightweight open source FBX importer.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "nem0",
-  "owner_type": "User"
+  "git": "https://github.com/nem0/OpenFBX",
+  "target_link": ""
 }

@@ -1,21 +1,6 @@
 {
   "name": "cccl",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/swig/cccl/",
-  "git_short": "swig/cccl/",
-  "git_prefixed": "gh:swig/cccl/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Unix cc compiler to Microsoft's cl compiler wrapper",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/swig/cccl/",
+  "target_link": ""
 }

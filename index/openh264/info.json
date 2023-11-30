@@ -1,1 +1,6 @@
-{"name":"openh264","git":"http://www.openh264.org/","description":"Open Source H.264 Codec"}
+{
+  "name": "openh264",
+  "description": "Open Source H.264 Codec",
+  "git": "",
+  "target_link": ""
+}

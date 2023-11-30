@@ -1,1 +1,6 @@
-{"name":"liblzf","git":"http://software.schmorp.de/pkg/liblzf.html","description":"LZF is an extremely fast (not that much slower than a pure memcpy) compression algorithm. It is ideal for applications where you want to save *some* space but not at the cost of speed."}
+{
+  "name": "liblzf",
+  "description": "LZF is an extremely fast (not that much slower than a pure memcpy) compression algorithm. It is ideal for applications where you want to save *some* space but not at the cost of speed.",
+  "git": "",
+  "target_link": ""
+}

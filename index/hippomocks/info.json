@@ -1,23 +1,6 @@
 {
   "name": "hippomocks",
-  "versions": [
-    "master",
-    "v5.0",
-    "v5.0^{}"
-  ],
-  "git": "https://github.com/dascandy/hippomocks",
-  "git_short": "dascandy/hippomocks",
-  "git_prefixed": "gh:dascandy/hippomocks",
-  "stars": 187,
-  "forks": 63,
-  "open_issues": 36,
-  "maintainers": [],
-  "watchers": 25,
   "description": "Single-header mocking framework.",
-  "git_description": "",
-  "target_link": "",
-  "license": "GNU Lesser General Public License v2.1",
-  "language": "C++",
-  "owner": "dascandy",
-  "owner_type": "User"
+  "git": "https://github.com/dascandy/hippomocks",
+  "target_link": ""
 }

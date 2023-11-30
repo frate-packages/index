@@ -1,1 +1,6 @@
-{"name":"yoga","git":"https://yogalayout.com/","description":"cross-platform layout engine which implements Flexbox"}
+{
+  "name": "yoga",
+  "description": "cross-platform layout engine which implements Flexbox",
+  "git": "",
+  "target_link": ""
+}

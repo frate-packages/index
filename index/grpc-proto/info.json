@@ -1,21 +1,6 @@
 {
   "name": "grpc-proto",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/grpc/grpc-proto",
-  "git_short": "grpc/grpc-proto",
-  "git_prefixed": "gh:grpc/grpc-proto",
-  "stars": 218,
-  "forks": 96,
-  "open_issues": 6,
-  "maintainers": [],
-  "watchers": 73,
   "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "Starlark",
-  "owner": "grpc",
-  "owner_type": "Organization"
+  "git": "https://github.com/grpc/grpc-proto",
+  "target_link": ""
 }

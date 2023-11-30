@@ -1,21 +1,6 @@
 {
   "name": "pdqsort",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/orlp/pdqsort",
-  "git_short": "orlp/pdqsort",
-  "git_prefixed": "gh:orlp/pdqsort",
-  "stars": 2186,
-  "forks": 98,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 73,
   "description": "Pattern-defeating quicksort.",
-  "git_description": "",
-  "target_link": "",
-  "license": "zlib License",
-  "language": "C++",
-  "owner": "orlp",
-  "owner_type": "User"
+  "git": "https://github.com/orlp/pdqsort",
+  "target_link": ""
 }

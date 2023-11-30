@@ -1,1 +1,6 @@
-{"name":"libsecret","git":"https://wiki.gnome.org/Projects/Libsecret","description":"A library for storing and retrieving passwords and other secrets"}
+{
+  "name": "libsecret",
+  "description": "A library for storing and retrieving passwords and other secrets",
+  "git": "",
+  "target_link": ""
+}

@@ -1,26 +1,6 @@
 {
   "name": "ctml",
-  "versions": [
-    "master",
-    "1.0.0",
-    "1.0.1",
-    "1.1.0",
-    "1.1.1",
-    "2.0.0"
-  ],
-  "git": "https://github.com/tinfoilboy/CTML",
-  "git_short": "tinfoilboy/CTML",
-  "git_prefixed": "gh:tinfoilboy/CTML",
-  "stars": 205,
-  "forks": 25,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 15,
   "description": "A C++ HTML document constructor only depending on the standard library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "tinfoilboy",
-  "owner_type": "User"
+  "git": "https://github.com/tinfoilboy/CTML",
+  "target_link": ""
 }

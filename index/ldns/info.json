@@ -1,1 +1,6 @@
-{"name":"ldns","git":"https://www.nlnetlabs.nl/projects/ldns","description":"LDNS is a DNS library that facilitates DNS tool programming"}
+{
+  "name": "ldns",
+  "description": "LDNS is a DNS library that facilitates DNS tool programming",
+  "git": "",
+  "target_link": ""
+}

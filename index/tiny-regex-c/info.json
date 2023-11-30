@@ -1,21 +1,6 @@
 {
   "name": "tiny-regex-c",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/kokke/tiny-regex-c",
-  "git_short": "kokke/tiny-regex-c",
-  "git_prefixed": "gh:kokke/tiny-regex-c",
-  "stars": 1128,
-  "forks": 209,
-  "open_issues": 30,
-  "maintainers": [],
-  "watchers": 41,
   "description": "Small and portable Regular Expression (regex) library written in C.",
-  "git_description": "",
-  "target_link": "",
-  "license": "The Unlicense",
-  "language": "C",
-  "owner": "kokke",
-  "owner_type": "User"
+  "git": "https://github.com/kokke/tiny-regex-c",
+  "target_link": ""
 }

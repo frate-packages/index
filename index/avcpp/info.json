@@ -1,27 +1,6 @@
 {
   "name": "avcpp",
-  "versions": [
-    "master",
-    "v2.0",
-    "v2.1.0",
-    "v2.2.0",
-    "v2.2.0^{}",
-    "v2.2.1",
-    "v2.2.1^{}"
-  ],
-  "git": "https://github.com/h4tr3d/avcpp/",
-  "git_short": "h4tr3d/avcpp/",
-  "git_prefixed": "gh:h4tr3d/avcpp/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "C++ wrapper for FFmpeg",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/h4tr3d/avcpp/",
+  "target_link": ""
 }

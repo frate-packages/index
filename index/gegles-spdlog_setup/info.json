@@ -1,22 +1,6 @@
 {
   "name": "gegles-spdlog_setup",
-  "versions": [
-    "main",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/gegles/spdlog_setup",
-  "git_short": "gegles/spdlog_setup",
-  "git_prefixed": "gh:gegles/spdlog_setup",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "Setup spdlog via a TOML config file",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "gegles",
-  "owner_type": "User"
+  "git": "https://github.com/gegles/spdlog_setup",
+  "target_link": ""
 }

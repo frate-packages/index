@@ -1,1 +1,6 @@
-{"name":"libpfm4","git":"http://perfmon2.sourceforge.net","description":"A helper library to program the performance monitoring events"}
+{
+  "name": "libpfm4",
+  "description": "A helper library to program the performance monitoring events",
+  "git": "",
+  "target_link": ""
+}

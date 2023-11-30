@@ -1,1 +1,6 @@
-{"name":"libxft","git":"https://www.x.org/wiki/","description":"X FreeType library"}
+{
+  "name": "libxft",
+  "description": "X FreeType library",
+  "git": "",
+  "target_link": ""
+}

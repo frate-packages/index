@@ -1,1 +1,6 @@
-{"name":"wslay","git":"https://tatsuhiro-t.github.io/wslay","description":"The WebSocket library in C"}
+{
+  "name": "wslay",
+  "description": "The WebSocket library in C",
+  "git": "",
+  "target_link": ""
+}

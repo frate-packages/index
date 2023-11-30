@@ -1,1 +1,6 @@
-{"name":"wiringpi","git":"http://wiringpi.com","description":"GPIO Interface library for the Raspberry Pi"}
+{
+  "name": "wiringpi",
+  "description": "GPIO Interface library for the Raspberry Pi",
+  "git": "",
+  "target_link": ""
+}

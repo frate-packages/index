@@ -1,23 +1,6 @@
 {
   "name": "artery-font-format",
-  "versions": [
-    "master",
-    "v1.0",
-    "v1.0.1"
-  ],
-  "git": "https://github.com/Chlumsky/artery-font-format",
-  "git_short": "Chlumsky/artery-font-format",
-  "git_prefixed": "gh:Chlumsky/artery-font-format",
-  "stars": 17,
-  "forks": 4,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 5,
   "description": "Artery Atlas Font format library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Chlumsky",
-  "owner_type": "User"
+  "git": "https://github.com/Chlumsky/artery-font-format",
+  "target_link": ""
 }

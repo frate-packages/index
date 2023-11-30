@@ -1,1 +1,6 @@
-{"name":"cimg","git":"http://cimg.eu","description":"The CImg Library is a small and open-source C++ toolkit for image processing"}
+{
+  "name": "cimg",
+  "description": "The CImg Library is a small and open-source C++ toolkit for image processing",
+  "git": "",
+  "target_link": ""
+}

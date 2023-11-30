@@ -1,22 +1,6 @@
 {
   "name": "easyexif",
-  "versions": [
-    "master",
-    "v1.0"
-  ],
-  "git": "https://github.com/mayanklahiri/easyexif",
-  "git_short": "mayanklahiri/easyexif",
-  "git_prefixed": "gh:mayanklahiri/easyexif",
-  "stars": 285,
-  "forks": 74,
-  "open_issues": 21,
-  "maintainers": [],
-  "watchers": 23,
   "description": "Tiny ISO-compliant C++ EXIF parsing library, third-party dependency free.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "mayanklahiri",
-  "owner_type": "User"
+  "git": "https://github.com/mayanklahiri/easyexif",
+  "target_link": ""
 }

@@ -1,22 +1,6 @@
 {
   "name": "rg-etc1",
-  "versions": [
-    "master",
-    "v103"
-  ],
-  "git": "https://github.com/richgel999/rg-etc1",
-  "git_short": "richgel999/rg-etc1",
-  "git_prefixed": "gh:richgel999/rg-etc1",
-  "stars": 31,
-  "forks": 3,
-  "open_issues": 3,
-  "maintainers": [],
-  "watchers": 3,
   "description": "A performant, easy to use, and high quality 4x4 pixel block packer/unpacker for the ETC1.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "C++",
-  "owner": "richgel999",
-  "owner_type": "User"
+  "git": "https://github.com/richgel999/rg-etc1",
+  "target_link": ""
 }

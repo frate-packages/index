@@ -1,24 +1,6 @@
 {
   "name": "scope-lite",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.0-alpha",
-    "v0.2.0"
-  ],
-  "git": "https://github.com/martinmoene/scope-lite",
-  "git_short": "martinmoene/scope-lite",
-  "git_prefixed": "gh:martinmoene/scope-lite",
-  "stars": 36,
-  "forks": 4,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 5,
   "description": "scope lite - A migration path to C++ library extensions scope_exit, scope_fail,                     scope_success, unique_resource in a single-file header-only library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/scope-lite",
+  "target_link": ""
 }

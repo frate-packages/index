@@ -1,23 +1,6 @@
 {
   "name": "pprint",
-  "versions": [
-    "master",
-    "v0.9",
-    "v0.9.1"
-  ],
-  "git": "https://github.com/p-ranav/pprint",
-  "git_short": "p-ranav/pprint",
-  "git_prefixed": "gh:p-ranav/pprint",
-  "stars": 903,
-  "forks": 103,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 23,
   "description": "Pretty Printer for Modern C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "p-ranav",
-  "owner_type": "User"
+  "git": "https://github.com/p-ranav/pprint",
+  "target_link": ""
 }

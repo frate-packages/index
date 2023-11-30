@@ -1,23 +1,6 @@
 {
   "name": "shapelib",
-  "versions": [
-    "master",
-    "v1.5.0",
-    "v1.5.0^{}"
-  ],
-  "git": "https://github.com/OSGeo/shapelib",
-  "git_short": "OSGeo/shapelib",
-  "git_prefixed": "gh:OSGeo/shapelib",
-  "stars": 110,
-  "forks": 56,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 21,
   "description": "C library for reading and writing ESRI Shapefiles",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "OSGeo",
-  "owner_type": "Organization"
+  "git": "https://github.com/OSGeo/shapelib",
+  "target_link": ""
 }

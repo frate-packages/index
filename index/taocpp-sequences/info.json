@@ -1,26 +1,6 @@
 {
   "name": "taocpp-sequences",
-  "versions": [
-    "main",
-    "1.0.0",
-    "1.0.1",
-    "1.0.2",
-    "2.0.0",
-    "2.0.1"
-  ],
-  "git": "https://github.com/taocpp/sequences",
-  "git_short": "taocpp/sequences",
-  "git_prefixed": "gh:taocpp/sequences",
-  "stars": 108,
-  "forks": 16,
-  "open_issues": 1,
-  "maintainers": [],
-  "watchers": 14,
   "description": "Variadic templates and std::integer_sequence support library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "taocpp",
-  "owner_type": "Organization"
+  "git": "https://github.com/taocpp/sequences",
+  "target_link": ""
 }

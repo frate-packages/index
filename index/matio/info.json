@@ -1,1 +1,6 @@
-{"name":"matio","git":"https://sourceforge.net/projects/matio/","description":"Matio is a C library for reading and writing binary MATLAB MAT files."}
+{
+  "name": "matio",
+  "description": "Matio is a C library for reading and writing binary MATLAB MAT files.",
+  "git": "",
+  "target_link": ""
+}

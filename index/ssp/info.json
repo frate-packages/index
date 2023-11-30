@@ -1,32 +1,6 @@
 {
   "name": "ssp",
-  "versions": [
-    "master",
-    "v1.0.0",
-    "v1.1.0",
-    "v1.2.0",
-    "v1.3.0",
-    "v1.4.0",
-    "v1.4.1",
-    "v1.4.2",
-    "v1.4.3",
-    "v1.5.0",
-    "v1.6.0",
-    "v1.6.1"
-  ],
-  "git": "https://github.com/red0124/ssp",
-  "git_short": "red0124/ssp",
-  "git_prefixed": "gh:red0124/ssp",
-  "stars": 43,
-  "forks": 4,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 4,
   "description": "C++ CSV parser",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "red0124",
-  "owner_type": "User"
+  "git": "https://github.com/red0124/ssp",
+  "target_link": ""
 }

@@ -1,1 +1,6 @@
-{"name":"zug","git":"https://sinusoid.es/zug/","description":"Transducers for C++ — Clojure style higher order push/pull sequence transformations"}
+{
+  "name": "zug",
+  "description": "Transducers for C++ — Clojure style higher order push/pull sequence transformations",
+  "git": "",
+  "target_link": ""
+}

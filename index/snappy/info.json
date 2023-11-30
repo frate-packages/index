@@ -1,29 +1,6 @@
 {
   "name": "snappy",
-  "versions": [
-    "main",
-    "1.1.10",
-    "1.1.3",
-    "1.1.4",
-    "1.1.5",
-    "1.1.6",
-    "1.1.7",
-    "1.1.8",
-    "1.1.9"
-  ],
-  "git": "https://github.com/google/snappy",
-  "git_short": "google/snappy",
-  "git_prefixed": "gh:google/snappy",
-  "stars": 5838,
-  "forks": 986,
-  "open_issues": 44,
-  "maintainers": [],
-  "watchers": 197,
   "description": "A fast compressor/decompressor",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/snappy",
+  "target_link": ""
 }

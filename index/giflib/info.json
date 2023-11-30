@@ -1,1 +1,6 @@
-{"name":"giflib","git":"http://giflib.sourceforge.net","description":"A library and utilities for reading and writing GIF images."}
+{
+  "name": "giflib",
+  "description": "A library and utilities for reading and writing GIF images.",
+  "git": "",
+  "target_link": ""
+}

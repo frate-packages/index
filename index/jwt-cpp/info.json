@@ -1,35 +1,6 @@
 {
   "name": "jwt-cpp",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.3.1",
-    "v0.4.0",
-    "v0.5.0",
-    "v0.5.0-rc.0",
-    "v0.5.1",
-    "v0.5.2",
-    "v0.6.0",
-    "v0.6.0-rc.0",
-    "v0.6.0-rc.1",
-    "v0.6.0-rc.2",
-    "v0.7.0-rc.0"
-  ],
-  "git": "https://github.com/Thalhammer/jwt-cpp",
-  "git_short": "Thalhammer/jwt-cpp",
-  "git_prefixed": "gh:Thalhammer/jwt-cpp",
-  "stars": 702,
-  "forks": 199,
-  "open_issues": 41,
-  "maintainers": [],
-  "watchers": 23,
   "description": "A C++ JSON Web Token library for encoding/decoding",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Thalhammer",
-  "owner_type": "User"
+  "git": "https://github.com/Thalhammer/jwt-cpp",
+  "target_link": ""
 }

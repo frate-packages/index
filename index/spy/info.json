@@ -1,1 +1,6 @@
-{"name":"spy","git":"https://jfalcou.github.io/spy/","description":"C++ 17 for constexpr-proof detection and classification of informations about OS, compiler, etc..."}
+{
+  "name": "spy",
+  "description": "C++ 17 for constexpr-proof detection and classification of informations about OS, compiler, etc...",
+  "git": "",
+  "target_link": ""
+}

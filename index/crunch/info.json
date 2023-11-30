@@ -1,25 +1,6 @@
 {
   "name": "crunch",
-  "versions": [
-    "master",
-    "v100",
-    "v101",
-    "v103",
-    "v104"
-  ],
-  "git": "https://github.com/BinomialLLC/crunch",
-  "git_short": "BinomialLLC/crunch",
-  "git_prefixed": "gh:BinomialLLC/crunch",
-  "stars": 816,
-  "forks": 182,
-  "open_issues": 29,
-  "maintainers": [],
-  "watchers": 50,
   "description": "Advanced DXTc texture compression and transcoding library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "BinomialLLC",
-  "owner_type": "Organization"
+  "git": "https://github.com/BinomialLLC/crunch",
+  "target_link": ""
 }

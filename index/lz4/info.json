@@ -1,34 +1,6 @@
 {
   "name": "lz4",
-  "versions": [
-    "v1.7.3",
-    "v1.7.4",
-    "v1.7.4.2",
-    "v1.7.5",
-    "v1.8.0",
-    "v1.8.1",
-    "v1.8.1.2",
-    "v1.8.2",
-    "v1.8.3",
-    "v1.9.0",
-    "v1.9.1",
-    "v1.9.2",
-    "v1.9.3",
-    "v1.9.4"
-  ],
-  "git": "https://github.com/lz4/lz4",
-  "git_short": "lz4/lz4",
-  "git_prefixed": "gh:lz4/lz4",
-  "stars": 8736,
-  "forks": 1343,
-  "open_issues": 28,
-  "maintainers": [],
-  "watchers": 239,
   "description": "Extremely Fast Compression algorithm",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "lz4",
-  "owner_type": "Organization"
+  "git": "https://github.com/lz4/lz4",
+  "target_link": ""
 }

@@ -1,26 +1,6 @@
 {
   "name": "perlinnoise",
-  "versions": [
-    "master",
-    "v1.0",
-    "v2.0",
-    "v2.1",
-    "v3.0.0",
-    "v3.0.0^{}"
-  ],
-  "git": "https://github.com/Reputeless/PerlinNoise/",
-  "git_short": "Reputeless/PerlinNoise/",
-  "git_prefixed": "gh:Reputeless/PerlinNoise/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Header-only Perlin noise library for modern C++ ",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/Reputeless/PerlinNoise/",
+  "target_link": ""
 }

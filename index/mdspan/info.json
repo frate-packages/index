@@ -1,27 +1,6 @@
 {
   "name": "mdspan",
-  "versions": [
-    "stable",
-    "mdspan-0.1.0",
-    "mdspan-0.2.0",
-    "mdspan-0.3.0",
-    "mdspan-0.4.0",
-    "mdspan-0.5.0",
-    "mdspan-0.6.0"
-  ],
-  "git": "https://github.com/kokkos/mdspan",
-  "git_short": "kokkos/mdspan",
-  "git_prefixed": "gh:kokkos/mdspan",
-  "stars": 325,
-  "forks": 54,
-  "open_issues": 45,
-  "maintainers": [],
-  "watchers": 34,
   "description": "Production-quality reference implementation of mdspan",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "kokkos",
-  "owner_type": "Organization"
+  "git": "https://github.com/kokkos/mdspan",
+  "target_link": ""
 }

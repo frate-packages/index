@@ -1,1 +1,6 @@
-{"name":"vsg","git":"https://www.vulkanscenegraph.org","description":"VulkanSceneGraph"}
+{
+  "name": "vsg",
+  "description": "VulkanSceneGraph",
+  "git": "",
+  "target_link": ""
+}

@@ -1,21 +1,6 @@
 {
   "name": "wyhash",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/wangyi-fudan/wyhash",
-  "git_short": "wangyi-fudan/wyhash",
-  "git_prefixed": "gh:wangyi-fudan/wyhash",
-  "stars": 845,
-  "forks": 65,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 37,
   "description": "The FASTEST QUALITY hash function, random number generators (PRNG) and hash map.",
-  "git_description": "",
-  "target_link": "",
-  "license": "The Unlicense",
-  "language": "C",
-  "owner": "wangyi-fudan",
-  "owner_type": "User"
+  "git": "https://github.com/wangyi-fudan/wyhash",
+  "target_link": ""
 }

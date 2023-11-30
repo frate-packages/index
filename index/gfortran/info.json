@@ -1,1 +1,6 @@
-{"name":"gfortran","git":"https://gcc.gnu.org/fortran","description":"The Fortran compiler front end and run-time libraries for GCC"}
+{
+  "name": "gfortran",
+  "description": "The Fortran compiler front end and run-time libraries for GCC",
+  "git": "",
+  "target_link": ""
+}

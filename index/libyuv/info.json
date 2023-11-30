@@ -1,1 +1,6 @@
-{"name":"libyuv","git":"https://chromium.googlesource.com/libyuv/libyuv/","description":"libyuv is an open source project that includes YUV scaling and conversion functionality."}
+{
+  "name": "libyuv",
+  "description": "libyuv is an open source project that includes YUV scaling and conversion functionality.",
+  "git": "",
+  "target_link": ""
+}

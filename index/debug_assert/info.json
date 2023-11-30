@@ -1,1 +1,6 @@
-{"name":"debug_assert","git":"http://foonathan.net/blog/2016/09/16/assertions.html","description":"Simple, flexible and modular assertion macro"}
+{
+  "name": "debug_assert",
+  "description": "Simple, flexible and modular assertion macro",
+  "git": "",
+  "target_link": ""
+}

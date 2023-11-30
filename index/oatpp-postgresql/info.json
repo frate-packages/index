@@ -1,24 +1,6 @@
 {
   "name": "oatpp-postgresql",
-  "versions": [
-    "master",
-    "1.2.0",
-    "1.2.5",
-    "1.3.0"
-  ],
-  "git": "https://github.com/oatpp/oatpp-postgresql",
-  "git_short": "oatpp/oatpp-postgresql",
-  "git_prefixed": "gh:oatpp/oatpp-postgresql",
-  "stars": 14,
-  "forks": 21,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 4,
   "description": "oat++ PostgreSQL library",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "oatpp",
-  "owner_type": "Organization"
+  "git": "https://github.com/oatpp/oatpp-postgresql",
+  "target_link": ""
 }

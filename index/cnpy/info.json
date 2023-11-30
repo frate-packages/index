@@ -1,21 +1,6 @@
 {
   "name": "cnpy",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/rogersce/cnpy",
-  "git_short": "rogersce/cnpy",
-  "git_prefixed": "gh:rogersce/cnpy",
-  "stars": 1183,
-  "forks": 314,
-  "open_issues": 60,
-  "maintainers": [],
-  "watchers": 28,
   "description": "library to read/write .npy and .npz files in C/C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "rogersce",
-  "owner_type": "User"
+  "git": "https://github.com/rogersce/cnpy",
+  "target_link": ""
 }

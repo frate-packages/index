@@ -1,1 +1,6 @@
-{"name":"mosquitto","git":"https://mosquitto.org","description":"Eclipse Mosquitto MQTT library, broker and more"}
+{
+  "name": "mosquitto",
+  "description": "Eclipse Mosquitto MQTT library, broker and more",
+  "git": "",
+  "target_link": ""
+}

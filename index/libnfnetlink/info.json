@@ -1,1 +1,6 @@
-{"name":"libnfnetlink","git":"https://netfilter.org/projects/libnfnetlink/index.html","description":"low-level library for netfilter related kernel/userspace communication"}
+{
+  "name": "libnfnetlink",
+  "description": "low-level library for netfilter related kernel/userspace communication",
+  "git": "",
+  "target_link": ""
+}

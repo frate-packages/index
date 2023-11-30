@@ -1,1 +1,6 @@
-{"name":"capnproto","git":"https://capnproto.org","description":"Cap'n Proto serialization/RPC system."}
+{
+  "name": "capnproto",
+  "description": "Cap'n Proto serialization/RPC system.",
+  "git": "",
+  "target_link": ""
+}

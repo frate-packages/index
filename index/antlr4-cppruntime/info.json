@@ -1,1 +1,6 @@
-{"name":"antlr4-cppruntime","git":"https://github.com/antlr/antlr4/tree/master/runtime/Cpp","description":"C++ runtime support for ANTLR (ANother Tool for Language Recognition)"}
+{
+  "name": "antlr4-cppruntime",
+  "description": "C++ runtime support for ANTLR (ANother Tool for Language Recognition)",
+  "git": "https://github.com/antlr/antlr4/tree/master/runtime/Cpp",
+  "target_link": ""
+}

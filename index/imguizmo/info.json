@@ -1,22 +1,6 @@
 {
   "name": "imguizmo",
-  "versions": [
-    "master",
-    "1.83"
-  ],
-  "git": "https://github.com/CedricGuillemet/ImGuizmo",
-  "git_short": "CedricGuillemet/ImGuizmo",
-  "git_prefixed": "gh:CedricGuillemet/ImGuizmo",
-  "stars": 2731,
-  "forks": 762,
-  "open_issues": 113,
-  "maintainers": [],
-  "watchers": 88,
   "description": "Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "CedricGuillemet",
-  "owner_type": "User"
+  "git": "https://github.com/CedricGuillemet/ImGuizmo",
+  "target_link": ""
 }

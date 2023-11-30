@@ -1,1 +1,6 @@
-{"name":"muparser","git":"https://beltoforion.de/en/muparser/","description":"Fast Math Parser Library"}
+{
+  "name": "muparser",
+  "description": "Fast Math Parser Library",
+  "git": "",
+  "target_link": ""
+}

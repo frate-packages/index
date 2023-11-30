@@ -1,32 +1,6 @@
 {
   "name": "streamvbyte",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.2.1",
-    "v0.3.0",
-    "v0.4.0",
-    "v0.4.1",
-    "v0.5.0",
-    "v0.5.1",
-    "v0.5.2",
-    "v0.5.3",
-    "v1.0.0"
-  ],
-  "git": "https://github.com/lemire/streamvbyte",
-  "git_short": "lemire/streamvbyte",
-  "git_prefixed": "gh:lemire/streamvbyte",
-  "stars": 343,
-  "forks": 33,
-  "open_issues": 11,
-  "maintainers": [],
-  "watchers": 22,
   "description": "Fast integer compression in C using the StreamVByte codec",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C",
-  "owner": "lemire",
-  "owner_type": "User"
+  "git": "https://github.com/lemire/streamvbyte",
+  "target_link": ""
 }

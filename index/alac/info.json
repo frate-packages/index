@@ -1,1 +1,6 @@
-{"name":"alac","versions":[],"git":"","git_short":"","git_prefixed":"","stars":0,"forks":0,"open_issues":0,"maintainers":null,"watchers":0,"description":"The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.","git_description":"","target_link":"","license":"","language":""}
+{
+  "name": "alac",
+  "description": "The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on all of its platforms and devices.",
+  "git": "",
+  "target_link": ""
+}

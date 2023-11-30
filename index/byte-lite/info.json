@@ -1,25 +1,6 @@
 {
   "name": "byte-lite",
-  "versions": [
-    "master",
-    "0.0.0",
-    "v0.1.0",
-    "v0.2.0",
-    "v0.3.0"
-  ],
-  "git": "https://github.com/martinmoene/byte-lite",
-  "git_short": "martinmoene/byte-lite",
-  "git_prefixed": "gh:martinmoene/byte-lite",
-  "stars": 51,
-  "forks": 8,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 7,
   "description": "byte lite - A single-file header-only C++17-like byte type for                     C++98, C++11 and later",
-  "git_description": "",
-  "target_link": "",
-  "license": "Boost Software License 1.0",
-  "language": "C++",
-  "owner": "martinmoene",
-  "owner_type": "User"
+  "git": "https://github.com/martinmoene/byte-lite",
+  "target_link": ""
 }

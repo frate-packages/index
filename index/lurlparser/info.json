@@ -1,21 +1,6 @@
 {
   "name": "lurlparser",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/corporateshark/LUrlParser/",
-  "git_short": "corporateshark/LUrlParser/",
-  "git_prefixed": "gh:corporateshark/LUrlParser/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Lightweight URL \u0026amp; URI parser (RFC 1738, RFC 3986)",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/corporateshark/LUrlParser/",
+  "target_link": ""
 }

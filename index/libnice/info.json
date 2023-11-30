@@ -1,1 +1,6 @@
-{"name":"libnice","git":"https://libnice.freedesktop.org/","description":"a GLib ICE implementation"}
+{
+  "name": "libnice",
+  "description": "a GLib ICE implementation",
+  "git": "",
+  "target_link": ""
+}

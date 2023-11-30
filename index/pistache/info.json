@@ -1,23 +1,6 @@
 {
   "name": "pistache",
-  "versions": [
-    "master",
-    "0.0.5",
-    "0.0.5^{}"
-  ],
-  "git": "https://github.com/pistacheio/pistache",
-  "git_short": "pistacheio/pistache",
-  "git_prefixed": "gh:pistacheio/pistache",
-  "stars": 3002,
-  "forks": 705,
-  "open_issues": 201,
-  "maintainers": [],
-  "watchers": 114,
   "description": "Pistache is a modern and elegant HTTP and REST framework for C++",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "pistacheio",
-  "owner_type": "Organization"
+  "git": "https://github.com/pistacheio/pistache",
+  "target_link": ""
 }

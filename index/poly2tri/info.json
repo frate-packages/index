@@ -1,21 +1,6 @@
 {
   "name": "poly2tri",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/greenm01/poly2tri",
-  "git_short": "greenm01/poly2tri",
-  "git_prefixed": "gh:greenm01/poly2tri",
-  "stars": 303,
-  "forks": 81,
-  "open_issues": 36,
-  "maintainers": [],
-  "watchers": 15,
   "description": "Poly2Tri is a sweepline constrained Delaunay Polygon Triangulation Library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "greenm01",
-  "owner_type": "User"
+  "git": "https://github.com/greenm01/poly2tri",
+  "target_link": ""
 }

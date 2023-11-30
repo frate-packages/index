@@ -1,1 +1,6 @@
-{"name":"cunit","git":"http://cunit.sourceforge.net/","description":"A Unit Testing Framework for C"}
+{
+  "name": "cunit",
+  "description": "A Unit Testing Framework for C",
+  "git": "",
+  "target_link": ""
+}

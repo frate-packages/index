@@ -1,1 +1,6 @@
-{"name":"libconfig","git":"https://hyperrealm.github.io/libconfig/","description":"C/C++ library for processing configuration files"}
+{
+  "name": "libconfig",
+  "description": "C/C++ library for processing configuration files",
+  "git": "",
+  "target_link": ""
+}

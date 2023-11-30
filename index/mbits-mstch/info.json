@@ -1,35 +1,6 @@
 {
   "name": "mbits-mstch",
-  "versions": [
-    "master",
-    "0.2.1",
-    "0.2.2",
-    "0.2.3",
-    "0.2.4",
-    "0.2.5",
-    "1.0.0",
-    "1.0.1",
-    "1.0.2",
-    "v0.1.0",
-    "v0.1.1",
-    "v0.2.0",
-    "v1.0.2",
-    "v1.0.3",
-    "v1.0.4"
-  ],
-  "git": "https://github.com/mbits-libs/libmstch",
-  "git_short": "mbits-libs/libmstch",
-  "git_prefixed": "gh:mbits-libs/libmstch",
-  "stars": 2,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "libmstch implemented in terms of C++17 variant.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "mbits-libs",
-  "owner_type": "Organization"
+  "git": "https://github.com/mbits-libs/libmstch",
+  "target_link": ""
 }

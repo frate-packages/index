@@ -1,1 +1,6 @@
-{"name":"vorbis","git":"https://xiph.org/vorbis/","description":"The VORBIS audio codec library"}
+{
+  "name": "vorbis",
+  "description": "The VORBIS audio codec library",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"mozilla-build","git":"https://wiki.mozilla.org/MozillaBuild","description":"Mozilla build requirements on Windows"}
+{
+  "name": "mozilla-build",
+  "description": "Mozilla build requirements on Windows",
+  "git": "",
+  "target_link": ""
+}

@@ -1,1 +1,6 @@
-{"name":"argtable3","git":"https://www.argtable.org/","description":"A single-file, ANSI C, command-line parsing library that parses GNU-style command-line options."}
+{
+  "name": "argtable3",
+  "description": "A single-file, ANSI C, command-line parsing library that parses GNU-style command-line options.",
+  "git": "",
+  "target_link": ""
+}

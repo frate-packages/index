@@ -1,1 +1,6 @@
-{"name":"mpdecimal","git":"http://www.bytereef.org/mpdecimal","description":"mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic."}
+{
+  "name": "mpdecimal",
+  "description": "mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic.",
+  "git": "",
+  "target_link": ""
+}

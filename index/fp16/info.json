@@ -1,21 +1,6 @@
 {
   "name": "fp16",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/Maratyszcza/FP16",
-  "git_short": "Maratyszcza/FP16",
-  "git_prefixed": "gh:Maratyszcza/FP16",
-  "stars": 272,
-  "forks": 79,
-  "open_issues": 13,
-  "maintainers": [],
-  "watchers": 21,
   "description": "Conversion to/from half-precision floating point formats.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Maratyszcza",
-  "owner_type": "User"
+  "git": "https://github.com/Maratyszcza/FP16",
+  "target_link": ""
 }

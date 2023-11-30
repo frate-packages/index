@@ -1,33 +1,6 @@
 {
   "name": "msdfgen",
-  "versions": [
-    "master",
-    "v1.10",
-    "v1.11",
-    "v1.3",
-    "v1.4",
-    "v1.5",
-    "v1.6",
-    "v1.7",
-    "v1.7.1",
-    "v1.8",
-    "v1.9",
-    "v1.9.1",
-    "v1.9.2"
-  ],
-  "git": "https://github.com/Chlumsky/msdfgen",
-  "git_short": "Chlumsky/msdfgen",
-  "git_prefixed": "gh:Chlumsky/msdfgen",
-  "stars": 3494,
-  "forks": 363,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 97,
   "description": "Multi-channel signed distance field generator",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Chlumsky",
-  "owner_type": "User"
+  "git": "https://github.com/Chlumsky/msdfgen",
+  "target_link": ""
 }

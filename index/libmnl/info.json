@@ -1,1 +1,6 @@
-{"name":"libmnl","git":"https://netfilter.org/projects/libmnl/index.html","description":"Minimalistic Netlink communication library"}
+{
+  "name": "libmnl",
+  "description": "Minimalistic Netlink communication library",
+  "git": "",
+  "target_link": ""
+}

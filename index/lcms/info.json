@@ -1,23 +1,6 @@
 {
   "name": "lcms",
-  "versions": [
-    "master",
-    "2.11",
-    "2.12"
-  ],
-  "git": "https://github.com/mm2/Little-CMS",
-  "git_short": "mm2/Little-CMS",
-  "git_prefixed": "gh:mm2/Little-CMS",
-  "stars": 484,
-  "forks": 171,
-  "open_issues": 12,
-  "maintainers": [],
-  "watchers": 32,
   "description": "A free, open source, CMM engine.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C",
-  "owner": "mm2",
-  "owner_type": "User"
+  "git": "https://github.com/mm2/Little-CMS",
+  "target_link": ""
 }

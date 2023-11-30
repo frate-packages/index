@@ -1,1 +1,6 @@
-{"name":"cspice","git":"https://naif.jpl.nasa.gov/naif/toolkit.html","description":"NASA C SPICE library"}
+{
+  "name": "cspice",
+  "description": "NASA C SPICE library",
+  "git": "",
+  "target_link": ""
+}

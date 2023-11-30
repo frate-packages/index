@@ -1,21 +1,6 @@
 {
   "name": "signals-light",
-  "versions": [
-    "main"
-  ],
-  "git": "https://github.com/a-n-t-h-o-n-y/signals-light/",
-  "git_short": "a-n-t-h-o-n-y/signals-light/",
-  "git_prefixed": "gh:a-n-t-h-o-n-y/signals-light/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Lightweight Signals \u0026amp; Slots Library",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/a-n-t-h-o-n-y/signals-light/",
+  "target_link": ""
 }

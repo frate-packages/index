@@ -1,1 +1,6 @@
-{"name":"box2d","git":"http://box2d.org/","description":"Box2D is a 2D physics engine for games"}
+{
+  "name": "box2d",
+  "description": "Box2D is a 2D physics engine for games",
+  "git": "",
+  "target_link": ""
+}

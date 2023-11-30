@@ -1,1 +1,6 @@
-{"name":"poppler-data","git":"https://poppler.freedesktop.org/","description":"encoding files for use with poppler, enable CJK and Cyrrilic"}
+{
+  "name": "poppler-data",
+  "description": "encoding files for use with poppler, enable CJK and Cyrrilic",
+  "git": "",
+  "target_link": ""
+}

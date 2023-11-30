@@ -1,34 +1,6 @@
 {
   "name": "libmorton",
-  "versions": [
-    "main",
-    "v0.2",
-    "v0.2.1",
-    "v0.2.10",
-    "v0.2.11",
-    "v0.2.12",
-    "v0.2.2",
-    "v0.2.3",
-    "v0.2.4",
-    "v0.2.5",
-    "v0.2.6",
-    "v0.2.7",
-    "v0.2.8",
-    "v0.2.9"
-  ],
-  "git": "https://github.com/Forceflow/libmorton",
-  "git_short": "Forceflow/libmorton",
-  "git_prefixed": "gh:Forceflow/libmorton",
-  "stars": 528,
-  "forks": 66,
-  "open_issues": 7,
-  "maintainers": [],
-  "watchers": 28,
   "description": "C++ header-only library with methods to efficiently encode/decode 64, 32 and 16-bit Morton codes and coordinates, in 2D and 3D.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Forceflow",
-  "owner_type": "User"
+  "git": "https://github.com/Forceflow/libmorton",
+  "target_link": ""
 }

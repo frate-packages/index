@@ -1,21 +1,6 @@
 {
   "name": "jungle",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/eBay/Jungle",
-  "git_short": "eBay/Jungle",
-  "git_prefixed": "gh:eBay/Jungle",
-  "stars": 179,
-  "forks": 42,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 7,
   "description": "Key-value storage library, based on a combined index of LSM-tree and copy-on-write B+tree",
-  "git_description": "",
-  "target_link": "",
-  "license": "Apache License 2.0",
-  "language": "C++",
-  "owner": "eBay",
-  "owner_type": "Organization"
+  "git": "https://github.com/eBay/Jungle",
+  "target_link": ""
 }

@@ -1,36 +1,6 @@
 {
   "name": "libdmtx",
-  "versions": [
-    "master",
-    "v0.5.2",
-    "v0.5.2^{}",
-    "v0.6.0",
-    "v0.6.0^{}",
-    "v0.7.0",
-    "v0.7.0^{}",
-    "v0.7.2",
-    "v0.7.2^{}",
-    "v0.7.4",
-    "v0.7.4^{}",
-    "v0.7.5",
-    "v0.7.5^{}",
-    "v0.7.6",
-    "v0.7.6^{}",
-    "v0.7.7"
-  ],
-  "git": "https://github.com/dmtx/libdmtx",
-  "git_short": "dmtx/libdmtx",
-  "git_prefixed": "gh:dmtx/libdmtx",
-  "stars": 263,
-  "forks": 119,
-  "open_issues": 19,
-  "maintainers": [],
-  "watchers": 25,
   "description": "software library that enables programs to readand write Data Matrix barcodes of the modern ECC200 variety",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "dmtx",
-  "owner_type": "Organization"
+  "git": "https://github.com/dmtx/libdmtx",
+  "target_link": ""
 }

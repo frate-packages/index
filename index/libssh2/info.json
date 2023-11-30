@@ -1,1 +1,6 @@
-{"name":"libssh2","git":"https://libssh2.org","description":"libssh2 is a client-side C library implementing the SSH2 protocol"}
+{
+  "name": "libssh2",
+  "description": "libssh2 is a client-side C library implementing the SSH2 protocol",
+  "git": "",
+  "target_link": ""
+}

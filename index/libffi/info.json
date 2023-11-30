@@ -1,1 +1,6 @@
-{"name":"libffi","git":"https://sourceware.org/libffi/","description":"A portable, high level programming interface to various calling conventions"}
+{
+  "name": "libffi",
+  "description": "A portable, high level programming interface to various calling conventions",
+  "git": "",
+  "target_link": ""
+}

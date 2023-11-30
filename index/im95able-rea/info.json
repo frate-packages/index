@@ -1,21 +1,6 @@
 {
   "name": "im95able-rea",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/im95able/Rea/",
-  "git_short": "im95able/Rea/",
-  "git_prefixed": "gh:im95able/Rea/",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "Lightweight library of data structures implemented in C++11, designed for constant time insertion, erasure, lookup, and fastest possible iteration.",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://github.com/im95able/Rea/",
+  "target_link": ""
 }

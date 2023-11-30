@@ -1,1 +1,6 @@
-{"name":"faac","git":"https://sourceforge.net/projects/faac","description":"Freeware Advanced Audio Coder"}
+{
+  "name": "faac",
+  "description": "Freeware Advanced Audio Coder",
+  "git": "",
+  "target_link": ""
+}

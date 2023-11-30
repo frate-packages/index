@@ -1,1 +1,6 @@
-{"name":"libiberty","git":"https://gcc.gnu.org/onlinedocs/libiberty","description":"A collection of subroutines used by various GNU programs"}
+{
+  "name": "libiberty",
+  "description": "A collection of subroutines used by various GNU programs",
+  "git": "",
+  "target_link": ""
+}

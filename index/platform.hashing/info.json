@@ -1,36 +1,6 @@
 {
   "name": "platform.hashing",
-  "versions": [
-    "main",
-    "master",
-    "0.0.1",
-    "0.0.2",
-    "0.0.3",
-    "0.1.0",
-    "0.2.0",
-    "cpp_0.3.0",
-    "cpp_0.4.0",
-    "cpp_0.5.0",
-    "cpp_0.5.1",
-    "cpp_0.5.2",
-    "cpp_0.5.3",
-    "cpp_0.5.4",
-    "cpp_0.5.5",
-    "cpp_0.5.6"
-  ],
-  "git": "https://github.com/linksplatform/Hashing",
-  "git_short": "linksplatform/Hashing",
-  "git_prefixed": "gh:linksplatform/Hashing",
-  "stars": 2,
-  "forks": 2,
-  "open_issues": 4,
-  "maintainers": [],
-  "watchers": 1,
   "description": "platform.hashing is one of the libraries of the LinksPlatform modular framework, which contains std::hash specializations for:\n - trivial and standard-layout types\n - types constrained by std::ranges::range\n - std::any",
-  "git_description": "",
-  "target_link": "",
-  "license": "The Unlicense",
-  "language": "C",
-  "owner": "linksplatform",
-  "owner_type": "Organization"
+  "git": "https://github.com/linksplatform/Hashing",
+  "target_link": ""
 }

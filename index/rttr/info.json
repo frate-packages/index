@@ -1,25 +1,6 @@
 {
   "name": "rttr",
-  "versions": [
-    "master",
-    "v0.9.5",
-    "v0.9.5^{}",
-    "v0.9.6",
-    "v0.9.6^{}"
-  ],
-  "git": "https://github.com/rttrorg/rttr",
-  "git_short": "rttrorg/rttr",
-  "git_prefixed": "gh:rttrorg/rttr",
-  "stars": 2825,
-  "forks": 434,
-  "open_issues": 133,
-  "maintainers": [],
-  "watchers": 91,
   "description": "Run Time Type Reflection library",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "rttrorg",
-  "owner_type": "Organization"
+  "git": "https://github.com/rttrorg/rttr",
+  "target_link": ""
 }

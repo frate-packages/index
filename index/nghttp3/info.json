@@ -1,1 +1,6 @@
-{"name":"nghttp3","git":"https://nghttp2.org/nghttp3/","description":"HTTP/3 library written in C"}
+{
+  "name": "nghttp3",
+  "description": "HTTP/3 library written in C",
+  "git": "",
+  "target_link": ""
+}

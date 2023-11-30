@@ -1,1 +1,6 @@
-{"name":"jfalcou-eve","git":"https://jfalcou.github.io/eve/","description":"Expressive Velocity Engine - reimplementation of the old Boost.SIMD on C++20"}
+{
+  "name": "jfalcou-eve",
+  "description": "Expressive Velocity Engine - reimplementation of the old Boost.SIMD on C++20",
+  "git": "",
+  "target_link": ""
+}

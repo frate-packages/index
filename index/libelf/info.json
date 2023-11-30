@@ -1,1 +1,6 @@
-{"name":"libelf","git":"https://directory.fsf.org/wiki/Libelf","description":"ELF object file access library"}
+{
+  "name": "libelf",
+  "description": "ELF object file access library",
+  "git": "",
+  "target_link": ""
+}

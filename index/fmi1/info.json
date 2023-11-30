@@ -1,1 +1,6 @@
-{"name":"fmi1","git":"https://fmi-standard.org","description":"Functional Mock-up Interface (FMI) for Co-Simulation"}
+{
+  "name": "fmi1",
+  "description": "Functional Mock-up Interface (FMI) for Co-Simulation",
+  "git": "",
+  "target_link": ""
+}

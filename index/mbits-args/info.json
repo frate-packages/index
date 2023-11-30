@@ -1,28 +1,6 @@
 {
   "name": "mbits-args",
-  "versions": [
-    "master",
-    "v0.10.0",
-    "v0.11.0",
-    "v0.11.0^{}",
-    "v0.12.0",
-    "v0.12.1",
-    "v0.12.2",
-    "v0.12.3"
-  ],
-  "git": "https://github.com/mbits-libs/args",
-  "git_short": "mbits-libs/args",
-  "git_prefixed": "gh:mbits-libs/args",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "Small open-source library for program argument parser, inspired by Python's `argparse`, depending only on the standard library, with C++17 as minimum requirement.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "mbits-libs",
-  "owner_type": "Organization"
+  "git": "https://github.com/mbits-libs/args",
+  "target_link": ""
 }

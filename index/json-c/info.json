@@ -1,25 +1,6 @@
 {
   "name": "json-c",
-  "versions": [
-    "master",
-    "json-c-0.12.1-20160607",
-    "json-c-0.12.1-20160607^{}",
-    "json-c-0.13.1-20180305",
-    "json-c-0.13.1-20180305^{}"
-  ],
-  "git": "https://github.com/json-c/json-c",
-  "git_short": "json-c/json-c",
-  "git_prefixed": "gh:json-c/json-c",
-  "stars": 2775,
-  "forks": 1102,
-  "open_issues": 18,
-  "maintainers": [],
-  "watchers": 163,
   "description": "JSON-C - A JSON implementation in C",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "json-c",
-  "owner_type": "Organization"
+  "git": "https://github.com/json-c/json-c",
+  "target_link": ""
 }

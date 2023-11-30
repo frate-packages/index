@@ -1,1 +1,6 @@
-{"name":"qt","git":"https://www.qt.io","description":"Qt is a cross-platform framework for graphical user interfaces."}
+{
+  "name": "qt",
+  "description": "Qt is a cross-platform framework for graphical user interfaces.",
+  "git": "",
+  "target_link": ""
+}

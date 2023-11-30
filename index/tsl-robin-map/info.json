@@ -1,34 +1,6 @@
 {
   "name": "tsl-robin-map",
-  "versions": [
-    "master",
-    "v0.1",
-    "v0.2.0",
-    "v0.3.0",
-    "v0.4.0",
-    "v0.5.0",
-    "v0.6.0",
-    "v0.6.1",
-    "v0.6.2",
-    "v0.6.3",
-    "v1.0.0",
-    "v1.0.1",
-    "v1.2.0",
-    "v1.2.1"
-  ],
-  "git": "https://github.com/Tessil/robin-map",
-  "git_short": "Tessil/robin-map",
-  "git_prefixed": "gh:Tessil/robin-map",
-  "stars": 1075,
-  "forks": 101,
-  "open_issues": 9,
-  "maintainers": [],
-  "watchers": 32,
   "description": "C++ implementation of a fast hash map and hash set using robin hood hashing.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "Tessil",
-  "owner_type": "User"
+  "git": "https://github.com/Tessil/robin-map",
+  "target_link": ""
 }

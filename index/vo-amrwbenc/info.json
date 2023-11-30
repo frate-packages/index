@@ -1,1 +1,6 @@
-{"name":"vo-amrwbenc","git":"https://sourceforge.net/projects/opencore-amr/","description":"VisualOn AMR-WB encoder library."}
+{
+  "name": "vo-amrwbenc",
+  "description": "VisualOn AMR-WB encoder library.",
+  "git": "",
+  "target_link": ""
+}

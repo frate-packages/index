@@ -1,23 +1,6 @@
 {
   "name": "7bitconf",
-  "versions": [
-    "main",
-    "v1.0.0",
-    "v1.1.0"
-  ],
-  "git": "https://github.com/7bitCoder/7bitConf",
-  "git_short": "7bitCoder/7bitConf",
-  "git_prefixed": "gh:7bitCoder/7bitConf",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "7bitConf is a simple C++17 centralized configuration provider library.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "7bitcoder",
-  "owner_type": "User"
+  "git": "https://github.com/7bitCoder/7bitConf",
+  "target_link": ""
 }

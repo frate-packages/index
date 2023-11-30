@@ -1,1 +1,6 @@
-{"name":"cgns","git":"http://cgns.org/","description":"Standard for data associated with the numerical solution of fluid dynamics equations."}
+{
+  "name": "cgns",
+  "description": "Standard for data associated with the numerical solution of fluid dynamics equations.",
+  "git": "",
+  "target_link": ""
+}

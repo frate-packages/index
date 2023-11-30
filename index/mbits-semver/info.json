@@ -1,23 +1,6 @@
 {
   "name": "mbits-semver",
-  "versions": [
-    "master",
-    "v0.1.0",
-    "v0.1.1"
-  ],
-  "git": "https://github.com/mbits-libs/semver",
-  "git_short": "mbits-libs/semver",
-  "git_prefixed": "gh:mbits-libs/semver",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 1,
   "description": "Semantic Version type for C++17",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "C++",
-  "owner": "mbits-libs",
-  "owner_type": "Organization"
+  "git": "https://github.com/mbits-libs/semver",
+  "target_link": ""
 }

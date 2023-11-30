@@ -1,1 +1,6 @@
-{"name":"npcap","git":"https://npcap.com/","description":"Windows port of the libpcap library"}
+{
+  "name": "npcap",
+  "description": "Windows port of the libpcap library",
+  "git": "",
+  "target_link": ""
+}

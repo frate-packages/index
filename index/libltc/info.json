@@ -1,1 +1,6 @@
-{"name":"libltc","git":"https://x42.github.io/libltc/","description":"Linear/Longitudinal Time Code (LTC) Library"}
+{
+  "name": "libltc",
+  "description": "Linear/Longitudinal Time Code (LTC) Library",
+  "git": "",
+  "target_link": ""
+}

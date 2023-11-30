@@ -1,28 +1,6 @@
 {
   "name": "libuvc",
-  "versions": [
-    "master",
-    "v0.0.1",
-    "v0.0.2",
-    "v0.0.3",
-    "v0.0.4",
-    "v0.0.5",
-    "v0.0.6",
-    "v0.0.7"
-  ],
-  "git": "https://github.com/libuvc/libuvc",
-  "git_short": "libuvc/libuvc",
-  "git_prefixed": "gh:libuvc/libuvc",
-  "stars": 866,
-  "forks": 475,
-  "open_issues": 130,
-  "maintainers": [],
-  "watchers": 69,
   "description": "A cross-platform library for USB video devices",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C",
-  "owner": "libuvc",
-  "owner_type": "Organization"
+  "git": "https://github.com/libuvc/libuvc",
+  "target_link": ""
 }

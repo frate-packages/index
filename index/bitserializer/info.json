@@ -1,27 +1,6 @@
 {
   "name": "bitserializer",
-  "versions": [
-    "master",
-    "0.10",
-    "0.44",
-    "0.50",
-    "0.7",
-    "0.8",
-    "0.9"
-  ],
-  "git": "https://bitbucket.org/Pavel_Kisliak/bitserializer",
-  "git_short": "https://bitbucket.org/Pavel_Kisliak/bitserializer",
-  "git_prefixed": "",
-  "stars": 0,
-  "forks": 0,
-  "open_issues": 0,
-  "maintainers": [],
-  "watchers": 0,
   "description": "C++ 17 library for serialization to multiple output formats (JSON, XML, YAML, CSV)",
-  "git_description": "",
-  "target_link": "",
-  "license": "",
-  "language": "",
-  "owner": "",
-  "owner_type": ""
+  "git": "https://bitbucket.org/Pavel_Kisliak/bitserializer",
+  "target_link": ""
 }

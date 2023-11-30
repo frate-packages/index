@@ -1,1 +1,6 @@
-{"name":"aggeom-agg","git":"https://github.com/aggeom","description":"AGG Anti-Grain Geometry Library"}
+{
+  "name": "aggeom-agg",
+  "description": "AGG Anti-Grain Geometry Library",
+  "git": "https://github.com/aggeom",
+  "target_link": ""
+}

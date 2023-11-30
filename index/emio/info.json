@@ -1,28 +1,6 @@
 {
   "name": "emio",
-  "versions": [
-    "main",
-    "0.1.0",
-    "0.2.0",
-    "0.3.0",
-    "0.4.0",
-    "0.5.0",
-    "0.6.0",
-    "0.6.1"
-  ],
-  "git": "https://github.com/viatorus/emio",
-  "git_short": "viatorus/emio",
-  "git_prefixed": "gh:viatorus/emio",
-  "stars": 109,
-  "forks": 3,
-  "open_issues": 11,
-  "maintainers": [],
-  "watchers": 2,
   "description": "A character input/output library for embedded systems.",
-  "git_description": "",
-  "target_link": "",
-  "license": "Other",
-  "language": "C++",
-  "owner": "Viatorus",
-  "owner_type": "User"
+  "git": "https://github.com/viatorus/emio",
+  "target_link": ""
 }

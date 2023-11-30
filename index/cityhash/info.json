@@ -1,21 +1,6 @@
 {
   "name": "cityhash",
-  "versions": [
-    "master"
-  ],
-  "git": "https://github.com/google/cityhash",
-  "git_short": "google/cityhash",
-  "git_prefixed": "gh:google/cityhash",
-  "stars": 1029,
-  "forks": 182,
-  "open_issues": 14,
-  "maintainers": [],
-  "watchers": 42,
   "description": "CityHash, a family of hash functions for strings.",
-  "git_description": "",
-  "target_link": "",
-  "license": "MIT License",
-  "language": "Shell",
-  "owner": "google",
-  "owner_type": "Organization"
+  "git": "https://github.com/google/cityhash",
+  "target_link": ""
 }
