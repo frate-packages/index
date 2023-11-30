@@ -299,8 +299,8 @@ func main() {
 
   for i := 0; i < len(packageIndex); i++ {
     wg.Add(1);
-    timeout := time.After(5 * time.Second)
     go func(packageIndex *[]PackageInfo,index int) {
+      timeout := time.After(5 * time.Second)
       log.Printf("Fetching github info for %s\n", (*packageIndex)[index].Name)
       if err := addGithubInfo(&(*packageIndex)[index], githubToken); err != nil {
         log.Printf("Error fetching github info for %s\n", (*packageIndex)[index].Name)
@@ -317,20 +317,20 @@ func main() {
         return;
       }
       select {
-      case err := <-errChan:
-        log.Printf(
-          "Error fetching remote versions and github info for %s\n",
-          (*packageIndex)[index].Name)
-        log.Printf("%v\n", err)
-        wg.Done();
-        return;
-      case <-timeout:
-        log.Printf(
-          "Timeout fetching remote versions and github info for %s\n", 
-          (*packageIndex)[index].Name)
-        wg.Done();
-        return;
-      default:
+        case err := <-errChan:
+          log.Printf(
+            "Error fetching remote versions and github info for %s\n",
+            (*packageIndex)[index].Name)
+          log.Printf("%v\n", err)
+          wg.Done();
+          return;
+        case <-timeout:
+          log.Printf(
+            "Timeout fetching remote versions and github info for %s\n", 
+            (*packageIndex)[index].Name)
+          wg.Done();
+          return;
+        default:
       }
       log.Printf(
         "Done fetching remote versions and github info for %s\n",
