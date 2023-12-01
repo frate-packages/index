@@ -81,14 +81,6 @@ func validGitLink(link string) bool {
 		strings.Contains(link, "svn")
 }
 
-func packageOnlyHasMainTag(packageInfo PackageInfo) bool {
-	if len(packageInfo.Versions) == 1 && (packageInfo.Versions[0] == "main" || packageInfo.Versions[0] == "master") {
-		return true
-	} else {
-		return false
-	}
-}
-
 func isGithubRepo(repo string) bool {
 	return strings.Contains(repo, "github.com")
 }
@@ -107,11 +99,6 @@ func shortenGitLink(link string) string {
 	}
 
 	return link
-}
-
-func isShortened(git string) bool {
-	expected_expr := "[a-zA-Z0-9_-]+/[a-zA-Z0-9_-]+"
-	return regexp.MustCompile(expected_expr).MatchString(git)
 }
 
 func makeAuthorizedRequest(url string, token string) (string, error) {
@@ -233,7 +220,11 @@ func getCurrentPackageInfo(path string) (PackageInfo, error) {
 			lines += line
 		}
 
-		json.Unmarshal([]byte(lines), &packageInfo)
+		err = json.Unmarshal([]byte(lines), &packageInfo)
+		if err != nil {
+			return PackageInfo{}, fmt.Errorf("error unmarshalling JSON: %v", err)
+		}
+
 		if !validGitLink(packageInfo.Git) {
 			packageInfo.Git = ""
 		}
