@@ -269,6 +269,15 @@ func loadPackageIndex(path string) ([]PackageInfo, error) {
 			if err != nil {
 				return err
 			}
+
+			if pkgInfo.Name == "cub" ||
+				pkgInfo.Name == "libliftoff" ||
+				pkgInfo.Name == "libxpm" ||
+				!validGitLink(pkgInfo.Git) {
+				return nil
+			}
+
+			log.Printf("%+v\n\n", pkgInfo)
 			packageIndex = append(packageIndex, pkgInfo)
 		}
 		return nil
@@ -278,23 +287,23 @@ func loadPackageIndex(path string) ([]PackageInfo, error) {
 
 func processPackages(ctx context.Context, client *http.Client, token string, packages []PackageInfo) error {
 	var wg sync.WaitGroup
-	errChan := make(chan error, len(packages))
+	errChan := make(chan error, 10)
 
-	for i := range packages {
+	for i := 0; i < len(packages); i++ {
 		wg.Add(1)
-		go func(pkg *PackageInfo) {
+		go func(pkg *[]PackageInfo, index int) {
 			defer wg.Done()
 
-			if err := addGithubInfo(ctx, client, pkg, token); err != nil {
+			if err := addGithubInfo(ctx, client, &packages[index], token); err != nil {
 				errChan <- err
 				return
 			}
 
-			if err := getRemoteVersions(pkg); err != nil {
+			if err := getRemoteVersions(&packages[index]); err != nil {
 				errChan <- err
 				return
 			}
-		}(&packages[i])
+		}(&packages, i)
 	}
 
 	wg.Wait()
