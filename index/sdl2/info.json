@@ -2,5 +2,6 @@
   "name": "SDL2",
   "description": "Access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D and Vulkan",
   "git": "https://github.com/libsdl-org/SDL.git",
+  "git_short": "libsdl-org/SDL",
   "target_link": "SDL2::SDL2"
 }
