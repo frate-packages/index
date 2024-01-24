@@ -1,6 +1,0 @@
-{
-  "name": "lzham",
-  "description": "Compression algorithm similar compression ratio and faster decompression than LZMA.",
-  "git": "https://github.com/richgel999/lzham_codec",
-  "target_link": ""
-}

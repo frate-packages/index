@@ -1,6 +1,0 @@
-{
-  "name": "cctz",
-  "description": "C++ library for translating between absolute and civil times",
-  "git": "https://github.com/google/cctz",
-  "target_link": ""
-}

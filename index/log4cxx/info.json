@@ -1,6 +1,0 @@
-{
-  "name": "log4cxx",
-  "description": "Logging framework for C++ patterned after Apache log4j",
-  "git": "",
-  "target_link": ""
-}

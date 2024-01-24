@@ -1,6 +1,0 @@
-{
-  "name": "nmea",
-  "description": "Library to work with NMEA protocol",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libsquish",
-  "description": "The libSquish library compresses images with the DXT standard (also known as S3TC).",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "minitrace",
-  "description": "Simple C/C++ library for producing JSON traces suitable for Chrome's built-in trace viewer (about:tracing).",
-  "git": "https://github.com/hrydgard/minitrace",
-  "target_link": ""
-}

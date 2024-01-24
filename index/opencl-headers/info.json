@@ -1,6 +1,0 @@
-{
-  "name": "opencl-headers",
-  "description": "C language headers for the OpenCL API",
-  "git": "https://github.com/KhronosGroup/OpenCL-Headers",
-  "target_link": ""
-}

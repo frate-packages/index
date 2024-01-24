@@ -1,6 +1,0 @@
-{
-  "name": "mbits-diags",
-  "description": "Diagnostic library with source positions, ranges and hints.",
-  "git": "https://github.com/mbits-libs/diags",
-  "target_link": ""
-}

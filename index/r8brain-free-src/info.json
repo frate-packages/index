@@ -1,6 +1,0 @@
-{
-  "name": "r8brain-free-src",
-  "description": "High-quality pro audio sample rate converter / resampler C++ library",
-  "git": "https://github.com/avaneev/r8brain-free-src",
-  "target_link": ""
-}

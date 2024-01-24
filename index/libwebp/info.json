@@ -1,6 +1,0 @@
-{
-  "name": "libwebp",
-  "description": "Library to encode and decode images in WebP format",
-  "git": "",
-  "target_link": ""
-}

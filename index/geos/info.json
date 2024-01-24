@@ -1,6 +1,0 @@
-{
-  "name": "geos",
-  "description": "C++11 library for performing operations on two-dimensional vector geometries",
-  "git": "",
-  "target_link": ""
-}

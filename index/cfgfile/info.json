@@ -1,6 +1,0 @@
-{
-  "name": "cfgfile",
-  "description": "Header-only library for reading/saving configuration files with schema defined in sources.",
-  "git": "https://github.com/igormironchik/cfgfile.git",
-  "target_link": ""
-}

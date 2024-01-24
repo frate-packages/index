@@ -1,6 +1,0 @@
-{
-  "name": "xtl",
-  "description": "The x template library",
-  "git": "https://github.com/xtensor-stack/xtl",
-  "target_link": ""
-}

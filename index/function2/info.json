@@ -1,6 +1,0 @@
-{
-  "name": "function2",
-  "description": "Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more",
-  "git": "https://github.com/Naios/function2",
-  "target_link": ""
-}

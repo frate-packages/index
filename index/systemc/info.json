@@ -1,6 +1,0 @@
-{
-  "name": "systemc",
-  "description": "SystemC is a set of C++ classes and macros which provide an event-driven simulation interface.",
-  "git": "",
-  "target_link": ""
-}

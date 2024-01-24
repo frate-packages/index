@@ -1,6 +1,0 @@
-{
-  "name": "mbits-semver",
-  "description": "Semantic Version type for C++17",
-  "git": "https://github.com/mbits-libs/semver",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "plutovg",
-  "description": "Tiny 2D vector graphics library in C",
-  "git": "https://github.com/sammycage/plutovg",
-  "target_link": ""
-}

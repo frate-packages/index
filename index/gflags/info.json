@@ -1,6 +1,0 @@
-{
-  "name": "gflags",
-  "description": "The gflags package contains a C++ library that implements commandline flags processing",
-  "git": "https://github.com/gflags/gflags",
-  "target_link": ""
-}

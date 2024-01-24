@@ -1,6 +1,0 @@
-{
-  "name": "nuklear",
-  "description": "A single-header ANSI C immediate mode cross-platform GUI library.",
-  "git": "https://github.com/Immediate-Mode-UI/Nuklear",
-  "target_link": ""
-}

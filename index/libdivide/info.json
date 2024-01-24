@@ -1,6 +1,0 @@
-{
-  "name": "libdivide",
-  "description": "Header-only C/C++ library for optimizing integer division.",
-  "git": "",
-  "target_link": ""
-}

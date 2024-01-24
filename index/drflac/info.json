@@ -1,6 +1,0 @@
-{
-  "name": "drflac",
-  "description": "FLAC audio decoder.",
-  "git": "",
-  "target_link": ""
-}

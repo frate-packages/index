@@ -1,6 +1,0 @@
-{
-  "name": "ssht",
-  "description": "Fast spin spherical harmonic transforms",
-  "git": "https://github.com/astro-informatics/ssht",
-  "target_link": ""
-}

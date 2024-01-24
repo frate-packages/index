@@ -1,6 +1,0 @@
-{
-  "name": "cgif",
-  "description": "GIF encoder written in C",
-  "git": "https://github.com/dloebl/cgif",
-  "target_link": ""
-}

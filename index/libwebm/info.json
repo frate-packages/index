@@ -1,6 +1,0 @@
-{
-  "name": "libwebm",
-  "description": "Library for muxing and demuxing WebM media container files",
-  "git": "",
-  "target_link": ""
-}

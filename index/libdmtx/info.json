@@ -1,6 +1,0 @@
-{
-  "name": "libdmtx",
-  "description": "software library that enables programs to readand write Data Matrix barcodes of the modern ECC200 variety",
-  "git": "https://github.com/dmtx/libdmtx",
-  "target_link": ""
-}

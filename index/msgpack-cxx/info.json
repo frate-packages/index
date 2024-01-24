@@ -1,6 +1,0 @@
-{
-  "name": "msgpack-cxx",
-  "description": "The official C++ library for MessagePack",
-  "git": "https://github.com/msgpack/msgpack-c",
-  "target_link": ""
-}

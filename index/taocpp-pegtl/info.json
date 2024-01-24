@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-pegtl",
-  "description": "Parsing Expression Grammar Template Library",
-  "git": "https://github.com/taocpp/pegtl",
-  "target_link": ""
-}

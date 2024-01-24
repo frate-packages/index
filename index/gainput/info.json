@@ -1,6 +1,0 @@
-{
-  "name": "gainput",
-  "description": "Cross-platform C++ input library supporting gamepads, keyboard, mouse, touch.",
-  "git": "",
-  "target_link": ""
-}

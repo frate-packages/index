@@ -1,6 +1,0 @@
-{
-  "name": "stdgpu",
-  "description": "Efficient STL-like Data Structures on the GPU",
-  "git": "",
-  "target_link": ""
-}

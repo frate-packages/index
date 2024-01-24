@@ -1,6 +1,0 @@
-{
-  "name": "perf",
-  "description": "Linux profiling with performance counters",
-  "git": "",
-  "target_link": ""
-}

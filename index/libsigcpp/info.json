@@ -1,6 +1,0 @@
-{
-  "name": "libsigcpp",
-  "description": "libsigc++ implements a typesafe callback system for standard C++.",
-  "git": "https://github.com/libsigcplusplus/libsigcplusplus",
-  "target_link": ""
-}

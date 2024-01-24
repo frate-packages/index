@@ -1,6 +1,0 @@
-{
-  "name": "cyrus-sasl",
-  "description": "This is the Cyrus SASL API implementation. It can be used on the client or server side to provide authentication and authorization services.",
-  "git": "",
-  "target_link": ""
-}

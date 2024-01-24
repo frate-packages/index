@@ -1,6 +1,0 @@
-{
-  "name": "opencl-clhpp-headers",
-  "description": "C++ language headers for the OpenCL API",
-  "git": "https://github.com/KhronosGroup/OpenCL-CLHPP",
-  "target_link": ""
-}

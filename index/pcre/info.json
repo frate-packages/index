@@ -1,6 +1,0 @@
-{
-  "name": "pcre",
-  "description": "Perl Compatible Regular Expressions",
-  "git": "",
-  "target_link": ""
-}

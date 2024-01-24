@@ -1,6 +1,0 @@
-{
-  "name": "sokol",
-  "description": "Simple STB-style cross-platform libraries for C and C++, written in C.",
-  "git": "https://github.com/floooh/sokol",
-  "target_link": ""
-}

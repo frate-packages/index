@@ -1,6 +1,0 @@
-{
-  "name": "utf8.h",
-  "description": "Single header utf8 string functions for C and C++",
-  "git": "https://github.com/sheredom/utf8.h",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "st_tree",
-  "description": "A fast and flexible c++ template class for tree data structures",
-  "git": "https://github.com/erikerlandson/st_tree",
-  "target_link": ""
-}

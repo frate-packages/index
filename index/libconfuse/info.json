@@ -1,6 +1,0 @@
-{
-  "name": "libconfuse",
-  "description": "Small configuration file parser library for C",
-  "git": "https://github.com/martinh/libconfuse",
-  "target_link": ""
-}

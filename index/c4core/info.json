@@ -1,6 +1,0 @@
-{
-  "name": "c4core",
-  "description": "c4core is a library of low-level C++ utilities, written with low-latency projects in mind.",
-  "git": "https://github.com/biojppm/c4core",
-  "target_link": ""
-}

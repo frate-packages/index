@@ -1,6 +1,0 @@
-{
-  "name": "wglext",
-  "description": "WGL extension interfaces",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "troldal-zippy",
-  "description": "A simple C++ wrapper around the \"miniz\" zip library ",
-  "git": "https://github.com/troldal/Zippy",
-  "target_link": ""
-}

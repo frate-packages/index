@@ -1,6 +1,0 @@
-{
-  "name": "fast-cdr",
-  "description": "eProsima FastCDR library for serialization",
-  "git": "https://github.com/eProsima/Fast-CDR",
-  "target_link": ""
-}

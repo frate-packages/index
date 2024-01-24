@@ -1,6 +1,0 @@
-{
-  "name": "oboe",
-  "description": "Oboe is a C++ library which makes it easy to build high-performance audio apps on Android.",
-  "git": "https://github.com/google/oboe",
-  "target_link": ""
-}

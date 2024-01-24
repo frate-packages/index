@@ -1,6 +1,0 @@
-{
-  "name": "termcolor",
-  "description": "Termcolor is a header-only C++ library for printing colored messages to the terminal.",
-  "git": "https://github.com/ikalnytskyi/termcolor",
-  "target_link": "termcolor::termcolor"
-}

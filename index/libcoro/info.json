@@ -1,6 +1,0 @@
-{
-  "name": "libcoro",
-  "description": "C++20 coroutine library",
-  "git": "https://github.com/jbaldwin/libcoro",
-  "target_link": ""
-}

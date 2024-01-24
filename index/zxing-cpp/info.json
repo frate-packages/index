@@ -1,6 +1,0 @@
-{
-  "name": "zxing-cpp",
-  "description": "C++ port of ZXing, a barcode scanning library",
-  "git": "https://github.com/zxing-cpp/zxing-cpp",
-  "target_link": ""
-}

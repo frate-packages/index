@@ -1,6 +1,0 @@
-{
-  "name": "hiredis",
-  "description": "Hiredis is a minimalistic C client library for the Redis database.",
-  "git": "https://github.com/redis/hiredis",
-  "target_link": ""
-}

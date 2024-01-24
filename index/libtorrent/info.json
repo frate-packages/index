@@ -1,6 +1,0 @@
-{
-  "name": "libtorrent",
-  "description": "libtorrent is a feature complete C++ bittorrent implementation focusing on efficiency and scalability",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "lzip",
-  "description": "Lzip is a lossless data compressor with a user interface similar to the one of gzip or bzip2",
-  "git": "",
-  "target_link": ""
-}

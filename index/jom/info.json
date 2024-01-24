@@ -1,6 +1,0 @@
-{
-  "name": "jom",
-  "description": "jom is a clone of nmake to support the execution of multiple independent commands in parallel",
-  "git": "",
-  "target_link": ""
-}

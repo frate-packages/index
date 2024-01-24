@@ -1,6 +1,0 @@
-{
-  "name": "ixwebsocket",
-  "description": "IXWebSocket is a C++ library for WebSocket client and server development",
-  "git": "https://github.com/machinezone/IXWebSocket",
-  "target_link": ""
-}

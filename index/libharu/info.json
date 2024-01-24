@@ -1,6 +1,0 @@
-{
-  "name": "libharu",
-  "description": "Haru is a free, cross platform, open-sourced software library for generating PDF.",
-  "git": "",
-  "target_link": ""
-}

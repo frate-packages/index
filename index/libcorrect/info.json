@@ -1,6 +1,0 @@
-{
-  "name": "libcorrect",
-  "description": "C library for Convolutional codes and Reed-Solomon",
-  "git": "https://github.com/quiet/libcorrect",
-  "target_link": ""
-}

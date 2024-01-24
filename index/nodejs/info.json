@@ -1,6 +1,0 @@
-{
-  "name": "nodejs",
-  "description": "nodejs binaries for use in recipes",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "mbits-utfconv",
-  "description": "Conversion library between string, u16string, u32string and u8string.",
-  "git": "https://github.com/mbits-libs/utfconv",
-  "target_link": ""
-}

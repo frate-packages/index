@@ -1,6 +1,0 @@
-{
-  "name": "access_private",
-  "description": "Access private members and statics of a C++ class",
-  "git": "https://github.com/martong/access_private",
-  "target_link": ""
-}

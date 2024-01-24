@@ -1,6 +1,0 @@
-{
-  "name": "md4qt",
-  "description": "Header-only C++ library for parsing Markdown.",
-  "git": "https://github.com/igormironchik/md4qt",
-  "target_link": ""
-}

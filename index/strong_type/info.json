@@ -1,6 +1,0 @@
-{
-  "name": "strong_type",
-  "description": "An additive strong typedef library for C++14/17/20",
-  "git": "https://github.com/rollbear/strong_type",
-  "target_link": ""
-}

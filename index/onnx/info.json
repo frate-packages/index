@@ -1,6 +1,0 @@
-{
-  "name": "onnx",
-  "description": "Open standard for machine learning interoperability.",
-  "git": "https://github.com/onnx/onnx",
-  "target_link": ""
-}

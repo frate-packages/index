@@ -1,6 +1,0 @@
-{
-  "name": "mailio",
-  "description": "mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols.",
-  "git": "https://github.com/karastojko/mailio",
-  "target_link": ""
-}

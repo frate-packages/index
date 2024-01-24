@@ -1,6 +1,0 @@
-{
-  "name": "zziplib",
-  "description": "The ZZIPlib provides read access on ZIP-archives and unpacked data",
-  "git": "https://github.com/gdraheim/zziplib",
-  "target_link": ""
-}

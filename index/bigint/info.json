@@ -1,6 +1,0 @@
-{
-  "name": "bigint",
-  "description": "C++ Big Integer Library",
-  "git": "",
-  "target_link": ""
-}

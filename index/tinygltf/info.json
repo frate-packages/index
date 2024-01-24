@@ -1,6 +1,0 @@
-{
-  "name": "tinygltf",
-  "description": "Header only C++11 tiny glTF 2.0 library.",
-  "git": "https://github.com/syoyo/tinygltf",
-  "target_link": ""
-}

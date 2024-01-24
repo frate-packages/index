@@ -1,6 +1,0 @@
-{
-  "name": "flac",
-  "description": "Free Lossless Audio Codec",
-  "git": "https://github.com/xiph/flac",
-  "target_link": ""
-}

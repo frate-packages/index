@@ -1,6 +1,0 @@
-{
-  "name": "scippp",
-  "description": "SCIP++ is a C++ wrapper for SCIP's C interface",
-  "git": "https://github.com/scipopt/SCIPpp",
-  "target_link": ""
-}

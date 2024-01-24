@@ -1,6 +1,0 @@
-{
-  "name": "mdspan",
-  "description": "Production-quality reference implementation of mdspan",
-  "git": "https://github.com/kokkos/mdspan",
-  "target_link": ""
-}

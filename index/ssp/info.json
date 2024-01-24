@@ -1,6 +1,0 @@
-{
-  "name": "ssp",
-  "description": "C++ CSV parser",
-  "git": "https://github.com/red0124/ssp",
-  "target_link": ""
-}

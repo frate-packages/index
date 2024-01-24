@@ -1,6 +1,0 @@
-{
-  "name": "cppcheck",
-  "description": "Cppcheck is an analysis tool for C/C++ code.",
-  "git": "https://github.com/danmar/cppcheck",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "outcome",
-  "description": "Provides very lightweight outcome\u0026lt;T\u0026gt; and result\u0026lt;T\u0026gt;",
-  "git": "https://github.com/ned14/outcome",
-  "target_link": ""
-}

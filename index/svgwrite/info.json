@@ -1,6 +1,0 @@
-{
-  "name": "svgwrite",
-  "description": "a streaming svg library",
-  "git": "https://gitlab.com/dvd0101/svgwrite",
-  "target_link": ""
-}

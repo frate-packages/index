@@ -1,6 +1,0 @@
-{
-  "name": "libsvtav1",
-  "description": "An AV1-compliant software encoder/decoder library",
-  "git": "https://gitlab.com/AOMediaCodec/SVT-AV1",
-  "target_link": ""
-}

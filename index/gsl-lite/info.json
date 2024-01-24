@@ -1,6 +1,0 @@
-{
-  "name": "gsl-lite",
-  "description": "A single-file header-only version of ISO C++ Guideline Support Library (GSL) for C++98, C++11 and later",
-  "git": "https://github.com/martinmoene/gsl-lite",
-  "target_link": ""
-}

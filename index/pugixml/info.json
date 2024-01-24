@@ -1,6 +1,0 @@
-{
-  "name": "pugixml",
-  "description": "Light-weight, simple and fast XML parser for C++ with XPath support",
-  "git": "",
-  "target_link": ""
-}

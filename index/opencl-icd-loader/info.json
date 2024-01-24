@@ -1,6 +1,0 @@
-{
-  "name": "opencl-icd-loader",
-  "description": "OpenCL ICD Loader.",
-  "git": "https://github.com/KhronosGroup/OpenCL-ICD-Loader",
-  "target_link": ""
-}

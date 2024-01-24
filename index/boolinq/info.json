@@ -1,6 +1,0 @@
-{
-  "name": "boolinq",
-  "description": "Super tiny C++11 single-file header-only LINQ template library",
-  "git": "https://github.com/k06a/boolinq",
-  "target_link": ""
-}

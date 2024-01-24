@@ -1,6 +1,0 @@
-{
-  "name": "arsenalgear",
-  "description": "A library containing general purpose C++ utils.",
-  "git": "https://github.com/JustWhit3/arsenalgear-cpp",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "homog2d",
-  "description": "C++ 2D geometry library, handles points, lines, polylines, planar transformations(and other primitives), using homogeneous coordinates.",
-  "git": "https://github.com/skramm/homog2d",
-  "target_link": ""
-}

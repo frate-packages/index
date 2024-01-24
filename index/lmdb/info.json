@@ -1,6 +1,0 @@
-{
-  "name": "lmdb",
-  "description": "Fast and compat memory-mapped key-value database",
-  "git": "",
-  "target_link": ""
-}

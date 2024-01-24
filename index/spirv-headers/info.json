@@ -1,6 +1,0 @@
-{
-  "name": "spirv-headers",
-  "description": "Header files for the SPIRV instruction set.",
-  "git": "https://github.com/KhronosGroup/SPIRV-Headers",
-  "target_link": ""
-}

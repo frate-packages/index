@@ -1,6 +1,0 @@
-{
-  "name": "minisat",
-  "description": "minimalistic SAT solver",
-  "git": "",
-  "target_link": ""
-}

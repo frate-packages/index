@@ -1,6 +1,0 @@
-{
-  "name": "libgpiod",
-  "description": "C library and tools for interacting with the linux GPIO character device",
-  "git": "",
-  "target_link": ""
-}

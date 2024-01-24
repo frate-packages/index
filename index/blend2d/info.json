@@ -1,6 +1,0 @@
-{
-  "name": "blend2d",
-  "description": "2D Vector Graphics Engine Powered by a JIT Compiler",
-  "git": "",
-  "target_link": ""
-}

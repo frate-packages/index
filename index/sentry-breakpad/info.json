@@ -1,6 +1,0 @@
-{
-  "name": "sentry-breakpad",
-  "description": "Client component that implements a crash-reporting system.",
-  "git": "https://github.com/getsentry/breakpad",
-  "target_link": ""
-}

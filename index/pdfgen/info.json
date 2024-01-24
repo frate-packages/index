@@ -1,6 +1,0 @@
-{
-  "name": "pdfgen",
-  "description": "Simple C PDF Writer/Generation library",
-  "git": "https://github.com/AndreRenaud/PDFGen",
-  "target_link": ""
-}

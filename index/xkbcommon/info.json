@@ -1,6 +1,0 @@
-{
-  "name": "xkbcommon",
-  "description": "keymap handling library for toolkits and window systems",
-  "git": "https://github.com/xkbcommon/libxkbcommon",
-  "target_link": ""
-}

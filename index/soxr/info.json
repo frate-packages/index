@@ -1,6 +1,0 @@
-{
-  "name": "soxr",
-  "description": "The SoX Resampler library libsoxr performs fast, high-quality one-dimensional sample rate conversion.",
-  "git": "",
-  "target_link": ""
-}

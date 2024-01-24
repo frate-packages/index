@@ -1,6 +1,0 @@
-{
-  "name": "cargs",
-  "description": "A lightweight getopt replacement that works on Linux, Windows and macOS. Command line argument parser library for C/C++. Can be used to parse argv and argc parameters.",
-  "git": "",
-  "target_link": ""
-}

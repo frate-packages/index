@@ -1,6 +1,0 @@
-{
-  "name": "ms-gsl",
-  "description": "Microsoft's implementation of the Guidelines Support Library",
-  "git": "https://github.com/microsoft/GSL",
-  "target_link": ""
-}

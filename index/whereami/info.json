@@ -1,6 +1,0 @@
-{
-  "name": "whereami",
-  "description": "Locate the current executable and the current module/library on the file system",
-  "git": "https://github.com/gpakosz/whereami",
-  "target_link": ""
-}

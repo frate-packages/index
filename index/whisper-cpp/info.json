@@ -1,6 +1,0 @@
-{
-  "name": "whisper-cpp",
-  "description": "High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model",
-  "git": "https://github.com/ggerganov/whisper.cpp",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libattr",
-  "description": "Commands for Manipulating Filesystem Extended Attributes",
-  "git": "",
-  "target_link": ""
-}

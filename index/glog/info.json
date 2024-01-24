@@ -1,6 +1,0 @@
-{
-  "name": "glog",
-  "description": "Google logging library",
-  "git": "https://github.com/google/glog/",
-  "target_link": ""
-}

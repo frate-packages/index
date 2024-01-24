@@ -1,6 +1,0 @@
-{
-  "name": "pdqsort",
-  "description": "Pattern-defeating quicksort.",
-  "git": "https://github.com/orlp/pdqsort",
-  "target_link": ""
-}

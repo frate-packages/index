@@ -1,6 +1,0 @@
-{
-  "name": "cjson",
-  "description": "Ultralightweight JSON parser in ANSI C.",
-  "git": "https://github.com/DaveGamble/cJSON",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "clipper2",
-  "description": " A Polygon Clipping and Offsetting library in C++",
-  "git": "https://github.com/AngusJohnson/Clipper2",
-  "target_link": ""
-}

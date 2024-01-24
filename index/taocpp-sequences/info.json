@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-sequences",
-  "description": "Variadic templates and std::integer_sequence support library",
-  "git": "https://github.com/taocpp/sequences",
-  "target_link": ""
-}

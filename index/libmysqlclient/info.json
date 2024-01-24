@@ -1,6 +1,0 @@
-{
-  "name": "libmysqlclient",
-  "description": "A MySQL client library for C development.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "cppitertools",
-  "description": "Implementation of python itertools and builtin iteration functions for C++17",
-  "git": "https://github.com/ryanhaining/cppitertools",
-  "target_link": ""
-}

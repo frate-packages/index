@@ -1,6 +1,0 @@
-{
-  "name": "libiberty",
-  "description": "A collection of subroutines used by various GNU programs",
-  "git": "",
-  "target_link": ""
-}

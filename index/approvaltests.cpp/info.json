@@ -1,6 +1,0 @@
-{
-  "name": "approvaltests.cpp",
-  "description": "Approval Tests allow you to verify a chunk of output (such as a file) in one operation as opposed to writing test assertions for each element.",
-  "git": "https://github.com/approvals/ApprovalTests.cpp",
-  "target_link": ""
-}

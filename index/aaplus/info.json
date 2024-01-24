@@ -1,6 +1,0 @@
-{
-  "name": "aaplus",
-  "description": "AA+ is a C++ implementation for the algorithms as presented in the book \"Astronomical Algorithms\" by Jean Meeus",
-  "git": "",
-  "target_link": ""
-}

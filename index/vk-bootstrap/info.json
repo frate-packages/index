@@ -1,6 +1,0 @@
-{
-  "name": "vk-bootstrap",
-  "description": "Vulkan bootstraping library.",
-  "git": "https://github.com/charles-lunarg/vk-bootstrap",
-  "target_link": ""
-}

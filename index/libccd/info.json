@@ -1,6 +1,0 @@
-{
-  "name": "libccd",
-  "description": "Library for collision detection between two convex shapes.",
-  "git": "https://github.com/danfis/libccd",
-  "target_link": ""
-}

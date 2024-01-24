@@ -1,6 +1,0 @@
-{
-  "name": "vc",
-  "description": "SIMD Vector Classes for C++.",
-  "git": "https://github.com/VcDevel/Vc",
-  "target_link": ""
-}

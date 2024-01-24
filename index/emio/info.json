@@ -1,6 +1,0 @@
-{
-  "name": "emio",
-  "description": "A character input/output library for embedded systems.",
-  "git": "https://github.com/viatorus/emio",
-  "target_link": ""
-}

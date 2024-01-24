@@ -1,6 +1,0 @@
-{
-  "name": "cthash",
-  "description": "constexpr implementation of SHA-2 and SHA-3 family of hashes",
-  "git": "https://github.com/hanickadot/cthash/",
-  "target_link": ""
-}

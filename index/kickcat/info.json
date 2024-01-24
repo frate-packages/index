@@ -1,6 +1,0 @@
-{
-  "name": "kickcat",
-  "description": "Thin EtherCAT stack designed to be embedded in a more complex software and with efficiency in mind",
-  "git": "https://github.com/Siviuze/KickCAT",
-  "target_link": ""
-}

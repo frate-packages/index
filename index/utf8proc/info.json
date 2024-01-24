@@ -1,6 +1,0 @@
-{
-  "name": "utf8proc",
-  "description": "A clean C library for processing UTF-8 Unicode data",
-  "git": "https://github.com/JuliaStrings/utf8proc",
-  "target_link": ""
-}

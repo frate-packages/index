@@ -1,6 +1,0 @@
-{
-  "name": "coin-osi",
-  "description": "COIN-OR Linear Programming Solver",
-  "git": "https://github.com/coin-or/Osi",
-  "target_link": ""
-}

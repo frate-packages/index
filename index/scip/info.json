@@ -1,6 +1,0 @@
-{
-  "name": "scip",
-  "description": "SCIP mixed integer (nonlinear) programming solver",
-  "git": "",
-  "target_link": ""
-}

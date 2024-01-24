@@ -1,6 +1,0 @@
-{
-  "name": "p-ranav-glob",
-  "description": "Glob for C++17",
-  "git": "https://github.com/p-ranav/glob",
-  "target_link": ""
-}

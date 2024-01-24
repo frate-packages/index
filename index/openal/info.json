@@ -1,6 +1,0 @@
-{
-  "name": "openal",
-  "description": "OpenAL Soft is a software implementation of the OpenAL 3D audio API.",
-  "git": "",
-  "target_link": ""
-}

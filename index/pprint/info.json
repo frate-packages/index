@@ -1,6 +1,0 @@
-{
-  "name": "pprint",
-  "description": "Pretty Printer for Modern C++",
-  "git": "https://github.com/p-ranav/pprint",
-  "target_link": ""
-}

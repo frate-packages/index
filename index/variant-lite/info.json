@@ -1,6 +1,0 @@
-{
-  "name": "variant-lite",
-  "description": "variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library",
-  "git": "https://github.com/martinmoene/variant-lite",
-  "target_link": ""
-}

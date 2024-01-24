@@ -1,6 +1,0 @@
-{
-  "name": "lcms",
-  "description": "A free, open source, CMM engine.",
-  "git": "https://github.com/mm2/Little-CMS",
-  "target_link": ""
-}

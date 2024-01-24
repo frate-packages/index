@@ -1,6 +1,0 @@
-{
-  "name": "hunspell",
-  "description": "Hunspell is a free spell checker and morphological analyzer library",
-  "git": "",
-  "target_link": ""
-}

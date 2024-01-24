@@ -1,6 +1,0 @@
-{
-  "name": "ls-qpack",
-  "description": "QPACK compression library for use with HTTP/3",
-  "git": "https://github.com/litespeedtech/ls-qpack/",
-  "target_link": ""
-}

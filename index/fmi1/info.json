@@ -1,6 +1,0 @@
-{
-  "name": "fmi1",
-  "description": "Functional Mock-up Interface (FMI) for Co-Simulation",
-  "git": "",
-  "target_link": ""
-}

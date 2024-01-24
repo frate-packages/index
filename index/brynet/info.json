@@ -1,6 +1,0 @@
-{
-  "name": "brynet",
-  "description": "Header Only Cross platform high performance TCP network library using C++ 11.",
-  "git": "https://github.com/IronsDu/brynet",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "mikktspace",
-  "description": " A common standard for tangent space used in baking tools to produce normal maps.",
-  "git": "https://github.com/mmikk/MikkTSpace",
-  "target_link": ""
-}

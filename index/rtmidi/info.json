@@ -1,6 +1,0 @@
-{
-  "name": "rtmidi",
-  "description": "Realtime MIDI input/output",
-  "git": "",
-  "target_link": ""
-}

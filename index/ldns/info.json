@@ -1,6 +1,0 @@
-{
-  "name": "ldns",
-  "description": "LDNS is a DNS library that facilitates DNS tool programming",
-  "git": "",
-  "target_link": ""
-}

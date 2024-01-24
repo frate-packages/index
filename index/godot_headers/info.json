@@ -1,6 +1,0 @@
-{
-  "name": "godot_headers",
-  "description": "Godot Native interface headers",
-  "git": "https://github.com/godotengine/godot_headers",
-  "target_link": ""
-}

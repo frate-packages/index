@@ -1,6 +1,0 @@
-{
-  "name": "gnu-config",
-  "description": "The GNU config.guess and config.sub scripts",
-  "git": "",
-  "target_link": ""
-}

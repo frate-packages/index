@@ -1,6 +1,0 @@
-{
-  "name": "sofa",
-  "description": "IAU Standards of Fundamental Astronomy (SOFA) C Library.",
-  "git": "",
-  "target_link": ""
-}

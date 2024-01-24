@@ -1,6 +1,0 @@
-{
-  "name": "liblsl",
-  "description": "Lab Streaming Layer is a C++ library for multi-modal time-synched data transmission over the local network",
-  "git": "https://github.com/sccn/liblsl",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libbpf",
-  "description": "eBPF helper library",
-  "git": "https://github.com/libbpf/libbpf",
-  "target_link": ""
-}

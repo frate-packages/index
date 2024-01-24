@@ -1,6 +1,0 @@
-{
-  "name": "openjdk",
-  "description": "Java Development Kit builds, from Oracle",
-  "git": "",
-  "target_link": ""
-}

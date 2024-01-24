@@ -1,6 +1,0 @@
-{
-  "name": "gtk",
-  "description": "A free and open-source cross-platform widget toolkit for creating graphical user interfaces",
-  "git": "",
-  "target_link": ""
-}

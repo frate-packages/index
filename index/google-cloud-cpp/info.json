@@ -1,6 +1,0 @@
-{
-  "name": "google-cloud-cpp",
-  "description": "C++ Client Libraries for Google Cloud Services",
-  "git": "https://github.com/googleapis/google-cloud-cpp",
-  "target_link": ""
-}

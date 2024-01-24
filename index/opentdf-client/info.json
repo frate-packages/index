@@ -1,6 +1,0 @@
-{
-  "name": "opentdf-client",
-  "description": "openTDF core c++ client library for creating and accessing TDF protected data",
-  "git": "",
-  "target_link": ""
-}

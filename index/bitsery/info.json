@@ -1,6 +1,0 @@
-{
-  "name": "bitsery",
-  "description": "Header only C++ binary serialization library. It is designed around the networking requirements for real-time data delivery, especially for games.",
-  "git": "https://github.com/fraillt/bitsery",
-  "target_link": ""
-}

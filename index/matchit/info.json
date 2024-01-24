@@ -1,6 +1,0 @@
-{
-  "name": "matchit",
-  "description": "match(it): A lightweight header-only pattern-matching library for C++17 with macro-free APIs.",
-  "git": "https://github.com/BowenFu/matchit.cpp",
-  "target_link": ""
-}

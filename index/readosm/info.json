@@ -1,6 +1,0 @@
-{
-  "name": "readosm",
-  "description": "ReadOSM is an open source library to extract valid data from within an Open Street Map input file.",
-  "git": "",
-  "target_link": ""
-}

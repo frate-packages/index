@@ -1,6 +1,0 @@
-{
-  "name": "tesseract",
-  "description": "Tesseract Open Source OCR Engine",
-  "git": "https://github.com/tesseract-ocr/tesseract",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "plf_colony",
-  "description": "An unordered data container providing fast iteration/insertion/erasure while maintaining pointer/iterator/reference validity to non-erased elements.",
-  "git": "https://github.com/mattreecebentley/plf_colony",
-  "target_link": ""
-}

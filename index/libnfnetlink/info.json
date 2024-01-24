@@ -1,6 +1,0 @@
-{
-  "name": "libnfnetlink",
-  "description": "low-level library for netfilter related kernel/userspace communication",
-  "git": "",
-  "target_link": ""
-}

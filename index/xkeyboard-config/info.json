@@ -1,6 +1,0 @@
-{
-  "name": "xkeyboard-config",
-  "description": "The non-arch keyboard configuration database for X Window.",
-  "git": "",
-  "target_link": ""
-}

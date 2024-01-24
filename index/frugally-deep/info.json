@@ -1,6 +1,0 @@
-{
-  "name": "frugally-deep",
-  "description": "Use Keras models in C++ with ease.",
-  "git": "https://github.com/Dobiasd/frugally-deep",
-  "target_link": ""
-}

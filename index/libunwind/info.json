@@ -1,6 +1,0 @@
-{
-  "name": "libunwind",
-  "description": "Manipulate the preserved state of each call-frame and resume the execution at any point.",
-  "git": "https://github.com/libunwind/libunwind",
-  "target_link": ""
-}

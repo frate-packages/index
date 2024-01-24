@@ -1,6 +1,0 @@
-{
-  "name": "ittapi",
-  "description": "The Instrumentation and Tracing Technology (ITT) API enables your application to generate and control the collection of trace data during its execution across different Intel tools.",
-  "git": "https://github.com/intel/ittapi",
-  "target_link": ""
-}

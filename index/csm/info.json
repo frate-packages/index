@@ -1,6 +1,0 @@
-{
-  "name": "csm",
-  "description": "Community Sensor Model base interface library",
-  "git": "https://github.com/ngageoint/csm",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "tiny-regex-c",
-  "description": "Small and portable Regular Expression (regex) library written in C.",
-  "git": "https://github.com/kokke/tiny-regex-c",
-  "target_link": ""
-}

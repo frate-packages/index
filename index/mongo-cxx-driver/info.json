@@ -1,6 +1,0 @@
-{
-  "name": "mongo-cxx-driver",
-  "description": "C++ Driver for MongoDB",
-  "git": "",
-  "target_link": ""
-}

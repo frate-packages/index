@@ -1,6 +1,0 @@
-{
-  "name": "tmxlite",
-  "description": "A lightweight C++14 parsing library for tmx map files created with the Tiled map editor.",
-  "git": "https://github.com/fallahn/tmxlite",
-  "target_link": ""
-}

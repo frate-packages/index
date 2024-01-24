@@ -1,6 +1,0 @@
-{
-  "name": "arcus",
-  "description": "This library contains C++ code and Python3 bindings for creating a socket in a thread and using this socket to send and receive messages based on the Protocol Buffers library.",
-  "git": "https://github.com/Ultimaker/libArcus",
-  "target_link": ""
-}

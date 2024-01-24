@@ -1,6 +1,0 @@
-{
-  "name": "ctml",
-  "description": "A C++ HTML document constructor only depending on the standard library.",
-  "git": "https://github.com/tinfoilboy/CTML",
-  "target_link": ""
-}

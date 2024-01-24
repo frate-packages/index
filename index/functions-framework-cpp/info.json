@@ -1,6 +1,0 @@
-{
-  "name": "functions-framework-cpp",
-  "description": "An open source FaaS (Functions as a Service) framework",
-  "git": "https://github.com/GoogleCloudPlatform/functions-framework-cpp",
-  "target_link": ""
-}

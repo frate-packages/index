@@ -1,6 +1,0 @@
-{
-  "name": "cnpy",
-  "description": "library to read/write .npy and .npz files in C/C++",
-  "git": "https://github.com/rogersce/cnpy",
-  "target_link": ""
-}

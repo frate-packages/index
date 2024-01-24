@@ -1,6 +1,0 @@
-{
-  "name": "libassert",
-  "description": "The most over-engineered and overpowered C++ assertion library.",
-  "git": "https://github.com/jeremy-rifkin/libassert",
-  "target_link": ""
-}

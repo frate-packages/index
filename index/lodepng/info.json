@@ -1,6 +1,0 @@
-{
-  "name": "lodepng",
-  "description": "PNG encoder and decoder in C and C++, without dependencies.",
-  "git": "https://github.com/lvandeve/lodepng",
-  "target_link": ""
-}

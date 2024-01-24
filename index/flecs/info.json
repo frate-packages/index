@@ -1,6 +1,0 @@
-{
-  "name": "flecs",
-  "description": "A fast entity component system (ECS) for C \u0026amp; C++",
-  "git": "https://github.com/SanderMertens/flecs",
-  "target_link": ""
-}

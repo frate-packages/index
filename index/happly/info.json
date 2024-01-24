@@ -1,6 +1,0 @@
-{
-  "name": "happly",
-  "description": "A C++ header-only parser for the PLY file format. Parse .ply happily!",
-  "git": "https://github.com/nmwsharp/happly",
-  "target_link": ""
-}

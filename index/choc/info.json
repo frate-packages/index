@@ -1,6 +1,0 @@
-{
-  "name": "choc",
-  "description": "A collection of header only classes, permissively licensed, to provide basic useful tasks with the bare-minimum of dependencies.",
-  "git": "https://github.com/Tracktion/choc/",
-  "target_link": ""
-}

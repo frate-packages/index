@@ -1,6 +1,0 @@
-{
-  "name": "onnxruntime",
-  "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-  "git": "",
-  "target_link": ""
-}

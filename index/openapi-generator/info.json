@@ -1,6 +1,0 @@
-{
-  "name": "openapi-generator",
-  "description": "Generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
-  "git": "",
-  "target_link": ""
-}

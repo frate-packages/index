@@ -1,6 +1,0 @@
-{
-  "name": "nanodbc",
-  "description": "A small C++ wrapper for the native C ODBC API",
-  "git": "https://github.com/nanodbc/nanodbc/",
-  "target_link": ""
-}

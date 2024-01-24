@@ -1,6 +1,0 @@
-{
-  "name": "yder",
-  "description": "Logging library for C applications",
-  "git": "https://github.com/babelouest/yder",
-  "target_link": ""
-}

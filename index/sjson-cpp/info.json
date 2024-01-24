@@ -1,6 +1,0 @@
-{
-  "name": "sjson-cpp",
-  "description": "An Simplified JSON (SJSON) C++ reader and writer",
-  "git": "https://github.com/nfrechette/sjson-cpp",
-  "target_link": ""
-}

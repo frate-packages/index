@@ -1,6 +1,0 @@
-{
-  "name": "abseil",
-  "description": "Abseil Common Libraries (C++) from Google",
-  "git": "https://github.com/abseil/abseil-cpp",
-  "target_link": ""
-}

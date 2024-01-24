@@ -1,6 +1,0 @@
-{
-  "name": "daw_utf_range",
-  "description": "Range operations on character arrays",
-  "git": "https://github.com/beached/utf_range/",
-  "target_link": ""
-}

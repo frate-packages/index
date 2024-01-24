@@ -1,6 +1,0 @@
-{
-  "name": "lazycsv",
-  "description": "A fast, lightweight and single-header C++ csv parser library",
-  "git": "https://github.com/ashtum/lazycsv",
-  "target_link": ""
-}

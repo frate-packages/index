@@ -1,6 +1,0 @@
-{
-  "name": "restinio",
-  "description": "RESTinio is a header-only C++14 library that gives you an embedded HTTP/Websocket server.",
-  "git": "https://github.com/Stiffstream/restinio",
-  "target_link": ""
-}

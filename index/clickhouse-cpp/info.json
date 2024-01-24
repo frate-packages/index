@@ -1,6 +1,0 @@
-{
-  "name": "clickhouse-cpp",
-  "description": "ClickHouse C++ API",
-  "git": "https://github.com/ClickHouse/clickhouse-cpp",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "date",
-  "description": "A date and time library based on the C++11/14/17 \u0026lt;chrono\u0026gt; header",
-  "git": "https://github.com/HowardHinnant/date",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "util-linux-libuuid",
-  "description": "Universally unique id library",
-  "git": "https://github.com/util-linux/util-linux.git",
-  "target_link": ""
-}

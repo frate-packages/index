@@ -1,6 +1,0 @@
-{
-  "name": "polylineencoder",
-  "description": "Google Encoded Polyline Algorithm Format library",
-  "git": "https://github.com/vahancho/polylineencoder",
-  "target_link": ""
-}

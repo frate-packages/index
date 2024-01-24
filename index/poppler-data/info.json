@@ -1,6 +1,0 @@
-{
-  "name": "poppler-data",
-  "description": "encoding files for use with poppler, enable CJK and Cyrrilic",
-  "git": "",
-  "target_link": ""
-}

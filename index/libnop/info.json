@@ -1,6 +1,0 @@
-{
-  "name": "libnop",
-  "description": "libnop is a header-only library for serializing and deserializing C++ data types without external code generators or runtime support libraries.",
-  "git": "https://github.com/google/libnop",
-  "target_link": ""
-}

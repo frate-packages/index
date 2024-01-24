@@ -1,6 +1,0 @@
-{
-  "name": "libpsl",
-  "description": "C library for the Public Suffix List",
-  "git": "https://github.com/rockdaboot/libpsl",
-  "target_link": ""
-}

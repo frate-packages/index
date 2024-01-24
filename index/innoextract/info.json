@@ -1,6 +1,0 @@
-{
-  "name": "innoextract",
-  "description": "Extract contents of Inno Setup installers",
-  "git": "",
-  "target_link": ""
-}

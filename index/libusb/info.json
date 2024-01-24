@@ -1,6 +1,0 @@
-{
-  "name": "libusb",
-  "description": "A cross-platform library to access USB devices",
-  "git": "https://github.com/libusb/libusb",
-  "target_link": ""
-}

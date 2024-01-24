@@ -1,6 +1,0 @@
-{
-  "name": "redboltz-mqtt_cpp",
-  "description": "MQTT client/server for C++14 based on Boost.Asio",
-  "git": "https://github.com/redboltz/mqtt_cpp",
-  "target_link": ""
-}

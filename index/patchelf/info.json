@@ -1,6 +1,0 @@
-{
-  "name": "patchelf",
-  "description": "A small utility to modify the dynamic linker and RPATH of ELF executables",
-  "git": "https://github.com/NixOS/patchelf",
-  "target_link": ""
-}

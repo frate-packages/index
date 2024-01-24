@@ -1,6 +1,0 @@
-{
-  "name": "half",
-  "description": "C++ header-only library to provide an IEEE 754 conformant 16-bit half-precision floating-point type along with corresponding arithmetic operators, type conversions and common mathematical functions.",
-  "git": "",
-  "target_link": ""
-}

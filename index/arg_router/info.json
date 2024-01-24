@@ -1,6 +1,0 @@
-{
-  "name": "arg_router",
-  "description": "C++ command line argument parsing and routing.",
-  "git": "https://github.com/cmannett85/arg_router",
-  "target_link": ""
-}

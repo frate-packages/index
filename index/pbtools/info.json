@@ -1,6 +1,0 @@
-{
-  "name": "pbtools",
-  "description": "A Google Protocol Buffers C library",
-  "git": "https://github.com/eerimoq/pbtools",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "unity",
-  "description": "Unity Test is a unit testing framework built for C, with a focus on working with embedded toolchains",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "foxglove-websocket",
-  "description": "A C++ server implementation of the Foxglove WebSocket Protocol",
-  "git": "https://github.com/foxglove/ws-protocol",
-  "target_link": ""
-}

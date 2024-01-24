@@ -1,6 +1,0 @@
-{
-  "name": "tinycthread",
-  "description": "Small, portable implementation of the C11 threads API",
-  "git": "https://github.com/tinycthread/tinycthread",
-  "target_link": ""
-}

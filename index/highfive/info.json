@@ -1,6 +1,0 @@
-{
-  "name": "highfive",
-  "description": "HighFive is a modern header-only C++11 friendly interface for libhdf5.",
-  "git": "https://github.com/BlueBrain/HighFive",
-  "target_link": ""
-}

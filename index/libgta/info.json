@@ -1,6 +1,0 @@
-{
-  "name": "libgta",
-  "description": "Library that reads and writes GTA (Generic Tagged Arrays) files.",
-  "git": "",
-  "target_link": ""
-}

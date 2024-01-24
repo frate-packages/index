@@ -1,6 +1,0 @@
-{
-  "name": "ethash",
-  "description": "C/C++ implementation of Ethash and ProgPoW – the Ethereum Proof of Work algorithms",
-  "git": "https://github.com/chfast/ethash",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "simdutf",
-  "description": "Unicode routines (UTF8, UTF16): billions of characters per second.",
-  "git": "https://github.com/simdutf/simdutf",
-  "target_link": ""
-}

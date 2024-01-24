@@ -1,6 +1,0 @@
-{
-  "name": "tsl-sparse-map",
-  "description": "C++ implementation of a memory efficient hash map and hash set",
-  "git": "https://github.com/Tessil/sparse-map",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "drogon",
-  "description": "A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-  "git": "https://github.com/drogonframework/drogon",
-  "target_link": ""
-}

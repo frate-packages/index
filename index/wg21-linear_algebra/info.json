@@ -1,6 +1,0 @@
-{
-  "name": "wg21-linear_algebra",
-  "description": "Production-quality reference implementation of P1385: A proposal to add linear algebra support to the C++ standard library",
-  "git": "https://github.com/BobSteagall/wg21",
-  "target_link": ""
-}

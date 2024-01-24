@@ -1,6 +1,0 @@
-{
-  "name": "emsdk",
-  "description": "Emscripten SDK. Emscripten is an Open Source LLVM to JavaScript compiler",
-  "git": "https://github.com/kripken/emscripten",
-  "target_link": ""
-}

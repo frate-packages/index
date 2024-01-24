@@ -1,6 +1,0 @@
-{
-  "name": "tinycbor",
-  "description": "A small CBOR encoder and decoder library, optimized for very fast operation with very small footprint.",
-  "git": "https://github.com/intel/tinycbor",
-  "target_link": ""
-}

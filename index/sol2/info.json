@@ -1,6 +1,0 @@
-{
-  "name": "sol2",
-  "description": "a C++ \u0026lt;-\u0026gt; Lua API wrapper with advanced features and top notch performance",
-  "git": "https://github.com/ThePhD/sol2",
-  "target_link": ""
-}

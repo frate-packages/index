@@ -1,6 +1,0 @@
-{
-  "name": "symengine",
-  "description": "A fast symbolic manipulation library, written in C++",
-  "git": "",
-  "target_link": ""
-}

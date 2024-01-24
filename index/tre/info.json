@@ -1,6 +1,0 @@
-{
-  "name": "tre",
-  "description": "TRE is a lightweight, robust, and efficient POSIX-compliant regexp matching library with some exciting features such as approximate (fuzzy) matching.",
-  "git": "https://github.com/laurikari/tre",
-  "target_link": ""
-}

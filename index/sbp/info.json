@@ -1,6 +1,0 @@
-{
-  "name": "sbp",
-  "description": "Swift Binary Protocol client library",
-  "git": "https://github.com/swift-nav/libsbp",
-  "target_link": ""
-}

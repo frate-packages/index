@@ -1,6 +1,0 @@
-{
-  "name": "openexr",
-  "description": "OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light \u0026amp; Magic for use in computer imaging applications.",
-  "git": "https://github.com/AcademySoftwareFoundation/openexr",
-  "target_link": ""
-}

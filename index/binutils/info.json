@@ -1,6 +1,0 @@
-{
-  "name": "binutils",
-  "description": "The GNU Binutils are a collection of binary tools.",
-  "git": "",
-  "target_link": ""
-}

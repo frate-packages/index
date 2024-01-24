@@ -1,6 +1,0 @@
-{
-  "name": "avir",
-  "description": "High-quality pro image resizing / scaling C++ library, image resize",
-  "git": "https://github.com/avaneev/avir",
-  "target_link": ""
-}

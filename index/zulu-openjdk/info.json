@@ -1,6 +1,0 @@
-{
-  "name": "zulu-openjdk",
-  "description": "A OpenJDK distribution",
-  "git": "",
-  "target_link": ""
-}

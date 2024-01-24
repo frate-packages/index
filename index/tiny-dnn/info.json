@@ -1,6 +1,0 @@
-{
-  "name": "tiny-dnn",
-  "description": "tiny-dnn is a C++14 implementation of deep learning.",
-  "git": "https://github.com/tiny-dnn/tiny-dnn",
-  "target_link": ""
-}

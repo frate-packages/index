@@ -1,6 +1,0 @@
-{
-  "name": "libsecret",
-  "description": "A library for storing and retrieving passwords and other secrets",
-  "git": "",
-  "target_link": ""
-}

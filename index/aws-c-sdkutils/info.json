@@ -1,6 +1,0 @@
-{
-  "name": "aws-c-sdkutils",
-  "description": "C99 library implementing AWS SDK specific utilities. Includes utilities for ARN parsing, reading AWS profiles, etc...",
-  "git": "https://github.com/awslabs/aws-c-sdkutils",
-  "target_link": ""
-}

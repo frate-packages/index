@@ -1,6 +1,0 @@
-{
-  "name": "dsp-filters",
-  "description": "Set of DSP filters",
-  "git": "https://github.com/vinniefalco/DSPFilters",
-  "target_link": ""
-}

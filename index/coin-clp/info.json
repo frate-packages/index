@@ -1,6 +1,0 @@
-{
-  "name": "coin-clp",
-  "description": "COIN-OR Linear Programming Solver",
-  "git": "https://github.com/coin-or/Clp",
-  "target_link": ""
-}

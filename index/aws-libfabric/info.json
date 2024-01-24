@@ -1,6 +1,0 @@
-{
-  "name": "aws-libfabric",
-  "description": "AWS Libfabric",
-  "git": "https://github.com/aws/libfabric",
-  "target_link": ""
-}

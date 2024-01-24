@@ -1,6 +1,0 @@
-{
-  "name": "pffft",
-  "description": "PFFFT, a pretty fast Fourier Transform.",
-  "git": "https://bitbucket.org/jpommier/pffft/src/master/",
-  "target_link": ""
-}

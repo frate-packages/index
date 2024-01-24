@@ -1,6 +1,0 @@
-{
-  "name": "xtensor",
-  "description": "C++ tensors with broadcasting and lazy computing",
-  "git": "https://github.com/xtensor-stack/xtensor",
-  "target_link": ""
-}

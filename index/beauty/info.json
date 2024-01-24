@@ -1,6 +1,0 @@
-{
-  "name": "beauty",
-  "description": "HTTP Server above Boost.Beast",
-  "git": "https://github.com/dfleury2/beauty",
-  "target_link": ""
-}

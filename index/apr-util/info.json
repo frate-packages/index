@@ -1,6 +1,0 @@
-{
-  "name": "apr-util",
-  "description": "The Apache Portable Runtime (APR) provides a predictable and consistent interface to underlying platform-specific implementations",
-  "git": "",
-  "target_link": ""
-}

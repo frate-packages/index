@@ -1,6 +1,0 @@
-{
-  "name": "mingw-builds",
-  "description": "MinGW is a contraction of Minimalist GNU for Windows",
-  "git": "https://github.com/niXman/mingw-builds",
-  "target_link": ""
-}

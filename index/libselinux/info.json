@@ -1,6 +1,0 @@
-{
-  "name": "libselinux",
-  "description": "Security-enhanced Linux is a patch of the Linux kernel and a number of utilities with enhanced security functionality designed to add mandatory access controls to Linux",
-  "git": "https://github.com/SELinuxProject/selinux",
-  "target_link": ""
-}

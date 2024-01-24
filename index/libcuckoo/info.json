@@ -1,6 +1,0 @@
-{
-  "name": "libcuckoo",
-  "description": "A high-performance, concurrent hash table",
-  "git": "https://github.com/efficient/libcuckoo",
-  "target_link": ""
-}

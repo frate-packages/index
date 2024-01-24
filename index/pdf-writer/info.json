@@ -1,6 +1,0 @@
-{
-  "name": "pdf-writer",
-  "description": "High performance library for creating, modiyfing and parsing PDF files in C++",
-  "git": "https://github.com/galkahana/PDF-Writer",
-  "target_link": ""
-}

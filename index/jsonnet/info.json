@@ -1,6 +1,0 @@
-{
-  "name": "jsonnet",
-  "description": "Jsonnet - The data templating language",
-  "git": "https://github.com/google/jsonnet",
-  "target_link": ""
-}

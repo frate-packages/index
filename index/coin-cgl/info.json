@@ -1,6 +1,0 @@
-{
-  "name": "coin-cgl",
-  "description": "COIN-OR Cut Generator Library",
-  "git": "https://github.com/coin-or/Cgl",
-  "target_link": ""
-}

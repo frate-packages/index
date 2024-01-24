@@ -1,6 +1,0 @@
-{
-  "name": "unqlite",
-  "description": "An Embedded NoSQL, Transactional Database Engine.",
-  "git": "",
-  "target_link": ""
-}

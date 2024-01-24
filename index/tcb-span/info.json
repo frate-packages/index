@@ -1,6 +1,0 @@
-{
-  "name": "tcb-span",
-  "description": "Implementation of C++20's std::span for older C++ standards",
-  "git": "https://github.com/tcbrindle/span",
-  "target_link": ""
-}

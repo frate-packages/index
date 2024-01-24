@@ -1,6 +1,0 @@
-{
-  "name": "naive-tsearch",
-  "description": "A simple tsearch() implementation for platforms without one",
-  "git": "https://github.com/kulp/naive-tsearch",
-  "target_link": ""
-}

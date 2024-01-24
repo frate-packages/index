@@ -1,6 +1,0 @@
-{
-  "name": "s2n",
-  "description": "An implementation of the TLS/SSL protocols",
-  "git": "https://github.com/aws/s2n-tls",
-  "target_link": ""
-}

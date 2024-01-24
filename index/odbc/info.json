@@ -1,6 +1,0 @@
-{
-  "name": "odbc",
-  "description": "Package providing unixODBC",
-  "git": "",
-  "target_link": ""
-}

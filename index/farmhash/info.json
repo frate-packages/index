@@ -1,6 +1,0 @@
-{
-  "name": "farmhash",
-  "description": "A family of hash functions",
-  "git": "https://github.com/google/farmhash",
-  "target_link": ""
-}

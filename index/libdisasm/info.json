@@ -1,6 +1,0 @@
-{
-  "name": "libdisasm",
-  "description": "The libdisasm library provides basic disassembly of Intel x86 instructions from a binary stream.",
-  "git": "",
-  "target_link": ""
-}

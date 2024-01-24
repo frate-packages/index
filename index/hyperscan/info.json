@@ -1,6 +1,0 @@
-{
-  "name": "hyperscan",
-  "description": "High-performance regular expression matching library",
-  "git": "",
-  "target_link": ""
-}

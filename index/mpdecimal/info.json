@@ -1,6 +1,0 @@
-{
-  "name": "mpdecimal",
-  "description": "mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic.",
-  "git": "",
-  "target_link": ""
-}

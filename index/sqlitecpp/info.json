@@ -1,6 +1,0 @@
-{
-  "name": "sqlitecpp",
-  "description": "SQLiteCpp is a smart and easy to use C++ sqlite3 wrapper",
-  "git": "https://github.com/SRombauts/SQLiteCpp",
-  "target_link": ""
-}

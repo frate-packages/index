@@ -1,6 +1,0 @@
-{
-  "name": "xxhash",
-  "description": "Extremely fast non-cryptographic hash algorithm",
-  "git": "https://github.com/Cyan4973/xxHash",
-  "target_link": ""
-}

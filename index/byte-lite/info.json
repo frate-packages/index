@@ -1,6 +1,0 @@
-{
-  "name": "byte-lite",
-  "description": "byte lite - A single-file header-only C++17-like byte type for                     C++98, C++11 and later",
-  "git": "https://github.com/martinmoene/byte-lite",
-  "target_link": ""
-}

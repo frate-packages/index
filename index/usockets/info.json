@@ -1,6 +1,0 @@
-{
-  "name": "usockets",
-  "description": "Miniscule cross-platform eventing, networking \u0026amp; crypto for async applications",
-  "git": "https://github.com/uNetworking/uSockets",
-  "target_link": ""
-}

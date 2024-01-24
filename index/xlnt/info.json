@@ -1,6 +1,0 @@
-{
-  "name": "xlnt",
-  "description": "Cross-platform user-friendly xlsx library for C++11+",
-  "git": "https://github.com/tfussell/xlnt",
-  "target_link": ""
-}

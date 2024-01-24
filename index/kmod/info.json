@@ -1,6 +1,0 @@
-{
-  "name": "kmod",
-  "description": "linux kernel module handling library",
-  "git": "https://github.com/kmod-project/kmod",
-  "target_link": ""
-}

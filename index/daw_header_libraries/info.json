@@ -1,6 +1,0 @@
-{
-  "name": "daw_header_libraries",
-  "description": "Various header libraries mostly future std lib, replacements for(e.g. visit), or some misc",
-  "git": "https://github.com/beached/header_libraries",
-  "target_link": ""
-}

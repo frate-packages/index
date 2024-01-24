@@ -1,6 +1,0 @@
-{
-  "name": "semimap",
-  "description": "A semi compile-/run-time associative map container with compile-time lookup and run-time storage",
-  "git": "https://github.com/hogliux/semimap",
-  "target_link": ""
-}

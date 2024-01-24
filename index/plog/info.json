@@ -1,6 +1,0 @@
-{
-  "name": "plog",
-  "description": "Pretty powerful logging library in about 1000 lines of code",
-  "git": "https://github.com/SergiusTheBest/plog",
-  "target_link": ""
-}

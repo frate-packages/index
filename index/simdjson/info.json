@@ -1,6 +1,0 @@
-{
-  "name": "simdjson",
-  "description": "Parsing gigabytes of JSON per second",
-  "git": "https://github.com/lemire/simdjson",
-  "target_link": ""
-}

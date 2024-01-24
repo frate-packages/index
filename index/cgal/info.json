@@ -1,6 +1,0 @@
-{
-  "name": "cgal",
-  "description": "C++ library that provides easy access to efficient and reliable algorithms in computational geometry.",
-  "git": "https://github.com/CGAL/cgal",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "rectpack2d",
-  "description": "C++17 rectangle packing library",
-  "git": "https://github.com/TeamHypersomnia/rectpack2D",
-  "target_link": ""
-}

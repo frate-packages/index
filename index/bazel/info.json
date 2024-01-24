@@ -1,6 +1,0 @@
-{
-  "name": "bazel",
-  "description": "Bazel is a fast, scalable, multi-language and extensible build system.",
-  "git": "",
-  "target_link": ""
-}

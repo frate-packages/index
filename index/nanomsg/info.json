@@ -1,6 +1,0 @@
-{
-  "name": "nanomsg",
-  "description": "A socket library that provides several common communication patterns.",
-  "git": "https://github.com/nanomsg/nanomsg",
-  "target_link": ""
-}

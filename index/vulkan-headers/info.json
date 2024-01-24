@@ -1,6 +1,0 @@
-{
-  "name": "vulkan-headers",
-  "description": "Vulkan Header files.",
-  "git": "https://github.com/KhronosGroup/Vulkan-Headers",
-  "target_link": ""
-}

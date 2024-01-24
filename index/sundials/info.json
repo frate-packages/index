@@ -1,6 +1,0 @@
-{
-  "name": "sundials",
-  "description": "SUNDIALS is a family of software packages implemented with the goal of providing robust time integrators and nonlinear solvers that can easily be incorporatedinto existing simulation codes.",
-  "git": "https://github.com/LLNL/sundials",
-  "target_link": ""
-}

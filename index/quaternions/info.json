@@ -1,6 +1,0 @@
-{
-  "name": "quaternions",
-  "description": "A blazingly fast C++ library to work with quaternions.",
-  "git": "https://github.com/ferd36/quaternions",
-  "target_link": ""
-}

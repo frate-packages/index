@@ -1,6 +1,0 @@
-{
-  "name": "sdl_net",
-  "description": "A networking library for SDL",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "cmake",
-  "description": "CMake, the cross-platform, open-source build system.",
-  "git": "https://github.com/Kitware/CMake",
-  "target_link": ""
-}

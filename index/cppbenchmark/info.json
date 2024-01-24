@@ -1,6 +1,0 @@
-{
-  "name": "cppbenchmark",
-  "description": "Performance benchmark framework for C++ with nanoseconds measure precision.",
-  "git": "https://github.com/chronoxor/CppBenchmark",
-  "target_link": ""
-}

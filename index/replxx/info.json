@@ -1,6 +1,0 @@
-{
-  "name": "replxx",
-  "description": "\n    A readline and libedit replacement that supports UTF-8,\n    syntax highlighting, hints and Windows and is BSD licensed.\n    ",
-  "git": "https://github.com/AmokHuginnsson/replxx",
-  "target_link": ""
-}

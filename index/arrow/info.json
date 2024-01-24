@@ -1,6 +1,0 @@
-{
-  "name": "arrow",
-  "description": "Apache Arrow is a cross-language development platform for in-memory data",
-  "git": "",
-  "target_link": ""
-}

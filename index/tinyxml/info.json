@@ -1,6 +1,0 @@
-{
-  "name": "tinyxml",
-  "description": "TinyXML is a simple, small, C++ XML parser that can be easily integrated into other programs.",
-  "git": "",
-  "target_link": ""
-}

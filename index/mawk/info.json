@@ -1,6 +1,0 @@
-{
-  "name": "mawk",
-  "description": "mawk is an interpreter for the AWK Programming Language.",
-  "git": "",
-  "target_link": ""
-}

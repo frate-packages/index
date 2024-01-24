@@ -1,6 +1,0 @@
-{
-  "name": "xxsds-sdsl-lite",
-  "description": "SDSL - Succinct Data Structure Library",
-  "git": "https://github.com/xxsds/sdsl-lite",
-  "target_link": ""
-}

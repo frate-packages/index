@@ -1,6 +1,0 @@
-{
-  "name": "asyncplusplus",
-  "description": "Async++ concurrency framework for C++11",
-  "git": "https://github.com/Amanieu/asyncplusplus",
-  "target_link": ""
-}

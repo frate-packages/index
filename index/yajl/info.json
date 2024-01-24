@@ -1,6 +1,0 @@
-{
-  "name": "yajl",
-  "description": "A fast streaming JSON parsing library in C",
-  "git": "https://github.com/lloyd/yajl",
-  "target_link": ""
-}

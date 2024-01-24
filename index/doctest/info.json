@@ -1,6 +1,0 @@
-{
-  "name": "doctest",
-  "description": "C++11/14/17/20 single header testing framework",
-  "git": "https://github.com/onqtam/doctest",
-  "target_link": ""
-}

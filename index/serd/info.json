@@ -1,6 +1,0 @@
-{
-  "name": "serd",
-  "description": "A lightweight C library for RDF syntax",
-  "git": "",
-  "target_link": ""
-}

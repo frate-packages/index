@@ -1,6 +1,0 @@
-{
-  "name": "cpp-jwt",
-  "description": "A C++ library for handling JWT tokens",
-  "git": "https://github.com/arun11299/cpp-jwt",
-  "target_link": ""
-}

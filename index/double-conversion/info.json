@@ -1,6 +1,0 @@
-{
-  "name": "double-conversion",
-  "description": "Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.",
-  "git": "https://github.com/google/double-conversion",
-  "target_link": ""
-}

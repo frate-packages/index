@@ -1,6 +1,0 @@
-{
-  "name": "chef-fun",
-  "description": "C++ Functional programming support library",
-  "git": "https://gitlab.com/libchef/chef-fun",
-  "target_link": ""
-}

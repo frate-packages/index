@@ -1,6 +1,0 @@
-{
-  "name": "gli",
-  "description": "OpenGL Image (GLI)",
-  "git": "https://github.com/g-truc/gli",
-  "target_link": ""
-}

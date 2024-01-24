@@ -1,6 +1,0 @@
-{
-  "name": "libpqxx",
-  "description": "The official C++ client API for PostgreSQL",
-  "git": "https://github.com/jtv/libpqxx",
-  "target_link": ""
-}

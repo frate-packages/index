@@ -1,6 +1,0 @@
-{
-  "name": "bimg",
-  "description": "Image library providing loading, saving, conversions and other utilities.",
-  "git": "https://github.com/bkaradzic/bimg",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "qxlsx",
-  "description": "Excel file(*.xlsx) reader/writer library using Qt 5 or 6.",
-  "git": "https://github.com/QtExcel/QXlsx",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "rapidyaml",
-  "description": "a library to parse and emit YAML, and do it fast.",
-  "git": "https://github.com/biojppm/rapidyaml",
-  "target_link": ""
-}

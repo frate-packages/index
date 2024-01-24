@@ -1,6 +1,0 @@
-{
-  "name": "hana",
-  "description": "Hana is a header-only library for C++ metaprogramming suited for computations on both types and values.",
-  "git": "",
-  "target_link": ""
-}

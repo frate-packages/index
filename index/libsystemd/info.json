@@ -1,6 +1,0 @@
-{
-  "name": "libsystemd",
-  "description": "System and Service Manager API library",
-  "git": "",
-  "target_link": ""
-}

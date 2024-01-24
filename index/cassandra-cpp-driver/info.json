@@ -1,6 +1,0 @@
-{
-  "name": "cassandra-cpp-driver",
-  "description": "DataStax C/C++ Driver for Apache Cassandra and DataStax Products",
-  "git": "",
-  "target_link": ""
-}

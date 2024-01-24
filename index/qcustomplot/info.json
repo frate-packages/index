@@ -1,6 +1,0 @@
-{
-  "name": "qcustomplot",
-  "description": "QCustomPlot is a Qt C++ widget for plotting and data visualization.",
-  "git": "",
-  "target_link": ""
-}

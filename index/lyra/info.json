@@ -1,6 +1,0 @@
-{
-  "name": "lyra",
-  "description": "A simple to use, composing, header only, command line arguments parser for C++ 11 and beyond.",
-  "git": "",
-  "target_link": ""
-}

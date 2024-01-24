@@ -1,6 +1,0 @@
-{
-  "name": "c-dbg-macro",
-  "description": "A dbg(...) macro for C",
-  "git": "https://github.com/eerimoq/dbg-macro",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "mfast",
-  "description": "mFAST is a high performance C++ encoding/decoding library for FAST (FIX Adapted for STreaming) protocol",
-  "git": "",
-  "target_link": ""
-}

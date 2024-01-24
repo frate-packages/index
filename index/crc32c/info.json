@@ -1,6 +1,0 @@
-{
-  "name": "crc32c",
-  "description": "CRC32C implementation with support for CPU-specific acceleration instructions",
-  "git": "https://github.com/google/crc32c",
-  "target_link": ""
-}

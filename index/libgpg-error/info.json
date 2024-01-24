@@ -1,6 +1,0 @@
-{
-  "name": "libgpg-error",
-  "description": "Libgpg-error is a small library that originally defined common error values for all GnuPG components.",
-  "git": "",
-  "target_link": ""
-}

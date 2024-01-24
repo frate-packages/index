@@ -1,6 +1,0 @@
-{
-  "name": "eternal",
-  "description": "A C++14 compile-time/constexpr map and hash map with minimal binary footprint",
-  "git": "https://github.com/mapbox/eternal",
-  "target_link": ""
-}

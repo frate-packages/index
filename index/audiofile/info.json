@@ -1,6 +1,0 @@
-{
-  "name": "audiofile",
-  "description": "A simple C++11 library for reading and writing audio files.",
-  "git": "https://github.com/adamstark/AudioFile",
-  "target_link": ""
-}

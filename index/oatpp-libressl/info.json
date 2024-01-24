@@ -1,6 +1,0 @@
-{
-  "name": "oatpp-libressl",
-  "description": "oat++ libressl library",
-  "git": "https://github.com/oatpp/oatpp-libressl",
-  "target_link": ""
-}

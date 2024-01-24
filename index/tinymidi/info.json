@@ -1,6 +1,0 @@
-{
-  "name": "tinymidi",
-  "description": "A small C library for doing MIDI on GNU/Linux",
-  "git": "https://github.com/krgn/tinymidi",
-  "target_link": ""
-}

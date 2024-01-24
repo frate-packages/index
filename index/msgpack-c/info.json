@@ -1,6 +1,0 @@
-{
-  "name": "msgpack-c",
-  "description": "MessagePack implementation for C",
-  "git": "https://github.com/msgpack/msgpack-c",
-  "target_link": ""
-}

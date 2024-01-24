@@ -1,6 +1,0 @@
-{
-  "name": "boost-ext-ut",
-  "description": "C++20 single header/single module, macro-free micro Unit Testing Framework",
-  "git": "",
-  "target_link": ""
-}

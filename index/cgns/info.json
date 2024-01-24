@@ -1,6 +1,0 @@
-{
-  "name": "cgns",
-  "description": "Standard for data associated with the numerical solution of fluid dynamics equations.",
-  "git": "",
-  "target_link": ""
-}

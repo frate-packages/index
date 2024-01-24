@@ -1,6 +1,0 @@
-{
-  "name": "oniguruma",
-  "description": "Oniguruma is a modern and flexible regular expressions library.",
-  "git": "https://github.com/kkos/oniguruma",
-  "target_link": ""
-}

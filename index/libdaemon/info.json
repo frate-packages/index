@@ -1,6 +1,0 @@
-{
-  "name": "libdaemon",
-  "description": "a lightweight C library that eases the writing of UNIX daemons",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "minimp3",
-  "description": "Minimalistic MP3 decoder single header library.",
-  "git": "https://github.com/lieff/minimp3",
-  "target_link": ""
-}

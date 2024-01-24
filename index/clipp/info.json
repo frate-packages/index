@@ -1,6 +1,0 @@
-{
-  "name": "clipp",
-  "description": "Easy to use, powerful \u0026amp; expressive command line argument parsing for modern C++ / single header / usage \u0026amp; doc generation.",
-  "git": "https://github.com/muellan/clipp",
-  "target_link": ""
-}

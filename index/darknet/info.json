@@ -1,6 +1,0 @@
-{
-  "name": "darknet",
-  "description": "Darknet is a neural network frameworks written in C",
-  "git": "",
-  "target_link": ""
-}

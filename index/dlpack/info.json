@@ -1,6 +1,0 @@
-{
-  "name": "dlpack",
-  "description": "RFC for common in-memory tensor structure and operator interface for deep learning system",
-  "git": "https://github.com/dmlc/dlpack",
-  "target_link": ""
-}

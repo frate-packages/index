@@ -1,6 +1,0 @@
-{
-  "name": "sdf",
-  "description": "Signed Distance Field Builder for Contour Texturing",
-  "git": "https://github.com/memononen/SDF",
-  "target_link": ""
-}

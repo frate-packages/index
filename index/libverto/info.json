@@ -1,6 +1,0 @@
-{
-  "name": "libverto",
-  "description": "An async event loop abstraction library.",
-  "git": "https://github.com/latchset/libverto",
-  "target_link": ""
-}

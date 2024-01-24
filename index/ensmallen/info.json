@@ -1,6 +1,0 @@
-{
-  "name": "ensmallen",
-  "description": "ensmallen is a high quality C++ library for non-linear numerical optimization.",
-  "git": "https://github.com/mlpack/ensmallen",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "unicorn",
-  "description": "Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.",
-  "git": "",
-  "target_link": ""
-}

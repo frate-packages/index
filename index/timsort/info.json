@@ -1,6 +1,0 @@
-{
-  "name": "timsort",
-  "description": "A C++ implementation of timsort",
-  "git": "https://github.com/timsort/cpp-TimSort",
-  "target_link": ""
-}

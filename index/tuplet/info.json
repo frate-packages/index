@@ -1,6 +1,0 @@
-{
-  "name": "tuplet",
-  "description": "A fast, simple tuple implementation that implements tuple as an aggregate",
-  "git": "https://github.com/codeinred/tuplet",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "watcher",
-  "description": "Filesystem watcher. Works anywhere. Simple, efficient and friendly.",
-  "git": "https://github.com/e-dant/watcher/",
-  "target_link": ""
-}

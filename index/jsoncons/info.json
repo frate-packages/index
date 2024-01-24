@@ -1,6 +1,0 @@
-{
-  "name": "jsoncons",
-  "description": "A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON",
-  "git": "https://github.com/danielaparker/jsoncons",
-  "target_link": ""
-}

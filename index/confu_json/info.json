@@ -1,6 +1,0 @@
-{
-  "name": "confu_json",
-  "description": "uses boost::fusion to help with serialization; json \u0026lt;-\u0026gt; user defined type",
-  "git": "https://github.com/werto87/confu_json",
-  "target_link": ""
-}

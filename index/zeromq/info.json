@@ -1,6 +1,0 @@
-{
-  "name": "zeromq",
-  "description": "ZeroMQ is a community of projects focused on decentralized messaging and computing",
-  "git": "https://github.com/zeromq/libzmq",
-  "target_link": ""
-}

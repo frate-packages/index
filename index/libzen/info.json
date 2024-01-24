@@ -1,6 +1,0 @@
-{
-  "name": "libzen",
-  "description": "Small C++ derivate classes to have an easier life",
-  "git": "https://github.com/MediaArea/ZenLib",
-  "target_link": ""
-}

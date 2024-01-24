@@ -1,6 +1,0 @@
-{
-  "name": "clipboard_lite",
-  "description": "cross platform clipboard library",
-  "git": "https://github.com/smasherprog/clipboard_lite",
-  "target_link": ""
-}

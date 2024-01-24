@@ -1,6 +1,0 @@
-{
-  "name": "snappy",
-  "description": "A fast compressor/decompressor",
-  "git": "https://github.com/google/snappy",
-  "target_link": ""
-}

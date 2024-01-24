@@ -1,6 +1,0 @@
-{
-  "name": "meson",
-  "description": "Meson is a project to create the best possible next-generation build system",
-  "git": "https://github.com/mesonbuild/meson",
-  "target_link": ""
-}

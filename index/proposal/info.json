@@ -1,6 +1,0 @@
-{
-  "name": "proposal",
-  "description": "monte Carlo based lepton and photon propagator",
-  "git": "https://github.com/tudo-astroparticlephysics/PROPOSAL",
-  "target_link": ""
-}

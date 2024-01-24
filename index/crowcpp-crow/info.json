@@ -1,6 +1,0 @@
-{
-  "name": "crowcpp-crow",
-  "description": "Crow is a C++ microframework for running web services.",
-  "git": "",
-  "target_link": ""
-}

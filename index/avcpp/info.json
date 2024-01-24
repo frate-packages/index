@@ -1,6 +1,0 @@
-{
-  "name": "avcpp",
-  "description": "C++ wrapper for FFmpeg",
-  "git": "https://github.com/h4tr3d/avcpp/",
-  "target_link": ""
-}

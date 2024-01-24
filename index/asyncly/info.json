@@ -1,6 +1,0 @@
-{
-  "name": "asyncly",
-  "description": "High level concurrency primitives for C++",
-  "git": "https://github.com/goto-opensource/asyncly",
-  "target_link": ""
-}

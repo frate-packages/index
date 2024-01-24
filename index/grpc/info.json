@@ -1,6 +1,0 @@
-{
-  "name": "grpc",
-  "description": "Google's RPC (remote procedure call) library and framework.",
-  "git": "https://github.com/grpc/grpc",
-  "target_link": ""
-}

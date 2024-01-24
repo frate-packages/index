@@ -1,6 +1,0 @@
-{
-  "name": "cereal",
-  "description": "Serialization header-only library for C++11.",
-  "git": "https://github.com/USCiLab/cereal",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "cpu_features",
-  "description": "A cross platform C99 library to get cpu features at runtime.",
-  "git": "https://github.com/google/cpu_features",
-  "target_link": ""
-}

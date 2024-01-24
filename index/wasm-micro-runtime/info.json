@@ -1,6 +1,0 @@
-{
-  "name": "wasm-micro-runtime",
-  "description": "WebAssembly Micro Runtime (WAMR)",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "leptonica",
-  "description": "Library containing software that is broadly useful for image processing and image analysis applications.",
-  "git": "",
-  "target_link": ""
-}

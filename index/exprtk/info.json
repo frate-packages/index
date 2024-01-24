@@ -1,6 +1,0 @@
-{
-  "name": "exprtk",
-  "description": "C++ Mathematical Expression Parsing And Evaluation Library ExprTk",
-  "git": "",
-  "target_link": ""
-}

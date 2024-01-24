@@ -1,6 +1,0 @@
-{
-  "name": "crunch",
-  "description": "Advanced DXTc texture compression and transcoding library",
-  "git": "https://github.com/BinomialLLC/crunch",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "seasocks",
-  "description": "A tiny embeddable C++ HTTP and WebSocket server for Linux",
-  "git": "https://github.com/mattgodbolt/seasocks",
-  "target_link": ""
-}

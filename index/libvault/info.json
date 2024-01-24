@@ -1,6 +1,0 @@
-{
-  "name": "libvault",
-  "description": "A C++ library for Hashicorp Vault",
-  "git": "https://github.com/abedra/libvault",
-  "target_link": ""
-}

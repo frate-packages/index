@@ -1,6 +1,0 @@
-{
-  "name": "cspice",
-  "description": "NASA C SPICE library",
-  "git": "",
-  "target_link": ""
-}

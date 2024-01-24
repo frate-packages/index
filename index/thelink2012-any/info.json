@@ -1,6 +1,0 @@
-{
-  "name": "thelink2012-any",
-  "description": "Implementation of std::experimental::any, including small object optimization, for C++11 compilers",
-  "git": "https://github.com/thelink2012/any",
-  "target_link": ""
-}

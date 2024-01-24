@@ -1,6 +1,0 @@
-{
-  "name": "units",
-  "description": "A compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies",
-  "git": "https://github.com/nholthaus/units",
-  "target_link": ""
-}

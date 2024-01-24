@@ -1,6 +1,0 @@
-{
-  "name": "cpp-lazy",
-  "description": "C++11/14/17/20 library for lazy evaluation ",
-  "git": "https://github.com/MarcDirven/cpp-lazy",
-  "target_link": ""
-}

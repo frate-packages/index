@@ -1,6 +1,0 @@
-{
-  "name": "libftdi",
-  "description": "A library to talk to FTDI chips",
-  "git": "",
-  "target_link": ""
-}

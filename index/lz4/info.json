@@ -1,6 +1,0 @@
-{
-  "name": "lz4",
-  "description": "Extremely Fast Compression algorithm",
-  "git": "https://github.com/lz4/lz4",
-  "target_link": ""
-}

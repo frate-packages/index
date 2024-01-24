@@ -1,6 +1,0 @@
-{
-  "name": "screen_capture_lite",
-  "description": "cross platform screen/window capturing library ",
-  "git": "https://github.com/smasherprog/screen_capture_lite",
-  "target_link": ""
-}

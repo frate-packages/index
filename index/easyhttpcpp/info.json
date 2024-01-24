@@ -1,6 +1,0 @@
-{
-  "name": "easyhttpcpp",
-  "description": "A cross-platform HTTP client library with a focus on usability and speed",
-  "git": "https://github.com/sony/easyhttpcpp",
-  "target_link": ""
-}

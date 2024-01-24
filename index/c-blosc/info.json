@@ -1,6 +1,0 @@
-{
-  "name": "c-blosc",
-  "description": "An extremely fast, multi-threaded, meta-compressor library.",
-  "git": "https://github.com/Blosc/c-blosc",
-  "target_link": ""
-}

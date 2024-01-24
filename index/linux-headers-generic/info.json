@@ -1,6 +1,0 @@
-{
-  "name": "linux-headers-generic",
-  "description": "Generic Linux kernel headers",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "di",
-  "description": "DI: C++14 Dependency Injection Library.",
-  "git": "https://github.com/boost-ext/di",
-  "target_link": ""
-}

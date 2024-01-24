@@ -1,6 +1,0 @@
-{
-  "name": "xorg-macros",
-  "description": "GNU autoconf macros shared across X.Org projects",
-  "git": "",
-  "target_link": ""
-}

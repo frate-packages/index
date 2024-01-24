@@ -1,6 +1,0 @@
-{
-  "name": "rang",
-  "description": "A Minimal, Header only Modern c++ library for colors in your terminal",
-  "git": "https://github.com/agauniyal/rang",
-  "target_link": ""
-}

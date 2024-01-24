@@ -1,6 +1,0 @@
-{
-  "name": "gumbo-parser",
-  "description": "An HTML5 parsing library in pure C99",
-  "git": "https://github.com/google/gumbo-parser",
-  "target_link": ""
-}

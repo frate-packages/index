@@ -1,6 +1,0 @@
-{
-  "name": "h3",
-  "description": "Hexagonal hierarchical geospatial indexing system.",
-  "git": "https://github.com/uber/h3",
-  "target_link": ""
-}

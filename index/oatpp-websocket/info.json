@@ -1,6 +1,0 @@
-{
-  "name": "oatpp-websocket",
-  "description": "WebSocket functionality for oatpp applications",
-  "git": "https://github.com/oatpp/oatpp-websocket",
-  "target_link": ""
-}

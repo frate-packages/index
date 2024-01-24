@@ -1,6 +1,0 @@
-{
-  "name": "aeron",
-  "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
-  "git": "https://github.com/real-logic/aeron/wiki",
-  "target_link": ""
-}

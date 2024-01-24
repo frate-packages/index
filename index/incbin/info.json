@@ -1,6 +1,0 @@
-{
-  "name": "incbin",
-  "description": "Include binary files in C/C++",
-  "git": "https://github.com/graphitemaster/incbin/",
-  "target_link": ""
-}

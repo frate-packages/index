@@ -1,6 +1,0 @@
-{
-  "name": "dacap-clip",
-  "description": "Cross-platform C++ library to copy/paste clipboard content",
-  "git": "https://github.com/dacap/clip/",
-  "target_link": ""
-}

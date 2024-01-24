@@ -1,6 +1,0 @@
-{
-  "name": "cpp-optparse",
-  "description": "Python's excellent OptionParser in C++",
-  "git": "https://github.com/weisslj/cpp-optparse",
-  "target_link": ""
-}

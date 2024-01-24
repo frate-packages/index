@@ -1,6 +1,0 @@
-{
-  "name": "fakeit",
-  "description": "C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.",
-  "git": "https://github.com/eranpeer/FakeIt",
-  "target_link": ""
-}

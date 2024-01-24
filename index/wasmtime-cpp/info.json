@@ -1,6 +1,0 @@
-{
-  "name": "wasmtime-cpp",
-  "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
-  "git": "https://github.com/bytecodealliance/wasmtime-cpp",
-  "target_link": ""
-}

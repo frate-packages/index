@@ -1,6 +1,0 @@
-{
-  "name": "libtins",
-  "description": "High-level, multiplatform C++ network packet sniffing and crafting library.",
-  "git": "https://github.com/mfontanini/libtins",
-  "target_link": ""
-}

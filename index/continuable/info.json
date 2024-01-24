@@ -1,6 +1,0 @@
-{
-  "name": "continuable",
-  "description": "C++14 asynchronous allocation aware futures (supporting then, exception handling, coroutines and connections)",
-  "git": "https://github.com/Naios/continuable",
-  "target_link": ""
-}

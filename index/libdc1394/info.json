@@ -1,6 +1,0 @@
-{
-  "name": "libdc1394",
-  "description": "libdc1394 provides a complete high level API to control IEEE 1394 based cameras",
-  "git": "",
-  "target_link": ""
-}

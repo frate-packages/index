@@ -1,6 +1,0 @@
-{
-  "name": "bertrand",
-  "description": "A C++ header only library providing a trivial implementation for design by contract.",
-  "git": "https://github.com/bernedom/bertrand",
-  "target_link": ""
-}

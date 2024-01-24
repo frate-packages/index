@@ -1,6 +1,0 @@
-{
-  "name": "sdl_ttf",
-  "description": "A TrueType font library for SDL",
-  "git": "",
-  "target_link": ""
-}

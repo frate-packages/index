@@ -1,6 +1,0 @@
-{
-  "name": "hash-library",
-  "description": "Portable C++ hashing library",
-  "git": "",
-  "target_link": ""
-}

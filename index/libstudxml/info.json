@@ -1,6 +1,0 @@
-{
-  "name": "libstudxml",
-  "description": "A streaming XML pull parser and streaming XML serializer implementation for modern, standard C++.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "xapian-core",
-  "description": "Xapian is a highly adaptable toolkit which allows developers to easily add advanced indexing and search facilities to their own applications.",
-  "git": "",
-  "target_link": ""
-}

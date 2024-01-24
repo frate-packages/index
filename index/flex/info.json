@@ -1,6 +1,0 @@
-{
-  "name": "flex",
-  "description": "Flex, the fast lexical analyzer generator",
-  "git": "https://github.com/westes/flex",
-  "target_link": ""
-}

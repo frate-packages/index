@@ -1,6 +1,0 @@
-{
-  "name": "wil",
-  "description": "The Windows Implementation Libraries (WIL) is a header-only C++ librarycreated to make life easier for developers on Windows through readabletype-safe C++ interfaces for common Windows coding patterns.",
-  "git": "https://github.com/microsoft/wil",
-  "target_link": ""
-}

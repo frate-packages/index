@@ -1,6 +1,0 @@
-{
-  "name": "keychain",
-  "description": "A cross-platform wrapper for the operating system's credential storage",
-  "git": "https://github.com/hrantzsch/keychain",
-  "target_link": ""
-}

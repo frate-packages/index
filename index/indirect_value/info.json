@@ -1,6 +1,0 @@
-{
-  "name": "indirect_value",
-  "description": "Production-quality reference implementation of P1950: A Free-Store-Allocated Value Type For C++",
-  "git": "https://github.com/jbcoe/indirect_value",
-  "target_link": ""
-}

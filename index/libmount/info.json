@@ -1,6 +1,0 @@
-{
-  "name": "libmount",
-  "description": "The libmount library is used to parse /etc/fstab, /etc/mtab and /proc/self/mountinfo files, manage the mtab file, evaluate mount options, etc",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "flann",
-  "description": "Fast Library for Approximate Nearest Neighbors",
-  "git": "",
-  "target_link": ""
-}

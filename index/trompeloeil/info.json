@@ -1,6 +1,0 @@
-{
-  "name": "trompeloeil",
-  "description": "Header only C++14 mocking framework",
-  "git": "https://github.com/rollbear/trompeloeil",
-  "target_link": ""
-}

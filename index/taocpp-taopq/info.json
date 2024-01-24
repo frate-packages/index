@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-taopq",
-  "description": "C++ client library for PostgreSQL",
-  "git": "https://github.com/taocpp/taopq",
-  "target_link": ""
-}

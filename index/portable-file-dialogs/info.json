@@ -1,6 +1,0 @@
-{
-  "name": "portable-file-dialogs",
-  "description": "Portable GUI dialogs library, C++11, single-header",
-  "git": "https://github.com/samhocevar/portable-file-dialogs",
-  "target_link": ""
-}

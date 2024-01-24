@@ -1,6 +1,0 @@
-{
-  "name": "xproperty",
-  "description": "Traitlets-like C++ properties and implementation of the observer pattern.",
-  "git": "https://github.com/jupyter-xeus/xproperty",
-  "target_link": ""
-}

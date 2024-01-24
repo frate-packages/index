@@ -1,6 +1,0 @@
-{
-  "name": "xnnpack",
-  "description": "XNNPACK is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 platforms.",
-  "git": "https://github.com/google/XNNPACK",
-  "target_link": ""
-}

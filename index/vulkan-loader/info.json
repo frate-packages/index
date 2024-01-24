@@ -1,6 +1,0 @@
-{
-  "name": "vulkan-loader",
-  "description": "Khronos official Vulkan ICD desktop loader for Windows, Linux, and MacOS.",
-  "git": "https://github.com/KhronosGroup/Vulkan-Loader",
-  "target_link": ""
-}

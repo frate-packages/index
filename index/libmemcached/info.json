@@ -1,6 +1,0 @@
-{
-  "name": "libmemcached",
-  "description": "libmemcached is a C client library for interfacing to a memcached server",
-  "git": "",
-  "target_link": ""
-}

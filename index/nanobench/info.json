@@ -1,6 +1,0 @@
-{
-  "name": "nanobench",
-  "description": "ankerl::nanobench is a platform independent\n                     microbenchmarking library for C++11/14/17/20.",
-  "git": "https://github.com/martinus/nanobench",
-  "target_link": ""
-}

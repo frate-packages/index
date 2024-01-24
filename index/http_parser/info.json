@@ -1,6 +1,0 @@
-{
-  "name": "http_parser",
-  "description": "http request/response parser for c",
-  "git": "https://github.com/nodejs/http-parser",
-  "target_link": ""
-}

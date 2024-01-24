@@ -1,6 +1,0 @@
-{
-  "name": "xoshiro-cpp",
-  "description": "Header-only Xoshiro/Xoroshiro PRNG wrapper library for modern C++ (C++17/C++20)",
-  "git": "https://github.com/Reputeless/Xoshiro-cpp",
-  "target_link": ""
-}

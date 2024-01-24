@@ -1,6 +1,0 @@
-{
-  "name": "zpp_bits",
-  "description": "A lightweight C++20 serialization and RPC library",
-  "git": "https://github.com/eyalz800/zpp_bits",
-  "target_link": ""
-}

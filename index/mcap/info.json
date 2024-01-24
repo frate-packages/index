@@ -1,6 +1,0 @@
-{
-  "name": "mcap",
-  "description": "MCAP is a modular, performant, and serialization-agnostic container file format for pub/sub messages, primarily intended for use in robotics applications.",
-  "git": "https://github.com/foxglove/mcap",
-  "target_link": ""
-}

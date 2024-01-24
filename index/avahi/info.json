@@ -1,6 +1,0 @@
-{
-  "name": "avahi",
-  "description": "Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour",
-  "git": "https://github.com/lathiat/avahi",
-  "target_link": ""
-}

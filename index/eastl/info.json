@@ -1,6 +1,0 @@
-{
-  "name": "eastl",
-  "description": "EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.",
-  "git": "https://github.com/electronicarts/EASTL",
-  "target_link": ""
-}

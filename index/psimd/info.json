@@ -1,6 +1,0 @@
-{
-  "name": "psimd",
-  "description": "Portable 128-bit SIMD intrinsics.",
-  "git": "https://github.com/Maratyszcza/psimd",
-  "target_link": ""
-}

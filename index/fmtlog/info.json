@@ -1,6 +1,0 @@
-{
-  "name": "fmtlog",
-  "description": "fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.",
-  "git": "https://github.com/MengRao/fmtlog",
-  "target_link": ""
-}

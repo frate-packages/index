@@ -1,6 +1,0 @@
-{
-  "name": "opencore-amr",
-  "description": "OpenCORE Adaptive Multi Rate (AMR) speech codec library implementation.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "nanosvg",
-  "description": "NanoSVG is a simple stupid single-header-file SVG parser.",
-  "git": "https://github.com/memononen/nanosvg",
-  "target_link": ""
-}

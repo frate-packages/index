@@ -1,6 +1,0 @@
-{
-  "name": "bgfx",
-  "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
-  "git": "https://github.com/bkaradzic/bgfx",
-  "target_link": ""
-}

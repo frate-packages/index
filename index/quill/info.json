@@ -1,6 +1,0 @@
-{
-  "name": "quill",
-  "description": "Asynchronous Low Latency C++ Logging Library",
-  "git": "https://github.com/odygrd/quill/",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "c-ares",
-  "description": "A C library for asynchronous DNS requests",
-  "git": "",
-  "target_link": ""
-}

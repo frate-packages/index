@@ -1,6 +1,0 @@
-{
-  "name": "vectorial",
-  "description": "Vector math library with NEON/SSE support",
-  "git": "https://github.com/scoopr/vectorial",
-  "target_link": ""
-}

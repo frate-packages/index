@@ -1,6 +1,0 @@
-{
-  "name": "cuda-kat",
-  "description": "CUDA kernel author's tools",
-  "git": "https://github.com/eyalroz/cuda-kat",
-  "target_link": ""
-}

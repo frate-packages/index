@@ -1,6 +1,0 @@
-{
-  "name": "csvmonkey",
-  "description": "Header-only vectorized, lazy-decoding, zero-copy CSV file parser",
-  "git": "https://github.com/dw/csvmonkey/",
-  "target_link": ""
-}

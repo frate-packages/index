@@ -1,6 +1,0 @@
-{
-  "name": "trantor",
-  "description": "a non-blocking I/O tcp network lib based on c++14/17",
-  "git": "https://github.com/an-tao/trantor",
-  "target_link": ""
-}

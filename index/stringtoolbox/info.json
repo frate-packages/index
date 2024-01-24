@@ -1,6 +1,0 @@
-{
-  "name": "stringtoolbox",
-  "description": "A simple header-only, single-file string toolbox library for C++.",
-  "git": "https://github.com/chrberger/stringtoolbox",
-  "target_link": ""
-}

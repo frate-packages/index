@@ -1,6 +1,0 @@
-{
-  "name": "boostdep",
-  "description": "A tool to create Boost module dependency reports",
-  "git": "https://github.com/boostorg/boostdep",
-  "target_link": ""
-}

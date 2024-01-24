@@ -1,6 +1,0 @@
-{
-  "name": "rapidcsv",
-  "description": "C++ CSV parser library",
-  "git": "https://github.com/d99kris/rapidcsv",
-  "target_link": ""
-}

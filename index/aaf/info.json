@@ -1,6 +1,0 @@
-{
-  "name": "aaf",
-  "description": "A cross-platform SDK for AAF. AAF is a metadata management system and file format for use in professional multimedia creation and authoring.",
-  "git": "https://github.com/dneg/aaf",
-  "target_link": ""
-}

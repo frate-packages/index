@@ -1,6 +1,0 @@
-{
-  "name": "boost",
-  "description": "Boost provides free peer-reviewed portable C++ source libraries",
-  "git": "",
-  "target_link": ""
-}

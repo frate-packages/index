@@ -1,6 +1,0 @@
-{
-  "name": "opentelemetry-proto",
-  "description": "Protobuf definitions for the OpenTelemetry protocol (OTLP)",
-  "git": "https://github.com/open-telemetry/opentelemetry-proto",
-  "target_link": ""
-}

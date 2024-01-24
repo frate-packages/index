@@ -1,6 +1,0 @@
-{
-  "name": "khrplatform",
-  "description": "Khronos EGL platform interfaces",
-  "git": "",
-  "target_link": ""
-}

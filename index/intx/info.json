@@ -1,6 +1,0 @@
-{
-  "name": "intx",
-  "description": "Extended precision integer C++ library",
-  "git": "https://github.com/chfast/intx",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "armadillo",
-  "description": "Armadillo is a high quality C++ library for linear algebra and scientific computing, aiming towards a good balance between speed and ease of use.",
-  "git": "",
-  "target_link": ""
-}

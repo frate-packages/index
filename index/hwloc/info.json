@@ -1,6 +1,0 @@
-{
-  "name": "hwloc",
-  "description": "Portable Hardware Locality (hwloc)",
-  "git": "",
-  "target_link": ""
-}

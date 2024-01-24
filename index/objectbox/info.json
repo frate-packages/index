@@ -1,6 +1,0 @@
-{
-  "name": "objectbox",
-  "description": "ObjectBox C and C++: super-fast database for objects and structs",
-  "git": "https://github.com/objectbox/objectbox-c",
-  "target_link": ""
-}

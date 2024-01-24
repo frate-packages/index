@@ -1,6 +1,0 @@
-{
-  "name": "libnice",
-  "description": "a GLib ICE implementation",
-  "git": "",
-  "target_link": ""
-}

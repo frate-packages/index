@@ -1,6 +1,0 @@
-{
-  "name": "boost-leaf",
-  "description": "Lightweight Error Augmentation Framework",
-  "git": "https://github.com/boostorg/leaf",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "bvdberg-ctest",
-  "description": "ctest is a unit test framework for software written in C.",
-  "git": "https://github.com/bvdberg/ctest",
-  "target_link": ""
-}

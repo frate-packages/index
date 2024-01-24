@@ -1,6 +1,0 @@
-{
-  "name": "libqrencode",
-  "description": "A fast and compact QR Code encoding library",
-  "git": "https://github.com/fukuchi/libqrencode",
-  "target_link": ""
-}

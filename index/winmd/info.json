@@ -1,6 +1,0 @@
-{
-  "name": "winmd",
-  "description": "C++ winmd parser",
-  "git": "https://github.com/microsoft/winmd",
-  "target_link": ""
-}

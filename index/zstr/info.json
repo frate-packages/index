@@ -1,6 +1,0 @@
-{
-  "name": "zstr",
-  "description": "A C++ header-only ZLib wrapper.",
-  "git": "https://github.com/mateidavid/zstr",
-  "target_link": ""
-}

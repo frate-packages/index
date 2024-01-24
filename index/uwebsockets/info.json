@@ -1,6 +1,0 @@
-{
-  "name": "uwebsockets",
-  "description": "Simple, secure \u0026amp; standards compliant web server for the most demanding of applications",
-  "git": "https://github.com/uNetworking/uWebSockets",
-  "target_link": ""
-}

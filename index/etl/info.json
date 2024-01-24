@@ -1,6 +1,0 @@
-{
-  "name": "etl",
-  "description": "A C++ template library for embedded applications",
-  "git": "",
-  "target_link": ""
-}

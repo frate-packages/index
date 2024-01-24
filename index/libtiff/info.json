@@ -1,6 +1,0 @@
-{
-  "name": "libtiff",
-  "description": "Library for Tag Image File Format (TIFF)",
-  "git": "",
-  "target_link": ""
-}

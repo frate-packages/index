@@ -1,6 +1,0 @@
-{
-  "name": "imutils-cpp",
-  "description": "This is a cpp version of popular python computer vision library imutils.",
-  "git": "https://github.com/thedevmanek/imutils-cpp",
-  "target_link": ""
-}

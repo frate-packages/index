@@ -1,6 +1,0 @@
-{
-  "name": "range-v3",
-  "description": "Range library for C++14/17/20, basis for C++20's std::ranges",
-  "git": "https://github.com/ericniebler/range-v3",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "backport-cpp",
-  "description": "An ongoing effort to bring modern C++ utilities to be compatible with C++11",
-  "git": "https://github.com/bitwizeshift/BackportCpp",
-  "target_link": ""
-}

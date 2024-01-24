@@ -1,6 +1,0 @@
-{
-  "name": "libucl",
-  "description": "Universal configuration library parser",
-  "git": "https://github.com/vstakhov/libucl",
-  "target_link": ""
-}

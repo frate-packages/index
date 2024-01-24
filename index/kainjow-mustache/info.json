@@ -1,6 +1,0 @@
-{
-  "name": "kainjow-mustache",
-  "description": "Mustache text templates for modern C++",
-  "git": "https://github.com/kainjow/Mustache",
-  "target_link": ""
-}

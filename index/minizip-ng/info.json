@@ -1,6 +1,0 @@
-{
-  "name": "minizip-ng",
-  "description": "Fork of the popular zip manipulation library found in the zlib distribution.",
-  "git": "https://github.com/zlib-ng/minizip-ng",
-  "target_link": ""
-}

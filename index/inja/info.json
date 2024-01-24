@@ -1,6 +1,0 @@
-{
-  "name": "inja",
-  "description": "Inja is a template engine for modern C++, loosely inspired by jinja for python",
-  "git": "https://github.com/pantor/inja",
-  "target_link": ""
-}

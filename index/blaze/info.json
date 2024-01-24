@@ -1,6 +1,0 @@
-{
-  "name": "blaze",
-  "description": "open-source, high-performance C++ math library for dense and sparse arithmetic",
-  "git": "https://bitbucket.org/blaze-lib/blaze",
-  "target_link": ""
-}

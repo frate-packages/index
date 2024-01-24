@@ -1,6 +1,0 @@
-{
-  "name": "cvplot",
-  "description": "Fast modular OpenCV plotting library",
-  "git": "https://github.com/Profactor/cv-plot",
-  "target_link": ""
-}

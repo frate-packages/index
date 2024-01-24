@@ -1,6 +1,0 @@
-{
-  "name": "soundtouch",
-  "description": "an open-source audio processing library that allows changing the sound tempo, pitch and playback rate parameters independently",
-  "git": "",
-  "target_link": ""
-}

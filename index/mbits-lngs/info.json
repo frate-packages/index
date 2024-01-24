@@ -1,6 +1,0 @@
-{
-  "name": "mbits-lngs",
-  "description": "Language strings support",
-  "git": "https://github.com/mbits-os/lngs",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "geographiclib",
-  "description": "Convert geographic units and solve geodesic problems",
-  "git": "",
-  "target_link": ""
-}

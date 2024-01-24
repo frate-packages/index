@@ -1,6 +1,0 @@
-{
-  "name": "tinyexif",
-  "description": "Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG",
-  "git": "https://github.com/cdcseacave/TinyEXIF/",
-  "target_link": ""
-}

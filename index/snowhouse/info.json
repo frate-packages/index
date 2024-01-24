@@ -1,6 +1,0 @@
-{
-  "name": "snowhouse",
-  "description": "An assertion library for C++",
-  "git": "https://github.com/banditcpp/snowhouse",
-  "target_link": ""
-}

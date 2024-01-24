@@ -1,6 +1,0 @@
-{
-  "name": "sqlite3",
-  "description": "Self-contained, serverless, in-process SQL database engine.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "roaring",
-  "description": "Portable Roaring bitmaps in C and C++",
-  "git": "https://github.com/RoaringBitmap/CRoaring",
-  "target_link": ""
-}

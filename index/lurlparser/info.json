@@ -1,6 +1,0 @@
-{
-  "name": "lurlparser",
-  "description": "Lightweight URL \u0026amp; URI parser (RFC 1738, RFC 3986)",
-  "git": "https://github.com/corporateshark/LUrlParser/",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libenvpp",
-  "description": "A modern C++ library for type-safe environment variable parsing",
-  "git": "https://github.com/ph3at/libenvpp",
-  "target_link": ""
-}

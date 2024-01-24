@@ -1,6 +1,0 @@
-{
-  "name": "duckdb",
-  "description": "DuckDB is an embeddable SQL OLAP Database Management System",
-  "git": "https://github.com/cwida/duckdb",
-  "target_link": ""
-}

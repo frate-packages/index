@@ -1,6 +1,0 @@
-{
-  "name": "giflib",
-  "description": "A library and utilities for reading and writing GIF images.",
-  "git": "",
-  "target_link": ""
-}

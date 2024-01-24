@@ -1,6 +1,0 @@
-{
-  "name": "octomap",
-  "description": "An Efficient Probabilistic 3D Mapping Framework Based on Octrees.",
-  "git": "https://github.com/OctoMap/octomap",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "mujs",
-  "description": "MuJS is a lightweight Javascript interpreter designed for embedding in other software to extend them with scripting capabilities.",
-  "git": "",
-  "target_link": ""
-}

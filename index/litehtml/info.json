@@ -1,6 +1,0 @@
-{
-  "name": "litehtml",
-  "description": "litehtml is the lightweight HTML rendering engine with CSS2/CSS3 support.",
-  "git": "https://github.com/litehtml/litehtml",
-  "target_link": ""
-}

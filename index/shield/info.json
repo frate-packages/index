@@ -1,6 +1,0 @@
-{
-  "name": "shield",
-  "description": "C++ warning suppression headers.",
-  "git": "https://github.com/holoplot/shield",
-  "target_link": ""
-}

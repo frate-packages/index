@@ -1,6 +1,0 @@
-{
-  "name": "arduinojson",
-  "description": "C++ JSON library for IoT. Simple and efficient.",
-  "git": "https://github.com/bblanchon/ArduinoJson",
-  "target_link": ""
-}

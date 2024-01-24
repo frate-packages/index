@@ -1,6 +1,0 @@
-{
-  "name": "nudb",
-  "description": "A fast key/value insert-only database for SSD drives in C++11",
-  "git": "https://github.com/CPPAlliance/NuDB",
-  "target_link": ""
-}

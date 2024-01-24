@@ -1,6 +1,0 @@
-{
-  "name": "opentelemetry-cpp",
-  "description": "The C++ OpenTelemetry API and SDK",
-  "git": "https://github.com/open-telemetry/opentelemetry-cpp",
-  "target_link": ""
-}

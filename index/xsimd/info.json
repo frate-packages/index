@@ -1,6 +1,0 @@
-{
-  "name": "xsimd",
-  "description": "C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)",
-  "git": "https://github.com/xtensor-stack/xsimd",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "icecream-cpp",
-  "description": "A little library to help with the print debugging on C++11 and forward.",
-  "git": "https://github.com/renatoGarcia/icecream-cpp",
-  "target_link": ""
-}

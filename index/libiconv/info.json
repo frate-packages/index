@@ -1,6 +1,0 @@
-{
-  "name": "libiconv",
-  "description": "Convert text to and from Unicode",
-  "git": "",
-  "target_link": ""
-}

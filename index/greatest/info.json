@@ -1,6 +1,0 @@
-{
-  "name": "greatest",
-  "description": "A C testing library in 1 file. No dependencies, no dynamic allocation.",
-  "git": "https://github.com/silentbicycle/greatest",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libsrtp",
-  "description": "This package provides an implementation of the Secure Real-time TransportProtocol (SRTP), the Universal Security Transform (UST), and a supportingcryptographic kernel.",
-  "git": "https://github.com/cisco/libsrtp",
-  "target_link": ""
-}

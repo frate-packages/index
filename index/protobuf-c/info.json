@@ -1,6 +1,0 @@
-{
-  "name": "protobuf-c",
-  "description": "Protocol Buffers implementation in C",
-  "git": "https://github.com/protobuf-c/protobuf-c",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "gtest",
-  "description": "Google's C++ test framework",
-  "git": "https://github.com/google/googletest",
-  "target_link": ""
-}

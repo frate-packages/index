@@ -1,6 +1,0 @@
-{
-  "name": "implot",
-  "description": "Advanced 2D Plotting for Dear ImGui",
-  "git": "https://github.com/epezent/implot",
-  "target_link": ""
-}

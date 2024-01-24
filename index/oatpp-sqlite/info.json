@@ -1,6 +1,0 @@
-{
-  "name": "oatpp-sqlite",
-  "description": "oat++ SQLite library",
-  "git": "https://github.com/oatpp/oatpp-sqlite",
-  "target_link": ""
-}

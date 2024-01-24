@@ -1,6 +1,0 @@
-{
-  "name": "ada",
-  "description": "WHATWG-compliant URL parser written in modern C++",
-  "git": "https://github.com/ada-url/ada",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "nng",
-  "description": "nanomsg-next-generation: light-weight brokerless messaging",
-  "git": "https://github.com/nanomsg/nng",
-  "target_link": ""
-}

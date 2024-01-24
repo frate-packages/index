@@ -1,6 +1,0 @@
-{
-  "name": "glu",
-  "description": "cross-platform virtual conan package for the GLU support",
-  "git": "",
-  "target_link": ""
-}

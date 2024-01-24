@@ -1,6 +1,0 @@
-{
-  "name": "vir-simd",
-  "description": "A fallback std::experimental::simd (Parallelism TS 2) implementation with additional features",
-  "git": "https://github.com/mattkretz/vir-simd",
-  "target_link": ""
-}

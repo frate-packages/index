@@ -1,6 +1,0 @@
-{
-  "name": "cccl",
-  "description": "Unix cc compiler to Microsoft's cl compiler wrapper",
-  "git": "https://github.com/swig/cccl/",
-  "target_link": ""
-}

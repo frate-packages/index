@@ -1,6 +1,0 @@
-{
-  "name": "qcbor",
-  "description": "Comprehensive, powerful, commercial-quality CBOR encoder/decoder that is still suited for small devices.",
-  "git": "https://github.com/laurencelundblade/QCBOR",
-  "target_link": ""
-}

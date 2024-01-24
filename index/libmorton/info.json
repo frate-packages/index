@@ -1,6 +1,0 @@
-{
-  "name": "libmorton",
-  "description": "C++ header-only library with methods to efficiently encode/decode 64, 32 and 16-bit Morton codes and coordinates, in 2D and 3D.",
-  "git": "https://github.com/Forceflow/libmorton",
-  "target_link": ""
-}

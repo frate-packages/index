@@ -1,6 +1,0 @@
-{
-  "name": "pybind11",
-  "description": "Seamless operability between C++11 and Python",
-  "git": "https://github.com/pybind/pybind11",
-  "target_link": ""
-}

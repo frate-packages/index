@@ -1,6 +1,0 @@
-{
-  "name": "easyexif",
-  "description": "Tiny ISO-compliant C++ EXIF parsing library, third-party dependency free.",
-  "git": "https://github.com/mayanklahiri/easyexif",
-  "target_link": ""
-}

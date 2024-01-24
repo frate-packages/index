@@ -1,6 +1,0 @@
-{
-  "name": "imake",
-  "description": "Obsolete C preprocessor interface to the make utility",
-  "git": "",
-  "target_link": ""
-}

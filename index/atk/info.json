@@ -1,6 +1,0 @@
-{
-  "name": "atk",
-  "description": "set of accessibility interfaces that are implemented by other toolkits and applications",
-  "git": "",
-  "target_link": ""
-}

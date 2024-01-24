@@ -1,6 +1,0 @@
-{
-  "name": "aws-c-io",
-  "description": "IO and TLS for application protocols",
-  "git": "https://github.com/awslabs/aws-c-io",
-  "target_link": ""
-}

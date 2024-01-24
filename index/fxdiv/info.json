@@ -1,6 +1,0 @@
-{
-  "name": "fxdiv",
-  "description": "C99/C++ header-only library for division via fixed-point multiplication by inverse.",
-  "git": "https://github.com/Maratyszcza/FXdiv",
-  "target_link": ""
-}

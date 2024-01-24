@@ -1,6 +1,0 @@
-{
-  "name": "libmbus",
-  "description": "Meter-bus library and utility programs",
-  "git": "https://github.com/rscada/libmbus",
-  "target_link": ""
-}

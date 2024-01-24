@@ -1,6 +1,0 @@
-{
-  "name": "gdk-pixbuf",
-  "description": "toolkit for image loading and pixel buffer manipulation",
-  "git": "",
-  "target_link": ""
-}

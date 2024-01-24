@@ -1,6 +1,0 @@
-{
-  "name": "zmqpp",
-  "description": "This C++ binding for 0mq/zmq is a 'high-level' library that hides most of the c-style interface core 0mq provides.",
-  "git": "https://github.com/zeromq/zmqpp",
-  "target_link": ""
-}

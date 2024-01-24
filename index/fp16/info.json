@@ -1,6 +1,0 @@
-{
-  "name": "fp16",
-  "description": "Conversion to/from half-precision floating point formats.",
-  "git": "https://github.com/Maratyszcza/FP16",
-  "target_link": ""
-}

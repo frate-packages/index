@@ -1,6 +1,0 @@
-{
-  "name": "enhex-generic_serialization",
-  "description": "Lightweight and extensible generic serialization library",
-  "git": "https://github.com/Enhex/generic_serialization",
-  "target_link": ""
-}

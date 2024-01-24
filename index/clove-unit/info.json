@@ -1,6 +1,0 @@
-{
-  "name": "clove-unit",
-  "description": "Single-header Unit Testing framework for C (interoperable with C++) with test autodiscovery feature",
-  "git": "https://github.com/fdefelici/clove-unit",
-  "target_link": ""
-}

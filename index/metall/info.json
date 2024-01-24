@@ -1,6 +1,0 @@
-{
-  "name": "metall",
-  "description": "Meta allocator for persistent memory",
-  "git": "https://github.com/LLNL/metall",
-  "target_link": ""
-}

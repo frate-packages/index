@@ -1,6 +1,0 @@
-{
-  "name": "platform.exceptions",
-  "description": "platform.exceptions is one of the libraries of the LinksPlatform modular framework, to ensure exceptions",
-  "git": "https://github.com/linksplatform/Exceptions",
-  "target_link": ""
-}

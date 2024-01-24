@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-operators",
-  "description": "A highly efficient, move-aware operators library",
-  "git": "https://github.com/taocpp/operators",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "charls",
-  "description": "C++ implementation of the JPEG-LS standard for lossless and near-lossless image compression and decompression.",
-  "git": "https://github.com/team-charls/charls",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "joltphysics",
-  "description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
-  "git": "https://github.com/jrouwe/JoltPhysics",
-  "target_link": ""
-}

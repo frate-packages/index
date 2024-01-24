@@ -1,6 +1,0 @@
-{
-  "name": "drmp3",
-  "description": "MP3 audio decoder.",
-  "git": "",
-  "target_link": ""
-}

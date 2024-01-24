@@ -1,6 +1,0 @@
-{
-  "name": "gnutls",
-  "description": "GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols",
-  "git": "",
-  "target_link": ""
-}

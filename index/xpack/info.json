@@ -1,6 +1,0 @@
-{
-  "name": "xpack",
-  "description": "C++ reflection, ability to convert between C++ structures and json/xml.",
-  "git": "https://github.com/xyz347/xpack",
-  "target_link": ""
-}

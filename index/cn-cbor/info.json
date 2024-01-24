@@ -1,6 +1,0 @@
-{
-  "name": "cn-cbor",
-  "description": "A constrained node implementation of CBOR in C",
-  "git": "https://github.com/jimsch/cn-cbor/",
-  "target_link": ""
-}

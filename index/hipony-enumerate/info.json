@@ -1,6 +1,0 @@
-{
-  "name": "hipony-enumerate",
-  "description": "C++11 compatible version of enumerate",
-  "git": "https://github.com/hipony/enumerate",
-  "target_link": ""
-}

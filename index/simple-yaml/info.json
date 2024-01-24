@@ -1,6 +1,0 @@
-{
-  "name": "simple-yaml",
-  "description": "Read configuration files in YAML format by code structure",
-  "git": "https://github.com/Rechip/simple-yaml",
-  "target_link": ""
-}

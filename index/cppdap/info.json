@@ -1,6 +1,0 @@
-{
-  "name": "cppdap",
-  "description": "Debug Adapter Protocol SDK",
-  "git": "https://github.com/google/cppdap",
-  "target_link": ""
-}

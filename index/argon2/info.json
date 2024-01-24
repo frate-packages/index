@@ -1,6 +1,0 @@
-{
-  "name": "argon2",
-  "description": "Argon2 password hashing library",
-  "git": "https://github.com/P-H-C/phc-winner-argon2",
-  "target_link": ""
-}

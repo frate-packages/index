@@ -1,6 +1,0 @@
-{
-  "name": "glpk",
-  "description": "GNU Linear Programming Kit",
-  "git": "",
-  "target_link": ""
-}

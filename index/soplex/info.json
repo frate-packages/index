@@ -1,6 +1,0 @@
-{
-  "name": "soplex",
-  "description": "SoPlex linear programming solver",
-  "git": "",
-  "target_link": ""
-}

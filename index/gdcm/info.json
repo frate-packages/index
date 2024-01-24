@@ -1,6 +1,0 @@
-{
-  "name": "gdcm",
-  "description": "C++ library for DICOM medical files",
-  "git": "",
-  "target_link": ""
-}

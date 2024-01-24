@@ -1,6 +1,0 @@
-{
-  "name": "cocoyaxi",
-  "description": "A go-style coroutine library in C++11 and more.",
-  "git": "https://github.com/idealvin/cocoyaxi",
-  "target_link": ""
-}

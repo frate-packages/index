@@ -1,6 +1,0 @@
-{
-  "name": "flatbuffers",
-  "description": "Memory Efficient Serialization Library",
-  "git": "",
-  "target_link": ""
-}

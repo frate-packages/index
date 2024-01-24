@@ -1,6 +1,0 @@
-{
-  "name": "voropp",
-  "description": "Voro++ is a open source software library for the computation of the Voronoi diagram, a widely-used tessellation that has applications in many scientific fields.",
-  "git": "",
-  "target_link": ""
-}

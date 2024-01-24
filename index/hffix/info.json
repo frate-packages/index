@@ -1,6 +1,0 @@
-{
-  "name": "hffix",
-  "description": "Financial Information Exchange Protocol C++ Library",
-  "git": "https://github.com/jamesdbrock/hffix",
-  "target_link": ""
-}

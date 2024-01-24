@@ -1,6 +1,0 @@
-{
-  "name": "asmjit",
-  "description": "AsmJit is a lightweight library for machine code generation written in C++ language.",
-  "git": "",
-  "target_link": ""
-}

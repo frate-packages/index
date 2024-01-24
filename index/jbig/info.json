@@ -1,6 +1,0 @@
-{
-  "name": "jbig",
-  "description": "jbig for the Windows build of ImageMagick",
-  "git": "https://github.com/ImageMagick/jbig",
-  "target_link": ""
-}

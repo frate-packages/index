@@ -1,6 +1,0 @@
-{
-  "name": "ulfius",
-  "description": "Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language",
-  "git": "https://github.com/babelouest/ulfius",
-  "target_link": ""
-}

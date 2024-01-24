@@ -1,6 +1,0 @@
-{
-  "name": "rapidcheck",
-  "description": "QuickCheck clone for C++ with the goal of being simple to use with as little boilerplate as possible",
-  "git": "https://github.com/emil-e/rapidcheck",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "hazelcast-cpp-client",
-  "description": "C++ client library for Hazelcast in-memory database.",
-  "git": "https://github.com/hazelcast/hazelcast-cpp-client",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "npcap",
-  "description": "Windows port of the libpcap library",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "gsl",
-  "description": "GNU Scientific Library",
-  "git": "",
-  "target_link": ""
-}

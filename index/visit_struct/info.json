@@ -1,6 +1,0 @@
-{
-  "name": "visit_struct",
-  "description": "A miniature library for struct-field reflection in C++",
-  "git": "https://github.com/cbeck88/visit_struct",
-  "target_link": ""
-}

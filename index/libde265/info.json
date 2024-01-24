@@ -1,6 +1,0 @@
-{
-  "name": "libde265",
-  "description": "Open h.265 video codec implementation.",
-  "git": "https://github.com/strukturag/libde265",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "jsmn",
-  "description": "jsmn (pronounced like 'jasmine') is a minimalistic JSON parser in C. It can be easily integrated into resource-limited or embedded projects.",
-  "git": "https://github.com/zserge/jsmn",
-  "target_link": ""
-}

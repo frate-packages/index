@@ -1,6 +1,0 @@
-{
-  "name": "libschrift",
-  "description": "A lightweight TrueType font rendering library ",
-  "git": "https://github.com/tomolt/libschrift",
-  "target_link": ""
-}

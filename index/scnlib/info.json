@@ -1,6 +1,0 @@
-{
-  "name": "scnlib",
-  "description": "scanf for modern C++",
-  "git": "https://github.com/eliaskosunen/scnlib",
-  "target_link": ""
-}

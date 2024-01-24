@@ -1,6 +1,0 @@
-{
-  "name": "lzfse",
-  "description": "Lempel-Ziv style data compression algorithm using Finite State Entropy coding.",
-  "git": "https://github.com/lzfse/lzfse",
-  "target_link": ""
-}

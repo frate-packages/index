@@ -1,6 +1,0 @@
-{
-  "name": "ozz-animation",
-  "description": "Open source c++ skeletal animation library and toolset.",
-  "git": "https://github.com/guillaumeblanc/ozz-animation",
-  "target_link": ""
-}

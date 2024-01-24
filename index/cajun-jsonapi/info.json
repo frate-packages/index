@@ -1,6 +1,0 @@
-{
-  "name": "cajun-jsonapi",
-  "description": "CAJUN* is a C++ API for the JSON object interchange format.",
-  "git": "https://github.com/cajun-jsonapi/cajun-jsonapi",
-  "target_link": ""
-}

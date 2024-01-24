@@ -1,6 +1,0 @@
-{
-  "name": "glew",
-  "description": "The GLEW library",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "cmp",
-  "description": "An implementation of the MessagePack serialization format in C / msgpack.org[C]",
-  "git": "",
-  "target_link": ""
-}

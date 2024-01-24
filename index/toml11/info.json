@@ -1,6 +1,0 @@
-{
-  "name": "toml11",
-  "description": "TOML for Modern C++",
-  "git": "https://github.com/ToruNiina/toml11",
-  "target_link": ""
-}

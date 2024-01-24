@@ -1,6 +1,0 @@
-{
-  "name": "ogg",
-  "description": "The OGG library",
-  "git": "https://github.com/xiph/ogg",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libevdev",
-  "description": "libevdev is a wrapper library for evdev devices.",
-  "git": "",
-  "target_link": ""
-}

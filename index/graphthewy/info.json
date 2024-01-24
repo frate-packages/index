@@ -1,6 +1,0 @@
-{
-  "name": "graphthewy",
-  "description": "Simple header-only C++ Library for graph modelling (directed or not) and graph cycle detection. ",
-  "git": "https://github.com/alex-87/graphthewy",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "openfx",
-  "description": "OpenFX image processing plug-in standard.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "picosha2",
-  "description": "a header-file-only, SHA256 hash generator in C++ ",
-  "git": "https://github.com/okdshin/PicoSHA2",
-  "target_link": ""
-}

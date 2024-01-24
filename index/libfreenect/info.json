@@ -1,6 +1,0 @@
-{
-  "name": "libfreenect",
-  "description": "Drivers and libraries for the Xbox Kinect device.",
-  "git": "https://github.com/OpenKinect/libfreenect",
-  "target_link": ""
-}

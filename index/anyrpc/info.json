@@ -1,6 +1,0 @@
-{
-  "name": "anyrpc",
-  "description": "A multiprotocol remote procedure call system for C++",
-  "git": "https://github.com/sgieseking/anyrpc",
-  "target_link": ""
-}

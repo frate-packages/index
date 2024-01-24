@@ -1,6 +1,0 @@
-{
-  "name": "osmanip",
-  "description": "Library with useful output stream tools like: color and style manipulators, progress bars and terminal graphics.",
-  "git": "https://github.com/JustWhit3/osmanip",
-  "target_link": ""
-}

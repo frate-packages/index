@@ -1,6 +1,0 @@
-{
-  "name": "dr_libs",
-  "description": "Public domain, single file audio decoding libraries for C and C++.",
-  "git": "https://github.com/mackron/dr_libs",
-  "target_link": ""
-}

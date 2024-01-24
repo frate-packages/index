@@ -1,6 +1,0 @@
-{
-  "name": "c-client",
-  "description": "University of Washington IMAP toolkit",
-  "git": "https://github.com/uw-imap/imap",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "kissfft",
-  "description": "a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid",
-  "git": "https://github.com/mborgerding/kissfft",
-  "target_link": ""
-}

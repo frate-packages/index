@@ -1,6 +1,0 @@
-{
-  "name": "platform.converters",
-  "description": "platform.converters is one of the libraries of the LinksPlatform modular framework, to provide conversions between different types",
-  "git": "https://github.com/linksplatform/Converters",
-  "target_link": ""
-}

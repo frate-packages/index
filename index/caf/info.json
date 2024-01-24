@@ -1,6 +1,0 @@
-{
-  "name": "caf",
-  "description": "An open source implementation of the Actor Model in C++",
-  "git": "https://github.com/actor-framework/actor-framework",
-  "target_link": ""
-}

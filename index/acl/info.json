@@ -1,6 +1,0 @@
-{
-  "name": "acl",
-  "description": "Commands for Manipulating POSIX Access Control Lists",
-  "git": "",
-  "target_link": ""
-}

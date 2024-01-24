@@ -1,6 +1,0 @@
-{
-  "name": "libkml",
-  "description": "Reference implementation of OGC KML 2.2",
-  "git": "https://github.com/libkml/libkml",
-  "target_link": ""
-}

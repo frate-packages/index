@@ -1,6 +1,0 @@
-{
-  "name": "span-lite",
-  "description": "span lite - A C++20-like span for C++98, C++11 and later in a single-file header-only library",
-  "git": "https://github.com/martinmoene/span-lite",
-  "target_link": ""
-}

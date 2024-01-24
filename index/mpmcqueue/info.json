@@ -1,6 +1,0 @@
-{
-  "name": "mpmcqueue",
-  "description": "A bounded multi-producer multi-consumer concurrent queue written in C++11.",
-  "git": "https://github.com/rigtorp/MPMCQueue",
-  "target_link": ""
-}

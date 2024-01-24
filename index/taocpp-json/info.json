@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-json",
-  "description": "C++ header-only JSON library",
-  "git": "https://github.com/taocpp/json",
-  "target_link": ""
-}

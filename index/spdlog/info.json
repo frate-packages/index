@@ -1,6 +1,0 @@
-{
-  "name": "spdlog",
-  "description": "Fast C++ logging library",
-  "git": "https://github.com/gabime/spdlog",
-  "target_link": ""
-}

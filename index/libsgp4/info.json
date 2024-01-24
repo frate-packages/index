@@ -1,6 +1,0 @@
-{
-  "name": "libsgp4",
-  "description": "C++11 library for SGP4 Simplified perturbations model.",
-  "git": "https://github.com/dnwrnr/sgp4",
-  "target_link": ""
-}

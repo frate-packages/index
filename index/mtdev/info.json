@@ -1,6 +1,0 @@
-{
-  "name": "mtdev",
-  "description": "The mtdev library transforms all variants of kernel MT events to the slotted type B protocol.",
-  "git": "",
-  "target_link": ""
-}

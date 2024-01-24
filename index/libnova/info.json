@@ -1,6 +1,0 @@
-{
-  "name": "libnova",
-  "description": "libnova is a general purpose, double precision, celestial mechanics, astrometry and astrodynamics library.",
-  "git": "",
-  "target_link": ""
-}

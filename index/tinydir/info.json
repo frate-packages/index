@@ -1,6 +1,0 @@
-{
-  "name": "tinydir",
-  "description": "Lightweight, portable and easy to integrate C directory and file reader",
-  "git": "https://github.com/cxong/tinydir",
-  "target_link": ""
-}

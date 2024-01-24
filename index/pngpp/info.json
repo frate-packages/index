@@ -1,6 +1,0 @@
-{
-  "name": "pngpp",
-  "description": "A C++ wrapper for libpng library.",
-  "git": "",
-  "target_link": ""
-}

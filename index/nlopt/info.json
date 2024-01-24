@@ -1,6 +1,0 @@
-{
-  "name": "nlopt",
-  "description": "Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization.",
-  "git": "https://github.com/stevengj/nlopt",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "dirent",
-  "description": "Dirent is a C/C++ programming interface that allows programmers to retrieve information about files and directories under Linux/UNIX",
-  "git": "https://github.com/tronkko/dirent",
-  "target_link": ""
-}

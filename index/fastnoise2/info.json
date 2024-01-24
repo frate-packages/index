@@ -1,6 +1,0 @@
-{
-  "name": "fastnoise2",
-  "description": "Modular node graph based noise generation library using SIMD, C++17 and templates",
-  "git": "https://github.com/Auburn/FastNoise2",
-  "target_link": ""
-}

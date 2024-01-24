@@ -1,6 +1,0 @@
-{
-  "name": "type_safe",
-  "description": "Zero overhead utilities for preventing bugs at compile time",
-  "git": "",
-  "target_link": ""
-}

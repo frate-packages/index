@@ -1,6 +1,0 @@
-{
-  "name": "libuuid",
-  "description": "Portable uuid C library",
-  "git": "",
-  "target_link": ""
-}

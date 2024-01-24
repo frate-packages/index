@@ -1,6 +1,0 @@
-{
-  "name": "amqp-cpp",
-  "description": "C++ library for asynchronous non-blocking communication with RabbitMQ",
-  "git": "https://github.com/CopernicaMarketingSoftware/AMQP-CPP",
-  "target_link": ""
-}

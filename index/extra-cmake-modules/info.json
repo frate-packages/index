@@ -1,6 +1,0 @@
-{
-  "name": "extra-cmake-modules",
-  "description": "KDE's CMake modules",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "nuraft",
-  "description": "Cornerstone based RAFT library.",
-  "git": "",
-  "target_link": ""
-}

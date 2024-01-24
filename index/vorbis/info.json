@@ -1,6 +1,0 @@
-{
-  "name": "vorbis",
-  "description": "The VORBIS audio codec library",
-  "git": "",
-  "target_link": ""
-}

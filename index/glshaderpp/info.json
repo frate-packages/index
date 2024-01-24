@@ -1,6 +1,0 @@
-{
-  "name": "glshaderpp",
-  "description": "A lightweight header-only library to compile and link OpenGL GLSL shaders.",
-  "git": "",
-  "target_link": ""
-}

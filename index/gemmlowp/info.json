@@ -1,6 +1,0 @@
-{
-  "name": "gemmlowp",
-  "description": "Low-precision matrix multiplication",
-  "git": "https://github.com/google/gemmlowp",
-  "target_link": ""
-}

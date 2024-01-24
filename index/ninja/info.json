@@ -1,6 +1,0 @@
-{
-  "name": "ninja",
-  "description": "Ninja is a small build system with a focus on speed",
-  "git": "https://github.com/ninja-build/ninja",
-  "target_link": ""
-}

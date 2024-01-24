@@ -1,6 +1,0 @@
-{
-  "name": "stb",
-  "description": "single-file public domain libraries for C/C++",
-  "git": "https://github.com/nothings/stb",
-  "target_link": ""
-}

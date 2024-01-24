@@ -1,6 +1,0 @@
-{
-  "name": "libhydrogen",
-  "description": "A lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
-  "git": "https://github.com/jedisct1/libhydrogen",
-  "target_link": ""
-}

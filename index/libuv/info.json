@@ -1,6 +1,0 @@
-{
-  "name": "uv",
-  "description": "A multi-platform support library with a focus on asynchronous I/O",
-  "git": "https://github.com/libuv/libuv",
-  "target_link": "uv"
-}

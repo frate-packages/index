@@ -1,6 +1,0 @@
-{
-  "name": "libelf",
-  "description": "ELF object file access library",
-  "git": "",
-  "target_link": ""
-}

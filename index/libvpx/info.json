@@ -1,6 +1,0 @@
-{
-  "name": "libvpx",
-  "description": "WebM VP8/VP9 Codec SDK",
-  "git": "",
-  "target_link": ""
-}

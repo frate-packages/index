@@ -1,6 +1,0 @@
-{
-  "name": "parson",
-  "description": "Lightweight JSON library written in C.",
-  "git": "https://github.com/kgabis/parson",
-  "target_link": ""
-}

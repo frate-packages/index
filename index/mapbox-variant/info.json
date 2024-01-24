@@ -1,6 +1,0 @@
-{
-  "name": "mapbox-variant",
-  "description": "An header-only alternative to boost::variant for C++11 and C++14",
-  "git": "https://github.com/mapbox/variant",
-  "target_link": ""
-}

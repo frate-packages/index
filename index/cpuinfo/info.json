@@ -1,6 +1,0 @@
-{
-  "name": "cpuinfo",
-  "description": "cpuinfo is a library to detect essential for performance optimization information about host CPU.",
-  "git": "https://github.com/pytorch/cpuinfo",
-  "target_link": ""
-}

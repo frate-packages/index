@@ -1,6 +1,0 @@
-{
-  "name": "libpng",
-  "description": "libpng is the official PNG file format reference library.",
-  "git": "",
-  "target_link": ""
-}

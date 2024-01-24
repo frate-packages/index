@@ -1,6 +1,0 @@
-{
-  "name": "libcbor",
-  "description": "CBOR protocol implementation for C",
-  "git": "https://github.com/PJK/libcbor",
-  "target_link": ""
-}

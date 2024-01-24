@@ -1,6 +1,0 @@
-{
-  "name": "ctre",
-  "description": "Compile Time Regular Expression for C++17/20",
-  "git": "https://github.com/hanickadot/compile-time-regular-expressions",
-  "target_link": ""
-}

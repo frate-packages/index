@@ -1,6 +1,0 @@
-{
-  "name": "sqlpp11",
-  "description": "A type safe SQL template library for C++",
-  "git": "https://github.com/rbock/sqlpp11",
-  "target_link": ""
-}

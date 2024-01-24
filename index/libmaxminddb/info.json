@@ -1,6 +1,0 @@
-{
-  "name": "libmaxminddb",
-  "description": "C library for the MaxMind DB file format",
-  "git": "",
-  "target_link": ""
-}

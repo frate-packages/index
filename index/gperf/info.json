@@ -1,6 +1,0 @@
-{
-  "name": "gperf",
-  "description": "GNU gperf is a perfect hash function generator",
-  "git": "",
-  "target_link": ""
-}

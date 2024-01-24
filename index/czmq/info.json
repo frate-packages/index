@@ -1,6 +1,0 @@
-{
-  "name": "czmq",
-  "description": "High-level C binding for ZeroMQ",
-  "git": "https://github.com/zeromq/czmq",
-  "target_link": ""
-}

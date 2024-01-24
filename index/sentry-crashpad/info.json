@@ -1,6 +1,0 @@
-{
-  "name": "sentry-crashpad",
-  "description": "Crashpad is a crash-reporting system.",
-  "git": "https://github.com/getsentry/sentry-native",
-  "target_link": ""
-}

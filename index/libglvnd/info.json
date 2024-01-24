@@ -1,6 +1,0 @@
-{
-  "name": "libglvnd",
-  "description": "The GL Vendor-Neutral Dispatch library",
-  "git": "",
-  "target_link": ""
-}

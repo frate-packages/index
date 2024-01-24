@@ -1,6 +1,0 @@
-{
-  "name": "yasm",
-  "description": "Yasm is a complete rewrite of the NASM assembler under the 'new' BSD License",
-  "git": "https://github.com/yasm/yasm",
-  "target_link": ""
-}

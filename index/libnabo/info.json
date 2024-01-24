@@ -1,6 +1,0 @@
-{
-  "name": "libnabo",
-  "description": "A fast K Nearest Neighbor library for low-dimensional spaces",
-  "git": "https://github.com/ethz-asl/libnabo",
-  "target_link": ""
-}

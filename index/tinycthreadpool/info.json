@@ -1,6 +1,0 @@
-{
-  "name": "tinycthreadpool",
-  "description": "Portable C thread pool",
-  "git": "https://github.com/bennyhuo/tinycthreadpool",
-  "target_link": ""
-}

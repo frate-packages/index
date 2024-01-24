@@ -1,6 +1,0 @@
-{
-  "name": "libmnl",
-  "description": "Minimalistic Netlink communication library",
-  "git": "",
-  "target_link": ""
-}

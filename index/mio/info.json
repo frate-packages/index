@@ -1,6 +1,0 @@
-{
-  "name": "mio",
-  "description": "Cross-platform C++11 header-only library for memory mapped file IO.",
-  "git": "https://github.com/mandreyel/mio",
-  "target_link": ""
-}

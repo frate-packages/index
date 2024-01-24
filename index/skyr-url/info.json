@@ -1,6 +1,0 @@
-{
-  "name": "skyr-url",
-  "description": "A C++ library that implements the WhatWG URL specification",
-  "git": "",
-  "target_link": ""
-}

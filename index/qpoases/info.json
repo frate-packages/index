@@ -1,6 +1,0 @@
-{
-  "name": "qpoases",
-  "description": "Open-source C++ implementation of the recently proposed online active set strategy.",
-  "git": "https://github.com/coin-or/qpOASES",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "xorg-makedepend",
-  "description": "Utility to parse C source files to make dependency lists for Makefiles",
-  "git": "",
-  "target_link": ""
-}

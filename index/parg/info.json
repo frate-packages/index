@@ -1,6 +1,0 @@
-{
-  "name": "parg",
-  "description": "Parser for argv that works similarly to getopt",
-  "git": "https://github.com/jibsen/parg",
-  "target_link": ""
-}

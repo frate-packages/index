@@ -1,6 +1,0 @@
-{
-  "name": "backward-cpp",
-  "description": "A beautiful stack trace pretty printer for C++",
-  "git": "https://github.com/bombela/backward-cpp",
-  "target_link": ""
-}

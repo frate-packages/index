@@ -1,6 +1,0 @@
-{
-  "name": "libxft",
-  "description": "X FreeType library",
-  "git": "",
-  "target_link": ""
-}

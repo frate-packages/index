@@ -1,6 +1,0 @@
-{
-  "name": "pcapplusplus",
-  "description": "PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets",
-  "git": "https://github.com/seladb/PcapPlusPlus",
-  "target_link": ""
-}

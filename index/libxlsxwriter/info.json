@@ -1,6 +1,0 @@
-{
-  "name": "libxlsxwriter",
-  "description": "A C library for creating Excel XLSX files",
-  "git": "https://github.com/jmcnamara/libxlsxwriter",
-  "target_link": ""
-}

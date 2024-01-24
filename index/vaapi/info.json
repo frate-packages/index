@@ -1,6 +1,0 @@
-{
-  "name": "vaapi",
-  "description": "VA-API is an open-source library and API specification, which provides access to graphics hardware acceleration capabilities for video processing.",
-  "git": "",
-  "target_link": ""
-}

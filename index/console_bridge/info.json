@@ -1,6 +1,0 @@
-{
-  "name": "console_bridge",
-  "description": "A ROS-independent library for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages",
-  "git": "https://github.com/ros/console_bridge",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "libmpdclient",
-  "description": "libmpdclient is a C library which implements the Music Player Daemon protocol.",
-  "git": "",
-  "target_link": ""
-}

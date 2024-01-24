@@ -1,6 +1,0 @@
-{
-  "name": "qr-code-generator",
-  "description": "High-quality QR Code generator library",
-  "git": "https://github.com/nayuki/QR-Code-generator",
-  "target_link": ""
-}

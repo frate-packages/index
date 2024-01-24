@@ -1,6 +1,0 @@
-{
-  "name": "thrust",
-  "description": "Thrust is a parallel algorithms library which resembles the C++ Standard Template Library (STL).",
-  "git": "",
-  "target_link": ""
-}

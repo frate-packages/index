@@ -1,6 +1,0 @@
-{
-  "name": "dragonbox",
-  "description": "Reference implementation of Dragonbox in C++",
-  "git": "https://github.com/jk-jeon/dragonbox",
-  "target_link": ""
-}

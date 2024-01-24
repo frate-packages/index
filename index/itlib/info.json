@@ -1,6 +1,0 @@
-{
-  "name": "itlib",
-  "description": "A collection of small single-header C++ libraries similar to or extending the C++ standard library.",
-  "git": "https://github.com/iboB/itlib",
-  "target_link": ""
-}

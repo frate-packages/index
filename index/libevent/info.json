@@ -1,6 +1,0 @@
-{
-  "name": "libevent",
-  "description": "libevent - an event notification library",
-  "git": "https://github.com/libevent/libevent",
-  "target_link": ""
-}

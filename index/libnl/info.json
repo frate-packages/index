@@ -1,6 +1,0 @@
-{
-  "name": "libnl",
-  "description": "A collection of libraries providing APIs to netlink protocol based Linux kernel interfaces.",
-  "git": "https://github.com/thom311/libnl",
-  "target_link": ""
-}

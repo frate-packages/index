@@ -1,6 +1,0 @@
-{
-  "name": "mozilla-build",
-  "description": "Mozilla build requirements on Windows",
-  "git": "",
-  "target_link": ""
-}

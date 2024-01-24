@@ -1,6 +1,0 @@
-{
-  "name": "ruy",
-  "description": "ruy is a matrix multiplication library.\nIts focus is to cover the matrix multiplication needs of neural network inference engines\n",
-  "git": "https://github.com/google/ruy",
-  "target_link": ""
-}

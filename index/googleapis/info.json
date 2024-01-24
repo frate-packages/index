@@ -1,6 +1,0 @@
-{
-  "name": "googleapis",
-  "description": "Public interface definitions of Google APIs",
-  "git": "https://github.com/googleapis/googleapis",
-  "target_link": ""
-}

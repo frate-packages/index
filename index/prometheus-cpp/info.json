@@ -1,6 +1,0 @@
-{
-  "name": "prometheus-cpp",
-  "description": "Prometheus Client Library for Modern C++",
-  "git": "https://github.com/jupp0r/prometheus-cpp",
-  "target_link": ""
-}

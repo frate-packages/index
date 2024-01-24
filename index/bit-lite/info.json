@@ -1,6 +1,0 @@
-{
-  "name": "bit-lite",
-  "description": "bit is a C++20 bit operations for C++98 and later                     in a single-file header-only library.",
-  "git": "https://github.com/martinmoene/bit-lite",
-  "target_link": ""
-}

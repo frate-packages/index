@@ -1,6 +1,0 @@
-{
-  "name": "fribidi",
-  "description": "The Free Implementation of the Unicode Bidirectional Algorithm",
-  "git": "https://github.com/fribidi/fribidi",
-  "target_link": ""
-}

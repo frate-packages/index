@@ -1,6 +1,0 @@
-{
-  "name": "dav1d",
-  "description": "dav1d is a new AV1 cross-platform decoder, open-source, and focused on speed, size and correctness.",
-  "git": "",
-  "target_link": ""
-}

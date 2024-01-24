@@ -1,6 +1,0 @@
-{
-  "name": "libzippp",
-  "description": "A simple basic C++ wrapper around the libzip library",
-  "git": "https://github.com/ctabin/libzippp",
-  "target_link": ""
-}

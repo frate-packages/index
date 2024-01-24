@@ -1,6 +1,0 @@
-{
-  "name": "json_dto",
-  "description": "A small header-only helper for converting data between json representation and c++ structs",
-  "git": "https://github.com/Stiffstream/json_dto",
-  "target_link": ""
-}

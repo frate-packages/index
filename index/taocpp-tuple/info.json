@@ -1,6 +1,0 @@
-{
-  "name": "taocpp-tuple",
-  "description": "Compile-time-efficient proof-of-concept implementation for std::tuple",
-  "git": "https://github.com/taocpp/tuple",
-  "target_link": ""
-}

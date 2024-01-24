@@ -1,6 +1,0 @@
-{
-  "name": "wavelet_buffer",
-  "description": "An universal C++ compression library based on wavelet transformation",
-  "git": "https://github.com/panda-official/WaveletBuffer",
-  "target_link": ""
-}

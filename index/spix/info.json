@@ -1,6 +1,0 @@
-{
-  "name": "spix",
-  "description": "UI test automation library for QtQuick/QML Apps",
-  "git": "https://github.com/faaxm/spix",
-  "target_link": ""
-}

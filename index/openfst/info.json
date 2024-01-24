@@ -1,6 +1,0 @@
-{
-  "name": "openfst",
-  "description": "A library for constructing, combining, optimizing and searching weighted finite-state-transducers (FSTs).",
-  "git": "",
-  "target_link": ""
-}

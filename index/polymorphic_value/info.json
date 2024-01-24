@@ -1,6 +1,0 @@
-{
-  "name": "polymorphic_value",
-  "description": "Production-quality reference implementation of P0201r2: A polymorphic value-type for C++",
-  "git": "https://github.com/jbcoe/polymorphic_value",
-  "target_link": ""
-}

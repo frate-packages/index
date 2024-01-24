@@ -1,6 +1,0 @@
-{
-  "name": "perlinnoise",
-  "description": "Header-only Perlin noise library for modern C++ ",
-  "git": "https://github.com/Reputeless/PerlinNoise/",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "pretty-name",
-  "description": "An easy and consistent way how to get type names in C++",
-  "git": "https://github.com/Rechip/pretty-name",
-  "target_link": ""
-}

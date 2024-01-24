@@ -1,6 +1,0 @@
-{
-  "name": "glm",
-  "description": "OpenGL Mathematics (GLM)",
-  "git": "https://github.com/g-truc/glm",
-  "target_link": ""
-}

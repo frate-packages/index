@@ -1,6 +1,0 @@
-{
-  "name": "mozjpeg",
-  "description": "MozJPEG is an improved JPEG encoder",
-  "git": "https://github.com/mozilla/mozjpeg",
-  "target_link": ""
-}

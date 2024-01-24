@@ -1,6 +1,0 @@
-{
-  "name": "xorg-proto",
-  "description": "This package provides the headers and specification documents defining the core protocol and (many) extensions for the X Window System.",
-  "git": "",
-  "target_link": ""
-}

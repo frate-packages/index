@@ -1,6 +1,0 @@
-{
-  "name": "irrxml",
-  "description": "irrXML is a simple and fast open source xml parser for C++",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "croncpp",
-  "description": "A C++11/14/17 header-only cross-platform library for handling CRON expressions",
-  "git": "https://github.com/mariusbancila/croncpp/",
-  "target_link": ""
-}

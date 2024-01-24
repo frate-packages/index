@@ -1,6 +1,0 @@
-{
-  "name": "libgphoto2",
-  "description": "The libgphoto2 camera access and control library.",
-  "git": "",
-  "target_link": ""
-}

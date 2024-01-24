@@ -1,6 +1,0 @@
-{
-  "name": "libbacktrace",
-  "description": "A C library that may be linked into a C/C++ program to produce symbolic backtraces.",
-  "git": "https://github.com/ianlancetaylor/libbacktrace",
-  "target_link": ""
-}

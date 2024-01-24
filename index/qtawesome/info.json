@@ -1,6 +1,0 @@
-{
-  "name": "qtawesome",
-  "description": "Font Awesome for Qt Applications",
-  "git": "https://github.com/gamecreature/QtAwesome",
-  "target_link": ""
-}

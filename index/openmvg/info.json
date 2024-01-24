@@ -1,6 +1,0 @@
-{
-  "name": "openmvg",
-  "description": "OpenMVG provides an end-to-end 3D reconstruction from images framework compounded of libraries, binaries, and pipelines.",
-  "git": "https://github.com/openMVG/openMVG",
-  "target_link": ""
-}

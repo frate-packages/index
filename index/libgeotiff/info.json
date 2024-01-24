@@ -1,6 +1,0 @@
-{
-  "name": "libgeotiff",
-  "description": "Libgeotiff is an open source library normally hosted on top of libtiff for reading, and writing GeoTIFF information tags.",
-  "git": "https://github.com/OSGeo/libgeotiff",
-  "target_link": ""
-}

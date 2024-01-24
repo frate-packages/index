@@ -1,6 +1,0 @@
-{
-  "name": "heatshrink",
-  "description": "data compression library for embedded/real-time systems",
-  "git": "https://github.com/atomicobject/heatshrink",
-  "target_link": ""
-}

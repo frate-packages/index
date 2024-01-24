@@ -1,6 +1,0 @@
-{
-  "name": "maddy",
-  "description": "open-source, maddy is a C++ Markdown to HTML header-only parser library.",
-  "git": "https://github.com/progsource/maddy",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "reactiveplusplus",
-  "description": "ReactivePlusPlus is library for building asynchronous event-driven streams of data with help of sequences of primitive operators in the declarative form.",
-  "git": "https://github.com/victimsnino/ReactivePlusPlus",
-  "target_link": ""
-}

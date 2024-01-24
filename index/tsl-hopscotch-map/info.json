@@ -1,6 +1,0 @@
-{
-  "name": "tsl-hopscotch-map",
-  "description": "C++ implementation of a fast hash map and hash set using hopscotch hashing",
-  "git": "https://github.com/Tessil/hopscotch-map",
-  "target_link": ""
-}

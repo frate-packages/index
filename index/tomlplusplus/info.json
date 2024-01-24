@@ -1,6 +1,0 @@
-{
-  "name": "tomlplusplus",
-  "description": "Header-only TOML config file parser and serializer for modern C++.",
-  "git": "https://github.com/marzer/tomlplusplus",
-  "target_link": ""
-}

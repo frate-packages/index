@@ -1,6 +1,0 @@
-{
-  "name": "lerc",
-  "description": "C++ library for limited Error Raster Compression.",
-  "git": "https://github.com/Esri/lerc",
-  "target_link": ""
-}

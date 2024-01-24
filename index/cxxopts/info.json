@@ -1,6 +1,0 @@
-{
-  "name": "cxxopts",
-  "description": "Lightweight C++ option parser library, supporting the standard GNU style syntax for options.",
-  "git": "https://github.com/jarro2783/cxxopts",
-  "target_link": ""
-}

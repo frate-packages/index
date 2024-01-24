@@ -1,6 +1,0 @@
-{
-  "name": "lief",
-  "description": "Library to Instrument Executable Formats",
-  "git": "https://github.com/lief-project/LIEF",
-  "target_link": ""
-}

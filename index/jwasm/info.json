@@ -1,6 +1,0 @@
-{
-  "name": "jwasm",
-  "description": "JWasm is intended to be a free Masm-compatible assembler.",
-  "git": "https://github.com/JWasm/JWasm",
-  "target_link": ""
-}

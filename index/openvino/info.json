@@ -1,6 +1,0 @@
-{
-  "name": "openvino",
-  "description": "Open Visual Inference And Optimization toolkit for AI inference",
-  "git": "https://github.com/openvinotoolkit/openvino",
-  "target_link": ""
-}

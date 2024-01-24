@@ -1,6 +1,0 @@
-{
-  "name": "cuda-api-wrappers",
-  "description": "Thin, unified, C++-flavored wrappers for the CUDA APIs",
-  "git": "https://github.com/eyalroz/cuda-api-wrappers",
-  "target_link": ""
-}

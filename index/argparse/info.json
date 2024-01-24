@@ -1,6 +1,0 @@
-{
-  "name": "argparse",
-  "description": "Argument Parser for Modern C++",
-  "git": "https://github.com/p-ranav/argparse",
-  "target_link": ""
-}

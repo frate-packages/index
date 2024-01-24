@@ -1,6 +1,0 @@
-{
-  "name": "cppcmd",
-  "description": "Simple cpp command interpreter header-only library",
-  "git": "https://github.com/remysalim/cppcmd",
-  "target_link": ""
-}

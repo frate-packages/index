@@ -1,6 +1,0 @@
-{
-  "name": "aruco",
-  "description": "Augmented reality library based on OpenCV ",
-  "git": "",
-  "target_link": ""
-}

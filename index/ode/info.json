@@ -1,6 +1,0 @@
-{
-  "name": "ode",
-  "description": "ODE is an open source, high performance library for simulating rigid body dynamics.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "source_location",
-  "description": "source_location header for some older compilers",
-  "git": "https://github.com/Rechip/source_location",
-  "target_link": ""
-}

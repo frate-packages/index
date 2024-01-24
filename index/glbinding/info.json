@@ -1,6 +1,0 @@
-{
-  "name": "glbinding",
-  "description": "A C++ binding for the OpenGL API, generated using the gl.xml specification.",
-  "git": "",
-  "target_link": ""
-}

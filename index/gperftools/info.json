@@ -1,6 +1,0 @@
-{
-  "name": "gperftools",
-  "description": "High-performance multi-threaded malloc()",
-  "git": "https://github.com/gperftools/gperftools",
-  "target_link": ""
-}

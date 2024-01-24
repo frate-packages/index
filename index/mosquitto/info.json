@@ -1,6 +1,0 @@
-{
-  "name": "mosquitto",
-  "description": "Eclipse Mosquitto MQTT library, broker and more",
-  "git": "",
-  "target_link": ""
-}

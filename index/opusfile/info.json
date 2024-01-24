@@ -1,6 +1,0 @@
-{
-  "name": "opusfile",
-  "description": "stand-alone decoder library for .opus streams",
-  "git": "https://github.com/xiph/opusfile",
-  "target_link": ""
-}

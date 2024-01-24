@@ -1,6 +1,0 @@
-{
-  "name": "cppunit",
-  "description": "CppUnit is the C++ port of the famous JUnit framework for unit testing. Test output is in XML for automatic testing and GUI based for supervised tests.",
-  "git": "",
-  "target_link": ""
-}

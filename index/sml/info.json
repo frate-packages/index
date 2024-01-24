@@ -1,6 +1,0 @@
-{
-  "name": "sml",
-  "description": "SML: C++14 State Machine Library",
-  "git": "https://github.com/boost-ext/sml",
-  "target_link": ""
-}

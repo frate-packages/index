@@ -1,6 +1,0 @@
-{
-  "name": "libpciaccess",
-  "description": "Generic PCI access library",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "status-code",
-  "description": "Proposed SG14 status_code for the C++ standard",
-  "git": "https://github.com/ned14/status-code",
-  "target_link": ""
-}

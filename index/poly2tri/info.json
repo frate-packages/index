@@ -1,6 +1,0 @@
-{
-  "name": "poly2tri",
-  "description": "Poly2Tri is a sweepline constrained Delaunay Polygon Triangulation Library.",
-  "git": "https://github.com/greenm01/poly2tri",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "plf_queue",
-  "description": "A C++ data container replicating std::queue functionality but with better performance.",
-  "git": "",
-  "target_link": ""
-}

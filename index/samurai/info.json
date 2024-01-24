@@ -1,6 +1,0 @@
-{
-  "name": "samurai",
-  "description": "Intervals coupled with algebra of set to handle adaptive mesh refinement and operators on it",
-  "git": "https://github.com/hpc-maths/samurai",
-  "target_link": ""
-}

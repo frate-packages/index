@@ -1,6 +1,0 @@
-{
-  "name": "lzma_sdk",
-  "description": "LZMA provides a high compression ratio and fast decompression, so it is very suitable for embedded applications.",
-  "git": "",
-  "target_link": ""
-}

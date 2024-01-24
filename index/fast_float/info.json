@@ -1,6 +1,0 @@
-{
-  "name": "fast_float",
-  "description": "Fast and exact implementation of the C++ from_chars functions for float and double types.",
-  "git": "https://github.com/fastfloat/fast_float",
-  "target_link": ""
-}

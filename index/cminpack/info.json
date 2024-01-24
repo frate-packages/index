@@ -1,6 +1,0 @@
-{
-  "name": "cminpack",
-  "description": "About A C/C++ rewrite of the MINPACK software (originally in FORTRAN)for solving nonlinear equations and nonlinear least squares problems",
-  "git": "",
-  "target_link": ""
-}

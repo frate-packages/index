@@ -1,6 +1,0 @@
-{
-  "name": "grpc-proto",
-  "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc",
-  "git": "https://github.com/grpc/grpc-proto",
-  "target_link": ""
-}

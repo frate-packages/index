@@ -1,6 +1,0 @@
-{
-  "name": "oatpp-postgresql",
-  "description": "oat++ PostgreSQL library",
-  "git": "https://github.com/oatpp/oatpp-postgresql",
-  "target_link": ""
-}

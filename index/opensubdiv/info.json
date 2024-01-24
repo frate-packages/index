@@ -1,6 +1,0 @@
-{
-  "name": "opensubdiv",
-  "description": "An Open-Source subdivision surface library",
-  "git": "https://github.com/PixarAnimationStudios/OpenSubdiv",
-  "target_link": ""
-}

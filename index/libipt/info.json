@@ -1,6 +1,0 @@
-{
-  "name": "libipt",
-  "description": "Intel(R) Processor Trace Decoder Library",
-  "git": "https://github.com/intel/libipt",
-  "target_link": ""
-}

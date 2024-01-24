@@ -1,6 +1,0 @@
-{
-  "name": "robin-hood-hashing",
-  "description": "Faster and more efficient replacement for std::unordered_map / std::unordered_set",
-  "git": "https://github.com/martinus/robin-hood-hashing",
-  "target_link": ""
-}

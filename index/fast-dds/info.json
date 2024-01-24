@@ -1,6 +1,0 @@
-{
-  "name": "fast-dds",
-  "description": "The most complete OSS DDS implementation for embedded systems.",
-  "git": "",
-  "target_link": ""
-}

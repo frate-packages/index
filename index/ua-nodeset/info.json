@@ -1,6 +1,0 @@
-{
-  "name": "ua-nodeset",
-  "description": "UANodeSets and other normative files which are released with a specification",
-  "git": "https://github.com/OPCFoundation/UA-Nodeset",
-  "target_link": ""
-}

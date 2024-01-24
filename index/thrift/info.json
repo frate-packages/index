@@ -1,6 +1,0 @@
-{
-  "name": "thrift",
-  "description": "Thrift is an associated code generation mechanism for RPC",
-  "git": "https://github.com/apache/thrift",
-  "target_link": ""
-}

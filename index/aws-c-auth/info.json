@@ -1,6 +1,0 @@
-{
-  "name": "aws-c-auth",
-  "description": "C99 library implementation of AWS client-side authentication: standard credentials providers and signing.",
-  "git": "https://github.com/awslabs/aws-c-auth",
-  "target_link": ""
-}

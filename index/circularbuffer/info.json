@@ -1,6 +1,0 @@
-{
-  "name": "circularbuffer",
-  "description": "Arduino circular buffer library",
-  "git": "https://github.com/rlogiacco/CircularBuffer",
-  "target_link": ""
-}

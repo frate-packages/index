@@ -1,6 +1,0 @@
-{
-  "name": "mpg123",
-  "description": "Fast console MPEG Audio Player and decoder library",
-  "git": "",
-  "target_link": ""
-}

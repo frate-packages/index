@@ -1,6 +1,0 @@
-{
-  "name": "canvas_ity",
-  "description": "A tiny, single-header \u0026lt;canvas\u0026gt;-like 2D rasterizer for C++",
-  "git": "https://github.com/a-e-k/canvas_ity",
-  "target_link": ""
-}

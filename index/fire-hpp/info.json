@@ -1,6 +1,0 @@
-{
-  "name": "fire-hpp",
-  "description": "Fire for C++: Create fully functional CLIs using function signatures",
-  "git": "https://github.com/kongaskristjan/fire-hpp",
-  "target_link": ""
-}

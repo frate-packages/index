@@ -1,6 +1,0 @@
-{
-  "name": "hdrhistogram-c",
-  "description": "'C' port of High Dynamic Range (HDR) Histogram",
-  "git": "https://github.com/HdrHistogram/HdrHistogram_c",
-  "target_link": ""
-}

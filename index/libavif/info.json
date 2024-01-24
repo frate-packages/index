@@ -1,6 +1,0 @@
-{
-  "name": "libavif",
-  "description": "Library for encoding and decoding .avif files",
-  "git": "https://github.com/AOMediaCodec/libavif",
-  "target_link": ""
-}

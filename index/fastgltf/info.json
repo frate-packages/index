@@ -1,6 +1,0 @@
-{
-  "name": "fastgltf",
-  "description": "A blazing fast C++17 glTF 2.0 library powered by SIMD.",
-  "git": "https://github.com/spnda/fastgltf",
-  "target_link": ""
-}

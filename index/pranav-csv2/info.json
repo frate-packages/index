@@ -1,6 +1,0 @@
-{
-  "name": "pranav-csv2",
-  "description": "Various header libraries mostly future std lib, replacements for(e.g. visit), or some misc",
-  "git": "https://github.com/p-ranav/csv2",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "effolkronium-random",
-  "description": "Random for modern C++ with convenient API.",
-  "git": "https://github.com/effolkronium/random",
-  "target_link": ""
-}

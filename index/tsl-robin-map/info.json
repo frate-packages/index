@@ -1,6 +1,0 @@
-{
-  "name": "tsl-robin-map",
-  "description": "C++ implementation of a fast hash map and hash set using robin hood hashing.",
-  "git": "https://github.com/Tessil/robin-map",
-  "target_link": ""
-}

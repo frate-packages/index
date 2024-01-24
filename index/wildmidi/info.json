@@ -1,6 +1,0 @@
-{
-  "name": "wildmidi",
-  "description": "WildMIDI is a simple software midi player which has a core softsynth library that can be used in other applications.",
-  "git": "",
-  "target_link": ""
-}

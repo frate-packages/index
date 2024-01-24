@@ -1,6 +1,0 @@
-{
-  "name": "zstd",
-  "description": "Zstandard - Fast real-time compression algorithm",
-  "git": "https://github.com/facebook/zstd",
-  "target_link": ""
-}

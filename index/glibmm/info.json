@@ -1,6 +1,0 @@
-{
-  "name": "glibmm",
-  "description": "glibmm is a C++ API for parts of glib that are useful for C++.",
-  "git": "",
-  "target_link": ""
-}

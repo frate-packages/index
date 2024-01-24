@@ -1,6 +1,0 @@
-{
-  "name": "vulkan-memory-allocator",
-  "description": "Easy to integrate Vulkan memory allocation library.",
-  "git": "https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
-  "target_link": ""
-}

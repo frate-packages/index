@@ -1,6 +1,0 @@
-{
-  "name": "influxdb-cpp",
-  "description": "C++ client for InfluxDB.",
-  "git": "https://github.com/orca-zhang/influxdb-cpp",
-  "target_link": ""
-}

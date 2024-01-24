@@ -1,6 +1,0 @@
-{
-  "name": "lunasvg",
-  "description": "lunasvg is a standalone SVG rendering library in C++.",
-  "git": "https://github.com/sammycage/lunasvg",
-  "target_link": ""
-}

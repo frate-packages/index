@@ -1,6 +1,0 @@
-{
-  "name": "fastpfor",
-  "description": "Fast integer compression",
-  "git": "https://github.com/lemire/FastPFor",
-  "target_link": ""
-}

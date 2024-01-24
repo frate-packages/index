@@ -1,6 +1,0 @@
-{
-  "name": "embree3",
-  "description": "Intel's collection of high-performance ray tracing kernels.",
-  "git": "",
-  "target_link": ""
-}

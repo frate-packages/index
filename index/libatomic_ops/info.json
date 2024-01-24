@@ -1,6 +1,0 @@
-{
-  "name": "libatomic_ops",
-  "description": "The atomic_ops project (Atomic memory update operations portable implementation)",
-  "git": "https://github.com/ivmai/libatomic_ops",
-  "target_link": ""
-}

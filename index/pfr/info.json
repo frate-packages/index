@@ -1,6 +1,0 @@
-{
-  "name": "pfr",
-  "description": "std::tuple like methods for user defined types without any macro or boilerplate code",
-  "git": "https://github.com/boostorg/pfr",
-  "target_link": ""
-}

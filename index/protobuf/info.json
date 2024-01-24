@@ -1,6 +1,0 @@
-{
-  "name": "protobuf",
-  "description": "Protocol Buffers - Google's data interchange format",
-  "git": "https://github.com/protocolbuffers/protobuf",
-  "target_link": ""
-}

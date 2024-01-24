@@ -1,6 +1,0 @@
-{
-  "name": "foxglove-schemas-protobuf",
-  "description": "Protobuf schemas for Foxglove",
-  "git": "https://github.com/foxglove/schemas",
-  "target_link": ""
-}

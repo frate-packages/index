@@ -1,6 +1,0 @@
-{
-  "name": "celero",
-  "description": "C++ Benchmarking Library",
-  "git": "https://github.com/DigitalInBlue/Celero",
-  "target_link": ""
-}

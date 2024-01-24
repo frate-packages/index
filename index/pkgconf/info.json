@@ -1,6 +1,0 @@
-{
-  "name": "pkgconf",
-  "description": "package compiler and linker metadata toolkit",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "log.c",
-  "description": "A simple logging library implemented in C99",
-  "git": "https://github.com/rxi/log.c",
-  "target_link": ""
-}

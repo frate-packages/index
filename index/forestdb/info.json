@@ -1,6 +1,0 @@
-{
-  "name": "forestdb",
-  "description": "ForestDB is a KeyValue store based on a Hierarchical B+-Tree.",
-  "git": "https://github.com/ForestDB-KVStore/forestdb",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "pybind11_json",
-  "description": "An nlohmann_json to pybind11 bridge",
-  "git": "https://github.com/pybind/pybind11_json",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "tsl-hat-trie",
-  "description": "C++ implementation of a fast and memory efficient HAT-trie.",
-  "git": "https://github.com/Tessil/hat-trie",
-  "target_link": ""
-}

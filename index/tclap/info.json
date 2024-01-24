@@ -1,6 +1,0 @@
-{
-  "name": "tclap",
-  "description": "Templatized Command Line Argument Parser",
-  "git": "",
-  "target_link": ""
-}

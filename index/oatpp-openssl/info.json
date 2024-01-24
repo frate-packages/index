@@ -1,6 +1,0 @@
-{
-  "name": "oatpp-openssl",
-  "description": "Oat++ OpenSSL library",
-  "git": "https://github.com/oatpp/oatpp-openssl",
-  "target_link": ""
-}

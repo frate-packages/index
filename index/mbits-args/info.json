@@ -1,6 +1,0 @@
-{
-  "name": "mbits-args",
-  "description": "Small open-source library for program argument parser, inspired by Python's `argparse`, depending only on the standard library, with C++17 as minimum requirement.",
-  "git": "https://github.com/mbits-libs/args",
-  "target_link": ""
-}

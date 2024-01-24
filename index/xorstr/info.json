@@ -1,6 +1,0 @@
-{
-  "name": "xorstr",
-  "description": "A heavily vectorized c++17 compile time string encryption.",
-  "git": "https://github.com/JustasMasiulis/xorstr",
-  "target_link": ""
-}

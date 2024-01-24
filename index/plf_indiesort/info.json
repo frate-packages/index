@@ -1,6 +1,0 @@
-{
-  "name": "plf_indiesort",
-  "description": "A sort wrapper enabling both use of random-access sorting on non-random access containers, and increased performance for the sorting of large types.",
-  "git": "",
-  "target_link": ""
-}

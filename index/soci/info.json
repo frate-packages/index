@@ -1,6 +1,0 @@
-{
-  "name": "soci",
-  "description": "The C++ Database Access Library ",
-  "git": "https://github.com/SOCI/soci",
-  "target_link": ""
-}

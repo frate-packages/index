@@ -1,6 +1,0 @@
-{
-  "name": "tgc",
-  "description": "A Tiny Garbage Collector for C.",
-  "git": "https://github.com/orangeduck/tgc",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "pixman",
-  "description": "Pixman is a low-level software library for pixel manipulation",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "embag",
-  "description": "Schema and dependency free ROS bag reader",
-  "git": "https://github.com/embarktrucks/embag",
-  "target_link": ""
-}

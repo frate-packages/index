@@ -1,6 +1,0 @@
-{
-  "name": "sole",
-  "description": "Sole is a lightweight C++11 library to generate universally unique identificators (UUID), both v1 and v4.",
-  "git": "https://github.com/r-lyeh-archived/sole",
-  "target_link": ""
-}

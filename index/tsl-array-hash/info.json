@@ -1,6 +1,0 @@
-{
-  "name": "tsl-array-hash",
-  "description": "C++ implementation of a fast and memory efficient hash map and hash set specialized for strings.",
-  "git": "https://github.com/Tessil/array-hash",
-  "target_link": ""
-}

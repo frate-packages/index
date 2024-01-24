@@ -1,6 +1,0 @@
-{
-  "name": "enet",
-  "description": "ENet reliable UDP networking library",
-  "git": "https://github.com/lsalzman/enet",
-  "target_link": ""
-}

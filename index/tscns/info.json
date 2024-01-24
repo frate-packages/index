@@ -1,6 +1,0 @@
-{
-  "name": "tscns",
-  "description": "A low overhead nanosecond clock based on x86 TSC",
-  "git": "https://github.com/MengRao/tscns/",
-  "target_link": ""
-}

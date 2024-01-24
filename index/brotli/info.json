@@ -1,6 +1,0 @@
-{
-  "name": "brotli",
-  "description": "Brotli compression format",
-  "git": "https://github.com/google/brotli",
-  "target_link": ""
-}

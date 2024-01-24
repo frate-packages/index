@@ -1,6 +1,0 @@
-{
-  "name": "coost",
-  "description": "A tiny boost library in C++11.",
-  "git": "https://github.com/idealvin/coost",
-  "target_link": ""
-}

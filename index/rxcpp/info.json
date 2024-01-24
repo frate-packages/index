@@ -1,6 +1,0 @@
-{
-  "name": "rxcpp",
-  "description": "C++11 library for composing operations on streams of asynchronous events.",
-  "git": "https://github.com/ReactiveX/RxCpp",
-  "target_link": ""
-}

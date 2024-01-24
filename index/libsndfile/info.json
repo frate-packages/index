@@ -1,6 +1,0 @@
-{
-  "name": "libsndfile",
-  "description": "Libsndfile is a library of C routines for reading and writing files containing sampled audio data.",
-  "git": "",
-  "target_link": ""
-}

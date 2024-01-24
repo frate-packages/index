@@ -1,6 +1,0 @@
-{
-  "name": "qhull",
-  "description": "Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "serdepp",
-  "description": "c++ serialize and deserialize adaptor library like rust serde.rs",
-  "git": "https://github.com/injae/serdepp",
-  "target_link": ""
-}

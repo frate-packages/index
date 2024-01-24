@@ -1,6 +1,0 @@
-{
-  "name": "sdbus-cpp",
-  "description": "High-level C++ D-Bus library for Linux designed to provide easy-to-use yet powerful API in modern C++",
-  "git": "https://github.com/Kistler-Group/sdbus-cpp",
-  "target_link": ""
-}

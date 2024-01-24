@@ -1,6 +1,0 @@
-{
-  "name": "jpeg-compressor",
-  "description": "C++ JPEG compression/fuzzed low-RAM JPEG decompression codec with Public Domain or Apache 2.0 license",
-  "git": "https://github.com/richgel999/jpeg-compressor",
-  "target_link": ""
-}

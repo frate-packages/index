@@ -1,6 +1,0 @@
-{
-  "name": "dbcppp",
-  "description": ".dbc library for C/C++",
-  "git": "https://github.com/xR3b0rn/dbcppp",
-  "target_link": ""
-}

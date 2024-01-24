@@ -1,6 +1,0 @@
-{
-  "name": "quirc",
-  "description": "QR decoder library",
-  "git": "https://github.com/dlbeer/quirc",
-  "target_link": ""
-}

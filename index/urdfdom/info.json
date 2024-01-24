@@ -1,6 +1,0 @@
-{
-  "name": "urdfdom",
-  "description": "Data structures and parsers to access URDF files using the DOM model",
-  "git": "https://github.com/ros/urdfdom",
-  "target_link": ""
-}

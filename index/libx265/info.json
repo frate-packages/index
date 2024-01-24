@@ -1,6 +1,0 @@
-{
-  "name": "libx265",
-  "description": "x265 is the leading H.265 / HEVC encoder software library",
-  "git": "",
-  "target_link": ""
-}

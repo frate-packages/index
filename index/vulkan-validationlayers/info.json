@@ -1,6 +1,0 @@
-{
-  "name": "vulkan-validationlayers",
-  "description": "Khronos official Vulkan validation layers for Windows, Linux, Android, and MacOS.",
-  "git": "https://github.com/KhronosGroup/Vulkan-ValidationLayers",
-  "target_link": ""
-}

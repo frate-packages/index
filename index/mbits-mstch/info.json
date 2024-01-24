@@ -1,6 +1,0 @@
-{
-  "name": "mbits-mstch",
-  "description": "libmstch implemented in terms of C++17 variant.",
-  "git": "https://github.com/mbits-libs/libmstch",
-  "target_link": ""
-}

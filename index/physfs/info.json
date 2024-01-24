@@ -1,6 +1,0 @@
-{
-  "name": "physfs",
-  "description": "PhysicsFS is a library to provide abstract access to various archives. It is intended for use in video games.",
-  "git": "",
-  "target_link": ""
-}

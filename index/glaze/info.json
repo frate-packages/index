@@ -1,6 +1,0 @@
-{
-  "name": "glaze",
-  "description": "Extremely fast, in memory, JSON and interface library for modern C++",
-  "git": "https://github.com/stephenberry/glaze",
-  "target_link": ""
-}

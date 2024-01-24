@@ -1,6 +1,0 @@
-{
-  "name": "json-schema-validator",
-  "description": "JSON schema validator for JSON for Modern C++ ",
-  "git": "https://github.com/pboettch/json-schema-validator",
-  "target_link": ""
-}

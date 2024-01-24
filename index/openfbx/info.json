@@ -1,6 +1,0 @@
-{
-  "name": "openfbx",
-  "description": "Lightweight open source FBX importer.",
-  "git": "https://github.com/nem0/OpenFBX",
-  "target_link": ""
-}

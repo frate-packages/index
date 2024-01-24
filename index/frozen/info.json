@@ -1,6 +1,0 @@
-{
-  "name": "frozen",
-  "description": "A header-only, constexpr alternative to gperf for C++14 users.",
-  "git": "https://github.com/serge-sans-paille/frozen",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "drwav",
-  "description": "WAV audio loader and writer.",
-  "git": "",
-  "target_link": ""
-}

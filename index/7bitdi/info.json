@@ -1,6 +1,0 @@
-{
-  "name": "7bitdi",
-  "description": "7bitDI is a simple C++ dependency injection library.",
-  "git": "https://github.com/7bitcoder/7bitDI",
-  "target_link": ""
-}

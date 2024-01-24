@@ -1,6 +1,0 @@
-{
-  "name": "scope-lite",
-  "description": "scope lite - A migration path to C++ library extensions scope_exit, scope_fail,                     scope_success, unique_resource in a single-file header-only library",
-  "git": "https://github.com/martinmoene/scope-lite",
-  "target_link": ""
-}

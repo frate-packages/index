@@ -1,6 +1,0 @@
-{
-  "name": "docopt.cpp",
-  "description": "C++11 port of docopt",
-  "git": "https://github.com/docopt/docopt.cpp",
-  "target_link": ""
-}

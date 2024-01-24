@@ -1,6 +1,0 @@
-{
-  "name": "re2",
-  "description": "Fast, safe, thread-friendly regular expression library",
-  "git": "https://github.com/google/re2",
-  "target_link": ""
-}

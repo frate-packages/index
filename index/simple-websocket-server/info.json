@@ -1,6 +1,0 @@
-{
-  "name": "simple-websocket-server",
-  "description": "A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library.",
-  "git": "https://gitlab.com/eidheim/Simple-WebSocket-Server",
-  "target_link": ""
-}

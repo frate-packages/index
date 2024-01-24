@@ -1,6 +1,0 @@
-{
-  "name": "xsd",
-  "description": "XSD is a W3C XML Schema to C++ translator. It generates vocabulary-specific, statically-typed C++ mappings (also called bindings) from XML Schema definitions. XSD supports two C++ mappings: in-memory C++/Tree and event-driven C++/Parser.",
-  "git": "",
-  "target_link": ""
-}

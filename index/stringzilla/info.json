@@ -1,6 +1,0 @@
-{
-  "name": "stringzilla",
-  "description": "Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with Arm Neon and x86 AVX2 \u0026amp; AVX-512 intrinsics.",
-  "git": "https://github.com/ashvardanian/StringZilla/",
-  "target_link": ""
-}

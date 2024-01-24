@@ -1,6 +1,0 @@
-{
-  "name": "fontconfig",
-  "description": "Fontconfig is a library for configuring and customizing font access",
-  "git": "",
-  "target_link": ""
-}

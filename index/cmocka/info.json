@@ -1,6 +1,0 @@
-{
-  "name": "cmocka",
-  "description": "A unit testing framework for C",
-  "git": "",
-  "target_link": ""
-}

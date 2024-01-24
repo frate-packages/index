@@ -1,6 +1,0 @@
-{
-  "name": "orcania",
-  "description": "Potluck with different functions for different purposes that can be shared among C programs",
-  "git": "https://github.com/babelouest/orcania",
-  "target_link": ""
-}

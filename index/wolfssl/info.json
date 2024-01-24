@@ -1,6 +1,0 @@
-{
-  "name": "wolfssl",
-  "description": "wolfSSL (formerly CyaSSL) is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.",
-  "git": "",
-  "target_link": ""
-}

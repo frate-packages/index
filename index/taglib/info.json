@@ -1,6 +1,0 @@
-{
-  "name": "taglib",
-  "description": "TagLib is a library for reading and editing the metadata of several popular audio formats.",
-  "git": "",
-  "target_link": ""
-}

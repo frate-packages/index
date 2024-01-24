@@ -1,6 +1,0 @@
-{
-  "name": "args-parser",
-  "description": "Small C++ header-only library for parsing command line arguments.",
-  "git": "https://github.com/igormironchik/args-parser",
-  "target_link": ""
-}

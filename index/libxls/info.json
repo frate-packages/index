@@ -1,6 +1,0 @@
-{
-  "name": "libxls",
-  "description": "a C library which can read Excel (xls) files.",
-  "git": "https://github.com/libxls/libxls/",
-  "target_link": ""
-}

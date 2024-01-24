@@ -1,6 +1,0 @@
-{
-  "name": "embedded_ringbuf_cpp",
-  "description": "A simple C++ Ring (Circular) Buffer Queuing Library for Programming with Arduino's and other Embedded platforms",
-  "git": "https://github.com/wizard97/Embedded_RingBuf_CPP/",
-  "target_link": ""
-}

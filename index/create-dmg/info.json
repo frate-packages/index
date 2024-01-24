@@ -1,6 +1,0 @@
-{
-  "name": "create-dmg",
-  "description": "A shell script to build fancy DMGs",
-  "git": "https://github.com/create-dmg/create-dmg",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "picojson",
-  "description": "A C++ JSON parser/serializer",
-  "git": "https://github.com/kazuho/picojson",
-  "target_link": ""
-}

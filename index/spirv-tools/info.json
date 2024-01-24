@@ -1,6 +1,0 @@
-{
-  "name": "spirv-tools",
-  "description": "Create and optimize SPIRV shaders",
-  "git": "https://github.com/KhronosGroup/SPIRV-Tools/",
-  "target_link": ""
-}

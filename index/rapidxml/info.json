@@ -1,6 +1,0 @@
-{
-  "name": "rapidxml",
-  "description": "RapidXml is an attempt to create the fastest XML parser possible.",
-  "git": "",
-  "target_link": ""
-}

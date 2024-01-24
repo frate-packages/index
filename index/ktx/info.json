@@ -1,6 +1,0 @@
-{
-  "name": "ktx",
-  "description": "Khronos Texture library and tool.",
-  "git": "https://github.com/KhronosGroup/KTX-Software",
-  "target_link": ""
-}

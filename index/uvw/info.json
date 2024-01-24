@@ -1,6 +1,0 @@
-{
-  "name": "uvw",
-  "description": "Header-only, event based, tiny and easy to use libuv wrapper in modern C++.",
-  "git": "https://github.com/skypjack/uvw",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "xorg-gccmakedep",
-  "description": "script to create dependencies in makefiles using 'gcc -M'",
-  "git": "",
-  "target_link": ""
-}

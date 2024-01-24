@@ -1,6 +1,0 @@
-{
-  "name": "tmx",
-  "description": "A portable C library to load tiled maps in your games.",
-  "git": "https://github.com/baylej/tmx",
-  "target_link": ""
-}

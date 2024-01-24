@@ -1,6 +1,0 @@
-{
-  "name": "astc-codec",
-  "description": "A software ASTC decoder implementation which supports the ASTC LDR profile",
-  "git": "https://github.com/google/astc-codec",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "bison",
-  "description": "Bison is a general-purpose parser generator",
-  "git": "",
-  "target_link": ""
-}

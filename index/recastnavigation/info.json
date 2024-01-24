@@ -1,6 +1,0 @@
-{
-  "name": "recastnavigation",
-  "description": " Navigation-mesh Toolset for Games",
-  "git": "https://github.com/recastnavigation/recastnavigation",
-  "target_link": ""
-}

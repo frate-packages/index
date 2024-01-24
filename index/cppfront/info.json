@@ -1,6 +1,0 @@
-{
-  "name": "cppfront",
-  "description": "Cppfront is a experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1)",
-  "git": "https://github.com/hsutter/cppfront",
-  "target_link": ""
-}

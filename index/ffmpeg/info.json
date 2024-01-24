@@ -1,6 +1,0 @@
-{
-  "name": "ffmpeg",
-  "description": "A complete, cross-platform solution to record, convert and stream audio and video",
-  "git": "",
-  "target_link": ""
-}

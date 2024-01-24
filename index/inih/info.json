@@ -1,6 +1,0 @@
-{
-  "name": "inih",
-  "description": "Simple .INI file parser in C, good for embedded systems ",
-  "git": "https://github.com/benhoyt/inih",
-  "target_link": ""
-}

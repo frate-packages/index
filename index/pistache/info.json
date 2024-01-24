@@ -1,6 +1,0 @@
-{
-  "name": "pistache",
-  "description": "Pistache is a modern and elegant HTTP and REST framework for C++",
-  "git": "https://github.com/pistacheio/pistache",
-  "target_link": ""
-}

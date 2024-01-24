@@ -1,6 +1,0 @@
-{
-  "name": "zlib-ng",
-  "description": "zlib data compression library for the next generation systems",
-  "git": "https://github.com/zlib-ng/zlib-ng/",
-  "target_link": ""
-}

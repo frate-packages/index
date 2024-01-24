@@ -1,6 +1,0 @@
-{
-  "name": "quickjs",
-  "description": "QuickJS is a small and embeddable Javascript engine.",
-  "git": "",
-  "target_link": ""
-}

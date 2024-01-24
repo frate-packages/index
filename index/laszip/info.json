@@ -1,6 +1,0 @@
-{
-  "name": "laszip",
-  "description": "C++ library for lossless LiDAR compression.",
-  "git": "https://github.com/LASzip/LASzip",
-  "target_link": ""
-}

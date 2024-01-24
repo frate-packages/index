@@ -1,6 +1,0 @@
-{
-  "name": "libheif",
-  "description": "libheif is an HEIF and AVIF file format decoder and encoder.",
-  "git": "https://github.com/strukturag/libheif",
-  "target_link": ""
-}

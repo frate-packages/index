@@ -1,6 +1,0 @@
-{
-  "name": "veque",
-  "description": "Fast C++ container combining the best features of std::vector and std::deque",
-  "git": "https://github.com/Shmoopty/veque",
-  "target_link": ""
-}

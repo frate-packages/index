@@ -1,6 +1,0 @@
-{
-  "name": "directx-headers",
-  "description": "Headers for using D3D12",
-  "git": "https://github.com/microsoft/DirectX-Headers",
-  "target_link": ""
-}

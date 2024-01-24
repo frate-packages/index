@@ -1,6 +1,0 @@
-{
-  "name": "imgui",
-  "description": "Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
-  "git": "https://github.com/ocornut/imgui",
-  "target_link": ""
-}

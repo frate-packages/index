@@ -1,6 +1,0 @@
-{
-  "name": "z3",
-  "description": "The Z3 Theorem Prover",
-  "git": "https://github.com/Z3Prover/z3",
-  "target_link": ""
-}

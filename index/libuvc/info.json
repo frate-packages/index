@@ -1,6 +1,0 @@
-{
-  "name": "libuvc",
-  "description": "A cross-platform library for USB video devices",
-  "git": "https://github.com/libuvc/libuvc",
-  "target_link": ""
-}

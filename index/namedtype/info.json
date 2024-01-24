@@ -1,6 +1,0 @@
-{
-  "name": "namedtype",
-  "description": "Implementation of strong types in C++",
-  "git": "https://github.com/joboccara/NamedType",
-  "target_link": ""
-}

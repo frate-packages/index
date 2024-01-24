@@ -1,6 +1,0 @@
-{
-  "name": "opengl",
-  "description": "cross-platform virtual conan package for the OpenGL support",
-  "git": "",
-  "target_link": ""
-}

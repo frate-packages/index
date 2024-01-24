@@ -1,6 +1,0 @@
-{
-  "name": "entt",
-  "description": "Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more",
-  "git": "https://github.com/skypjack/entt",
-  "target_link": ""
-}

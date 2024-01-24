@@ -1,6 +1,0 @@
-{
-  "name": "erkir",
-  "description": "a C++ library for geodetic and trigonometric calculations",
-  "git": "https://github.com/vahancho/erkir",
-  "target_link": ""
-}

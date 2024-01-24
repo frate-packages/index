@@ -1,6 +1,0 @@
-{
-  "name": "szip",
-  "description": "C Implementation of the extended-Rice lossless compression algorithm, suitable for use with scientific data.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "highway",
-  "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
-  "git": "https://github.com/google/highway",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "inversify-cpp",
-  "description": "C++17 inversion of control and dependency injection container library",
-  "git": "https://github.com/mosure/inversify-cpp",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "cuda-samples",
-  "description": "Common headers from NVIDIA CUDA Samples - samples for CUDA developers which demonstrate features in CUDA Toolkit",
-  "git": "https://github.com/NVIDIA/cuda-samples",
-  "target_link": ""
-}

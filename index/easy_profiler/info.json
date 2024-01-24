@@ -1,6 +1,0 @@
-{
-  "name": "easy_profiler",
-  "description": "Lightweight profiler library for c++",
-  "git": "https://github.com/yse/easy_profiler/",
-  "target_link": ""
-}

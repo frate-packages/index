@@ -1,6 +1,0 @@
-{
-  "name": "glext",
-  "description": "OpenGL 1.2 and above compatibility profile and extension interfaces",
-  "git": "",
-  "target_link": ""
-}

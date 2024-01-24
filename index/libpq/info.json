@@ -1,6 +1,0 @@
-{
-  "name": "libpq",
-  "description": "The library used by all the standard PostgreSQL tools.",
-  "git": "",
-  "target_link": ""
-}

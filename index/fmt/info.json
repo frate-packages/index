@@ -1,6 +1,0 @@
-{
-  "name": "fmt",
-  "description": "A safe and fast alternative to printf and IOStreams.",
-  "git": "https://github.com/fmtlib/fmt",
-  "target_link": ""
-}

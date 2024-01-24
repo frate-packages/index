@@ -1,6 +1,0 @@
-{
-  "name": "llhttp",
-  "description": "http request/response parser for c",
-  "git": "https://github.com/nodejs/llhttp",
-  "target_link": ""
-}

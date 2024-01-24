@@ -1,6 +1,0 @@
-{
-  "name": "ghc-filesystem",
-  "description": "A header-only single-file std::filesystem compatible helper library",
-  "git": "https://github.com/gulrak/filesystem",
-  "target_link": ""
-}

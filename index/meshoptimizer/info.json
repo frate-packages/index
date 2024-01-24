@@ -1,6 +1,0 @@
-{
-  "name": "meshoptimizer",
-  "description": "Mesh optimization library that makes meshes smaller and faster to render",
-  "git": "https://github.com/zeux/meshoptimizer",
-  "target_link": ""
-}

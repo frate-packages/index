@@ -1,6 +1,0 @@
-{
-  "name": "bx",
-  "description": "Base library providing utility functions and macros.",
-  "git": "https://github.com/bkaradzic/bx",
-  "target_link": ""
-}

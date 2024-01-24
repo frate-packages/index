@@ -1,6 +1,0 @@
-{
-  "name": "ade",
-  "description": "Graph construction, manipulation, and processing framework",
-  "git": "https://github.com/opencv/ade",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "edyn",
-  "description": "Edyn is a real-time physics engine organized as an ECS",
-  "git": "https://github.com/xissburg/edyn",
-  "target_link": ""
-}

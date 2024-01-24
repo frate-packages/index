@@ -1,6 +1,0 @@
-{
-  "name": "miniaudio",
-  "description": "A single file audio playback and capture library.",
-  "git": "https://github.com/mackron/miniaudio",
-  "target_link": ""
-}

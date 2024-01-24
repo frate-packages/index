@@ -1,6 +1,0 @@
-{
-  "name": "libconfig",
-  "description": "C/C++ library for processing configuration files",
-  "git": "",
-  "target_link": ""
-}

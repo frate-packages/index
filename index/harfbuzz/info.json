@@ -1,6 +1,0 @@
-{
-  "name": "harfbuzz",
-  "description": "HarfBuzz is an OpenType text shaping engine.",
-  "git": "",
-  "target_link": ""
-}

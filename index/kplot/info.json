@@ -1,6 +1,0 @@
-{
-  "name": "kplot",
-  "description": "open source Cairo plotting library",
-  "git": "https://github.com/kristapsdz/kplot/",
-  "target_link": ""
-}

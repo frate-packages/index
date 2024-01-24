@@ -1,6 +1,0 @@
-{
-  "name": "evmc",
-  "description": "EVMC – Ethereum Client-VM Connector API",
-  "git": "https://github.com/ethereum/evmc",
-  "target_link": ""
-}

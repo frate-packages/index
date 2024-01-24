@@ -1,6 +1,0 @@
-{
-  "name": "egl",
-  "description": "cross-platform virtual conan package for the EGL support",
-  "git": "",
-  "target_link": ""
-}

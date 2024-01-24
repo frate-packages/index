@@ -1,6 +1,0 @@
-{
-  "name": "wslay",
-  "description": "The WebSocket library in C",
-  "git": "",
-  "target_link": ""
-}

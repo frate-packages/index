@@ -1,6 +1,0 @@
-{
-  "name": "doxygen",
-  "description": "A documentation system for C++, C, Java, IDL and PHP --- Note: Dot is disabled in this package",
-  "git": "https://github.com/doxygen/doxygen",
-  "target_link": ""
-}

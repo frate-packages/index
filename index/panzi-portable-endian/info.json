@@ -1,6 +1,0 @@
-{
-  "name": "panzi-portable-endian",
-  "description": "This provides the endian conversion functions from endian.h on Windows, Linux, *BSD, and Mac OS X",
-  "git": "",
-  "target_link": ""
-}

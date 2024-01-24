@@ -1,6 +1,0 @@
-{
-  "name": "m4",
-  "description": "GNU M4 is an implementation of the traditional Unix macro processor",
-  "git": "",
-  "target_link": ""
-}

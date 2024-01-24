@@ -1,6 +1,0 @@
-{
-  "name": "gzip-hpp",
-  "description": "Gzip header-only C++ library ",
-  "git": "https://github.com/mapbox/gzip-hpp",
-  "target_link": ""
-}

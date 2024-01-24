@@ -1,6 +1,0 @@
-{
-  "name": "hedley",
-  "description": "A C/C++ header to help move #ifdefs out of your code",
-  "git": "",
-  "target_link": ""
-}

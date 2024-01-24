@@ -1,6 +1,0 @@
-{
-  "name": "libpfm4",
-  "description": "A helper library to program the performance monitoring events",
-  "git": "",
-  "target_link": ""
-}

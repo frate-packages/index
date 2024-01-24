@@ -1,6 +1,0 @@
-{
-  "name": "dbus",
-  "description": "D-Bus is a simple system for interprocess communication and coordination.",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "restbed",
-  "description": "Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications.",
-  "git": "https://github.com/Corvusoft/restbed",
-  "target_link": ""
-}

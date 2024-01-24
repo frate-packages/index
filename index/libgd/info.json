@@ -1,6 +1,0 @@
-{
-  "name": "libgd",
-  "description": "GD is an open source code library for the dynamiccreation of images by programmers.",
-  "git": "",
-  "target_link": ""
-}

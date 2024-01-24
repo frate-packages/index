@@ -1,6 +1,0 @@
-{
-  "name": "libnfs",
-  "description": "LIBNFS is a client library for accessing NFS shares over a network.",
-  "git": "https://github.com/sahlberg/libnfs",
-  "target_link": ""
-}

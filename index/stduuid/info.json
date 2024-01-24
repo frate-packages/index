@@ -1,6 +1,0 @@
-{
-  "name": "stduuid",
-  "description": "A C++17 cross-platform implementation for UUIDs",
-  "git": "https://github.com/mariusbancila/stduuid",
-  "target_link": ""
-}

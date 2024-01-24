@@ -1,6 +1,0 @@
-{
-  "name": "openmesh",
-  "description": "OpenMesh is a generic and efficient data structure for representing and manipulating polygonal meshes.",
-  "git": "",
-  "target_link": ""
-}

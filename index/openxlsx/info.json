@@ -1,6 +1,0 @@
-{
-  "name": "openxlsx",
-  "description": "reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.",
-  "git": "https://github.com/troldal/OpenXLSX",
-  "target_link": ""
-}

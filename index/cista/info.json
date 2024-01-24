@@ -1,6 +1,0 @@
-{
-  "name": "cista",
-  "description": "Cista++ is a simple, open source (MIT license) C++17 compatible way of (de-)serializing C++ data structures.",
-  "git": "https://github.com/felixguendling/cista",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "expat",
-  "description": "Fast streaming XML parser written in C.",
-  "git": "https://github.com/libexpat/libexpat",
-  "target_link": ""
-}

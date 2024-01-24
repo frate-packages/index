@@ -1,6 +1,0 @@
-{
-  "name": "kuba-zip",
-  "description": "A portable, simple zip library written in C",
-  "git": "https://github.com/kuba--/zip",
-  "target_link": ""
-}

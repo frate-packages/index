@@ -1,6 +1,0 @@
-{
-  "name": "turtle",
-  "description": "Turtle is a C++ mock object library based on Boost with a focus on usability, simplicity and flexibility.",
-  "git": "https://github.com/mat007/turtle",
-  "target_link": ""
-}

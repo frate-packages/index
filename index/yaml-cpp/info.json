@@ -1,6 +1,0 @@
-{
-  "name": "yaml-cpp",
-  "description": "A YAML parser and emitter in C++",
-  "git": "https://github.com/jbeder/yaml-cpp",
-  "target_link": ""
-}

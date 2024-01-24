@@ -1,6 +1,0 @@
-{
-  "name": "jansson",
-  "description": "C library for encoding, decoding and manipulating JSON data",
-  "git": "",
-  "target_link": ""
-}

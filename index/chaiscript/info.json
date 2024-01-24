@@ -1,6 +1,0 @@
-{
-  "name": "chaiscript",
-  "description": "Embedded Scripting Language Designed for C++.",
-  "git": "https://github.com/ChaiScript/ChaiScript",
-  "target_link": ""
-}

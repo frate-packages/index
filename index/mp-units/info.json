@@ -1,6 +1,0 @@
-{
-  "name": "mp-units",
-  "description": "A Physical Quantities and Units library for C++",
-  "git": "https://github.com/mpusz/mp-units",
-  "target_link": ""
-}

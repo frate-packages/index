@@ -1,6 +1,0 @@
-{
-  "name": "statslib",
-  "description": "A C++ header-only library of statistical distribution functions.",
-  "git": "",
-  "target_link": ""
-}

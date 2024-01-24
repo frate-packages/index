@@ -1,6 +1,0 @@
-{
-  "name": "freexl",
-  "description": "FreeXL is an open source library to extract valid data from within an Excel (.xls) spreadsheet.",
-  "git": "",
-  "target_link": ""
-}

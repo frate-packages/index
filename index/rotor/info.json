@@ -1,6 +1,0 @@
-{
-  "name": "rotor",
-  "description": "Event loop friendly C++ actor micro-framework, supervisable",
-  "git": "https://github.com/basiliscos/cpp-rotor",
-  "target_link": ""
-}

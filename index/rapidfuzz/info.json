@@ -1,6 +1,0 @@
-{
-  "name": "rapidfuzz",
-  "description": "Rapid fuzzy string matching in C++ using the Levenshtein Distance",
-  "git": "https://github.com/maxbachmann/rapidfuzz-cpp",
-  "target_link": ""
-}

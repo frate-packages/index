@@ -1,6 +1,0 @@
-{
-  "name": "libsodium",
-  "description": "A modern and easy-to-use crypto library.",
-  "git": "",
-  "target_link": ""
-}

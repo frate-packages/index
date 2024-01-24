@@ -1,6 +1,0 @@
-{
-  "name": "libe57format",
-  "description": "Library for reading \u0026amp; writing the E57 file format",
-  "git": "https://github.com/asmaloney/libE57Format",
-  "target_link": ""
-}

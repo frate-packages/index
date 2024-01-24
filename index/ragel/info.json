@@ -1,6 +1,0 @@
-{
-  "name": "ragel",
-  "description": "Ragel compiles executable finite state machines from regular languages",
-  "git": "",
-  "target_link": ""
-}

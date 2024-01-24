@@ -1,6 +1,0 @@
-{
-  "name": "id3v2lib",
-  "description": "id3v2lib is a library written in C to read and edit id3 tags from mp3 files.",
-  "git": "https://github.com/larsbs/id3v2lib",
-  "target_link": ""
-}

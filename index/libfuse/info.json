@@ -1,6 +1,0 @@
-{
-  "name": "libfuse",
-  "description": "The reference implementation of the Linux FUSE interface",
-  "git": "https://github.com/libfuse/libfuse",
-  "target_link": ""
-}

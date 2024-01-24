@@ -1,6 +1,0 @@
-{
-  "name": "pthreads4w",
-  "description": "POSIX Threads for Windows",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "reckless",
-  "description": "Reckless is an extremely low-latency, high-throughput logging library.",
-  "git": "https://github.com/mattiasflodin/reckless",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "termcap",
-  "description": "Enables programs to use display terminals in a terminal-independent manner",
-  "git": "",
-  "target_link": ""
-}

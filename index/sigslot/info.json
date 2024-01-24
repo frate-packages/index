@@ -1,6 +1,0 @@
-{
-  "name": "sigslot",
-  "description": "Sigslot is a header-only, thread safe implementation of signal-slots for C++.",
-  "git": "https://github.com/palacaze/sigslot",
-  "target_link": ""
-}

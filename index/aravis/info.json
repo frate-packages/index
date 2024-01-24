@@ -1,6 +1,0 @@
-{
-  "name": "aravis",
-  "description": "A vision library for genicam based cameras.",
-  "git": "https://github.com/AravisProject/aravis",
-  "target_link": ""
-}

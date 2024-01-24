@@ -1,6 +1,0 @@
-{
-  "name": "nettle",
-  "description": "The Nettle and Hogweed low-level cryptographic libraries",
-  "git": "",
-  "target_link": ""
-}

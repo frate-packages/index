@@ -1,6 +1,0 @@
-{
-  "name": "mm_file",
-  "description": "A self-contained, header-only, implementation of memory-mapped files in C++ for fast integration into larger projects.",
-  "git": "https://github.com/jermp/mm_file",
-  "target_link": ""
-}

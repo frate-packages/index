@@ -1,6 +1,0 @@
-{
-  "name": "editline",
-  "description": "Autotool- and libtoolized port of the NetBSD Editline library (libedit).",
-  "git": "",
-  "target_link": ""
-}

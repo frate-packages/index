@@ -1,6 +1,0 @@
-{
-  "name": "tinyobjloader",
-  "description": "Tiny but powerful single file wavefront obj loader",
-  "git": "https://github.com/syoyo/tinyobjloader",
-  "target_link": ""
-}

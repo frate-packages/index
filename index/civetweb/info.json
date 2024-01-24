@@ -1,6 +1,0 @@
-{
-  "name": "civetweb",
-  "description": "Embedded C/C++ web server",
-  "git": "https://github.com/civetweb/civetweb",
-  "target_link": ""
-}

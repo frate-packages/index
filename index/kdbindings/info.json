@@ -1,6 +1,0 @@
-{
-  "name": "kdbindings",
-  "description": "Reactive programming \u0026amp; data binding in C++",
-  "git": "https://github.com/KDAB/KDBindings",
-  "target_link": ""
-}

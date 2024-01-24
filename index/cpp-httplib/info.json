@@ -1,6 +1,0 @@
-{
-  "name": "cpp-httplib",
-  "description": "A C++11 single-file header-only cross platform HTTP/HTTPS library.",
-  "git": "https://github.com/yhirose/cpp-httplib",
-  "target_link": ""
-}

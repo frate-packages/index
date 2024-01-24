@@ -1,6 +1,0 @@
-{
-  "name": "msdfgen",
-  "description": "Multi-channel signed distance field generator",
-  "git": "https://github.com/Chlumsky/msdfgen",
-  "target_link": ""
-}

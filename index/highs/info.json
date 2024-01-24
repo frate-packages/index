@@ -1,6 +1,0 @@
-{
-  "name": "highs",
-  "description": "high performance serial and parallel solver for large scale sparse linear optimization problems",
-  "git": "",
-  "target_link": ""
-}

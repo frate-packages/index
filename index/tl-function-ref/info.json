@@ -1,6 +1,0 @@
-{
-  "name": "tl-function-ref",
-  "description": "A lightweight, non-owning reference to a callable.",
-  "git": "https://github.com/TartanLlama/function_ref",
-  "target_link": ""
-}

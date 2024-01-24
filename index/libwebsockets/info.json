@@ -1,6 +1,0 @@
-{
-  "name": "libwebsockets",
-  "description": "Canonical libwebsockets.org websocket library",
-  "git": "https://github.com/warmcat/libwebsockets",
-  "target_link": ""
-}

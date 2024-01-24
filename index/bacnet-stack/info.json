@@ -1,6 +1,0 @@
-{
-  "name": "bacnet-stack",
-  "description": "\n        BACnet Protocol Stack library provides a BACnet application layer,\n        network layer and media access (MAC) layer communications services.",
-  "git": "https://github.com/bacnet-stack/bacnet-stack/",
-  "target_link": ""
-}

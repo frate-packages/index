@@ -1,6 +1,0 @@
-{
-  "name": "rttr",
-  "description": "Run Time Type Reflection library",
-  "git": "https://github.com/rttrorg/rttr",
-  "target_link": ""
-}

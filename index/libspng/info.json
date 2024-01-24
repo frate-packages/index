@@ -1,6 +1,0 @@
-{
-  "name": "libspng",
-  "description": "Simple, modern libpng alternative ",
-  "git": "https://github.com/randy408/libspng/",
-  "target_link": ""
-}

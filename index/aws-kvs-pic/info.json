@@ -1,6 +1,0 @@
-{
-  "name": "aws-kvs-pic",
-  "description": "Platform Independent Code for Amazon Kinesis Video Streams",
-  "git": "https://github.com/awslabs/amazon-kinesis-video-streams-pic",
-  "target_link": ""
-}

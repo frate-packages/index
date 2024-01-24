@@ -1,6 +1,0 @@
-{
-  "name": "opengrm",
-  "description": "The OpenGrm Thrax tools compile grammars expressed as regular expressions and context-dependent rewrite rules into weighted finite-state transducers.",
-  "git": "",
-  "target_link": ""
-}

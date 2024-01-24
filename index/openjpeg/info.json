@@ -1,6 +1,0 @@
-{
-  "name": "openjpeg",
-  "description": "OpenJPEG is an open-source JPEG 2000 codec written in C language.",
-  "git": "https://github.com/uclouvain/openjpeg",
-  "target_link": ""
-}

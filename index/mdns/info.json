@@ -1,6 +1,0 @@
-{
-  "name": "mdns",
-  "description": "Public domain mDNS/DNS-SD library in C",
-  "git": "https://github.com/mjansson/mdns",
-  "target_link": ""
-}

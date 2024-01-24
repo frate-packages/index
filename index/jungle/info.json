@@ -1,6 +1,0 @@
-{
-  "name": "jungle",
-  "description": "Key-value storage library, based on a combined index of LSM-tree and copy-on-write B+tree",
-  "git": "https://github.com/eBay/Jungle",
-  "target_link": ""
-}

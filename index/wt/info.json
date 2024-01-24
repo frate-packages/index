@@ -1,6 +1,0 @@
-{
-  "name": "wt",
-  "description": "Wt is a C++ library for developing web applications",
-  "git": "https://github.com/emweb/wt",
-  "target_link": ""
-}

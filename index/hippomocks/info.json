@@ -1,6 +1,0 @@
-{
-  "name": "hippomocks",
-  "description": "Single-header mocking framework.",
-  "git": "https://github.com/dascandy/hippomocks",
-  "target_link": ""
-}

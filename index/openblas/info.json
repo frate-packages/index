@@ -1,6 +1,0 @@
-{
-  "name": "openblas",
-  "description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD version",
-  "git": "",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "mathfu",
-  "description": "C++ math library developed primarily for games focused on simplicity and efficiency.",
-  "git": "https://github.com/google/mathfu",
-  "target_link": ""
-}

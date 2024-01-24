@@ -1,6 +1,0 @@
-{
-  "name": "sonic-cpp",
-  "description": "A fast JSON serializing \u0026amp; deserializing library, accelerated by SIMD.",
-  "git": "https://github.com/bytedance/sonic-cpp",
-  "target_link": ""
-}

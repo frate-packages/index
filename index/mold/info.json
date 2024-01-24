@@ -1,6 +1,0 @@
-{
-  "name": "mold",
-  "description": "mold is a faster drop-in replacement for existing Unix linkers. It is several times faster than the LLVM lld linker",
-  "git": "https://github.com/rui314/mold/",
-  "target_link": ""
-}

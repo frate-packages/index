@@ -1,6 +1,0 @@
-{
-  "name": "cppzmq",
-  "description": "C++ binding for 0MQ",
-  "git": "https://github.com/zeromq/cppzmq",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "tinyply",
-  "description": "C++11 ply 3d mesh format importer \u0026amp; exporter.",
-  "git": "https://github.com/ddiakopoulos/tinyply",
-  "target_link": ""
-}

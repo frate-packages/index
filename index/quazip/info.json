@@ -1,6 +1,0 @@
-{
-  "name": "quazip",
-  "description": "A simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package that can be used to access ZIP archives.",
-  "git": "https://github.com/stachenov/quazip",
-  "target_link": ""
-}

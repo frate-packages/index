@@ -1,6 +1,0 @@
-{
-  "name": "plf_nanotimer",
-  "description": "A simple C++ 03/11/etc timer class for ~microsecond-precision cross-platform benchmarking.",
-  "git": "",
-  "target_link": ""
-}

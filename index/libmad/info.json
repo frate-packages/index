@@ -1,6 +1,0 @@
-{
-  "name": "libmad",
-  "description": "MAD is a high-quality MPEG audio decoder.",
-  "git": "",
-  "target_link": ""
-}

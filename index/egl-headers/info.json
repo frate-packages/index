@@ -1,6 +1,0 @@
-{
-  "name": "egl-headers",
-  "description": "EGL Header files.",
-  "git": "https://github.com/KhronosGroup/EGL-Registry",
-  "target_link": ""
-}

@@ -1,6 +1,0 @@
-{
-  "name": "tiny-bignum-c",
-  "description": "Small portable multiple-precision unsigned integer arithmetic in C.",
-  "git": "https://github.com/kokke/tiny-bignum-c",
-  "target_link": ""
-}

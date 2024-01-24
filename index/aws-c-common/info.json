@@ -1,6 +1,0 @@
-{
-  "name": "aws-c-common",
-  "description": "Core c99 package for AWS SDK for C. Includes cross-platform primitives, configuration, data structures, and error handling.",
-  "git": "https://github.com/awslabs/aws-c-common",
-  "target_link": ""
-}

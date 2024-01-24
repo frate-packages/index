@@ -1,6 +1,0 @@
-{
-  "name": "xmlsec",
-  "description": "XML Security Library is a C library based on LibXML2. The library supports major XML security standards.",
-  "git": "",
-  "target_link": ""
-}

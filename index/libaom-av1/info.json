@@ -1,6 +1,0 @@
-{
-  "name": "libaom-av1",
-  "description": "AV1 Codec Library",
-  "git": "",
-  "target_link": ""
-}

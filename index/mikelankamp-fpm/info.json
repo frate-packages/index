@@ -1,6 +1,0 @@
-{
-  "name": "mikelankamp-fpm",
-  "description": "C++ header-only fixed-point math library",
-  "git": "https://github.com/MikeLankamp/fpm",
-  "target_link": ""
-}

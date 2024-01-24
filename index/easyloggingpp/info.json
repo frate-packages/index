@@ -1,6 +1,0 @@
-{
-  "name": "easyloggingpp",
-  "description": "Single-header C++ logging library.",
-  "git": "https://github.com/amrayn/easyloggingpp",
-  "target_link": ""
-}

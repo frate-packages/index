@@ -1,6 +1,0 @@
-{
-  "name": "semver.c",
-  "description": "Semantic versioning for c",
-  "git": "https://github.com/h2non/semver.c",
-  "target_link": ""
-}

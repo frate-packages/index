@@ -1,6 +1,0 @@
-{
-  "name": "taywee-args",
-  "description": "A simple, small, flexible, single-header C++11 argument parsing library",
-  "git": "https://github.com/Taywee/args",
-  "target_link": ""
-}

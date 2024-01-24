@@ -1,6 +1,0 @@
-{
-  "name": "libexif",
-  "description": "libexif is a library for parsing, editing, and saving EXIF data.",
-  "git": "",
-  "target_link": ""
-}

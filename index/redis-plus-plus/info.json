@@ -1,6 +1,0 @@
-{
-  "name": "redis-plus-plus",
-  "description": "Redis client written in C++",
-  "git": "https://github.com/sewenew/redis-plus-plus",
-  "target_link": ""
-}

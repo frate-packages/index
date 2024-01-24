@@ -1,6 +1,0 @@
-{
-  "name": "nsync",
-  "description": "Library that exports various synchronization primitives",
-  "git": "https://github.com/google/nsync",
-  "target_link": ""
-}

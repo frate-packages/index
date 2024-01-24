@@ -1,6 +1,0 @@
-{
-  "name": "libmikmod",
-  "description": "Module player and library supporting many formats, including mod, s3m, it, and xm.",
-  "git": "",
-  "target_link": ""
-}

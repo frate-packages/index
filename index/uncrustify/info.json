@@ -1,6 +1,0 @@
-{
-  "name": "uncrustify",
-  "description": "Code beautifier",
-  "git": "https://github.com/uncrustify/uncrustify",
-  "target_link": ""
-}

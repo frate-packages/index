@@ -1,6 +1,0 @@
-{
-  "name": "libudev",
-  "description": "API for enumerating and introspecting local devices",
-  "git": "",
-  "target_link": ""
-}

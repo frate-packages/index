@@ -1,6 +1,0 @@
-{
-  "name": "zbar",
-  "description": "ZBar is an open source software suite for reading bar codes                   from various sources, such as video streams, image files and raw intensity sensors",
-  "git": "",
-  "target_link": ""
-}

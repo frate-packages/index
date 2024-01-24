@@ -1,6 +1,0 @@
-{
-  "name": "libffi",
-  "description": "A portable, high level programming interface to various calling conventions",
-  "git": "",
-  "target_link": ""
-}

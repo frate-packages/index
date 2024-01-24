@@ -1,6 +1,0 @@
-{
-  "name": "benchmark",
-  "description": "A microbenchmark support library.",
-  "git": "https://github.com/google/benchmark",
-  "target_link": ""
-}

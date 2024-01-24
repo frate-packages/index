@@ -1,6 +1,0 @@
-{
-  "name": "iso8601lib",
-  "description": "Parsing a subset of ISO 8601 datetimes, dates and times in C.",
-  "git": "https://github.com/TimSC/iso8601lib",
-  "target_link": ""
-}

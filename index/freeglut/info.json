@@ -1,6 +1,0 @@
-{
-  "name": "freeglut",
-  "description": "Open-source alternative to the OpenGL Utility Toolkit (GLUT) library",
-  "git": "",
-  "target_link": ""
-}

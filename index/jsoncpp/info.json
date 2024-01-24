@@ -1,6 +1,0 @@
-{
-  "name": "jsoncpp",
-  "description": "A C++ library for interacting with JSON.",
-  "git": "https://github.com/open-source-parsers/jsoncpp",
-  "target_link": ""
-}

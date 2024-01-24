@@ -1,6 +1,0 @@
-{
-  "name": "cityhash",
-  "description": "CityHash, a family of hash functions for strings.",
-  "git": "https://github.com/google/cityhash",
-  "target_link": ""
-}

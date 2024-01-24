@@ -1,6 +1,0 @@
-{
-  "name": "utfcpp",
-  "description": "UTF-8 with C++ in a Portable Way",
-  "git": "https://github.com/nemtrif/utfcpp",
-  "target_link": ""
-}

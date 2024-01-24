@@ -1,6 +1,0 @@
-{
-  "name": "libserial",
-  "description": "Serial Port Programming in C++",
-  "git": "https://github.com/crayzeewulf/libserial",
-  "target_link": ""
-}

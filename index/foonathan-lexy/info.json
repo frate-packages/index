@@ -1,6 +1,0 @@
-{
-  "name": "foonathan-lexy",
-  "description": "lexy is a parser combinator library for C++17 and onwards.",
-  "git": "https://github.com/foonathan/lexy",
-  "target_link": ""
-}

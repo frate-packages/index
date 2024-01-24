@@ -1,6 +1,0 @@
-{
-  "name": "fernandovelcic-hexdump",
-  "description": "A header-only hexdump library.",
-  "git": "https://github.com/FernandoVelcic/hexdump",
-  "target_link": ""
-}

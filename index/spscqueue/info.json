@@ -1,6 +1,0 @@
-{
-  "name": "spscqueue",
-  "description": "A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.",
-  "git": "https://github.com/rigtorp/SPSCQueue",
-  "target_link": ""
-}

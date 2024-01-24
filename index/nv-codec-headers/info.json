@@ -1,6 +1,0 @@
-{
-  "name": "nv-codec-headers",
-  "description": "FFmpeg version of headers required to interface with Nvidia's codec APIs",
-  "git": "https://github.com/FFmpeg/nv-codec-headers",
-  "target_link": ""
-}

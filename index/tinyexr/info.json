@@ -1,6 +1,0 @@
-{
-  "name": "tinyexr",
-  "description": "Tiny OpenEXR image loader/saver library",
-  "git": "https://github.com/syoyo/tinyexr",
-  "target_link": ""
-}
