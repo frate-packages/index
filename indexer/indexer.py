@@ -2,10 +2,13 @@ from requests import get
 from pandas import DataFrame, concat
 from json import load, dumps
 from pathlib import Path
+import pandas as pd
 from asyncio import gather, run, ensure_future
 from os import getenv
 import aiohttp
 from dotenv import load_dotenv
+import git
+from joblib import Parallel, delayed
 
 load_dotenv()
 
@@ -19,6 +22,12 @@ def get_vcpkg_data():
 def get_packages(data):
     packages = data['Source']
     return packages
+
+
+def shorten_git_path(long_path):
+    segments = long_path.split('/')
+    short_path = '/'.join(segments[:2])
+    return short_path
 
 
 def filter_dependencies(dependencies):
@@ -62,6 +71,7 @@ def build_dataframe(packages):
         "",
         regex=False
     )
+    df["git_short"] = df["git_short"].apply(shorten_git_path)
     df["target_link"] = df["name"]
     df["dependencies"] = df["dependencies"].apply(filter_dependencies)
     return df
@@ -131,36 +141,75 @@ async def git_data(df):
                 )
             )
         responses = await gather(*tasks)
+        print(responses)
         with open('dist/git.json', "w") as f:
             f.write(dumps(responses, indent=2))
         for rsp in responses:
-            df.loc[
-                df['git_short'] == rsp["full_name"],
-                "stars"
-            ] = int(rsp["stargazers_count"])
+            try:
+                df.loc[
+                    df['git_short'] == rsp["full_name"],
+                    "stars"
+                ] = int(rsp["stargazers_count"])
 
-            df.loc[
-                df['git_short'] == rsp["full_name"],
-                "open_issues"
-            ] = int(rsp["open_issues"])
-            df.loc[
-                df['git_short'] == rsp["full_name"],
-                "forks"
-            ] = int(rsp["forks_count"])
+                df.loc[
+                    df['git_short'] == rsp["full_name"],
+                    "open_issues"
+                ] = int(rsp["open_issues"])
+                df.loc[
+                    df['git_short'] == rsp["full_name"],
+                    "forks"
+                ] = int(rsp["forks_count"])
+            except Exception as e:
+                print(e)
 
     return df
 
 
-if __name__ == '__main__':
+def get_versions(row):
+    g = git.cmd.Git()
+    try:
+        remotes = g.ls_remote(
+            "--tags", f"https://github.com/{row['git_short']}")
+        remotes = [remote.split('\t')[1].split('/')[-1]
+                   for remote in remotes.split('\n')]
+        return row["git_short"], remotes
+    except Exception as e:
+        print(f"Error processing {row['git_short']}: {e}")
+        return row["git_short"], []
+
+
+def get_versions_parallel(df):
+    filtered_df = df[
+        ~df['git_short'].str.contains('http', case=False, na=False)
+    ]
+    results = Parallel(n_jobs=-1, verbose=10)(
+        delayed(get_versions)(row)
+        for index, row in filtered_df.iterrows()
+    )
+
+    # Convert results to a DataFrame
+    results_df = pd.DataFrame(results, columns=['git_short', 'versions'])
+
+    # Merge the results back to the original DataFrame
+    return df.merge(results_df, on='git_short', how='left')
+
+
+def main():
     data = get_vcpkg_data()
     packages = get_packages(data)
     df = build_dataframe(packages)
     overrides, df = get_overrides(df)
     df = override_dataframe(df, overrides)
-    df = run(git_data(df))
+    # df = run(git_data(df))
+    # df = get_versions_parallel(df)
+    print(df)
     with open('dist/index_tmp.json', "w") as f:
         f.write(df.to_json(
             orient='records',
             index='false',
             indent=2,
         ).replace('\\/', '/'))
+
+
+if __name__ == '__main__':
+    main()
